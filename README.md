@@ -1,0 +1,3 @@
+# genshin.dev API
+
+More information coming soon...
