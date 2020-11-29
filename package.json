@@ -1,8 +1,17 @@
 {
   "name": "@genshindev/api",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "API that serves data for the game Genshin Impact by miHoYo.",
   "private": true,
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node .",
+    "build": "tsc",
+    "watch": "tsc -w",
+    "dev": "nodemon",
+    "format": "prettier --write .",
+    "lint": "eslint . --ext .js,.ts && prettier --check ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/genshindev/api.git"
@@ -26,5 +35,58 @@
   "bugs": {
     "url": "https://github.com/genshindev/api/issues"
   },
-  "homepage": "https://api.genshin.dev/"
+  "homepage": "https://api.genshin.dev/",
+  "devDependencies": {
+    "@types/koa": "^2.11.6",
+    "@types/koa-helmet": "^6.0.1",
+    "@types/koa-router": "^7.4.1",
+    "@types/mime-types": "^2.1.0",
+    "@types/sharp": "^0.26.1",
+    "@typescript-eslint/eslint-plugin": "^4.8.2",
+    "@typescript-eslint/parser": "^4.8.2",
+    "eslint": "^7.14.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "nodemon": "^2.0.6",
+    "prettier": "^2.2.0",
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "file-loader": "^6.2.0",
+    "gulp-cli": "^2.3.0",
+    "json-loader": "^0.5.7",
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0",
+    "koa-helmet": "^6.0.0",
+    "koa-router": "^10.0.0",
+    "mime-types": "^2.1.27",
+    "sharp": "^0.26.3"
+  },
+  "prettier": {
+    "endOfLine": "lf",
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "all"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true,
+      "es6": true
+    },
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+      "ecmaVersion": 12,
+      "sourceType": "module"
+    },
+    "plugins": [
+      "@typescript-eslint"
+    ],
+    "extends": [
+      "eslint:recommended",
+      "prettier"
+    ]
+  }
 }
