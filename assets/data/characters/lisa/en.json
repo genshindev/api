@@ -8,7 +8,7 @@
     {
       "name": "Lightning Touch",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Perform up to 4 lightning attacks that deal<span class=\"electro\"> Electro </span>DMG.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to deal AoE<span class=\"electro\"> Electro </span>DMG after a short casting time.</p>\n<h3>Plunging Attack</h3>\n<p>Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE<span class=\"electro\"> Electro </span>DMG upon impact with the ground.</p>",
+      "description": "Normal Attack\nPerform up to 4 lightning attacks that deal Electro DMG.\nCharged Attack\nConsumes a certain amount of Stamina to deal AoE Electro DMG after a short casting time.\nPlunging Attack\nGathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Electro DMG upon impact with the ground.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -47,7 +47,7 @@
     {
       "name": "Violet Arc",
       "unlock": "Elemental Skill",
-      "description": "<p>Channels the power of lightning to sweep bothersome matters away.</p>\n<h3>Press</h3>\n<p>Releases a homing Lightning Orb. On hit, it deals<span class=\"electro\"> Electro </span>DMG, and applies a stack of Conductive status (Max 3 stacks) to enemies in a small AoE.</p>\n<h3>Hold</h3>\n<p>After an extended casting time, calls down lightning from the heavens, dealing massive<span class=\"electro\"> Electro </span>DMG to all nearby enemies.\n<br>\nDeals great amounts of extra damage to enemies based on the number of Conductive stacks applied to them, and clears their Conductive status.</p>",
+      "description": "Channels the power of lightning to sweep bothersome matters away.\nPress\nReleases a homing Lightning Orb. On hit, it deals Electro DMG, and applies a stack of Conductive status (Max 3 stacks) to enemies in a small AoE.\nHold\nAfter an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby enemies.\n\nDeals great amounts of extra damage to enemies based on the number of Conductive stacks applied to them, and clears their Conductive status.",
       "upgrades": [
         {
           "name": "Press DMG",
@@ -82,7 +82,7 @@
     {
       "name": "Lightning Rose",
       "unlock": "Elemental Burst",
-      "description": "Summons a <span class=\"name\">Lightning Rose</span> that unleashes powerful lightning bolts, launching surrounding enemies and dealing<span class=\"electro\"> Electro </span>DMG.\n<br>\nThe <span class=\"name\">Lightning Rose</span> will continuously emit lightning to knock back enemies and deal<span class=\"electro\"> Electro </span>DMG for so long as it persists.",
+      "description": "Summons a Lightning Rose that unleashes powerful lightning bolts, launching surrounding enemies and dealing Electro DMG.\n\nThe Lightning Rose will continuously emit lightning to knock back enemies and deal Electro DMG for so long as it persists.",
       "upgrades": [
         {
           "name": "Discharge DMG",

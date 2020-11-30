@@ -8,7 +8,7 @@
     {
       "name": "Yunlai Swordsmanship",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 rapid strikes.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-air to strike the ground below, damaging enemeies along the path and dealing AoE DMG upon impact.</p>",
+      "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemeies along the path and dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -51,7 +51,7 @@
     {
       "name": "Stellar Restoration",
       "unlock": "Elemental Skill",
-      "description": "<p>Hurls a Lightning Stiletto that annihilates her enemies like the swift thunder.\n<br>\nWhen the Stiletto hits its target, it deals<span class=\"electro\"> Electro </span>DMG to enemies in a small AoE, and places a Stiletto Mark on the spot hit.</p>\n<h3>Hold</h3>\n<p>Hold to adjust the direction in which the Stiletto shall be thrown.\n<br>\nStilettos thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time.</p>\n<h3>Lightning Stiletto</h3>\nIf Keqing uses Stellar Restoration again or uses a Charged Attack while its duration lasts, it will clear the Stiletto Mark and produce different effects:\n<ul>\n<li>If she uses Stellar Restoration again, she will blink to the location of the Mark and unleashed one slashing attack that deals AoE<span class=\"electro\"> Electro </span>DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.</li>\n<li>If Keqing uses a Charged Attack, she will ignite a series of thundering cuts at the Mark's location, dealing AoE<span class=\"electro\"> Electro </span>DMG.</li>\n</ul>",
+      "description": "Hurls a Lightning Stiletto that annihilates her enemies like the swift thunder.\n\nWhen the Stiletto hits its target, it deals Electro DMG to enemies in a small AoE, and places a Stiletto Mark on the spot hit.\nHold\nHold to adjust the direction in which the Stiletto shall be thrown.\n\nStilettos thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time.\nLightning Stiletto\nIf Keqing uses Stellar Restoration again or uses a Charged Attack while its duration lasts, it will clear the Stiletto Mark and produce different effects:\n\nIf she uses Stellar Restoration again, she will blink to the location of the Mark and unleashed one slashing attack that deals AoE Electro DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.\nIf Keqing uses a Charged Attack, she will ignite a series of thundering cuts at the Mark's location, dealing AoE Electro DMG.\n",
       "upgrades": [
         {
           "name": "Lightning Stiletto DMG",
@@ -74,7 +74,7 @@
     {
       "name": "Starward Sword",
       "unlock": "Elemental Burst",
-      "description": "<p>Keqing unleashes the power of lightning, dealing<span class=\"electro\"> Electro </span>DMG in an AoE.</p>\n<p>She then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby enemies simultaneous that deal multiple instance of<span class=\"electro\"> Electro </span>DMG. The final attack deals massive AoE<span class=\"electro\"> Electro </span>DMG.</p>",
+      "description": "Keqing unleashes the power of lightning, dealing Electro DMG in an AoE.\nShe then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby enemies simultaneous that deal multiple instance of Electro DMG. The final attack deals massive AoE Electro DMG.",
       "upgrades": [
         {
           "name": "Skill DMG",

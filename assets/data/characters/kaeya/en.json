@@ -8,7 +8,7 @@
     {
       "name": "Ceremonial Bladework",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 consecutive strikes.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-air to strike the ground below, damaging enemeies along the path and dealing AoE DMG upon impact.</p>",
+      "description": "Normal Attack\nPerforms up to 5 consecutive strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemeies along the path and dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -51,7 +51,7 @@
     {
       "name": "Frostgnaw",
       "unlock": "Elemental Skill",
-      "description": "Unleashes a frigit blast, dealing<span class=\"cryo\"> Cryo </span>DMG to enemies in front of Kaeya.",
+      "description": "Unleashes a frigit blast, dealing Cryo DMG to enemies in front of Kaeya.",
       "upgrades": [
         {
           "name": "Skill DMG",
@@ -66,7 +66,7 @@
     {
       "name": "Glacial Waltz",
       "unlock": "Elemental Burst",
-      "description": "Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.\n<br>\nThese icicles will follow the character around and deal<span class=\"cryo\"> Cryo </span>DMG to enemies in their path for so long as they persist.",
+      "description": "Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.\n\nThese icicles will follow the character around and deal Cryo DMG to enemies in their path for so long as they persist.",
       "upgrades": [
         {
           "name": "Skill DMG",

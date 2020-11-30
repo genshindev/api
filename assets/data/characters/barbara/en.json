@@ -8,7 +8,7 @@
     {
       "name": "Whisper of Water",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Perform up to 4 water splashes attacks that deal<span class=\"hydro\"> Hydro </span>DMG.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to deal AoE<span class=\"hydro\"> Hydro </span>DMG after a short casting time.</p>\n<h3>Plunging Attack</h3>\n<p>Gathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE<span class=\"hydro\"> Hydro </span>DMG upon impact with the ground.</p>",
+      "description": "Normal Attack\nPerform up to 4 water splashes attacks that deal Hydro DMG.\nCharged Attack\nConsumes a certain amount of Stamina to deal AoE Hydro DMG after a short casting time.\nPlunging Attack\nGathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Hydro DMG upon impact with the ground.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -47,7 +47,7 @@
     {
       "name": "Let the Show Begin",
       "unlock": "Elemental Skill",
-      "description": "<p>Summons water droplets resembling musical notes that form a Melody Loop, dealing<span class=\"hydro\"> Hydro </span>DMG to surrounding enemies and afflicting them with the Wet status.</p>\n<h3>Melody Loop</h3>\n<ul>\n<li>Barbara's Normal Attacks heal all party members and nearby allied characters for a certain amount of HP, which scales with Barbara's Max HP.</li>\n<li>Her Charged Attack generates 4 times the amount of healing.</li>\n<li>Regenerates a certain amount of the current character's HP at regular intervals.</li>\n<li>Applies the Wet status to the character and enemies who come in contact with them.</li>\n</ul>",
+      "description": "Summons water droplets resembling musical notes that form a Melody Loop, dealing Hydro DMG to surrounding enemies and afflicting them with the Wet status.\nMelody Loop\n\nBarbara's Normal Attacks heal all party members and nearby allied characters for a certain amount of HP, which scales with Barbara's Max HP.\nHer Charged Attack generates 4 times the amount of healing.\nRegenerates a certain amount of the current character's HP at regular intervals.\nApplies the Wet status to the character and enemies who come in contact with them.\n",
       "upgrades": [
         {
           "name": "HP Regeneration Per Hit",

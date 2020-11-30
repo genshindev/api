@@ -8,7 +8,7 @@
     {
       "name": "Tempered Sword",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 4 consecutive strikes.</p>\n<h3>Charged Attack</h3>\n<p>Drains Stamina over time to perform continuous slashes.\n<br>\nAt the end of the sequence, perform a more powerful slash.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.</p>",
+      "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt the end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -55,7 +55,7 @@
     {
       "name": "Searing Onslaught",
       "unlock": "Elemental Skill",
-      "description": "<p>Performs a forward slash that deals<span class=\"pyro\"> Pyro </span>DMG.</p>\n<p>This skill can be used 3 times consecutively. Enters CD if not cast again within a short period.</p>",
+      "description": "Performs a forward slash that deals Pyro DMG.\nThis skill can be used 3 times consecutively. Enters CD if not cast again within a short period.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -78,7 +78,7 @@
     {
       "name": "Dawn",
       "unlock": "Elemental Burst",
-      "description": "<p>Releases intense flames to knock nearby enemies back, dealing<span class=\"pyro\"> Pyro </span>DMG. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive<span class=\"pyro\"> Pyro </span>DMG to all enemies in its path. The Phoenix explodes upon reaching its destination, causing a large amount of AoE<span class=\"pyro\"> Pyro </span>DMG.\n<br>\nThe searing flames that run down his blade cause Diluc's Normal and Charged Attacks to deal<span class=\"pyro\"> Pyro </span>DMG for a time.</p>",
+      "description": "Releases intense flames to knock nearby enemies back, dealing Pyro DMG. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive Pyro DMG to all enemies in its path. The Phoenix explodes upon reaching its destination, causing a large amount of AoE Pyro DMG.\n\nThe searing flames that run down his blade cause Diluc's Normal and Charged Attacks to deal Pyro DMG for a time.",
       "upgrades": [
         {
           "name": "Slashing DMG",

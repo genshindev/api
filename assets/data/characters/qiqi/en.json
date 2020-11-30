@@ -8,7 +8,7 @@
     {
       "name": "Ancient Sword Art",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 rapid strikes.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.</p>",
+      "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -51,7 +51,7 @@
     {
       "name": "Adeptus Art: Herald of Frost",
       "unlock": "Elemental Skill",
-      "description": "<p>Using the Icevein Talisman, Qiqi brings forth the Herald of Frost, dealing<span class=\"cryo\"> Cryo </span>DMG to nearby enemies.</p>\n<h3>Herald of Frost</h3>\n<ul>\n<li>When Qiqi hits a target with her Normal or Charged Attacks, she regenerates HP for all party members and all nearby allied characters. Healing scales based on Qiqi's ATK.</li>\n<li>Regenerates HP for current character at regular intervals.</li>\n<li>Follows the character around, dealing<span class=\"cryo\"> Cryo </span>DMG to enemies in its path.</li>\n</ul>",
+      "description": "Using the Icevein Talisman, Qiqi brings forth the Herald of Frost, dealing Cryo DMG to nearby enemies.\nHerald of Frost\n\nWhen Qiqi hits a target with her Normal or Charged Attacks, she regenerates HP for all party members and all nearby allied characters. Healing scales based on Qiqi's ATK.\nRegenerates HP for current character at regular intervals.\nFollows the character around, dealing Cryo DMG to enemies in its path.\n",
       "upgrades": [
         {
           "name": "Skill DMG",
@@ -82,7 +82,7 @@
     {
       "name": "Adeptus Art: Preserver of Fortune",
       "unlock": "Elemental Burst",
-      "description": "<p>Qiqi releases the adeptus power sealed within her body, marking nearby enemies with a Fortune-Preserving Talisman that deals<span class=\"cryo\"> Cryo </span>DMG.</p>\n<h3>Fortune-Preserving Talisman</h3>\nWhen enemies affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.",
+      "description": "Qiqi releases the adeptus power sealed within her body, marking nearby enemies with a Fortune-Preserving Talisman that deals Cryo DMG.\nFortune-Preserving Talisman\nWhen enemies affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.",
       "upgrades": [
         {
           "name": "Skill DMG",

@@ -8,7 +8,7 @@
     {
       "name": "Demonbane",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 4 consecutive strikes.</p>\n<h3>Charged Attack</h3>\n<p>Drains Stamina over time to perform continuous swirling attacks against all nearby enemies.\n<br>\nAt end of the sequence, perform a more powerful slash.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.</p>",
+      "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous swirling attacks against all nearby enemies.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -55,7 +55,7 @@
     {
       "name": "Spirit Blade - Chonghua's Layered Frost",
       "unlock": "Elemental Skill",
-      "description": "Chongyun strikes the ground with his greatsword, causing a<span class=\"cryo\"> Cryo </span>explosion in a circular AoE in front of him that deals<span class=\"cryo\"> Cryo </span>DMG.\n<br>\nAfter a short delay, the cold air created by the<span class=\"cryo\"> Cryo </span>explosion will coalesce into a Chonghua Frost Field, within which all DMG done through Normal and Charged Attacks by Sword, Greatsword and Polearm-wielding characters will be converted to<span class=\"cryo\"> Cryo </span>DMG.",
+      "description": "Chongyun strikes the ground with his greatsword, causing a Cryo explosion in a circular AoE in front of him that deals Cryo DMG.\n\nAfter a short delay, the cold air created by the Cryo explosion will coalesce into a Chonghua Frost Field, within which all DMG done through Normal and Charged Attacks by Sword, Greatsword and Polearm-wielding characters will be converted to Cryo DMG.",
       "upgrades": [
         {
           "name": "Skill DMG",
@@ -78,7 +78,7 @@
     {
       "name": "Spirit Blade - Cloud-parting Star",
       "unlock": "Elemental Burst",
-      "description": "Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground.\n<br>\nWhen the spirit blades explode, they will deal AoE<span class=\"cryo\"> Cryo </span>DMG and launch enemies.",
+      "description": "Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground.\n\nWhen the spirit blades explode, they will deal AoE Cryo DMG and launch enemies.",
       "upgrades": [
         {
           "name": "Skill DMG",

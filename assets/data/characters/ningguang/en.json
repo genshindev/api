@@ -8,7 +8,7 @@
     {
       "name": "Sparkling Scatter",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Shoots gems that deal<span class=\"geo\"> Geo </span>DMG.\n<br>\nUpon hit, this grants Ningguang 1 Star Jade.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to fire off a giant gem that deals<span class=\"geo\"> Geo </span>DMG.\n<br>\nIf Ningguang has any Star Jades, unleashing a Charged Attack will cause the Star Jades to be fired at the enemy as well, dealing additional DMG.</p>\n<h3>Plunging Attack</h3>\n<p>Gathering the might of Geo, Ningguang plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE<span class=\"geo\"> Geo </span>DMG upon impact with the ground.</p>",
+      "description": "Normal Attack\nShoots gems that deal Geo DMG.\n\nUpon hit, this grants Ningguang 1 Star Jade.\nCharged Attack\nConsumes a certain amount of Stamina to fire off a giant gem that deals Geo DMG.\n\nIf Ningguang has any Star Jades, unleashing a Charged Attack will cause the Star Jades to be fired at the enemy as well, dealing additional DMG.\nPlunging Attack\nGathering the might of Geo, Ningguang plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Geo DMG upon impact with the ground.",
       "upgrades": [
         {
           "name": "Normal Attack DMG",
@@ -39,7 +39,7 @@
     {
       "name": "Jade Screen",
       "unlock": "Elemental Skill",
-      "description": "<p>Ningguang creates a <span class=\"name\">Jade Screen</span> out of gold, obsidian and her great opulence, dealing AoE<span class=\"geo\"> Geo </span>DMG.</p>\n<h3><span class=\"name\">Jade Screen</span></h3>\n<ul>\n<li>Blocks enemy projectiles.</li>\n<li>Endurance scales based on Ningguang's Max HP.</li>\n</ul>\n<p><span class=\"name\">Jade Screen</span> is considered a<span class=\"geo\"> Geo </span>Construct and can be used to block certain attacks, but cannot be climbed. Only one <span class=\"name\">Jade Screen</span> may exist at any one time.</p>",
+      "description": "Ningguang creates a Jade Screen out of gold, obsidian and her great opulence, dealing AoE Geo DMG.\nJade Screen\n\nBlocks enemy projectiles.\nEndurance scales based on Ningguang's Max HP.\n\nJade Screen is considered a Geo Construct and can be used to block certain attacks, but cannot be climbed. Only one Jade Screen may exist at any one time.",
       "upgrades": [
         {
           "name": "Inherited HP",
@@ -58,7 +58,7 @@
     {
       "name": "Starshatter",
       "unlock": "Elemental Burst",
-      "description": "Gathering a great number of gems, Ningguang scatters them all at once, sending homing projectiles at her enemies that deal massive<span class=\"geo\"> Geo </span>DMG.\n<br>\nIf <span class=\"name\">Starshatter</span> is cast when a <span class=\"name\">Jade Screen</span> is nearby, the <span class=\"name\">Jade Screen</span> will fire additional gem projectiles at the same time.",
+      "description": "Gathering a great number of gems, Ningguang scatters them all at once, sending homing projectiles at her enemies that deal massive Geo DMG.\n\nIf Starshatter is cast when a Jade Screen is nearby, the Jade Screen will fire additional gem projectiles at the same time.",
       "upgrades": [
         {
           "name": "DMG Per Gem",

@@ -8,7 +8,7 @@
     {
       "name": "Ripple of Fate",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 4 water splash attacks that deal<span class=\"hydro\"> Hydro </span>DMG.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina and deals AoE<span class=\"hydro\"> Hydro </span>DMG after a short casting time.</p>\n<h3>Plunging Attack</h3>\n<p>Gathering the might of Hydro, Mona plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE<span class=\"hydro\"> Hydro </span>DMG upon impact with the ground.</p>",
+      "description": "Normal Attack\nPerforms up to 4 water splash attacks that deal Hydro DMG.\nCharged Attack\nConsumes a certain amount of Stamina and deals AoE Hydro DMG after a short casting time.\nPlunging Attack\nGathering the might of Hydro, Mona plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Hydro DMG upon impact with the ground.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -47,7 +47,7 @@
     {
       "name": "Reflection of Doom",
       "unlock": "Elemental Skill",
-      "description": "<p>Creates an illusory Phantom of fate from coalesced waterspouts.\n<br>\nThe Phantom has the following special properties:</p>\n<ul>\n<li>Continuously taunts nearby enemies, attracting their fire.</li>\n<li>Continuously deals<span class=\"hydro\"> Hydro </span>DMG to nearby enemies.</li>\n<li>When its duration expires, the Phantom explodes, dealing AoE<span class=\"hydro\"> Hydro </span>DMG.</li>\n</ul>\n<h3>Hold</h3>\n<p>Utilizes water currents to move backwards swiftly before conjuring a Phantom.\n<br>\nOnly one Phantom created by Mirror Reflection of Doom can exist at any time.\n</p>",
+      "description": "Creates an illusory Phantom of fate from coalesced waterspouts.\n\nThe Phantom has the following special properties:\n\nContinuously taunts nearby enemies, attracting their fire.\nContinuously deals Hydro DMG to nearby enemies.\nWhen its duration expires, the Phantom explodes, dealing AoE Hydro DMG.\n\nHold\nUtilizes water currents to move backwards swiftly before conjuring a Phantom.\n\nOnly one Phantom created by Mirror Reflection of Doom can exist at any time.\n",
       "upgrades": [
         {
           "name": "DoT",
@@ -66,7 +66,7 @@
     {
       "name": "Stellaris Phantasm",
       "unlock": "Elemental Burst",
-      "description": "<p>Mona summons the sparkling waves and creates a reflection of the starry sky, applying the Illusory Bubble status to opponents in a large AoE.</p>\n<h3>Illusory Bubble</h3>\n<p>Traps opponents inside a pocket of destiny and also makes them Wet. Renders weaker opponents immobile. When an opponent affected by Illusory Bubble sustains DMG, the following effects are produced:</p>\n<ul>\n<li>Applies an Omen to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.</li>\n<li>Removes the Illusory Bubble, dealing<span class=\"hydro\"> Hydro </span>Elemental DMG in the process. The DMG Bonus does not apply to the<span class=\"hydro\"> Hydro </span>Elemental DMG dealt in this instance.</li>\n</ul>\n<h3>Omen</h3>\n<p>During its duration, increases DMG taken by enemies.</p>",
+      "description": "Mona summons the sparkling waves and creates a reflection of the starry sky, applying the Illusory Bubble status to opponents in a large AoE.\nIllusory Bubble\nTraps opponents inside a pocket of destiny and also makes them Wet. Renders weaker opponents immobile. When an opponent affected by Illusory Bubble sustains DMG, the following effects are produced:\n\nApplies an Omen to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.\nRemoves the Illusory Bubble, dealing Hydro Elemental DMG in the process. The DMG Bonus does not apply to the Hydro Elemental DMG dealt in this instance.\n\nOmen\nDuring its duration, increases DMG taken by enemies.",
       "upgrades": [
         {
           "name": "Illusory Bubble Duration",
@@ -97,7 +97,7 @@
     {
       "name": "Illusory Torrent",
       "unlock": "Right Click",
-      "description": "<h3>Alternate Spirit</h3>\n<p>Mona cloaks herself within the water's flow, consuming Stamina to move rapidly.\n<br>\nWhen under the effect of Illusory Torrent, Mona can move at high speed on water.\n<br>\nApplies the Wet status to nearby enemies when she reappears.\n</p>",
+      "description": "Alternate Spirit\nMona cloaks herself within the water's flow, consuming Stamina to move rapidly.\n\nWhen under the effect of Illusory Torrent, Mona can move at high speed on water.\n\nApplies the Wet status to nearby enemies when she reappears.\n",
       "upgrades": [
         {
           "name": "Activation Stamina Consumption",

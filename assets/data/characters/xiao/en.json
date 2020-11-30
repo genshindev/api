@@ -8,7 +8,7 @@
     {
       "name": "Whirlwind Thrust",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Perform up to 6 rapid strikes.</p>\n<h3>Charged Attack</h3>\n<p>Dive down and impact the ground, causing damage relative to the falling height. Can only be triggered in mid-air.</p>",
+      "description": "Normal Attack\nPerform up to 6 rapid strikes.\nCharged Attack\nDive down and impact the ground, causing damage relative to the falling height. Can only be triggered in mid-air.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -47,7 +47,7 @@
     {
       "name": "Lemniscatic Wind Cycling",
       "unlock": "Elemental Skill",
-      "description": "He lunges forward, dealing<span class=\"anemo\"> Anemo </span>DMG to enemies along the path.<br>\nCan be used in mid-air.<br>\nHas 2 charges to begin with.",
+      "description": "He lunges forward, dealing Anemo DMG to enemies along the path.\nCan be used in mid-air.\nHas 2 charges to begin with.",
       "upgrades": [
         {
           "name": "Skill DMG",
@@ -62,7 +62,7 @@
     {
       "name": "Bane of All Evil",
       "unlock": "Elemental Burst",
-      "description": "Takes on the form of the yaksha that terrified both demons and archons alike millennia ago. For its duration, increases Xiao's attack range and DMG, while converting damage type to<span class=\"anemo\"> Anemo </span>and enhancing Xiao's jumping ability.<br>\nMaintaining this form continuously drains Xiao's HP.",
+      "description": "Takes on the form of the yaksha that terrified both demons and archons alike millennia ago. For its duration, increases Xiao's attack range and DMG, while converting damage type to Anemo and enhancing Xiao's jumping ability.\nMaintaining this form continuously drains Xiao's HP.",
       "upgrades": [
         {
           "name": "Increased DMG",

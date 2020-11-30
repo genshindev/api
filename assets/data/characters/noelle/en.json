@@ -8,7 +8,7 @@
     {
       "name": "Favonius Bladework - Maid",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 4 consecutive strikes.</p>\n<h3>Charged Attack</h3>\n<p>Drains Stamina over time to perform continuous swirling attacks against all nearby enemies.\n<br>\nAt end of the sequence, perform a more powerful slash.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.</p>",
+      "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous swirling attacks against all nearby enemies.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -55,7 +55,7 @@
     {
       "name": "Breastplate",
       "unlock": "Elemental Skill",
-      "description": "Summons a protective stone armor, dealing<span class=\"geo\"> Geo </span>DMG to surrounding enemies and creating a shield. The shield's DMG Absorption scaled based on Noelle's DEF.\n<br>\nThe shield has the following properties:\n<ul>\n<li>When Noelle's Normal and Charged Attacks hit a target, they have a certain chance to regenerate HP for all characters, both on and off the field.</li>\n<li>Applies the<span class=\"geo\"> Geo </span>element to the character.</li>\n<li>Possesses 250% Absorption Efficiency against<span class=\"geo\"> Geo </span>DMG.</li>\n</ul>\nThe amount of HP healed when regeneration is triggered scales based on Noelle's DEF.",
+      "description": "Summons a protective stone armor, dealing Geo DMG to surrounding enemies and creating a shield. The shield's DMG Absorption scaled based on Noelle's DEF.\n\nThe shield has the following properties:\n\nWhen Noelle's Normal and Charged Attacks hit a target, they have a certain chance to regenerate HP for all characters, both on and off the field.\nApplies the Geo element to the character.\nPossesses 250% Absorption Efficiency against Geo DMG.\n\nThe amount of HP healed when regeneration is triggered scales based on Noelle's DEF.",
       "upgrades": [
         {
           "name": "Skill DMG",
@@ -86,7 +86,7 @@
     {
       "name": "Sweeping Time",
       "unlock": "Elemental Burst",
-      "description": "Gathering the strength of stone around her weapon, Noelle strikes the enemies surrounding her within a large AoE, dealing<span class=\"geo\"> Geo </span>DMG.\n<br>\nAfterwards, Noelle gains the following effects:\n<ul>\n<li>Larger attack AoE.</li>\n<li>Converts attack DMG to<span class=\"geo\"> Geo </span>DMG.</li>\n<li>Increased ATK that scales based on her DEF.</li>\n</ul>",
+      "description": "Gathering the strength of stone around her weapon, Noelle strikes the enemies surrounding her within a large AoE, dealing Geo DMG.\n\nAfterwards, Noelle gains the following effects:\n\nLarger attack AoE.\nConverts attack DMG to Geo DMG.\nIncreased ATK that scales based on her DEF.\n",
       "upgrades": [
         {
           "name": "Elemental Burst DMG",

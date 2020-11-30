@@ -8,7 +8,7 @@
     {
       "name": "Wind Spirit Creation",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 4 attacks using Wind Spirits, dealing<span class=\"anemo\"> Anemo </span>DMG.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina and deals AoE<span class=\"anemo\"> Anemo </span>DMG after a short casting time.</p>\n<h3>Plunging Attack</h3>\n<p>Calling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE<span class=\"anemo\"> Anemo </span>DMG upon impact with the ground.</p>",
+      "description": "Normal Attack\nPerforms up to 4 attacks using Wind Spirits, dealing Anemo DMG.\nCharged Attack\nConsumes a certain amount of Stamina and deals AoE Anemo DMG after a short casting time.\nPlunging Attack\nCalling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Anemo DMG upon impact with the ground.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -47,7 +47,7 @@
     {
       "name": "Astable Anemohypostasis Creation - 6308",
       "unlock": "Elemental Skill",
-      "description": "<p>Creates a small Wind Spirit that deals<span class=\"anemo\"> Anemo </span>DMG to enemies in an AoE, pulling them towards the location of the Wind Spirit before launching them.</p>",
+      "description": "Creates a small Wind Spirit that deals Anemo DMG to enemies in an AoE, pulling them towards the location of the Wind Spirit before launching them.",
       "upgrades": [
         {
           "name": "Skill DMG",
@@ -62,7 +62,7 @@
     {
       "name": "Forbidden Creation - Isomer 75 / Type II",
       "unlock": "Elemental Burst",
-      "description": "<p>Sucrose hurls an unstable concoction that creates a Large Wind Spirit. While it persists, the Large Wind Spirit will continuously pull and launch nearby enemies, dealing AoE<span class=\"anemo\"> Anemo </span>DMG.</p>\n<h3>Elemental Absorption</h3>\n<p>If the Wind Spirit comes into contact with<span class=\"hydro\"> Hydro </span>/<span class=\"pyro\"> Pyro </span>/<span class=\"cryo\"> Cryo </span>/<span class=\"electro\"> Electro </span>elements, it will deal additional DMG of that type.\n<br>\nElemental Absorption may only occur once per use.</p>",
+      "description": "Sucrose hurls an unstable concoction that creates a Large Wind Spirit. While it persists, the Large Wind Spirit will continuously pull and launch nearby enemies, dealing AoE Anemo DMG.\nElemental Absorption\nIf the Wind Spirit comes into contact with Hydro / Pyro / Cryo / Electro elements, it will deal additional DMG of that type.\n\nElemental Absorption may only occur once per use.",
       "upgrades": [
         {
           "name": "DoT",

@@ -8,7 +8,7 @@
     {
       "name": "Guhua Style",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 rapid strikes.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-aur to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.</p>",
+      "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-aur to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -51,7 +51,7 @@
     {
       "name": "Guhua Sword - Fatal Rainscreen",
       "unlock": "Elemental Skill",
-      "description": "Xingqiu performs twin strikes with his sword, dealing<span class=\"hydro\"> Hydro </span>DMG. At the same time, this ability creates the maximum number of Rain Swords, which will orbit the character.\n<br>\nThe Rain Swords have the following properties:\n<ul>\n<li>When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.</li>\n<li>Increases the character's resistance to interruption.</li>\n</ul>\n<p>20% of Xingqiu's<span class=\"hydro\"> Hydro </span>DMG Bonus will be converted to additional DMG Reduction for the Rain Swords.</p>\n<p>The maximum amount of additional DMG Reduction that can be gained this way is 24%.\n<br>\nThe initial maximum number of Rain Swords is 3.\n<br>\nUsing this ability applies the Wet status onto the character.</p>",
+      "description": "Xingqiu performs twin strikes with his sword, dealing Hydro DMG. At the same time, this ability creates the maximum number of Rain Swords, which will orbit the character.\n\nThe Rain Swords have the following properties:\n\nWhen a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.\nIncreases the character's resistance to interruption.\n\n20% of Xingqiu's Hydro DMG Bonus will be converted to additional DMG Reduction for the Rain Swords.\nThe maximum amount of additional DMG Reduction that can be gained this way is 24%.\n\nThe initial maximum number of Rain Swords is 3.\n\nUsing this ability applies the Wet status onto the character.",
       "upgrades": [
         {
           "name": "Skill DMG",
@@ -74,7 +74,7 @@
     {
       "name": "Guhua Sword - Raincutter",
       "unlock": "Elemental Burst",
-      "description": "<p>Initiate Rainbow Bladework and fight using an illusory sword rain, while creating the maximum number of Rain Swords.</p>\n<h3>Rainbow Bladework</h3>\n<ul>\n<li>Normal Attacks will trigger consecutive sword rain attacks, dealing<span class=\"hydro\"> Hydro </span>DMG.</li>\n<li>Rain Swords will remain at the maximum number throughout the ability's duration.</li>\n</ul>\n<p>These effects carry over to other characters.</p>",
+      "description": "Initiate Rainbow Bladework and fight using an illusory sword rain, while creating the maximum number of Rain Swords.\nRainbow Bladework\n\nNormal Attacks will trigger consecutive sword rain attacks, dealing Hydro DMG.\nRain Swords will remain at the maximum number throughout the ability's duration.\n\nThese effects carry over to other characters.",
       "upgrades": [
         {
           "name": "Sword Rain DMG",

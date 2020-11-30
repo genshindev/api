@@ -8,7 +8,7 @@
     {
       "name": "Kaboom!",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Throws things that go boom when they hit things! Perform up to 3 explosive attacks, dealing AoE<span class=\"pyro\"> Pyro </span>DMG.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina and deals<span class=\"pyro\"> Pyro </span>DMG to enemies after a short casting time.</p>\n<h3>Plunging Attack</h3>\n<p>Gathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE<span class=\"pyro\"> Pyro </span>DMG upon impact with the ground.</p>",
+      "description": "Normal Attack\nThrows things that go boom when they hit things! Perform up to 3 explosive attacks, dealing AoE Pyro DMG.\nCharged Attack\nConsumes a certain amount of Stamina and deals Pyro DMG to enemies after a short casting time.\nPlunging Attack\nGathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Pyro DMG upon impact with the ground.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -43,7 +43,7 @@
     {
       "name": "Jumpy Dumpty",
       "unlock": "Elemental Skill",
-      "description": "<p><span class=\"name\">Jumpy Dumpty</span> is tons of boom-bang-fun!\n<br>\nWhen thrown, <span class=\"name\">Jumpy Dumpty</span> bounces thrice, igniting and dealing AoE<span class=\"pyro\"> Pyro </span>DMG with every bounce.</p>\n<p>On the third bounce, the bomb splits into many mines.\n<br>\nThe mines will explode upon contact with enemies, or after a short period of time, dealing AoE<span class=\"pyro\"> Pyro </span>DMG.</p>\n<p>Starts with 2 charges.</p>",
+      "description": "Jumpy Dumpty is tons of boom-bang-fun!\n\nWhen thrown, Jumpy Dumpty bounces thrice, igniting and dealing AoE Pyro DMG with every bounce.\nOn the third bounce, the bomb splits into many mines.\n\nThe mines will explode upon contact with enemies, or after a short period of time, dealing AoE Pyro DMG.\nStarts with 2 charges.",
       "upgrades": [
         {
           "name": "Jumpy Dumpty DMG",
@@ -66,7 +66,7 @@
     {
       "name": "Sparks 'n' Splash",
       "unlock": "Elemental Burst",
-      "description": "Klee's Blazing Delight! For the duration of this ability, continuously summons <span class=\"name\">Sparks 'n' Splash</span> to attack nearby enemies, dealing AoE<span class=\"pyro\"> Pyro </span>DMG.",
+      "description": "Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby enemies, dealing AoE Pyro DMG.",
       "upgrades": [
         {
           "name": "Sparks 'n' Splash DMG",

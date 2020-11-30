@@ -15,7 +15,7 @@
     {
       "name": "Sharpshooter",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 consecutive shots with a bow.</p>\n<h3>Charged Attack</h3>\n<p>Perform a more precise Aimed Shot with increased DMG.\n<br>\nWhile aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal<span class=\"pyro\"> Pyro </span>DMG.</p>\n<h3>Plunging Attack</h3>\n<p>Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.</p>",
+      "description": "Normal Attack\nPerforms up to 5 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -58,7 +58,7 @@
     {
       "name": "Explosive Puppet",
       "unlock": "Elemental Skill",
-      "description": "<h3>Baron Bunny</h3>\n<ul>\n<li>Continuously taunts the enemy, drawing their fire.</li>\n<li>Baron Bunny's HP scales with Amber's Max HP.</li>\n<li>When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE<span class=\"pyro\"> Pyro </span>DMG.</li>\n</ul>\n<h3>Hold</h3>\n<p>Adjusts the throwing direction of Baron Bunny.\n<br>\nThe longer the button is held, the further the throw.</p>",
+      "description": "Baron Bunny\n\nContinuously taunts the enemy, drawing their fire.\nBaron Bunny's HP scales with Amber's Max HP.\nWhen destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.\n\nHold\nAdjusts the throwing direction of Baron Bunny.\n\nThe longer the button is held, the further the throw.",
       "upgrades": [
         {
           "name": "Inherited HP",
@@ -77,7 +77,7 @@
     {
       "name": "Fiery Rain",
       "unlock": "Elemental Burst",
-      "description": "Fires of a shower of arrows, dealing continuous AoE<span class=\"pyro\"> Pyro </span>DMG.",
+      "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
       "upgrades": [
         {
           "name": "Fiery Rain DMG Per Wave",

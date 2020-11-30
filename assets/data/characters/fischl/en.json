@@ -8,7 +8,7 @@
     {
       "name": "Bolts of Downfall",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 consecutive shots with a bow.</p>\n<h3>Charged Attack</h3>\n<p>Perform a more precise Aimed Shot with increased DMG.\n<br>\nWhile aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsuchtig Blitz shall deal immense<span class=\"electro\"> Electro </span>DMG.</p>\n<h3>Plunging Attack</h3>\n<p>Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.</p>",
+      "description": "Normal Attack\nPerforms up to 5 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsuchtig Blitz shall deal immense Electro DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -51,7 +51,7 @@
     {
       "name": "Nightrider",
       "unlock": "Elemental Skill",
-      "description": "<p>Summons Oz, the night raven forged of darkness and lightning descends upon the land, dealing<span class=\"electro\"> Electro </span>DMG in a small AoE.\n<br>\nFor the ability's duration, Oz will continuously attack nearby enemies with Freikugel.</p>\n<p>Hold to adjust the location Oz will be summoned to.\n<br>\nPress again any time during the ability's duration to once again summon him to Fischl's side.</p>",
+      "description": "Summons Oz, the night raven forged of darkness and lightning descends upon the land, dealing Electro DMG in a small AoE.\n\nFor the ability's duration, Oz will continuously attack nearby enemies with Freikugel.\nHold to adjust the location Oz will be summoned to.\n\nPress again any time during the ability's duration to once again summon him to Fischl's side.",
       "upgrades": [
         {
           "name": "Oz' ATK DMG",
@@ -74,7 +74,7 @@
     {
       "name": "Midnight Phantasmagoria",
       "unlock": "Elemental Burst",
-      "description": "Summons Oz to spread his twin swings of twilight and defend Fischl.\n<br>\nHas the following properties during the ability's duration:\n<ul>\n<li>Fischl takes on Oz's form, greatly increasing her Movement Speed.</li>\n<li>Strikes nearby enemies with lightning, dealing<span class=\"electro\"> Electro </span>DMG to enemies she comes into contact with. Each enemy can only be struck once.</li>\n<li>Once this ability's effects end, Oz will remain on the battlefield and attack his Prinzessin's foes. If Oz is already on the field, then this will reset the duration of his presence.</li>\n</ul>",
+      "description": "Summons Oz to spread his twin swings of twilight and defend Fischl.\n\nHas the following properties during the ability's duration:\n\nFischl takes on Oz's form, greatly increasing her Movement Speed.\nStrikes nearby enemies with lightning, dealing Electro DMG to enemies she comes into contact with. Each enemy can only be struck once.\nOnce this ability's effects end, Oz will remain on the battlefield and attack his Prinzessin's foes. If Oz is already on the field, then this will reset the duration of his presence.\n",
       "upgrades": [
         {
           "name": "Falling Thunder DMG",

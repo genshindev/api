@@ -8,7 +8,7 @@
     {
       "name": "Favonius Bladework",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 consecutive strikes.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to launch an enemy using the power of wind.\n<br>\nLaunched enemies will slowly fall to the ground.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.</p>",
+      "description": "Normal Attack\nPerforms up to 5 consecutive strikes.\nCharged Attack\nConsumes a certain amount of Stamina to launch an enemy using the power of wind.\n\nLaunched enemies will slowly fall to the ground.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -51,7 +51,7 @@
     {
       "name": "Gale Blade",
       "unlock": "Elemental Skill",
-      "description": "<p>Focusing the might of the formless wind around her blade, Jean releases a miniature storm, launching enemies in the direction she aims at, dealing massive<span class=\"anemo\"> Anemo </span>DMG.</p>\n<h3>Hold</h3>\n<p>At the cost of continued Stamina consumption, Jean can command the whirlwind to pull surrounding enemies towards her front.\n<br>\nDirection can be adjusted.\n<br>\nCharacter is immobile during skill duration.</p>",
+      "description": "Focusing the might of the formless wind around her blade, Jean releases a miniature storm, launching enemies in the direction she aims at, dealing massive Anemo DMG.\nHold\nAt the cost of continued Stamina consumption, Jean can command the whirlwind to pull surrounding enemies towards her front.\n\nDirection can be adjusted.\n\nCharacter is immobile during skill duration.",
       "upgrades": [
         {
           "name": "Skill DMG",
@@ -74,7 +74,7 @@
     {
       "name": "Dandelion Breeze",
       "unlock": "Elemental Burst",
-      "description": "<p>Calling upon the wind's protection, Jean creates a swirling Dandelion Field, launching surrounding enemies and causing<span class=\"anemo\"> Anemo </span>DMG.\n<br>\nAt the same time, she instantly regenerates a large amount of HP for nearby allied units and all party members. HP restored scale off Jean's ATK.</p>\n<h3>Dandelion Field</h3>\n<ul>\n<li>Continuously regenerates HP for one ally and imbues them with the<span class=\"anemo\"> Anemo </span>attribute.</li>\n<li>Deals<span class=\"anemo\"> Anemo </span>DMG to enemies entering or exiting the field.</li>\n</ul>",
+      "description": "Calling upon the wind's protection, Jean creates a swirling Dandelion Field, launching surrounding enemies and causing Anemo DMG.\n\nAt the same time, she instantly regenerates a large amount of HP for nearby allied units and all party members. HP restored scale off Jean's ATK.\nDandelion Field\n\nContinuously regenerates HP for one ally and imbues them with the Anemo attribute.\nDeals Anemo DMG to enemies entering or exiting the field.\n",
       "upgrades": [
         {
           "name": "Elemental Burst DMG",

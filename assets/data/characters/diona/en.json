@@ -8,7 +8,7 @@
     {
       "name": "Katzlein Style",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 consecutive shots with a bow.</p>\n<h3>Charged Attack</h3>\n<p>Perform a more precise Aimed Shot with increased DMG.\n<br>\nWhile aiming, biting frost accumulates on the arrowhead. A fully charged frost arrow will deal<span class=\"cryo\"> Cryo </span>DMG.</p>\n<h3>Plunging Attack</h3>\n<p>Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.</p>",
+      "description": "Normal Attack\nPerforms up to 5 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, biting frost accumulates on the arrowhead. A fully charged frost arrow will deal Cryo DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -51,7 +51,7 @@
     {
       "name": "Icy Paws",
       "unlock": "Elemental Skill",
-      "description": "<p>Fires an Icy Paw that deals<span class=\"cryo\"> Cryo </span>DMG to opponents and forms a shield on hit. The shield's DMG Absorption scales based on Diona's Max HP, and its duration scales off the number of Icy Paws that hit their target.</p>\n<h3>Press</h3>\n<p>Rapidly fires off 2 Icy Paws.</p>\n<h3>Hold</h3>\n<p>Dashes back quickly before firing five Icy Paws.<br>\nThe shield created by a Hold attack will gain a 75% DMG Absorption Bonus.</p>\n<p>The shield has a 250%<span class=\"cryo\"> Cryo </span>DMG Absorption Bonus, and will cause your active character to become affected by<span class=\"cryo\"> Cryo </span>at the point of formation for a short duration.</p>",
+      "description": "Fires an Icy Paw that deals Cryo DMG to opponents and forms a shield on hit. The shield's DMG Absorption scales based on Diona's Max HP, and its duration scales off the number of Icy Paws that hit their target.\nPress\nRapidly fires off 2 Icy Paws.\nHold\nDashes back quickly before firing five Icy Paws.\nThe shield created by a Hold attack will gain a 75% DMG Absorption Bonus.\nThe shield has a 250% Cryo DMG Absorption Bonus, and will cause your active character to become affected by Cryo at the point of formation for a short duration.",
       "upgrades": [
         {
           "name": "Icy Paw DMG",
@@ -78,7 +78,7 @@
     {
       "name": "Signature Mix",
       "unlock": "Elemental Burst",
-      "description": "<p>Tosses out a special cold brew that deals AoE<span class=\"cryo\"> Cryo </span>DMG and creates a Drunken Mist in an AoE.</p>\n<h3>Drunken Mist</h3>\n<ul>\n<li>Deals continuous<span class=\"cryo\"> Cryo </span>DMG to opponents within the AoE.</li>\n<li>Continuously regenerates the HP of characters within the AoE.</li>\n</ul>",
+      "description": "Tosses out a special cold brew that deals AoE Cryo DMG and creates a Drunken Mist in an AoE.\nDrunken Mist\n\nDeals continuous Cryo DMG to opponents within the AoE.\nContinuously regenerates the HP of characters within the AoE.\n",
       "upgrades": [
         {
           "name": "Skill DMG",

@@ -8,7 +8,7 @@
     {
       "name": "Oceanborne",
       "unlock": "Normal Attack",
-      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 successive strikes.</p>\n<h3>Charged Attack</h3>\n<p>Drains Stamina over time to perform continuous slashes.\n<br>\nAt end of the sequence, perform a more powerful slash.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.</p>",
+      "description": "Normal Attack\nPerforms up to 5 successive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -59,7 +59,7 @@
     {
       "name": "Tidecaller",
       "unlock": "Elemental Skill",
-      "description": "<p>Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.</p>\n<h3>Press</h3>\n<p>Accumulating the power of lightning, Beidou swings her blade forward fiercely, dealing<span class=\"electro\"> Electro </span>DMG.</p>\n<h3>Hold</h3>\nLifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\n<br>\nAttacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing<span class=\"electro\"> Electro </span>DMG. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.\n<br>\nThe shield possesses the following properties:\n<ul>\n<li>Has 250%<span class=\"electro\"> Electro </span>DMG Absorption Efficiency.</li>\n<li>Applies the<span class=\"electro\"> Electro </span>element to Beidou upon activation.</li></ul>",
+      "description": "Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.\nPress\nAccumulating the power of lightning, Beidou swings her blade forward fiercely, dealing Electro DMG.\nHold\nLifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\n\nAttacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing Electro DMG. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.\n\nThe shield possesses the following properties:\n\nHas 250% Electro DMG Absorption Efficiency.\nApplies the Electro element to Beidou upon activation.",
       "upgrades": [
         {
           "name": "Shield DMG Absorption",
@@ -82,7 +82,7 @@
     {
       "name": "Stormbreaker",
       "unlock": "Elemental Burst",
-      "description": "<p>Recalling her slaying of the great beast Haishan. Beidou calls upon that monstrous strength and the lightning to create a Thunderbeast's Targe around herself.</p>\n<h3>Thunderbeast's Target</h3>\n<ul>\n<li>When Normal and Charged Attacks hit, they create a lightning discharge that can jump between enemies, dealing<span class=\"electro\"> Electro </span>DMG.</li>\n<li>Increases the character's resistance to interruption, and decreases DMG taken.</li>\n</ul>",
+      "description": "Recalling her slaying of the great beast Haishan. Beidou calls upon that monstrous strength and the lightning to create a Thunderbeast's Targe around herself.\nThunderbeast's Target\n\nWhen Normal and Charged Attacks hit, they create a lightning discharge that can jump between enemies, dealing Electro DMG.\nIncreases the character's resistance to interruption, and decreases DMG taken.\n",
       "upgrades": [
         {
           "name": "Skill DMG",
