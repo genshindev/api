@@ -25,13 +25,8 @@ router.get('/', async (ctx) => {
 router.get('/:type', async (ctx) => {
   const { type } = ctx.params;
   try {
-    const characterNames = await fs.readdir(dataDirectory(type));
-    ctx.body = await Promise.all(
-      characterNames.map(async (id) => ({
-        id,
-        ...(await getData(type, id, ctx.query.lang)),
-      })),
-    );
+    const entityNames = await fs.readdir(dataDirectory(type));
+    ctx.body = entityNames
   } catch (e) {
     const availableTypes = await fs.readdir(dataDirectory(''));
     ctx.body = {
