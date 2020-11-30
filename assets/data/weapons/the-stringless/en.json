@@ -1,0 +1,10 @@
+{
+    "name": "The Stringless",
+    "type": "Bow",
+    "rarity": 4,
+    "baseAttack": "42",
+    "subStat": "Elemental Mastery",
+    "passiveName": "Arrowless Song",
+    "passiveDesc": "Increases Elemental Skill and Elemental Burst DMG by 24/30/36/42/48%.",
+    "location": "Gacha"
+}
