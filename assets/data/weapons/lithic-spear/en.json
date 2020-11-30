@@ -1,10 +1,10 @@
 {
-    "name": "Lithic Spear",
-    "type": "Polearm",
-    "rarity": 4,
-    "baseAttack": "42",
-    "subStat": "Physical DMG Bonus",
-    "passiveName": "Lithic Axiom - Subjugating Evil",
-    "passiveDesc": "-",
-    "location": "Gacha"
+  "name": "Lithic Spear",
+  "type": "Polearm",
+  "rarity": 4,
+  "baseAttack": "42",
+  "subStat": "Physical DMG Bonus",
+  "passiveName": "Lithic Axiom - Subjugating Evil",
+  "passiveDesc": "-",
+  "location": "Gacha"
 }
