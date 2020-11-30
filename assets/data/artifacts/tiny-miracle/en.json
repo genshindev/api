@@ -1,0 +1,6 @@
+{
+  "name": "Tiny Miracle",
+  "max_rarity": 4,
+  "2-piece_bonus": "All Elemental RES increased by 20%",
+  "4-piece_bonus": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s."
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Bloodstained Chivalry",
+  "max_rarity": 5,
+  "2-piece_bonus": "Physical DMG +25%",
+  "4-piece_bonus": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s."
+}

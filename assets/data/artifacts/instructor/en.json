@@ -1,0 +1,6 @@
+{
+  "name": "Instructor",
+  "max_rarity": 4,
+  "2-piece_bonus": "Increases Elemental Mastery by 80.",
+  "4-piece_bonus": "After using Elemental Skill, increases all party members' Elemental Mastery by 120 for 8s."
+}

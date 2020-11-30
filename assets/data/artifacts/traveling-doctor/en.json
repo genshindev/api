@@ -1,0 +1,6 @@
+{
+  "name": "Traveling Doctor",
+  "max_rarity": 3,
+  "2-piece_bonus": "Increases incoming healing by 20%.",
+  "4-piece_bonus": "Using Elemental Burst restores 20% HP."
+}

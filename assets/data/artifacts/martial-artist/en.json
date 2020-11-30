@@ -1,0 +1,6 @@
+{
+  "name": "Martial Artist",
+  "max_rarity": 4,
+  "2-piece_bonus": "Increases Normal Attack and Charged Attack DMG by 15%.",
+  "4-piece_bonus": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s."
+}
