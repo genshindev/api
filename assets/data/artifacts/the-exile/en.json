@@ -1,0 +1,6 @@
+{
+  "name": "The Exile",
+  "max_rarity": 4,
+  "2-piece_bonus": "Energy Recharge +20%",
+  "4-piece_bonus": "Using an Elemental Burst regenerates 2 Energy for other party members every 2s for 6s. This effect cannot stack."
+}

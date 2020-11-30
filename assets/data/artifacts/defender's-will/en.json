@@ -1,0 +1,6 @@
+{
+  "name": "Defender's Will",
+  "max_rarity": 4,
+  "2-piece_bonus": "Base DEF +30%",
+  "4-piece_bonus": "Increases Elemental RES by 30% for each element present in the party."
+}

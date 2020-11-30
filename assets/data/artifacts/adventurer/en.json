@@ -1,0 +1,6 @@
+{
+  "name": "Adventurer",
+  "max_rarity": 3,
+  "2-piece_bonus": "Max HP increased by 1,000.",
+  "4-piece_bonus": "Opening chest regenerates 30% Max HP over 5s."
+}
