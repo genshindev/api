@@ -1,10 +1,10 @@
 {
-    "name": "Dull Blade",
-    "type": "Sword",
-    "rarity": 1,
-    "baseAttack": "23",
-    "subStat": "-",
-    "passiveName": "-",
-    "passiveDesc": "-",
-    "location": "Chest"
+  "name": "Dull Blade",
+  "type": "Sword",
+  "rarity": 1,
+  "baseAttack": "23",
+  "subStat": "-",
+  "passiveName": "-",
+  "passiveDesc": "-",
+  "location": "Chest"
 }
