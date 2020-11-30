@@ -1,151 +1,151 @@
 {
-    "name": "Xiangling",
-    "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
-    "vision": "Pyro",
-    "weapon": "Polearm",
-    "rarity": 4,
-    "skillTalents": [
-      {
-        "name": "Dough-Fu",
-        "unlock": "Normal Attack",
-        "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 consecutive spear strikes.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.</p>",
-        "upgrades": [
-          {
-            "name": "1-Hit DMG",
-            "value": "42.1%"
-          },
-          {
-            "name": "2-Hit DMG",
-            "value": "42.1%"
-          },
-          {
-            "name": "3-Hit DMG",
-            "value": "26.1% + 26.1%"
-          },
-          {
-            "name": "4-Hit DMG",
-            "value": "14.1% x 4"
-          },
-          {
-            "name": "5-Hit DMG",
-            "value": "71%"
-          },
-          {
-            "name": "Charged Attack DMG",
-            "value": "122%"
-          },
-          {
-            "name": "Charged Attack Stamina Cost",
-            "value": "25"
-          },
-          {
-            "name": "Plunge DMG",
-            "value": "63.9%"
-          },
-          {
-            "name": "Low / High Plunge DMG",
-            "value": "128% / 160%"
-          }
-        ]
-      },
-      {
-        "name": "Guoba Attack",
-        "unlock": "Elemental Skill",
-        "description": "Summons Guoba the Panda. Guoba continuously breathes fire, dealing AoE<span class=\"pyro\"> Pyro </span>DMG.",
-        "upgrades": [
-          {
-            "name": "Flame DMG",
-            "value": "111%"
-          },
-          {
-            "name": "CD",
-            "value": "12s"
-          }
-        ]
-      },
-      {
-        "name": "Pyronado",
-        "unlock": "Elemental Burst",
-        "description": "Displaying her mastery over both fire and polearms, Xiangling sends a <span class=\"name\">Pyronado</span> whirling around her.\n<br>\nThe <span class=\"name\">Pyronado</span> will move with your character for so long as the ability persists, dealing<span class=\"pyro\"> Pyro </span>DMG to all enemies in its path.",
-        "upgrades": [
-          {
-            "name": "1-Hit DMG",
-            "value": "72%"
-          },
-          {
-            "name": "2-Hit DMG",
-            "value": "88%"
-          },
-          {
-            "name": "3-Hit DMG",
-            "value": "110%"
-          },
-          {
-            "name": "Pyronado DMG",
-            "value": "112%"
-          },
-          {
-            "name": "Duration",
-            "value": "10s"
-          },
-          {
-            "name": "CD",
-            "value": "20s"
-          },
-          {
-            "name": "Energy Cost",
-            "value": "80"
-          }
-        ]
-      }
-    ],
-    "passiveTalents": [
-      {
-        "name": "Crossfire",
-        "unlock": "Unlocked at Ascension 1",
-        "description": "Increases the flame range of Guoba by 20%."
-      },
-      {
-        "name": "Beware, It's Super Hot!",
-        "unlock": "Unlocked at Ascension 4",
-        "description": "When Guoba Attack's effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s."
-      },
-      {
-        "name": "Chef de Cuisine",
-        "unlock": "Unlocked Automatically",
-        "description": "When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product."
-      }
-    ],
-    "constellations": [
-      {
-        "name": "Crispy Outside, Tender Inside",
-        "unlock": "Constellation Lv. 1",
-        "description": "Enemies hit by Guoba's attacks have their Pyro RES reduced by 15% for 6s."
-      },
-      {
-        "name": "Oil Meets Fire",
-        "unlock": "Constellation Lv. 2",
-        "description": "The last attack in a Normal Attack sequence applies the Implode status onto the enemy for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as AoE Pyro DMG."
-      },
-      {
-        "name": "Deepfry",
-        "unlock": "Constellation Lv. 3",
-        "description": "Increases the Level of Pyronado by 3.\nMaximum upgrade level is 15."
-      },
-      {
-        "name": "Slowbake",
-        "unlock": "Constellation Lv. 4",
-        "description": "Pyronado's duration is increased by 40%."
-      },
-      {
-        "name": "Guoba Mad",
-        "unlock": "Constellation Lv. 5",
-        "description": "Increase the Level of Guoba Attack by 3.\nMaximum upgrade level is 15."
-      },
-      {
-        "name": "Condensed Pyronado",
-        "unlock": "Constellation Lv. 6",
-        "description": "For the duration of Pyronado, all party members receive a 15% Pyro DMG Bonus."
-      }
-    ]
-  }
+  "name": "Xiangling",
+  "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+  "vision": "Pyro",
+  "weapon": "Polearm",
+  "rarity": 4,
+  "skillTalents": [
+    {
+      "name": "Dough-Fu",
+      "unlock": "Normal Attack",
+      "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 consecutive spear strikes.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.</p>",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "42.1%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "42.1%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "26.1% + 26.1%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "14.1% x 4"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "71%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "122%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.9%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "128% / 160%"
+        }
+      ]
+    },
+    {
+      "name": "Guoba Attack",
+      "unlock": "Elemental Skill",
+      "description": "Summons Guoba the Panda. Guoba continuously breathes fire, dealing AoE<span class=\"pyro\"> Pyro </span>DMG.",
+      "upgrades": [
+        {
+          "name": "Flame DMG",
+          "value": "111%"
+        },
+        {
+          "name": "CD",
+          "value": "12s"
+        }
+      ]
+    },
+    {
+      "name": "Pyronado",
+      "unlock": "Elemental Burst",
+      "description": "Displaying her mastery over both fire and polearms, Xiangling sends a <span class=\"name\">Pyronado</span> whirling around her.\n<br>\nThe <span class=\"name\">Pyronado</span> will move with your character for so long as the ability persists, dealing<span class=\"pyro\"> Pyro </span>DMG to all enemies in its path.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "72%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "88%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "110%"
+        },
+        {
+          "name": "Pyronado DMG",
+          "value": "112%"
+        },
+        {
+          "name": "Duration",
+          "value": "10s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Crossfire",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Increases the flame range of Guoba by 20%."
+    },
+    {
+      "name": "Beware, It's Super Hot!",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "When Guoba Attack's effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s."
+    },
+    {
+      "name": "Chef de Cuisine",
+      "unlock": "Unlocked Automatically",
+      "description": "When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Crispy Outside, Tender Inside",
+      "unlock": "Constellation Lv. 1",
+      "description": "Enemies hit by Guoba's attacks have their Pyro RES reduced by 15% for 6s."
+    },
+    {
+      "name": "Oil Meets Fire",
+      "unlock": "Constellation Lv. 2",
+      "description": "The last attack in a Normal Attack sequence applies the Implode status onto the enemy for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as AoE Pyro DMG."
+    },
+    {
+      "name": "Deepfry",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Pyronado by 3.\nMaximum upgrade level is 15."
+    },
+    {
+      "name": "Slowbake",
+      "unlock": "Constellation Lv. 4",
+      "description": "Pyronado's duration is increased by 40%."
+    },
+    {
+      "name": "Guoba Mad",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increase the Level of Guoba Attack by 3.\nMaximum upgrade level is 15."
+    },
+    {
+      "name": "Condensed Pyronado",
+      "unlock": "Constellation Lv. 6",
+      "description": "For the duration of Pyronado, all party members receive a 15% Pyro DMG Bonus."
+    }
+  ]
+}

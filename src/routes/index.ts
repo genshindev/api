@@ -26,7 +26,7 @@ router.get('/:type', async (ctx) => {
   const { type } = ctx.params;
   try {
     const entityNames = await fs.readdir(dataDirectory(type));
-    ctx.body = entityNames
+    ctx.body = entityNames;
   } catch (e) {
     const availableTypes = await fs.readdir(dataDirectory(''));
     ctx.body = {

@@ -1,155 +1,155 @@
 {
-    "name": "Lisa",
-    "description": "The languid but knowledgeable Librarian of the Knights of Favonius who was deemed by Sumeru Academia to be their most distinguised graduate in the past two centuries.",
-    "vision": "Electro",
-    "weapon": "Catalyst",
-    "rarity": 4,
-    "skillTalents": [
-      {
-        "name": "Lightning Touch",
-        "unlock": "Normal Attack",
-        "description": "<h3>Normal Attack</h3>\n<p>Perform up to 4 lightning attacks that deal<span class=\"electro\"> Electro </span>DMG.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to deal AoE<span class=\"electro\"> Electro </span>DMG after a short casting time.</p>\n<h3>Plunging Attack</h3>\n<p>Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE<span class=\"electro\"> Electro </span>DMG upon impact with the ground.</p>",
-        "upgrades": [
-          {
-            "name": "1-Hit DMG",
-            "value": "39.6%"
-          },
-          {
-            "name": "2-Hit DMG",
-            "value": "35.9%"
-          },
-          {
-            "name": "3-Hit DMG",
-            "value": "42.8%"
-          },
-          {
-            "name": "4-Hit DMG",
-            "value": "55%"
-          },
-          {
-            "name": "Charged Attack DMG",
-            "value": "177%"
-          },
-          {
-            "name": "Charged Attack Stamina Cost",
-            "value": "50"
-          },
-          {
-            "name": "Plunge DMG",
-            "value": "56.8%"
-          },
-          {
-            "name": "Low / High Plunge DMG",
-            "value": "114% / 142%"
-          }
-        ]
-      },
-      {
-        "name": "Violet Arc",
-        "unlock": "Elemental Skill",
-        "description": "<p>Channels the power of lightning to sweep bothersome matters away.</p>\n<h3>Press</h3>\n<p>Releases a homing Lightning Orb. On hit, it deals<span class=\"electro\"> Electro </span>DMG, and applies a stack of Conductive status (Max 3 stacks) to enemies in a small AoE.</p>\n<h3>Hold</h3>\n<p>After an extended casting time, calls down lightning from the heavens, dealing massive<span class=\"electro\"> Electro </span>DMG to all nearby enemies.\n<br>\nDeals great amounts of extra damage to enemies based on the number of Conductive stacks applied to them, and clears their Conductive status.</p>",
-        "upgrades": [
-          {
-            "name": "Press DMG",
-            "value": "80%"
-          },
-          {
-            "name": "Press CD",
-            "value": "1s"
-          },
-          {
-            "name": "Non-Conductive Hold DMG",
-            "value": "320%"
-          },
-          {
-            "name": "Stack 1 Conductive Hold DMG",
-            "value": "368%"
-          },
-          {
-            "name": "Stack 2 Conductive Hold DMG",
-            "value": "424%"
-          },
-          {
-            "name": "Stack 3 Conductive Hold DMG",
-            "value": "487%"
-          },
-          {
-            "name": "CD (hold)",
-            "value": "16s"
-          }
-        ]
-      },
-      {
-        "name": "Lightning Rose",
-        "unlock": "Elemental Burst",
-        "description": "Summons a <span class=\"name\">Lightning Rose</span> that unleashes powerful lightning bolts, launching surrounding enemies and dealing<span class=\"electro\"> Electro </span>DMG.\n<br>\nThe <span class=\"name\">Lightning Rose</span> will continuously emit lightning to knock back enemies and deal<span class=\"electro\"> Electro </span>DMG for so long as it persists.",
-        "upgrades": [
-          {
-            "name": "Discharge DMG",
-            "value": "36.6%"
-          },
-          {
-            "name": "Duration",
-            "value": "15s"
-          },
-          {
-            "name": "CD",
-            "value": "20s"
-          },
-          {
-            "name": "Energy Cost",
-            "value": "80"
-          }
-        ]
-      }
-    ],
-    "passiveTalents": [
-      {
-        "name": "Induced Aftershock",
-        "unlock": "Unlocked at Ascension 1",
-        "description": "Hits by charged Attacks apply Violet Arc's Conductive status to enemies."
-      },
-      {
-        "name": "Static Electricity Field",
-        "unlock": "Unlocked at Ascension 4",
-        "description": "Enemies hit by Lightning Rose have their DEF decreased by 15% for 10s."
-      },
-      {
-        "name": "General Pharmaceutics",
-        "unlock": "Unlocked Automatically",
-        "description": "When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used."
-      }
-    ],
-    "constellations": [
-      {
-        "name": "Infinite Circuit",
-        "unlock": "Constellation Lv. 1",
-        "description": "Lisa recovers 2 Energy for every opponent hit while holding Violet Arc.\nA maximum of 10 Energy can be regenerated in this manner at any one time."
-      },
-      {
-        "name": "Electromagnetic Field",
-        "unlock": "Constellation Lv. 2",
-        "description": "Holding Violet Arc has the following effects:\nIncreases DEF by 25%.\nIncreases Lisa's resistance to interruption."
-      },
-      {
-        "name": "Resonant Thunder",
-        "unlock": "Constellation Lv. 3",
-        "description": "Increases the Level of Lightning Rose by 3.\nMaximum upgrade level is 15."
-      },
-      {
-        "name": "Plasma Eruption",
-        "unlock": "Constellation Lv. 4",
-        "description": "Increases the number of lightning bolts released by Lightning Rose by 1-3."
-      },
-      {
-        "name": "Electrocute",
-        "unlock": "Constellation Lv. 5",
-        "description": "Increase the Level of Violet Arc by 3.\nMaximum upgrade level is 15."
-      },
-      {
-        "name": "Pulsating Witch",
-        "unlock": "Constellation Lv. 6",
-        "description": "When Lisa takes the field, she applies 3 stacks of Violet Arc's Conductive status onto nearby enemies.\nThis effect can only occur once every 5s."
-      }
-    ]
-  }
+  "name": "Lisa",
+  "description": "The languid but knowledgeable Librarian of the Knights of Favonius who was deemed by Sumeru Academia to be their most distinguised graduate in the past two centuries.",
+  "vision": "Electro",
+  "weapon": "Catalyst",
+  "rarity": 4,
+  "skillTalents": [
+    {
+      "name": "Lightning Touch",
+      "unlock": "Normal Attack",
+      "description": "<h3>Normal Attack</h3>\n<p>Perform up to 4 lightning attacks that deal<span class=\"electro\"> Electro </span>DMG.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to deal AoE<span class=\"electro\"> Electro </span>DMG after a short casting time.</p>\n<h3>Plunging Attack</h3>\n<p>Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE<span class=\"electro\"> Electro </span>DMG upon impact with the ground.</p>",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "39.6%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "35.9%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "42.8%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "55%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "177%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.8%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "114% / 142%"
+        }
+      ]
+    },
+    {
+      "name": "Violet Arc",
+      "unlock": "Elemental Skill",
+      "description": "<p>Channels the power of lightning to sweep bothersome matters away.</p>\n<h3>Press</h3>\n<p>Releases a homing Lightning Orb. On hit, it deals<span class=\"electro\"> Electro </span>DMG, and applies a stack of Conductive status (Max 3 stacks) to enemies in a small AoE.</p>\n<h3>Hold</h3>\n<p>After an extended casting time, calls down lightning from the heavens, dealing massive<span class=\"electro\"> Electro </span>DMG to all nearby enemies.\n<br>\nDeals great amounts of extra damage to enemies based on the number of Conductive stacks applied to them, and clears their Conductive status.</p>",
+      "upgrades": [
+        {
+          "name": "Press DMG",
+          "value": "80%"
+        },
+        {
+          "name": "Press CD",
+          "value": "1s"
+        },
+        {
+          "name": "Non-Conductive Hold DMG",
+          "value": "320%"
+        },
+        {
+          "name": "Stack 1 Conductive Hold DMG",
+          "value": "368%"
+        },
+        {
+          "name": "Stack 2 Conductive Hold DMG",
+          "value": "424%"
+        },
+        {
+          "name": "Stack 3 Conductive Hold DMG",
+          "value": "487%"
+        },
+        {
+          "name": "CD (hold)",
+          "value": "16s"
+        }
+      ]
+    },
+    {
+      "name": "Lightning Rose",
+      "unlock": "Elemental Burst",
+      "description": "Summons a <span class=\"name\">Lightning Rose</span> that unleashes powerful lightning bolts, launching surrounding enemies and dealing<span class=\"electro\"> Electro </span>DMG.\n<br>\nThe <span class=\"name\">Lightning Rose</span> will continuously emit lightning to knock back enemies and deal<span class=\"electro\"> Electro </span>DMG for so long as it persists.",
+      "upgrades": [
+        {
+          "name": "Discharge DMG",
+          "value": "36.6%"
+        },
+        {
+          "name": "Duration",
+          "value": "15s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Induced Aftershock",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Hits by charged Attacks apply Violet Arc's Conductive status to enemies."
+    },
+    {
+      "name": "Static Electricity Field",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "Enemies hit by Lightning Rose have their DEF decreased by 15% for 10s."
+    },
+    {
+      "name": "General Pharmaceutics",
+      "unlock": "Unlocked Automatically",
+      "description": "When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Infinite Circuit",
+      "unlock": "Constellation Lv. 1",
+      "description": "Lisa recovers 2 Energy for every opponent hit while holding Violet Arc.\nA maximum of 10 Energy can be regenerated in this manner at any one time."
+    },
+    {
+      "name": "Electromagnetic Field",
+      "unlock": "Constellation Lv. 2",
+      "description": "Holding Violet Arc has the following effects:\nIncreases DEF by 25%.\nIncreases Lisa's resistance to interruption."
+    },
+    {
+      "name": "Resonant Thunder",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Lightning Rose by 3.\nMaximum upgrade level is 15."
+    },
+    {
+      "name": "Plasma Eruption",
+      "unlock": "Constellation Lv. 4",
+      "description": "Increases the number of lightning bolts released by Lightning Rose by 1-3."
+    },
+    {
+      "name": "Electrocute",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increase the Level of Violet Arc by 3.\nMaximum upgrade level is 15."
+    },
+    {
+      "name": "Pulsating Witch",
+      "unlock": "Constellation Lv. 6",
+      "description": "When Lisa takes the field, she applies 3 stacks of Violet Arc's Conductive status onto nearby enemies.\nThis effect can only occur once every 5s."
+    }
+  ]
+}

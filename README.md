@@ -7,6 +7,7 @@ An API that serves data for the game Genshin Impact by miHoYo.
 **A always up-to-date version will soon be hosted at https://api.genshin.dev once we have decided on a hosting provider. If you have suggestions for what hoster we should use, feel free to let us know in our Discord server!**
 
 ## Planned Features
+
 - Entity relationships (e.g. characters linking to the best weapon for them)
 - Web UI to make adding data even more simple
 
