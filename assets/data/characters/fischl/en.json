@@ -1,0 +1,143 @@
+{
+    "name": "Fischl",
+    "description": "A mysterious girl who calls herself \"Prinzessia der Verurteilung\" and travels with a night raven named Oz.",
+    "vision": "Electro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "skillTalents": [
+      {
+        "name": "Bolts of Downfall",
+        "unlock": "Normal Attack",
+        "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 consecutive shots with a bow.</p>\n<h3>Charged Attack</h3>\n<p>Perform a more precise Aimed Shot with increased DMG.\n<br>\nWhile aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsuchtig Blitz shall deal immense<span class=\"electro\"> Electro </span>DMG.</p>\n<h3>Plunging Attack</h3>\n<p>Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.</p>",
+        "upgrades": [
+          {
+            "name": "1-Hit DMG",
+            "value": "44.1%"
+          },
+          {
+            "name": "2-Hit DMG",
+            "value": "46.8%"
+          },
+          {
+            "name": "3-Hit DMG",
+            "value": "58.1%"
+          },
+          {
+            "name": "4-Hit DMG",
+            "value": "57.7%"
+          },
+          {
+            "name": "5-Hit DMG",
+            "value": "72.1%"
+          },
+          {
+            "name": "Aimed Shot",
+            "value": "43.9%"
+          },
+          {
+            "name": "Fully-Charged Aimed Shot",
+            "value": "124%"
+          },
+          {
+            "name": "Plunge DMG",
+            "value": "56.8%"
+          },
+          {
+            "name": "Low / High Plunge DMG",
+            "value": "114% / 142%"
+          }
+        ]
+      },
+      {
+        "name": "Nightrider",
+        "unlock": "Elemental Skill",
+        "description": "<p>Summons Oz, the night raven forged of darkness and lightning descends upon the land, dealing<span class=\"electro\"> Electro </span>DMG in a small AoE.\n<br>\nFor the ability's duration, Oz will continuously attack nearby enemies with Freikugel.</p>\n<p>Hold to adjust the location Oz will be summoned to.\n<br>\nPress again any time during the ability's duration to once again summon him to Fischl's side.</p>",
+        "upgrades": [
+          {
+            "name": "Oz' ATK DMG",
+            "value": "88.8%"
+          },
+          {
+            "name": "Summoning DMG",
+            "value": "115%"
+          },
+          {
+            "name": "Oz's Duration",
+            "value": "10s"
+          },
+          {
+            "name": "CD",
+            "value": "25s"
+          }
+        ]
+      },
+      {
+        "name": "Midnight Phantasmagoria",
+        "unlock": "Elemental Burst",
+        "description": "Summons Oz to spread his twin swings of twilight and defend Fischl.\n<br>\nHas the following properties during the ability's duration:\n<ul>\n<li>Fischl takes on Oz's form, greatly increasing her Movement Speed.</li>\n<li>Strikes nearby enemies with lightning, dealing<span class=\"electro\"> Electro </span>DMG to enemies she comes into contact with. Each enemy can only be struck once.</li>\n<li>Once this ability's effects end, Oz will remain on the battlefield and attack his Prinzessin's foes. If Oz is already on the field, then this will reset the duration of his presence.</li>\n</ul>",
+        "upgrades": [
+          {
+            "name": "Falling Thunder DMG",
+            "value": "208%"
+          },
+          {
+            "name": "CD",
+            "value": "15s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "60"
+          }
+        ]
+      }
+    ],
+    "passiveTalents": [
+      {
+        "name": "Stellar Predator",
+        "unlock": "Unlocked at Ascension 1",
+        "description": "When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing AoE Electro DMG equal to 152.7% of the arrow's DMG."
+      },
+      {
+        "name": "Lightning Smite",
+        "unlock": "Unlocked at Ascension 4",
+        "description": "If a character triggers an Electro-related Elemental Reaction when Oz is on the field, the enemy shall be stricken with Thundering Retribution, dealing Electro DMG equal to 80% of Fischl's ATK."
+      },
+      {
+        "name": "Mein Hausgarten",
+        "unlock": "Unlocked Automatically",
+        "description": "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%."
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Gaze of the Deep",
+        "unlock": "Constellation Lv. 1",
+        "description": "Even when Oz is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl attacks an enemy, Oz fires a joint attack, dealing 22% of ATK DMG."
+      },
+      {
+        "name": "Devourer of All-Sins",
+        "unlock": "Constellation Lv. 2",
+        "description": "When Nightrider is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%."
+      },
+      {
+        "name": "Wings of Nightmare",
+        "unlock": "Constellation Lv. 3",
+        "description": "Increases the Level of Nightrider by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Her Pilgrimage of Bleak",
+        "unlock": "Constellation Lv. 4",
+        "description": "When Midnight Phatasmagoria is used, it deals 222% of ATK as Electro DMG to surrounding enemies.\nWhen the skill duration ends, Fischl regenerates 20% of her HP."
+      },
+      {
+        "name": "Against the Fleeing Light",
+        "unlock": "Constellation Lv. 5",
+        "description": "Increase the Level of Midnight Phantasmagoria by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Evernight Raven",
+        "unlock": "Constellation Lv. 6",
+        "description": "Increases the duration of Oz's summoning by 2s. Additionally, Oz attacks with the current character when present, dealing 30% of Fischl's ATK as Electro DMG."
+      }
+    ]
+  }

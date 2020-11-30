@@ -1,0 +1,139 @@
+{
+    "name": "Kaeya",
+    "description": "A thinker in the Knights of Favonius with a somewhat exotic appearance.",
+    "vision": "Cryo",
+    "weapon": "Sword",
+    "rarity": 4,
+    "skillTalents": [
+      {
+        "name": "Ceremonial Bladework",
+        "unlock": "Normal Attack",
+        "description": "<h3>Normal Attack</h3>\n<p>Performs up to 5 consecutive strikes.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-air to strike the ground below, damaging enemeies along the path and dealing AoE DMG upon impact.</p>",
+        "upgrades": [
+          {
+            "name": "1-Hit DMG",
+            "value": "53.8%"
+          },
+          {
+            "name": "2-Hit DMG",
+            "value": "51.7%"
+          },
+          {
+            "name": "3-Hit DMG",
+            "value": "65.3%"
+          },
+          {
+            "name": "4-Hit DMG",
+            "value": "70.9%"
+          },
+          {
+            "name": "5-Hit DMG",
+            "value": "88.2%"
+          },
+          {
+            "name": "Charged Attack DMG",
+            "value": "55% + 73.1%"
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20"
+          },
+          {
+            "name": "Plunge DMG",
+            "value": "63.9%"
+          },
+          {
+            "name": "Low / High Plunge DMG",
+            "value": "128% / 160%"
+          }
+        ]
+      },
+      {
+        "name": "Frostgnaw",
+        "unlock": "Elemental Skill",
+        "description": "Unleashes a frigit blast, dealing<span class=\"cryo\"> Cryo </span>DMG to enemies in front of Kaeya.",
+        "upgrades": [
+          {
+            "name": "Skill DMG",
+            "value": "191%"
+          },
+          {
+            "name": "CD",
+            "value": "6s"
+          }
+        ]
+      },
+      {
+        "name": "Glacial Waltz",
+        "unlock": "Elemental Burst",
+        "description": "Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.\n<br>\nThese icicles will follow the character around and deal<span class=\"cryo\"> Cryo </span>DMG to enemies in their path for so long as they persist.",
+        "upgrades": [
+          {
+            "name": "Skill DMG",
+            "value": "77.6%"
+          },
+          {
+            "name": "CD",
+            "value": "15s"
+          },
+          {
+            "name": "Duration",
+            "value": "8s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "60"
+          }
+        ]
+      }
+    ],
+    "passiveTalents": [
+      {
+        "name": "Cold-Blooded Strike",
+        "unlock": "Unlocked at Ascension 1",
+        "description": "Every hit with Frostgnaw regenerates HP for Kaeya equal to 15% of ATK."
+      },
+      {
+        "name": "Heart of the Abyss",
+        "unlock": "Unlocked at Ascension 4",
+        "description": "Enemies Frozen by Frostgnaw will drop additional Elemental Particles.\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use."
+      },
+      {
+        "name": "Hidden Strength",
+        "unlock": "Unlocked Automatically",
+        "description": "Decreases all party member's sprinting Stamina consumption by 20%."
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Excellent Blood",
+        "unlock": "Constellation Lv. 1",
+        "description": "The CRIT Rate of Normal Attack and Charged Attack DMG against enemies affected by the Cold or Frozen status effects is increased by 15%."
+      },
+      {
+        "name": "Never-Ending Performance",
+        "unlock": "Constellation Lv. 2",
+        "description": "Every time Glacial Waltz defeats an enemy, its duration is increased by 2.5s, up to a maximum of 15s."
+      },
+      {
+        "name": "Dance of Frost",
+        "unlock": "Constellation Lv. 3",
+        "description": "Increases the Level of Frostgnaw by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Frozen Kiss",
+        "unlock": "Constellation Lv. 4",
+        "description": "Triggers automatically when Kaeya's HP falls below 20%:\nCreates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s.\nThis shield absorbs Cryo DMG with 250% efficiency.\nCan only occur once every 60s."
+      },
+      {
+        "name": "Frostbiting Embrace",
+        "unlock": "Constellation Lv. 5",
+        "description": "Increase the Level of Glacial Waltz by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Glacial Whirlwind",
+        "unlock": "Constellation Lv. 6",
+        "description": "Glacial Waltz will generate 1 additional icicle, and will regenerate 15 Energy when cast."
+      }
+    ]
+  }
