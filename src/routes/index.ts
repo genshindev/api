@@ -5,6 +5,7 @@
 import Router from 'koa-router';
 import {
   getAvailableEntities,
+  getAvailableImages,
   getEntity,
   getImage,
   getTypes,
@@ -54,7 +55,12 @@ router.get('/:type/:id/:imageType', async (ctx) => {
     ctx.body = image.image;
     ctx.type = image.type;
   } catch (e) {
-    ctx.body = { error: e.message };
+    try {
+      const av = await getAvailableImages(type, id);
+      ctx.body = { error: e.message, availableImages: av };
+    } catch (e) {
+      ctx.body = { error: e.message };
+    }   
   }
 });
 

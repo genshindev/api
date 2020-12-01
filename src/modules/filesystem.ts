@@ -99,7 +99,7 @@ export async function getImage(type: string, id: string, image: string) {
     parsedPath.ext.length > 0 ? parsedPath.ext.substring(1) : 'webp';
 
   if (!existsSync(filePath)) {
-    throw new Error(`Image ${type}/${id}/${image} doesn't exist`);
+      throw new Error(`Image ${type}/${id}/${image} doesn't exist`);
   }
 
   return {
