@@ -1,23 +1,37 @@
 import { dataDirectory, imagesDirectory } from '../config';
-// import keyv from 'keyv';
+import keyv from 'keyv';
 import { promises as fs, existsSync } from 'fs';
 import mimeTypes from 'mime-types';
 import path from 'path';
 import sharp from 'sharp';
 
-// const cache = new keyv();
+const cache = new keyv();
 
 export async function getTypes(): Promise<string[]> {
-  return fs.readdir(dataDirectory(''));
+  const found = await cache.get('types');
+  if (found) return found;
+
+  const types = await fs.readdir(dataDirectory(''));
+
+  await cache.set('types', types);
+  console.log('added types to cache');
+
+  return types;
 }
 
 export async function getAvailableEntities(
   type: string,
 ): Promise<string[] | null> {
+  const found = await cache.get(`data-${type}`);
+  if (found) return found;
+
   const exists = existsSync(dataDirectory(type));
   if (!exists) throw new Error(`Type ${type} not found`);
 
-  return fs.readdir(dataDirectory(type));
+  const entities = await fs.readdir(dataDirectory(type));
+  await cache.set(`data-${type}`, entities);
+  console.log(`added data-${type} to cache`);
+  return entities;
 }
 
 export async function getEntity(
@@ -25,6 +39,9 @@ export async function getEntity(
   id: string,
   lang: string = 'en',
 ): Promise<any> {
+  const found = await cache.get(`data-${type}-${id}-${lang}`);
+  if (found) return found;
+
   const filePath = path
     .join(dataDirectory(type), id.toLowerCase(), `${lang}.json`)
     .normalize();
@@ -44,7 +61,10 @@ export async function getEntity(
 
   const file = await fs.readFile(filePath);
   try {
-    return JSON.parse(file.toString('utf-8'));
+    const entity = JSON.parse(file.toString('utf-8'));
+    await await cache.set(`data-${type}-${id}-${lang}`, entity);
+    console.log(`added data-${type}-${id}-${lang} to cache`);
+    return entity;
   } catch (e) {
     throw new Error(
       `Error in JSON formatting of Entity ${type}/${id} for language ${lang}, create an issue at https://github.com/genshindev/api/issues`,
@@ -56,13 +76,18 @@ export async function getAvailableImages(
   type: string,
   id: string,
 ): Promise<string[]> {
-  const filePath = path.join(imagesDirectory(type), id).normalize();
+  const found = await cache.get(`image-${type}-${id}`);
+  if (found) return found;
 
+  const filePath = path.join(imagesDirectory(type), id).normalize();
   if (!existsSync(filePath)) {
     throw new Error(`Entity ${type}/${id} doesn't exist`);
   }
 
-  return fs.readdir(filePath);
+  const images = await fs.readdir(filePath);
+  await cache.set(`image-${type}-${id}`, images);
+  console.log(`added image-${type}-${id} to cache`);
+  return images;
 }
 
 export async function getImage(type: string, id: string, image: string) {
