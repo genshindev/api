@@ -3,6 +3,7 @@ dependencies:
   file-loader: 6.2.0
   gulp-cli: 2.3.0
   json-loader: 0.5.7
+  keyv: 4.0.3
   koa: 2.13.0
   koa-body: 4.2.0
   koa-helmet: 6.0.0
@@ -10,6 +11,7 @@ dependencies:
   mime-types: 2.1.27
   sharp: 0.26.3
 devDependencies:
+  '@types/keyv': 3.1.1
   '@types/koa': 2.11.6
   '@types/koa-helmet': 6.0.1
   '@types/koa-router': 7.4.1
@@ -177,6 +179,12 @@ packages:
     dev: true
     resolution:
       integrity: sha512-GJhpTepz2udxGexqos8wgaBx4I/zWIDPh/KOGEwAqtuGDkOUJu5eFvwmdBX4AmB8Odsr+9pHCQqiAqDL/yKMKw==
+  /@types/keyv/3.1.1:
+    dependencies:
+      '@types/node': 14.14.10
+    dev: false
+    resolution:
+      integrity: sha512-MPtoySlAZQ37VoLaPcTHCu1RWJ4llDkULYZIzOYxlhxBqYPB0RsRlmMU0R6tahtFe27mIdkHV+551ZWV4PLmVw==
   /@types/koa-compose/3.2.5:
     dependencies:
       '@types/koa': 2.11.6
@@ -2479,6 +2487,10 @@ packages:
     dev: true
     resolution:
       integrity: sha1-Wx85evx11ne96Lz8Dkfh+aPZqJg=
+  /json-buffer/3.0.1:
+    dev: false
+    resolution:
+      integrity: sha512-4bV5BfR2mqfQTJm+V5tPPdf+ZpuhiIvTuAB5g8kcrXOZpTT/QwwVRWBywX1ozr6lEuPdbHxwaJlm9G6mI2sfSQ==
   /json-loader/0.5.7:
     dev: false
     resolution:
@@ -2520,6 +2532,12 @@ packages:
     dev: true
     resolution:
       integrity: sha512-9ykJ/46SN/9KPM/sichzQ7OvXyGDYKGTaDlKMGCAlg2UK8KRy4jb0d8sFc+0Tt0YYnThq8X2RZgCg74RPxgcVA==
+  /keyv/4.0.3:
+    dependencies:
+      json-buffer: 3.0.1
+    dev: false
+    resolution:
+      integrity: sha512-zdGa2TOpSZPq5mU6iowDARnMBZgtCqJ11dJROFi6tg6kTn4nuUdU09lFyLFSaHrWqpIJ+EBq4E8/Dc0Vx5vLdA==
   /kind-of/3.2.2:
     dependencies:
       is-buffer: 1.1.6
@@ -4434,6 +4452,7 @@ packages:
     resolution:
       integrity: sha512-faQrqNMzcPCHGVC2aaOINk13K+aaBDUPjGWl0teOXywElLjyVAB6Oe2jj62jHYtwsU49jXhScYbvPENK+6zAvQ==
 specifiers:
+  '@types/keyv': ^3.1.1
   '@types/koa': ^2.11.6
   '@types/koa-helmet': ^6.0.1
   '@types/koa-router': ^7.4.1
@@ -4448,6 +4467,7 @@ specifiers:
   file-loader: ^6.2.0
   gulp-cli: ^2.3.0
   json-loader: ^0.5.7
+  keyv: ^4.0.3
   koa: ^2.13.0
   koa-body: ^4.2.0
   koa-helmet: ^6.0.0
