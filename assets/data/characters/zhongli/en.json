@@ -1,0 +1,73 @@
+{
+  "name": "Zhongli",
+  "description": "A mysterious guest invited by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+  "vision": "Geo",
+  "weapon": "Polearm",
+  "rarity": 5,
+  "skillTalents": [
+    {
+      "name": "Rain of Stone",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 6 consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact."
+    },
+    {
+      "name": "Dominus Lapidis",
+      "unlock": "Elemental Skill",
+      "description": "Press\nCommands the omnipresent power of earth to solidify into a Stone Stele, dealing AoE Geo DMG.\nAdditionally, the Stone Stele will resonate with other Geo Constructs in the vicinity, dealing Geo DMG to surrounding enemies.\nThe Stone Stele is considered a Geo Construct, and can both be climbed and used to block attacks. Only one may exist at any one time.\nHold\nCauses nearby Geo energy to explode, causing the following effects:\n\nCreates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP, and absorbs Geo DMG 250% more effectively.\nCauses AoE Geo DMG.\nIf there are nearby targets with the Geo element, it will drain a large amount of Geo element from a maximum of 2 such targets. This effect does not cause DMG.\n"
+    },
+    {
+      "name": "Planet Befall",
+      "unlock": "Elemental Burst",
+      "description": "Brings a falling meteor down to earth, dealing massive Geo DMG to opponents caught in its AoE and applying the Petrification status to them.\nPetrification\nOpponents affected by the Petrification status cannot move."
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Resonant Waves",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "When the Jade Shield takes DMG, it will Fortify:\n\nFortified characters have 5% increased Shield Strength.\n\nCan stack up to 5 times, and lasts until the Jade Shield dissapears."
+    },
+    {
+      "name": "Dominance of Earth",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "Planet Befall deals additional DMG equal to 33% of Zhongli's Max HP."
+    },
+    {
+      "name": "Arcanum of Crystal",
+      "unlock": "Unlocked Automatically",
+      "description": "Refunds 15% of the ores used when crafting Polearm-type weapons."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Rock, the Backbone of Earth",
+      "unlock": "Constellation Lv. 1",
+      "description": "Increases the maximum number of Stone Steles created by Dominus Lapidis that may exist simultaneously by 2."
+    },
+    {
+      "name": "Stone, the Cradle of Jade",
+      "unlock": "Constellation Lv. 2",
+      "description": "Planet Befall grants nearby characters on the field a Jade Shield when it descends."
+    },
+    {
+      "name": "Jade, Shimmering through Darkness",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Dominus Lapidis by 3.\nMaximum upgrade level is 15."
+    },
+    {
+      "name": "Topaz, Unbreakable and Fearless",
+      "unlock": "Constellation Lv. 4",
+      "description": "Increases Planet Befall's AoE by 20% and increases the duration of Planet Befall's Petrification effect by 2s."
+    },
+    {
+      "name": "Lazuli, Herald of the Order",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increase the Level of Planet Befall by 3.\nMaximum upgrade level is 15."
+    },
+    {
+      "name": "Chrysos, Bounty of Dominator",
+      "unlock": "Constellation Lv. 6",
+      "description": "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.\nA single instance of regeneration cannot exceed 8% of that character's Max HP."
+    }
+  ]
+}
