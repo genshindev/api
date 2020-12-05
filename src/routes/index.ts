@@ -60,7 +60,7 @@ router.get('/:type/:id/:imageType', async (ctx) => {
       ctx.body = { error: e.message, availableImages: av };
     } catch (e) {
       ctx.body = { error: e.message };
-    }   
+    }
   }
 });
 
