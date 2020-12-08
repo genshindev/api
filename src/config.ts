@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2020 genshin.dev
+ * Licensed under the Open Software License version 3.0
+ */
 import path from 'path';
 
 export const dataDirectory = (type: string) =>

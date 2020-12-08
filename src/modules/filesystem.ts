@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2020 genshin.dev
+ * Licensed under the Open Software License version 3.0
+ */
 import { dataDirectory, imagesDirectory } from '../config';
 import keyv from 'keyv';
 import { promises as fs, existsSync } from 'fs';
