@@ -46,6 +46,16 @@ router.get('/:type/:id', async (ctx) => {
   }
 });
 
+router.get('/:type/:id/list', async (ctx) => {
+  const { type, id } = ctx.params;
+
+  try {
+    ctx.body = await getAvailableImages(type, id);
+  } catch (e) {
+    ctx.body = { error: e.message };
+  }
+})
+
 router.get('/:type/:id/:imageType', async (ctx) => {
   const { type, id, imageType } = ctx.params;
 

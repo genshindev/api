@@ -85,7 +85,7 @@ export async function getAvailableImages(
 
   const filePath = path.join(imagesDirectory(type), id).normalize();
   if (!existsSync(filePath)) {
-    throw new Error(`Entity ${type}/${id} doesn't exist`);
+    throw new Error(`No images for ${type}/${id} exist`);
   }
 
   const images = await fs.readdir(filePath);
