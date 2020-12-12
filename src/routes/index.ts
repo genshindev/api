@@ -34,6 +34,25 @@ router.get('/:type', async (ctx) => {
   }
 });
 
+router.get('/:type/all', async (ctx) => {
+  try {
+    const { lang } = ctx.query;
+    const { type } = ctx.params;
+    const entities = await getAvailableEntities(type);
+
+    if (!entities) return;
+
+    ctx.body = await Promise.all(
+      entities.map(async (id) => {
+        return await getEntity(type, id, lang);
+      }),
+    );
+  } catch (e) {
+    ctx.status = 404;
+    ctx.body = { error: e.message };
+  }
+});
+
 router.get('/:type/:id', async (ctx) => {
   try {
     const { lang } = ctx.query;
@@ -54,7 +73,7 @@ router.get('/:type/:id/list', async (ctx) => {
   } catch (e) {
     ctx.body = { error: e.message };
   }
-})
+});
 
 router.get('/:type/:id/:imageType', async (ctx) => {
   const { type, id, imageType } = ctx.params;
