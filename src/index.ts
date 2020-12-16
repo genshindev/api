@@ -5,6 +5,7 @@
 import Koa from 'koa';
 import koaBody from 'koa-body';
 import helmet from 'koa-helmet';
+import cors from '@koa/cors';
 import dotenv from 'dotenv';
 
 import router from './routes';
@@ -17,6 +18,7 @@ dotenv.config();
 
   app.use(koaBody());
   app.use(helmet());
+  app.use(cors());
 
   app.use(router.routes());
 
