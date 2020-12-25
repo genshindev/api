@@ -8,17 +8,17 @@
       {
         "name": "Favonius Bladework - Weiss",
         "unlock": "Normal Attack",
-        "description": "<h3>Normal Attack</h3>\n<p>Perform up to 5 rapid strikes.</p>\n<h3>Charged Attack</h3>\n<p>Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.</p>\n<h3>Plunging Attack</h3>\n<p>Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.</p>"
+        "description": "Normal Attack\nPerform up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
       },
       {
         "name": "Abiogenesis: Solar Isotoma",
         "unlock": "Elemental Skill",
-        "description": "<p>Albedo creates a Solar Isotoma using alchemy, which deals AoE<span class=\"geo\"> Geo </span>DMG on appearance.</p>\n<h3>Solar Isotoma</h3>\n<ul>\n<li>When enemies within the Solar Isotoma zone are hit, the Solar Isotoma will generate Transient Blossoms which deal AoE<span class=\"geo\"> Geo </span>DMG. DMG dealt scales off Albedo's DEF.</li>\n<li>Transient Blossoms can only be generated once every 2s.</li>\n<li>When a character is located at the locus of the Solar Isotoma, the Solar Isotoma will accumulate<span class=\"geo\"> Geo </span>power to form a crystallized platform that lifts the character up to a certain height. Only one crystallized platform can exist at a time.</li>\n<li>Solar Isotoma is considered a<span class=\"geo\"> Geo </span>construct.</li>\n</ul>\n<p>Hold to designate the location of the skill.</p>"
+        "description": "Albedo creates a Solar Isotoma using alchemy, which deals AoE Geo DMG on appearance.\nSolar Isotoma\n\nWhen enemies within the Solar Isotoma zone are hit, the Solar Isotoma will generate Transient Blossoms which deal AoE Geo DMG. DMG dealt scales off Albedo's DEF.\nTransient Blossoms can only be generated once every 2s.\nWhen a character is located at the locus of the Solar Isotoma, the Solar Isotoma will accumulate Geo power to form a crystallized platform that lifts the character up to a certain height. Only one crystallized platform can exist at a time.\nSolar Isotoma is considered a Geo construct.\n\nHold to designate the location of the skill."
       },
       {
         "name": "Rite of Progeniture: Tectonic Tide",
         "unlock": "Elemental Burst",
-        "description": "<p>Under Albedo's command,<span class=\"geo\"> Geo </span>crystals surge and burst forth, dealing AoE<span class=\"geo\"> Geo </span>DMG in front of him.<br>\nIf a Solar Isotoma created by Albedo himself is on the field, 7 Fatal Blossoms will be generated in the Solar Isotoma field, bursting violently into bloom and dealing AoE<span class=\"geo\"> Geo </span>DMG</p>\n<p>Tecotonic Tide DMG and Fatal Blossom DMG will not generate Transient Blossoms.</p>"
+        "description": "Under Albedo's command, Geo crystals surge and burst forth, dealing AoE Geo DMG in front of him.\nIf a Solar Isotoma created by Albedo himself is on the field, 7 Fatal Blossoms will be generated in the Solar Isotoma field, bursting violently into bloom and dealing AoE Geo DMG\nTecotonic Tide DMG and Fatal Blossom DMG will not generate Transient Blossoms."
       }
     ],
     "passiveTalents": [
