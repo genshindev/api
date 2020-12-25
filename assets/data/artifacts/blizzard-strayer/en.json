@@ -1,0 +1,6 @@
+{
+  "name": "Blizzard Strayer",
+  "max_rarity": 5,
+  "2-piece_bonus": "Cryo DMG Bonus +15%",
+  "4-piece_bonus": "When a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%."
+}
