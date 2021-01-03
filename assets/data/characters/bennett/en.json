@@ -51,7 +51,7 @@
     {
       "name": "Passion Overload",
       "unlock": "Elemental Skill",
-      "description": "Bennett puts all his fire and passion for adventuring into his sword. Results may very based on how fired up he is.\nPress\nA single, swift flame strike that deals Pyro DMG.\nHold (Short)\nCharges up, resulting in different effects when unleashed based on the Charge Level.\n\nLevel 1: Strikes twice, dealing Pyro DMG and launching enemies.\nLevel 2: Unleashes 3 consecutive attacks that deal impressive Pyro DMG, but the last attack triggers an explosion that launches both Bennet and the enemy.\n\nBennett takes no damage from being launched.",
+      "description": "Bennett puts all his fire and passion for adventuring into his sword. Results may very based on how fired up he is.\nPress\nA single, swift flame strike that deals Pyro DMG.\nHold (Short)\nCharges up, resulting in different effects when unleashed based on the Charge Level.\n\nLevel 1: Strikes twice, dealing Pyro DMG and launching enemies.\nLevel 2: Unleashes 3 consecutive attacks that deal impressive Pyro DMG, but the last attack triggers an explosion that launches both Bennett and the enemy.\n\nBennett takes no damage from being launched.",
       "upgrades": [
         {
           "name": "Press DMG",
