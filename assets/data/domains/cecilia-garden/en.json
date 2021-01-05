@@ -1,0 +1,665 @@
+{
+    "name": "Cecilia Garden",
+    "type": "Forgery",
+    "description": "The Cecilia flowers that only grow on high cliffs once bloomed in the greenhouses here.\nThe ancient civilization that once enjoyed the scent of the Cecilia was lost, and so too was the sea of white flowers.",
+    "location": "Wolvendom, Mondstadt",
+    "nation": "Mondstadt",
+    "requirements": [
+        {
+            "level": "1",
+            "adventureRank": "16",
+            "recommendedLevel": "15",
+            "leyLineDisorder": "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-80% Reduce CD) until the inflicted Hydro element is removed."
+        },
+        {
+            "level": "2",
+            "adventureRank": "21",
+            "recommendedLevel": "36",
+            "leyLineDisorder": "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-100% Reduce CD) until the inflicted Hydro element is removed."
+        },
+        {
+            "level": "3",
+            "adventureRank": "30",
+            "recommendedLevel": "59",
+            "leyLineDisorder": "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-100% Reduce CD) until the inflicted Hydro element is removed."
+        },
+        {
+            "level": "4",
+            "adventureRank": "40",
+            "recommendedLevel": "80",
+            "leyLineDisorder": "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-100% Reduce CD) until the inflicted Hydro element is removed."
+        }
+    ],
+    "recommendedElements": [
+        {
+            "element": "cryo"
+        },
+        {
+            "element": "pyro"
+        },
+        {
+            "element": "electro"
+        }
+    ],
+    "rewards": [
+        {
+            "day": "mon",
+            "details": [
+                {
+                    "level": "1",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "10",
+                    "mora": "1125",
+                    "drops": [
+                        {
+                            "name": "Tile of Decarabian's Tower",
+                            "rate": "4-6"
+                        }
+                    ]
+                },
+                {
+                    "level": "2",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1550",
+                    "drops": [
+                        {
+                            "name": "Tile of Decarabian's Tower",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Debris of Decarabian's City",
+                            "rate": "1-3"
+                        }
+                    ]
+                },
+                {
+                    "level": "3",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1850",
+                    "drops": [
+                        {
+                            "name": "Tile of Decarabian's Tower",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Debris of Decarabian's City",
+                            "rate": "1-3"
+                        },
+                        {
+                            "name": "Fragment of Decarabian's Epic",
+                            "rate": "0-2"
+                        }
+                    ]
+                },
+                {
+                    "level": "4",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "20",
+                    "mora": "2200",
+                    "items": [
+                        {
+                            "name": "Tile of Decarabian's Tower",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Debris of Decarabian's City",
+                            "rate": "0-4"
+                        },
+                        {
+                            "name": "Fragment of Decarabian's Epic",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Scattered Piece of Decarabian's Dream",
+                            "rate": "0-1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "tue",
+            "details": [
+                {
+                    "level": "1",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "10",
+                    "mora": "1125",
+                    "drops": [
+                        {
+                            "name": "Boreal Wolf's Milk Tooth",
+                            "rate": "4-6"
+                        }
+                    ]
+                },
+                {
+                    "level": "2",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1550",
+                    "drops": [
+                        {
+                            "name": "Boreal Wolf's Milk Tooth",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Cracked Tooth",
+                            "rate": "1-3"
+                        }
+                    ]
+                },
+                {
+                    "level": "3",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1850",
+                    "drops": [
+                        {
+                            "name": "Boreal Wolf's Milk Tooth",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Cracked Tooth",
+                            "rate": "1-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Broken Fang",
+                            "rate": "0-2"
+                        }
+                    ]
+                },
+                {
+                    "level": "4",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "20",
+                    "mora": "2200",
+                    "items": [
+                        {
+                            "name": "Boreal Wolf's Milk Tooth",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Cracked Tooth",
+                            "rate": "0-4"
+                        },
+                        {
+                            "name": "Boreal Wolf's Broken Fang",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Nostalgia",
+                            "rate": "0-1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "wed",
+            "details": [
+                {
+                    "level": "1",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "10",
+                    "mora": "1125",
+                    "drops": [
+                        {
+                            "name": "Fetters of the Dandelion Gladiator",
+                            "rate": "4-6"
+                        }
+                    ]
+                },
+                {
+                    "level": "2",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1550",
+                    "drops": [
+                        {
+                            "name": "Fetters of the Dandelion Gladiator",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Chains of the Dandelion Gladiator",
+                            "rate": "1-3"
+                        }
+                    ]
+                },
+                {
+                    "level": "3",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1850",
+                    "drops": [
+                        {
+                            "name": "Fetters of the Dandelion Gladiator",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Chains of the Dandelion Gladiator",
+                            "rate": "1-3"
+                        },
+                        {
+                            "name": "Shackles of the Dandelion Gladiator",
+                            "rate": "0-2"
+                        }
+                    ]
+                },
+                {
+                    "level": "4",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "20",
+                    "mora": "2200",
+                    "items": [
+                        {
+                            "name": "Fetters of the Dandelion Gladiator",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Chains of the Dandelion Gladiator",
+                            "rate": "0-4"
+                        },
+                        {
+                            "name": "Shackles of the Dandelion Gladiator",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Dream of the Dandelion Gladiator",
+                            "rate": "0-1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "thu",
+            "details": [
+                {
+                    "level": "1",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "10",
+                    "mora": "1125",
+                    "drops": [
+                        {
+                            "name": "Tile of Decarabian's Tower",
+                            "rate": "4-6"
+                        }
+                    ]
+                },
+                {
+                    "level": "2",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1550",
+                    "drops": [
+                        {
+                            "name": "Tile of Decarabian's Tower",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Debris of Decarabian's City",
+                            "rate": "1-3"
+                        }
+                    ]
+                },
+                {
+                    "level": "3",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1850",
+                    "drops": [
+                        {
+                            "name": "Tile of Decarabian's Tower",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Debris of Decarabian's City",
+                            "rate": "1-3"
+                        },
+                        {
+                            "name": "Fragment of Decarabian's Epic",
+                            "rate": "0-2"
+                        }
+                    ]
+                },
+                {
+                    "level": "4",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "20",
+                    "mora": "2200",
+                    "items": [
+                        {
+                            "name": "Tile of Decarabian's Tower",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Debris of Decarabian's City",
+                            "rate": "0-4"
+                        },
+                        {
+                            "name": "Fragment of Decarabian's Epic",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Scattered Piece of Decarabian's Dream",
+                            "rate": "0-1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "fri",
+            "details": [
+                {
+                    "level": "1",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "10",
+                    "mora": "1125",
+                    "drops": [
+                        {
+                            "name": "Boreal Wolf's Milk Tooth",
+                            "rate": "4-6"
+                        }
+                    ]
+                },
+                {
+                    "level": "2",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1550",
+                    "drops": [
+                        {
+                            "name": "Boreal Wolf's Milk Tooth",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Cracked Tooth",
+                            "rate": "1-3"
+                        }
+                    ]
+                },
+                {
+                    "level": "3",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1850",
+                    "drops": [
+                        {
+                            "name": "Boreal Wolf's Milk Tooth",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Cracked Tooth",
+                            "rate": "1-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Broken Fang",
+                            "rate": "0-2"
+                        }
+                    ]
+                },
+                {
+                    "level": "4",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "20",
+                    "mora": "2200",
+                    "items": [
+                        {
+                            "name": "Boreal Wolf's Milk Tooth",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Cracked Tooth",
+                            "rate": "0-4"
+                        },
+                        {
+                            "name": "Boreal Wolf's Broken Fang",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Nostalgia",
+                            "rate": "0-1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "sat",
+            "details": [
+                {
+                    "level": "1",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "10",
+                    "mora": "1125",
+                    "drops": [
+                        {
+                            "name": "Fetters of the Dandelion Gladiator",
+                            "rate": "4-6"
+                        }
+                    ]
+                },
+                {
+                    "level": "2",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1550",
+                    "drops": [
+                        {
+                            "name": "Fetters of the Dandelion Gladiator",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Chains of the Dandelion Gladiator",
+                            "rate": "1-3"
+                        }
+                    ]
+                },
+                {
+                    "level": "3",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1850",
+                    "drops": [
+                        {
+                            "name": "Fetters of the Dandelion Gladiator",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Chains of the Dandelion Gladiator",
+                            "rate": "1-3"
+                        },
+                        {
+                            "name": "Shackles of the Dandelion Gladiator",
+                            "rate": "0-2"
+                        }
+                    ]
+                },
+                {
+                    "level": "4",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "20",
+                    "mora": "2200",
+                    "items": [
+                        {
+                            "name": "Fetters of the Dandelion Gladiator",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Chains of the Dandelion Gladiator",
+                            "rate": "0-4"
+                        },
+                        {
+                            "name": "Shackles of the Dandelion Gladiator",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Dream of the Dandelion Gladiator",
+                            "rate": "0-1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": "sun",
+            "details": [
+                {
+                    "level": "1",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "10",
+                    "mora": "1125",
+                    "drops": [
+                        {
+                            "name": "Tile of Decarabian's Tower",
+                            "rate": "4-6"
+                        },
+                        {
+                            "name": "Boreal Wolf's Milk Tooth",
+                            "rate": "4-6"
+                        },
+                        {
+                            "name": "Fetters of the Dandelion Gladiator",
+                            "rate": "4-6"
+                        }
+                    ]
+                },
+                {
+                    "level": "2",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1550",
+                    "drops": [
+                        {
+                            "name": "Tile of Decarabian's Tower",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Debris of Decarabian's City",
+                            "rate": "1-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Milk Tooth",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Cracked Tooth",
+                            "rate": "1-3"
+                        },
+                        {
+                            "name": "Fetters of the Dandelion Gladiator",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Chains of the Dandelion Gladiator",
+                            "rate": "1-3"
+                        }
+                    ]
+                },
+                {
+                    "level": "3",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "15",
+                    "mora": "1850",
+                    "drops": [
+                        {
+                            "name": "Tile of Decarabian's Tower",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Debris of Decarabian's City",
+                            "rate": "1-3"
+                        },
+                        {
+                            "name": "Fragment of Decarabian's Epic",
+                            "rate": "0-2"
+                        },
+                        {
+                            "name": "Boreal Wolf's Milk Tooth",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Cracked Tooth",
+                            "rate": "1-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Broken Fang",
+                            "rate": "0-2"
+                        },
+                        {
+                            "name": "Fetters of the Dandelion Gladiator",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Chains of the Dandelion Gladiator",
+                            "rate": "1-3"
+                        },
+                        {
+                            "name": "Shackles of the Dandelion Gladiator",
+                            "rate": "0-2"
+                        }
+                    ]
+                },
+                {
+                    "level": "4",
+                    "adventureExperience": "100",
+                    "companionshipExperience": "20",
+                    "mora": "2200",
+                    "items": [
+                        {
+                            "name": "Tile of Decarabian's Tower",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Debris of Decarabian's City",
+                            "rate": "0-4"
+                        },
+                        {
+                            "name": "Fragment of Decarabian's Epic",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Scattered Piece of Decarabian's Dream",
+                            "rate": "0-1"
+                        },
+                        {
+                            "name": "Boreal Wolf's Milk Tooth",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Cracked Tooth",
+                            "rate": "0-4"
+                        },
+                        {
+                            "name": "Boreal Wolf's Broken Fang",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Boreal Wolf's Nostalgia",
+                            "rate": "0-1"
+                        },
+                        {
+                            "name": "Fetters of the Dandelion Gladiator",
+                            "rate": "2-3"
+                        },
+                        {
+                            "name": "Chains of the Dandelion Gladiator",
+                            "rate": "0-4"
+                        },
+                        {
+                            "name": "Shackles of the Dandelion Gladiator",
+                            "rate": "0-3"
+                        },
+                        {
+                            "name": "Dream of the Dandelion Gladiator",
+                            "rate": "0-1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
