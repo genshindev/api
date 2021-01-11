@@ -1,0 +1,143 @@
+{
+  "name": "Ganyu",
+  "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+  "vision": "Cryo",
+  "weapon": "Bow",
+  "rarity": 5,
+  "skillTalents": [
+    {
+      "name": "Liutian Archery",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerform up to 6 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG. While aiming, an icy aura will accumulate on the arrowhead before the arrow is fired.\nHas different effects based on how long the energy has been charged\nCharge Level 1\nFires off an icy arrow that deals Cryo DMG.\nCharge Level 2\nFires off a Frostflake Arrow that deals Cryo DMG.\nThe Frostflake Arrow blooms after hitting its target, dealing AoE Cryo DMG.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "36.1%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "33.5%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "45.6%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "43%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "53.8%"
+        },
+        {
+          "name": "Aimed Shot",
+          "value": "43.9%"
+        },
+        {
+          "name": "Fully-Charged Aimed Shot",
+          "value": "124%"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.8%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "114% / 142%"
+        }
+      ]
+    },
+    {
+      "name": "Trail of the Qilin",
+      "unlock": "Elemental Skill",
+      "description": "Leaving a single Ice Lotus behind, Ganyu dashes backward, shunning all impurity and dealing AoE Cryo DMG.\nThe Ice Lotus continuously taunts surrounding opponents, attracting them to attack it. Its endurance scales based on Ganyu's Max HP, and it blooms profusely when destroyed or once its duration ends, dealing AoE Cryo DMG.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "172%"
+        },
+        {
+          "name": "Delay",
+          "value": "2s"
+        },
+        {
+          "name": "Duration",
+          "value": "10s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        }
+      ]
+    },
+    {
+      "name": "Celestial Shower",
+      "unlock": "Elemental Burst",
+      "description": "Coalesces atmospheric frost and snow to summon a Sacred Cryo Pearl that exorcises evil.\nWhile active, the Sacred Cryo Pearl will continuously rain down shards of ice, striking opponents within its AoE and dealing Cryo DMG.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "142%"
+        },
+        {
+          "name": "CD",
+          "value": "12s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "40"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Steady Breathing",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Sword, Claymore, or Polearm-wielding characters within the field created by Spirit Blade - Chonghua's Layered Frost have their Normal Attack SPD increased by 8%."
+    },
+    {
+      "name": "Rimechaser Blade",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "When the field created by Spirit Blade - Chonghua's Layered Frost disappears, another spirit will be summoned to strike nearby enemies, dealing 100% of Chonghua's Layered Frost's Skill DMG as AoE Cryo DMG. Enemies hit by this blade will have their Cryo RES decreased by 10% for 8s."
+    },
+    {
+      "name": "Gallant Journey",
+      "unlock": "Unlocked Automatically",
+      "description": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Ice Unleashed",
+      "unlock": "Constellation Lv. 1",
+      "description": "The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as Cryo DMG to all enemies in its path."
+    },
+    {
+      "name": "Atmospheric Revolution",
+      "unlock": "Constellation Lv. 2",
+      "description": "Elemental Skills and Elemental Bursts cast within the Frost Field created by Spirit Blade - Chongyun's Layered Frost have their CD time decreased by 15%."
+    },
+    {
+      "name": "Cloudburst",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Spirit Blade - Cloud-parting Star by 3.\nMaximum upgrade level is 15."
+    },
+    {
+      "name": "Frozen Skies",
+      "unlock": "Constellation Lv. 4",
+      "description": "Chongyun regenerates 1 Energy every time he hits an enemy affected by Cold or Frozen status effects.\nThis effect can only occur once every 2s."
+    },
+    {
+      "name": "The True Path",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the level of Spirit Blade - Chongyun's Layered Frost by 3.\nMaximum upgrade level is 15."
+    },
+    {
+      "name": "Rally of Four Blades",
+      "unlock": "Constellation Lv. 6",
+      "description": "Spirit Blade - Cloud-parting Star deals 15% more DMG to enemies with a lower percentage of their Max HP remaining than Chongyun.\nThis skill will also summon 1 additional spirt blade."
+    }
+  ]
+}
