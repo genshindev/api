@@ -1,5 +1,24 @@
 {
     "decarabian": {
+        "weapons": [
+            "apprentice's-notes",
+            "aquila-favonia",
+            "cool-steel",
+            "dull-blade",
+            "favonius-codex",
+            "favonius-sword",
+            "ferrous-shadow",
+            "magic-guide",
+            "pocket-grimoire",
+            "raven-bow",
+            "royal-grimoire",
+            "royal-longsword",
+            "silver-sword",
+            "snow-tombed-starsilver",
+            "the-bell",
+            "the-stringless",
+            "the-viridescent-hunt"
+        ],
         "availability": ["Monday", "Thursday", "Sunday"],
         "source": "Cecilia Garden",
         "uncommon": {
@@ -16,6 +35,30 @@
         }
     },
     "boreal": {
+        "weapons": [
+            "alley-hunter",
+            "bloodtainted-greatsword",
+            "deathmatch",
+            "dragonspine-spear",
+            "harbinger-of-dawn",
+            "hunter's-bow",
+            "old-merc's-pal",
+            "sacrificial-bow",
+            "sacrificial-greatsword",
+            "seasoned-hunter's-bow",
+            "sharpshooter's-oath",
+            "skyward-atlas",
+            "skyward-blade",
+            "skyward-harp",
+            "skyward-pride",
+            "sword-of-descension",
+            "the-black-sword",
+            "the-flute",
+            "the-widsith",
+            "thrilling-tales-of-dragon-slayers",
+            "waster-greatsword",
+            "wine-and-song"
+        ],
         "availability": ["Tuesday", "Friday", "Sunday"],
         "source": "Cecilia Garden",
         "uncommon": {

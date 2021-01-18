@@ -1,5 +1,14 @@
 {
     "freedom": {
+        "characters": [
+            "amber",
+            "barbara",
+            "diona",
+            "sucrose",
+            "tartaglia",
+            "traveler-anemo",
+            "traveler-geo"
+        ],
         "availability": ["Monday", "Thursday", "Sunday"],
         "source": "Forsaken Rift",
         "uncommon": {
@@ -13,6 +22,15 @@
         }
     },
     "resistance": {
+        "characters": [
+            "bennett",
+            "diluc",
+            "jean",
+            "mona",
+            "razor",
+            "traveler-anemo",
+            "traveler-geo"
+        ],
         "availability": ["Tuesday", "Friday", "Sunday"],
         "source": "Forsaken Rift",
         "uncommon": {
