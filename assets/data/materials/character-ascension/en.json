@@ -1,0 +1,32 @@
+{
+    "cryo": {
+        "sliver": {
+            "name": "Shivada Jade Sliver",
+            "sources": ["Cryo Regisvine", "Wolf of the North", "Souvenir shop"],
+            "rarity": 2
+        },
+        "fragment": {},
+        "chunk": {},
+        "gemstone": {}
+    },
+    "geo": {
+        "sliver": {
+            "name": "Prithiva Topaz Sliver",
+            "sources": ["Geo Hypostasis", "Wolf of the North", "Souvenir shop"],
+            "rarity": 2
+        },
+        "fragment": {},
+        "chunk": {},
+        "gemstone": {}
+    },
+    "traveler": {
+        "sliver": {
+            "name": "Brilliant Diamond Sliver",
+            "sources": ["Adventure Rank 15"],
+            "rarity": 2
+        },
+        "fragment": {},
+        "chunk": {},
+        "gemstone": {}
+    }
+}

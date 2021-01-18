@@ -1,0 +1,14 @@
+{
+    "uncommon": {
+        "name": "Wanderer's Advice",
+        "experience": 1000
+    },
+    "rare": {
+        "name": "Adventurer's Experience",
+        "experience": 5000
+    },
+    "epic": {
+        "name": "Hero's Wit",
+        "experience": 20000
+    }
+}

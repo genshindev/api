@@ -1,0 +1,24 @@
+{
+    "mondstadt": {
+        "calla-lily": {
+            "name": "Calla Lily"
+        },
+        "cecilia": {},
+        "dandelion-seed": {},
+        "philanemo-mushroom": {},
+        "small-lamp-grass": {},
+        "valberry": {},
+        "windwheel-aster": {},
+        "wolfhook": {}
+    },
+    "liyue": {
+        "cor-lapis": {},
+        "glaze-lily": {},
+        "jueyun-chili": {},
+        "noctilucous-jade": {},
+        "qingxin": {},
+        "silk-flower": {},
+        "starconch": {},
+        "violetgrass": {}
+    }
+}

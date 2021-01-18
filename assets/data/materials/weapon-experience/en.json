@@ -1,0 +1,17 @@
+{
+    "common": {
+        "name": "Enhancement Ore",
+        "experience": 400,
+        "sources": ["Crafting"]
+    },
+    "fine": {
+        "name": "Fine Enhancement Ore",
+        "experience": 2000,
+        "sources": ["Crafting"]
+    },
+    "mystic": {
+        "name": "Mystic Enhancement Ore",
+        "experience": 10000,
+        "sources": ["Crafting"]
+    }
+}

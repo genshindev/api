@@ -1,0 +1,28 @@
+{
+    "freedom": {
+        "availability": ["Monday", "Thursday", "Sunday"],
+        "source": "Forsaken Rift",
+        "uncommon": {
+            "name": "Teachings of Freedom"
+        },
+        "rare": {
+            "name": "Guide to Freedom"
+        },
+        "epic": {
+            "name": "Philosophies of Freedom"
+        }
+    },
+    "resistance": {
+        "availability": ["Tuesday", "Friday", "Sunday"],
+        "source": "Forsaken Rift",
+        "uncommon": {
+            "name": "Teachings of Resistance"
+        },
+        "rare": {
+            "name": "Guide to Resistance"
+        },
+        "epic": {
+            "name": "Philosophies of Resistance"
+        }
+    }
+}

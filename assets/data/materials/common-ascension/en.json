@@ -1,0 +1,39 @@
+{
+    "slime": {
+        "common": {
+            "name": "Slime condensate"
+        },
+        "uncommon": {},
+        "rare": {}
+    },
+    "hilichurl-masks": {
+        "common": {},
+        "uncommon": {},
+        "rare": {}
+    },
+    "hilichurl-arrowheads": {
+        "common": {},
+        "uncommon": {},
+        "rare": {}
+    },
+    "samachurl-scrolls": {
+        "common": {},
+        "uncommon": {},
+        "rare": {}
+    },
+    "treasure-hoarder-insignias": {
+        "common": {},
+        "uncommon": {},
+        "rare": {}
+    },
+    "fatui-insignias": {
+        "common": {},
+        "uncommon": {},
+        "rare": {}
+    },
+    "whopperflower-nectar": {
+        "common": {},
+        "uncommon": {},
+        "rare": {}
+    }
+}

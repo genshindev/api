@@ -1,0 +1,34 @@
+{
+    "decarabian": {
+        "availability": ["Monday", "Thursday", "Sunday"],
+        "source": "Cecilia Garden",
+        "uncommon": {
+            "name": "Tile of Decarabian's Tower"
+        },
+        "rare": {
+            "name": "Debris of Decarabian's City"
+        },
+        "epic": {
+            "name": "Fragment of Decarabian's Epic"
+        },
+        "legendary": {
+            "name": "Scattered Piece of Decarabian's Dream"
+        }
+    },
+    "boreal": {
+        "availability": ["Tuesday", "Friday", "Sunday"],
+        "source": "Cecilia Garden",
+        "uncommon": {
+            "name": "Boreal Wolf's Milk Tooth"
+        },
+        "rare": {
+            "name": "Boreal Wolf's Cracked Tooth"
+        },
+        "epic": {
+            "name": "Boreal Wolf's Broken Fang"
+        },
+        "legendary": {
+            "name": "Boreal Wolf's Nostalgia"
+        }
+    }
+}
