@@ -1,24 +1,70 @@
 {
     "mondstadt": {
         "calla-lily": {
-            "name": "Calla Lily"
+            "name": "Calla Lily",
+            "characters": ["diona", "kaeya"]
         },
-        "cecilia": {},
-        "dandelion-seed": {},
-        "philanemo-mushroom": {},
-        "small-lamp-grass": {},
-        "valberry": {},
-        "windwheel-aster": {},
-        "wolfhook": {}
+        "cecilia": {
+            "name": "Cecilia",
+            "characters": ["albedo", "venti"]
+        },
+        "dandelion-seed": {
+            "name": "Dandelion Seed",
+            "characters": ["jean"]
+        },
+        "philanemo-mushroom": {
+            "name": "Philanemo Mushroom",
+            "characters": ["barbara", "klee", "mona"]
+        },
+        "small-lamp-grass": {
+            "name": "Small Lamp Grass",
+            "characters": ["amber", "diluc", "fischl"]
+        },
+        "valberry": {
+            "name": "Valberry",
+            "characters": ["lisa", "noelle"]
+        },
+        "windwheel-aster": {
+            "name": "Windwheel Aster",
+            "characters": ["bennett", "sucrose", "traveler-anemo", "traveler-geo"]
+        },
+        "wolfhook": {
+            "name": "Wolfhook",
+            "characters": ["razor"]
+        }
     },
     "liyue": {
-        "cor-lapis": {},
-        "glaze-lily": {},
-        "jueyun-chili": {},
-        "noctilucous-jade": {},
-        "qingxin": {},
-        "silk-flower": {},
-        "starconch": {},
-        "violetgrass": {}
+        "cor-lapis": {
+            "name": "Cor Lapis",
+            "characters": ["chongyun", "keqing", "zhongli"]
+        },
+        "glaze-lily": {
+            "name": "Glaze Lily",
+            "characters": ["ningguang"]
+        },
+        "jueyun-chili": {
+            "name": "Jueyun Chili",
+            "characters": ["xiangling"]
+        },
+        "noctilucous-jade": {
+            "name": "Noctilucous Jade",
+            "characters": ["beidou"]
+        },
+        "qingxin": {
+            "name": "Qingxin",
+            "characters": ["ganyu", "xiao"]
+        },
+        "silk-flower": {
+            "name": "Silk Flower",
+            "characters": ["xingqiu"]
+        },
+        "starconch": {
+            "name": "Starconch",
+            "characters": ["tartaglia"]
+        },
+        "violetgrass": {
+            "name": "Violetgrass",
+            "characters": ["qiqi", "xinyan"]
+        }
     }
 }

@@ -1,0 +1,26 @@
+{
+    "anemo": {
+        "name": "Hurrican Seed",
+        "source": "Anemo Hypostasis"
+    },
+    "cryo": {
+        "name": "Hoarfrost Core",
+        "source": "Cryo Regisvine"
+    },
+    "electro": {
+        "name": "Lightning Prism",
+        "source": "Electro Hypostasis"
+    },
+    "geo": {
+        "name": "Basalt Pillar",
+        "source": "Geo Hypostasis"
+    },
+    "hydro": {
+        "name": "Cleansing Heart",
+        "source": "Oceanid"
+    },
+    "pyro": {
+        "name": "Everflame Seed",
+        "source": "Pyro Regisvine"
+    }
+}

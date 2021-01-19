@@ -42,5 +42,85 @@
         "epic": {
             "name": "Philosophies of Resistance"
         }
+    },
+    "ballad": {
+        "characters": [
+            "albedo",
+            "fischl",
+            "kaeya",
+            "lisa",
+            "venti",
+            "traveler-anemo",
+            "traveler-geo"
+        ],
+        "availability": ["Wednesday", "Saturday", "Sunday"],
+        "source": "Forsaken Rift",
+        "uncommon": {
+            "name": "Teachings of Ballad"
+        },
+        "rare": {
+            "name": "Guide to Ballad"
+        },
+        "epic": {
+            "name": "Philosophies of Ballad"
+        }
+    },
+    "prosperity": {
+        "characters": [
+            "keqing",
+            "ningguang",
+            "qiqi",
+            "traveler-geo"
+        ],
+        "availability": ["Monday", "Thursday", "Sunday"],
+        "source": "Taishan Mansion",
+        "uncommon": {
+            "name": "Teachings of Prosperity"
+        },
+        "rare": {
+            "name": "Guide to Prosperity"
+        },
+        "epic": {
+            "name": "Philosophies of Prosperity"
+        }
+    },
+    "diligence": {
+        "characters": [
+            "chongyun",
+            "ganyu",
+            "xiangling",
+            "traveler-geo"
+        ],
+        "availability": ["Tuesday", "Friday", "Sunday"],
+        "source": "Taishan Mansion",
+        "uncommon": {
+            "name": "Teachings of Diligence"
+        },
+        "rare": {
+            "name": "Guide to Diligence"
+        },
+        "epic": {
+            "name": "Philosophies of Diligence"
+        }
+    },
+    "gold": {
+        "characters": [
+            "beidou",
+            "xingqiu",
+            "xinyan",
+            "zhongli",
+            "traveler-geo"
+        ],
+        "availability": ["Wednesday", "Saturday", "Sunday"],
+        "source": "Taishan Mansion",
+        "uncommon": {
+            "name": "Teachings of Gold"
+        },
+        "rare": {
+            "name": "Guide to Gold"
+        },
+        "epic": {
+            "name": "Philosophies of Gold"
+        }
     }
 }

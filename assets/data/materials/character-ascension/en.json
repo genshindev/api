@@ -1,13 +1,69 @@
 {
+    "anemo": {
+        "sliver": {
+            "name": "Vayuda Turquoise Sliver",
+            "sources": ["Anemo Hypostasis", "Wolf of the North", "Souvenir shop"],
+            "rarity": 2
+        },
+        "fragment": {
+            "name": "Vayuda Turquoise Fragment",
+            "sources": ["Anemo Hypostasis", "Wolf of the North"],
+            "rarity": 3
+        },
+        "chunk": {
+            "name": "Vayuda Turquoise Chunk",
+            "sources": ["Anemo Hypostasis", "Wolf of the North"],
+            "rarity": 4
+        },
+        "gemstone": {
+            "name": "Vayuda Turquoise Gemstone",
+            "sources": ["Anemo Hypostasis", "Wolf of the North"],
+            "rarity": 5
+        }
+    },
     "cryo": {
         "sliver": {
             "name": "Shivada Jade Sliver",
             "sources": ["Cryo Regisvine", "Wolf of the North", "Souvenir shop"],
             "rarity": 2
         },
-        "fragment": {},
-        "chunk": {},
-        "gemstone": {}
+        "fragment": {
+            "name": "Shivada Jade Fragment",
+            "sources": ["Cryo Regisvine", "Wolf of the North"],
+            "rarity": 3
+        },
+        "chunk": {
+            "name": "Shivada Jade Chunk",
+            "sources": ["Cryo Regisvine", "Wolf of the North"],
+            "rarity": 4
+        },
+        "gemstone": {
+            "name": "Shivada Jade Gemstone",
+            "sources": ["Cryo Regisvine", "Wolf of the North"],
+            "rarity": 5
+        }
+    },
+    "electro": {
+        "sliver": {
+            "name": "Vajrada Amethyst Sliver",
+            "sources": ["Electro Hypostasis", "Wolf of the North", "Souvenir shop"],
+            "rarity": 2
+        },
+        "fragment": {
+            "name": "Vajrada Amethyst Fragment",
+            "sources": ["Electro Hypostasis", "Wolf of the North"],
+            "rarity": 3
+        },
+        "chunk": {
+            "name": "Vajrada Amethyst Chunk",
+            "sources": ["Electro Hypostasis", "Wolf of the North"],
+            "rarity": 4
+        },
+        "gemstone": {
+            "name": "Vajrada Amethyst Gemstone",
+            "sources": ["Electro Hypostasis", "Wolf of the North"],
+            "rarity": 5
+        }
     },
     "geo": {
         "sliver": {
@@ -15,9 +71,65 @@
             "sources": ["Geo Hypostasis", "Wolf of the North", "Souvenir shop"],
             "rarity": 2
         },
-        "fragment": {},
-        "chunk": {},
-        "gemstone": {}
+        "fragment": {
+            "name": "Prithiva Topaz Fragment",
+            "sources": ["Geo Hypostasis", "Wolf of the North"],
+            "rarity": 3
+        },
+        "chunk": {
+            "name": "Prithiva Topaz Chunk",
+            "sources": ["Geo Hypostasis", "Wolf of the North"],
+            "rarity": 4
+        },
+        "gemstone": {
+            "name": "Prithiva Topaz Gemstone",
+            "sources": ["Geo Hypostasis", "Wolf of the North"],
+            "rarity": 5
+        }
+    },
+    "hydro": {
+        "sliver": {
+            "name": "Varunada Lazurite Sliver",
+            "sources": ["Oceanid", "Wolf of the North", "Souvenir shop"],
+            "rarity": 2
+        },
+        "fragment": {
+            "name": "Varunada Lazurite Fragment",
+            "sources": ["Oceanid", "Wolf of the North"],
+            "rarity": 3
+        },
+        "chunk": {
+            "name": "Varunada Lazurite Chunk",
+            "sources": ["Oceanid", "Wolf of the North"],
+            "rarity": 4
+        },
+        "gemstone": {
+            "name": "Varunada Lazurite Gemstone",
+            "sources": ["Oceanid", "Wolf of the North"],
+            "rarity": 5
+        }
+    },
+    "pyro": {
+        "sliver": {
+            "name": "Agnidus Agate Sliver",
+            "sources": ["Pyro Regisvine", "Wolf of the North", "Souvenir shop"],
+            "rarity": 2
+        },
+        "fragment": {
+            "name": "Agnidus Agate Fragment",
+            "sources": ["Pyro Regisvine", "Wolf of the North"],
+            "rarity": 3
+        },
+        "chunk": {
+            "name": "Agnidus Agate Chunk",
+            "sources": ["Pyro Regisvine", "Wolf of the North"],
+            "rarity": 4
+        },
+        "gemstone": {
+            "name": "Agnidus Agate Gemstone",
+            "sources": ["Pyro Regisvine", "Wolf of the North"],
+            "rarity": 5
+        }
     },
     "traveler": {
         "sliver": {
@@ -25,8 +137,20 @@
             "sources": ["Adventure Rank 15"],
             "rarity": 2
         },
-        "fragment": {},
-        "chunk": {},
-        "gemstone": {}
+        "fragment": {
+            "name": "Prithiva Topaz Fragment",
+            "sources": ["Geo Hypostasis", "Wolf of the North", "Souvenir shop"],
+            "rarity": 3
+        },
+        "chunk": {
+            "name": "Prithiva Topaz Chunk",
+            "sources": ["Geo Hypostasis", "Wolf of the North", "Souvenir shop"],
+            "rarity": 4
+        },
+        "gemstone": {
+            "name": "Prithiva Topaz Gemstone",
+            "sources": ["Geo Hypostasis", "Wolf of the North", "Souvenir shop"],
+            "rarity": 5
+        }
     }
 }
