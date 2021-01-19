@@ -1,155 +1,448 @@
 {
     "anemo": {
         "sliver": {
+            "slug": "vayuda-turquoise-sliver",
             "name": "Vayuda Turquoise Sliver",
-            "sources": ["Anemo Hypostasis", "Wolf of the North", "Souvenir shop"],
+            "sources": [
+                "Anemo Hypostasis", 
+                "Wolf of the North",
+                "Souvenir shop",
+                "Memories: Storming Terror I", 
+                "Memories: Storming Terror II", 
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 2
         },
         "fragment": {
+            "slug": "vayuda-turquoise-fragment",
             "name": "Vayuda Turquoise Fragment",
-            "sources": ["Anemo Hypostasis", "Wolf of the North"],
+            "sources": [
+                "Anemo Hypostasis", 
+                "Wolf of the North", 
+                "Memories: Storming Terror I", 
+                "Memories: Storming Terror II", 
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"],
             "rarity": 3
         },
         "chunk": {
+            "slug": "vayuda-turquoise-chunk",
             "name": "Vayuda Turquoise Chunk",
-            "sources": ["Anemo Hypostasis", "Wolf of the North"],
+            "sources": [
+                "Anemo Hypostasis", 
+                "Wolf of the North",
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"],
             "rarity": 4
         },
         "gemstone": {
+            "slug": "vayuda-turquoise-gemstone",
             "name": "Vayuda Turquoise Gemstone",
-            "sources": ["Anemo Hypostasis", "Wolf of the North"],
+            "sources": [
+                "Anemo Hypostasis", 
+                "Wolf of the North",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 5
         }
     },
     "cryo": {
         "sliver": {
+            "slug": "shivada-jade-sliver",
             "name": "Shivada Jade Sliver",
-            "sources": ["Cryo Regisvine", "Wolf of the North", "Souvenir shop"],
+            "sources": [
+                "Cryo Regisvine", 
+                "Wolf of the North", 
+                "Souvenir shop",
+                "Memories: Storming Terror I", 
+                "Memories: Storming Terror II", 
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"],
             "rarity": 2
         },
         "fragment": {
+            "slug": "shivada-jade-fragment",
             "name": "Shivada Jade Fragment",
-            "sources": ["Cryo Regisvine", "Wolf of the North"],
+            "sources": [
+                "Cryo Regisvine", 
+                "Wolf of the North", 
+                "Memories: Storming Terror I", 
+                "Memories: Storming Terror II", 
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"],
             "rarity": 3
         },
         "chunk": {
+            "slug": "shivada-jade-chunk",
             "name": "Shivada Jade Chunk",
-            "sources": ["Cryo Regisvine", "Wolf of the North"],
+            "sources": [
+                "Cryo Regisvine", 
+                "Wolf of the North",
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 4
         },
         "gemstone": {
+            "slug": "shivada-jade-gemstone",
             "name": "Shivada Jade Gemstone",
-            "sources": ["Cryo Regisvine", "Wolf of the North"],
+            "sources": [
+                "Cryo Regisvine", 
+                "Wolf of the North",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 5
         }
     },
     "electro": {
         "sliver": {
+            "slug": "vajrada-amethyst-sliver",
             "name": "Vajrada Amethyst Sliver",
-            "sources": ["Electro Hypostasis", "Wolf of the North", "Souvenir shop"],
+            "sources": [
+                "Electro Hypostasis", 
+                "Wolf of the North", 
+                "Souvenir shop",
+                "Memories: Storming Terror I", 
+                "Memories: Storming Terror II", 
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"],
             "rarity": 2
         },
         "fragment": {
+            "slug": "vajrada-amethyst-fragment",
             "name": "Vajrada Amethyst Fragment",
-            "sources": ["Electro Hypostasis", "Wolf of the North"],
+            "sources": [
+                "Electro Hypostasis", 
+                "Wolf of the North", 
+                "Memories: Storming Terror I", 
+                "Memories: Storming Terror II", 
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 3
         },
         "chunk": {
+            "slug": "vajrada-amethyst-chunk",
             "name": "Vajrada Amethyst Chunk",
-            "sources": ["Electro Hypostasis", "Wolf of the North"],
+            "sources": [
+                "Electro Hypostasis", 
+                "Wolf of the North",
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 4
         },
         "gemstone": {
+            "slug": "vajrada-amethyst-gemstone",
             "name": "Vajrada Amethyst Gemstone",
-            "sources": ["Electro Hypostasis", "Wolf of the North"],
+            "sources": [
+                "Electro Hypostasis", 
+                "Wolf of the North",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 5
         }
     },
     "geo": {
         "sliver": {
+            "slug": "prithiva-topaz-sliver",
             "name": "Prithiva Topaz Sliver",
-            "sources": ["Geo Hypostasis", "Wolf of the North", "Souvenir shop"],
+            "sources": [
+                "Geo Hypostasis", 
+                "Wolf of the North", 
+                "Souvenir shop",
+                "Memories: Storming Terror I", 
+                "Memories: Storming Terror II", 
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 2
         },
         "fragment": {
+            "slug": "prithiva-topaz-fragment",
             "name": "Prithiva Topaz Fragment",
-            "sources": ["Geo Hypostasis", "Wolf of the North"],
+            "sources": [
+                "Geo Hypostasis", 
+                "Wolf of the North", 
+                "Memories: Storming Terror I", 
+                "Memories: Storming Terror II", 
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 3
         },
         "chunk": {
+            "slug": "prithiva-topaz-chunk",
             "name": "Prithiva Topaz Chunk",
-            "sources": ["Geo Hypostasis", "Wolf of the North"],
+            "sources": [
+                "Geo Hypostasis", 
+                "Wolf of the North",
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 4
         },
         "gemstone": {
+            "slug": "prithiva-topaz-gemstone",
             "name": "Prithiva Topaz Gemstone",
-            "sources": ["Geo Hypostasis", "Wolf of the North"],
+            "sources": [
+                "Geo Hypostasis", 
+                "Wolf of the North", 
+                "Memories: Storming Terror V", 
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 5
         }
     },
     "hydro": {
         "sliver": {
+            "slug": "varunada-lazurite-sliver",
             "name": "Varunada Lazurite Sliver",
-            "sources": ["Oceanid", "Wolf of the North", "Souvenir shop"],
+            "sources": [
+                "Oceanid", 
+                "Wolf of the North", 
+                "Souvenir shop",
+                "Memories: Storming Terror I", 
+                "Memories: Storming Terror II", 
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 2
         },
         "fragment": {
+            "slug": "varunada-lazurite-fragment",
             "name": "Varunada Lazurite Fragment",
-            "sources": ["Oceanid", "Wolf of the North"],
+            "sources": [
+                "Oceanid", 
+                "Wolf of the North", 
+                "Memories: Storming Terror I", 
+                "Memories: Storming Terror II", 
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 3
         },
         "chunk": {
+            "slug": "varunada-lazurite-chunk",
             "name": "Varunada Lazurite Chunk",
-            "sources": ["Oceanid", "Wolf of the North"],
+            "sources": [
+                "Oceanid", 
+                "Wolf of the North",
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 4
         },
         "gemstone": {
+            "slug": "varunada-lazurite-gemstone",
             "name": "Varunada Lazurite Gemstone",
-            "sources": ["Oceanid", "Wolf of the North"],
+            "sources": [
+                "Oceanid", 
+                "Wolf of the North", 
+                "Memories: Storming Terror V", 
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 5
         }
     },
     "pyro": {
         "sliver": {
+            "slug": "agnidus-agate-sliver",
             "name": "Agnidus Agate Sliver",
-            "sources": ["Pyro Regisvine", "Wolf of the North", "Souvenir shop"],
+            "sources": [
+                "Pyro Regisvine", 
+                "Wolf of the North", 
+                "Souvenir shop",
+                "Memories: Storming Terror I", 
+                "Memories: Storming Terror II", 
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 2
         },
         "fragment": {
+            "slug": "agnidus-agate-fragment",
             "name": "Agnidus Agate Fragment",
-            "sources": ["Pyro Regisvine", "Wolf of the North"],
+            "sources": [
+                "Pyro Regisvine", 
+                "Wolf of the North", 
+                "Memories: Storming Terror I", 
+                "Memories: Storming Terror II", 
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 3
         },
         "chunk": {
+            "slug": "agnidus-agate-chunk",
             "name": "Agnidus Agate Chunk",
-            "sources": ["Pyro Regisvine", "Wolf of the North"],
+            "sources": [
+                "Pyro Regisvine", 
+                "Wolf of the North",
+                "Memories: Storming Terror III", 
+                "Memories: Storming Terror IV",
+                "Memories: Storming Terror V",
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow I", 
+                "Memories: The Golden Shadow II", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 4
         },
         "gemstone": {
+            "slug": "agnidus-agate-gemstone",
             "name": "Agnidus Agate Gemstone",
-            "sources": ["Pyro Regisvine", "Wolf of the North"],
+            "sources": [
+                "Pyro Regisvine", 
+                "Wolf of the North", 
+                "Memories: Storming Terror V", 
+                "Memories: Storming Terror VI", 
+                "Memories: The Golden Shadow III", 
+                "Memories: The Golden Shadow IV"
+            ],
             "rarity": 5
         }
     },
     "traveler": {
         "sliver": {
+            "slug": "brilliant-diamond-sliver",
             "name": "Brilliant Diamond Sliver",
             "sources": ["Adventure Rank 15"],
             "rarity": 2
         },
         "fragment": {
-            "name": "Prithiva Topaz Fragment",
-            "sources": ["Geo Hypostasis", "Wolf of the North", "Souvenir shop"],
+            "slug": "brilliant-diamond-fragment",
+            "name": "Brilliant Diamond Fragment",
+            "sources": ["Adventure Rank 25", "Adventure Rank 26", "Adventure Rank 28", "Adventure Rank 30"],
             "rarity": 3
         },
         "chunk": {
-            "name": "Prithiva Topaz Chunk",
-            "sources": ["Geo Hypostasis", "Wolf of the North", "Souvenir shop"],
+            "slug": "brilliant-diamond-chunk",
+            "name": "Brilliant Diamond Chunk",
+            "sources": ["Adventure Rank 35", "Adventure Rank 38", "Adventure Rank 40"],
             "rarity": 4
         },
         "gemstone": {
-            "name": "Prithiva Topaz Gemstone",
-            "sources": ["Geo Hypostasis", "Wolf of the North", "Souvenir shop"],
+            "slug": "brilliant-diamond-gemstone",
+            "name": "Brilliant Diamond Gemstone",
+            "sources": ["Adventure Rank 41", "Adventure Rank 42", "Adventure Rank 45"],
             "rarity": 5
         }
     }
