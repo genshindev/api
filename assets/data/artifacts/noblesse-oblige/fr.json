@@ -1,0 +1,6 @@
+{
+  "name": "Ancien rituel royal",
+  "max_rarity": 5,
+  "2-piece_bonus": "Augmente les DGT infligés par le déchaînement élémentaire de 20%.",
+  "4-piece_bonus": "Augmente l'ATQ de tout les personnages de l'équipe de 20% pendant 12s après un déchaînement élémentaire. Cet effet est non cumulable."
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Berserker",
+  "max_rarity": 4,
+  "2-piece_bonus": "Augmente le taux CRIT de 12%.",
+  "4-piece_bonus": "Augmente le taux CRIT de 24% lorsque les PV sont inférieurs à 70%."
+}

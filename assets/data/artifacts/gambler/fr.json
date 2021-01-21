@@ -1,0 +1,6 @@
+{
+  "name": "Parieur",
+  "max_rarity": 4,
+  "2-piece_bonus": "Augmente les DGT infligés par les compétences élémentaires de 20%.",
+  "4-piece_bonus": "Après la défaite d'un ennemi, le TdR de compétence élémentaire a 100% de chance d'être réinitialisé. Cet effet peut être déclenché une fois toutes les 15s."
+}

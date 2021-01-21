@@ -1,0 +1,6 @@
+{
+  "name": "Érudit",
+  "max_rarity": 4,
+  "2-piece_bonus": "Augmente la recharge d'énergie de 20%.",
+  "4-piece_bonus": "Les personnages maniant l'arc ou le catalyseur récupèrent 3pts de d'énergie supplémentaire à chaque fois qu'une particule ou un orbe élémentaire sont récupérés. Cet effet peut être déclenché une fois toutes les 3s."
+}
