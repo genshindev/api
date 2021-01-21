@@ -1,0 +1,6 @@
+{
+  "name": "Miracle",
+  "max_rarity": 4,
+  "2-piece_bonus": "Augmente toutes les RÉS élémentaire de 20%.",
+  "4-piece_bonus": "Les DÉG élémentaires subis augmentent la RÉS à l'élément correspond de 30% pendant 10s. Cet effet peut être déclenché une fois toutes les 10s."
+}

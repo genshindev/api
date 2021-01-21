@@ -1,0 +1,6 @@
+{
+  "name": "Instructeur",
+  "max_rarity": 4,
+  "2-piece_bonus": "Augmente la maîtrise élémentaire de 80pts.",
+  "4-piece_bonus": "Augmente la maîtrise élémentaire de toute l'équipe de 120pts pendant 8s après avoir déclenché une réaction élémentaire."
+}

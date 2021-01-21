@@ -1,0 +1,6 @@
+{
+  "name": "Chevalerie ensanglantée",
+  "max_rarity": 5,
+  "2-piece_bonus": "Augmente les DGT physiques de 25%.",
+  "4-piece_bonus": "L'utilisation d'attaques chargées ne consomme pas l'endurance pendant 10s après la défaite d'un ennemi, et ces dernières infligent 50% de DGT supplémentaires."
+}

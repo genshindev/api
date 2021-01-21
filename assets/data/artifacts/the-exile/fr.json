@@ -1,0 +1,6 @@
+{
+  "name": "Exilé",
+  "max_rarity": 4,
+  "2-piece_bonus": "Augmente la recharge d'énergie de 20%.",
+  "4-piece_bonus": "Le déchaînement restaure 2pts d'énergie élémentaire à tous les personnages de l'équipe (à l'exception du porteur) toutes les 2s pendant 6s. Cet effet est non cumulable."
+}

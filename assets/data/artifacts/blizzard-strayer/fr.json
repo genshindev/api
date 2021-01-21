@@ -1,0 +1,6 @@
+{
+  "name": "Briseur de glace",
+  "max_rarity": 5,
+  "2-piece_bonus": "Confère un bonus de DGT Cryo de 15%.",
+  "4-piece_bonus": "Augmente le taux de CRIT de 20% lorsque le personnage attaque un ennemi affecté par l'élément Cryo. Confère un bonus supplémentaire de 20% de taux de CRIT si l'ennemi est gelé."
+}
