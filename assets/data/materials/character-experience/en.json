@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "id": "wanderer's-advice",
+            "name": "Wanderer's Advice",
+            "experience": 1000,
+            "rarity": 1
+        },
+        {
+            "id": "adventurer's-experience",
+            "name": "Adventurer's Experience",
+            "experience": 5000,
+            "rarity": 2
+        },
+        {
+            "id": "hero's-wit",
+            "name": "Hero's Wit",
+            "experience": 20000,
+            "rarity": 3
+        }
+    ]
+}

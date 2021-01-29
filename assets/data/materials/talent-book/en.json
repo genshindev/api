@@ -1,0 +1,174 @@
+{
+    "freedom": {
+        "characters": [
+            "amber",
+            "barbara",
+            "diona",
+            "sucrose",
+            "tartaglia",
+            "traveler-anemo",
+            "traveler-geo"
+        ],
+        "availability": ["Monday", "Thursday", "Sunday"],
+        "source": "forsaken-rift",
+        "items": [
+            {
+                "id": "teachings-of-freedom",
+                "name": "Teachings of Freedom",
+                "rarity": 2
+            },
+            {
+                "id": "guide-to-freedom",
+                "name": "Guide to Freedom",
+                "rarity": 3
+            },
+            {
+                "id": "philosophies-of-freedom",
+                "name": "Philosophies of Freedom",
+                "rarity": 4
+            }
+        ]
+    },
+    "resistance": {
+        "characters": [
+            "bennett",
+            "diluc",
+            "jean",
+            "mona",
+            "razor",
+            "traveler-anemo",
+            "traveler-geo"
+        ],
+        "availability": ["Tuesday", "Friday", "Sunday"],
+        "source": "forsaken-rift",
+        "items": [
+            {
+                "id": "teachings-of-resistance",
+                "name": "Teachings of Resistance",
+                "rarity": 2
+            },
+            {
+                "id": "guide-to-resistance",
+                "name": "Guide to Resistance",
+                "rarity": 3
+            },
+            {
+                "id": "philosophies-of-resistance",
+                "name": "Philosophies of Resistance",
+                "rarity": 4
+            }
+        ]
+    },
+    "ballad": {
+        "characters": [
+            "albedo",
+            "fischl",
+            "kaeya",
+            "lisa",
+            "venti",
+            "traveler-anemo",
+            "traveler-geo"
+        ],
+        "availability": ["Wednesday", "Saturday", "Sunday"],
+        "source": "forsaken-rift",
+        "items": [
+            {
+                "id": "teachings-of-ballad",
+                "name": "Teachings of Ballad",
+                "rarity": 2
+            },
+            {
+                "id": "guide-to-ballad",
+                "name": "Guide to Ballad",
+                "rarity": 3
+            },
+            {
+                "id": "philosophies-of-ballad",
+                "name": "Philosophies of Ballad",
+                "rarity": 4
+            }
+        ]
+    },
+    "prosperity": {
+        "characters": [
+            "keqing",
+            "ningguang",
+            "qiqi",
+            "traveler-geo"
+        ],
+        "availability": ["Monday", "Thursday", "Sunday"],
+        "source": "taishan-mansion",
+        "items": [
+            {
+                "id": "teachings-of-prosperity",
+                "name": "Teachings of Prosperity",
+                "rarity": 2
+            },
+            {
+                "id": "guide-to-prosperity",
+                "name": "Guide to Prosperity",
+                "rarity": 3
+            },
+            {
+                "id": "philosophies-of-prosperity",
+                "name": "Philosophies of Prosperity",
+                "rarity": 4
+            }
+        ]
+    },
+    "diligence": {
+        "characters": [
+            "chongyun",
+            "ganyu",
+            "xiangling",
+            "traveler-geo"
+        ],
+        "availability": ["Tuesday", "Friday", "Sunday"],
+        "source": "taishan-mansion",
+        "items": [
+            {
+                "id": "teachings-of-diligence",
+                "name": "Teachings of Diligence",
+                "rarity": 2
+            },
+            {
+                "id": "guide-to-diligence",
+                "name": "Guide to Diligence",
+                "rarity": 3
+            },
+            {
+                "id": "philosophies-of-diligence",
+                "name": "Philosophies of Diligence",
+                "rarity": 4
+            }
+        ]
+    },
+    "gold": {
+        "characters": [
+            "beidou",
+            "xingqiu",
+            "xinyan",
+            "zhongli",
+            "traveler-geo"
+        ],
+        "availability": ["Wednesday", "Saturday", "Sunday"],
+        "source": "taishan-mansion",
+        "items": [
+            {
+                "id": "teachings-of-gold",
+                "name": "Teachings of Gold",
+                "rarity": 2
+            },
+            {
+                "id": "guide-to-gold",
+                "name": "Guide to Gold",
+                "rarity": 3
+            },
+            {
+                "id": "philosophies-of-gold",
+                "name": "Philosophies of Gold",
+                "rarity": 4
+            }
+        ]
+    }
+}

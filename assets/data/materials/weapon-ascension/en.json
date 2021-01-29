@@ -1,0 +1,267 @@
+{
+    "decarabian": {
+        "weapons": [
+            "apprentice's-notes",
+            "aquila-favonia",
+            "cool-steel",
+            "dull-blade",
+            "favonius-codex",
+            "favonius-sword",
+            "ferrous-shadow",
+            "magic-guide",
+            "pocket-grimoire",
+            "raven-bow",
+            "royal-grimoire",
+            "royal-longsword",
+            "silver-sword",
+            "snow-tombed-starsilver",
+            "the-bell",
+            "the-stringless",
+            "the-viridescent-hunt"
+        ],
+        "availability": ["Monday", "Thursday", "Sunday"],
+        "source": "cecilia-garden",
+        "items": [
+            {
+                "id": "tile-of-decarabian's-tower",
+                "name": "Tile of Decarabian's Tower",
+                "rarity": 2
+            },
+            {
+                "id": "debris-of-decarabian's-city",
+                "name": "Debris of Decarabian's City",
+                "rarity": 3
+            },
+            {
+                "id": "fragment-of-decarabian's-epic",
+                "name": "Fragment of Decarabian's Epic",
+                "rarity": 4
+            },
+            {
+                "id": "scattered-piece-of-decarabian's-dream",
+                "name": "Scattered Piece of Decarabian's Dream",
+                "rarity": 5
+            }
+        ]
+    },
+    "boreal": {
+        "weapons": [
+            "alley-hunter",
+            "bloodtainted-greatsword",
+            "deathmatch",
+            "dragonspine-spear",
+            "harbinger-of-dawn",
+            "hunter's-bow",
+            "old-merc's-pal",
+            "sacrificial-bow",
+            "sacrificial-greatsword",
+            "seasoned-hunter's-bow",
+            "sharpshooter's-oath",
+            "skyward-atlas",
+            "skyward-blade",
+            "skyward-harp",
+            "skyward-pride",
+            "sword-of-descension",
+            "the-black-sword",
+            "the-flute",
+            "the-widsith",
+            "thrilling-tales-of-dragon-slayers",
+            "waster-greatsword",
+            "wine-and-song"
+        ],
+        "availability": ["Tuesday", "Friday", "Sunday"],
+        "source": "cecilia-garden",
+        "items": [
+            {
+                "id": "boreal-wolf's-milk-tooth",
+                "name": "Boreal Wolf's Milk Tooth",
+                "rarity": 2
+            },
+            {
+                "id": "boreal-wolf's-cracked-tooth",
+                "name": "Boreal Wolf's Cracked Tooth",
+                "rarity": 3
+            },
+            {
+                "id": "boreal-wolf's-broken-fang",
+                "name": "Boreal Wolf's Broken Fang",
+                "rarity": 4
+            },
+            {
+                "id": "boreal-wolf's-nostalgia",
+                "name": "Boreal Wolf's Nostalgia",
+                "rarity": 5
+            }
+        ]
+    },
+    "dandelion": {
+        "weapons": [
+            "amos'-bow",
+            "beginner's-protector",
+            "favonius-greatsword",
+            "favonius-lance",
+            "favonius-warbow",
+            "frostbearer",
+            "iron-point",
+            "lost-prayer-to-the-sacred-winds",
+            "otherworldly-story",
+            "recurve-bow",
+            "royal-bow",
+            "royal-greatsword",
+            "sacrificial-fragments",
+            "sacrificial-sword",
+            "skyward-spine",
+            "traveler's-handy-sword",
+            "white-iron-greatsword",
+            "wolf's-gravestone"
+        ],
+        "availability": ["Wednesday", "Saturday", "Sunday"],
+        "source": "cecilia-garden",
+        "items": [
+            {
+                "id": "fetters-of-the-dandelion-gladiator",
+                "name": "Fetters of the Dandelion Gladiator",
+                "rarity": 2
+            },
+            {
+                "id": "chains-of-the-dandelion-gladiator",
+                "name": "Chains of the Dandelion Gladiator",
+                "rarity": 3
+            },
+            {
+                "id": "shackles-of-the-dandelion-gladiator",
+                "name": "Shackles of the Dandelion Gladiator",
+                "rarity": 4
+            },
+            {
+                "id": "dream-of-the-dandelion-gladiator",
+                "name": "Dream of the Dandelion Gladiator",
+                "rarity": 5
+            }
+        ]
+    },
+    "guyun": {
+        "weapons": [
+            "blackcliff-agate",
+            "blackcliff-longsword",
+            "blackcliff-warbow",
+            "crescent-pike",
+            "dark-iron-sword",
+            "emerald-orb",
+            "lion's-roar",
+            "primordial-jade-winged-spear",
+            "rust",
+            "slingshot",
+            "solar-pearl",
+            "summit-shaper",
+            "white-tassel",
+            "whiteblind"
+        ],
+        "availability": ["Monday", "Thursday", "Sunday"],
+        "source": "hidden-palace-of-lianshan",
+        "items": [
+            {
+                "id": "luminous-sands-from-guyun",
+                "name": "Luminous Sands from Guyun",
+                "rarity": 2
+            },
+            {
+                "id": "lustrous-stone-from-guyun",
+                "name": "Lustrous Stone from Guyun",
+                "rarity": 3
+            },
+            {
+                "id": "relic-from-guyun",
+                "name": "Relic from Guyun",
+                "rarity": 4
+            },
+            {
+                "id": "divine-body-from-guyun",
+                "name": "Divine Body from Guyun",
+                "rarity": 5
+            }
+        ]
+    },
+    "elixir": {
+        "weapons": [
+            "blackcliff-slasher",
+            "debate-club",
+            "dragon's-bane",
+            "dragonspine-spear",
+            "eye-of-perception",
+            "fillet-blade",
+            "halberd",
+            "messenger",
+            "prototype-amber",
+            "prototype-crescent",
+            "prototype-rancour",
+            "rainslasher",
+            "royal-spear",
+            "the-unforged",
+            "twin-nephrite"
+        ],
+        "availability": ["Tuesday", "Friday", "Sunday"],
+        "source": "hidden-palace-of-lianshan",
+        "items": [
+            {
+                "id": "mist-veiled-lead-elixir",
+                "name": "Mist Veiled Lead Elixir",
+                "rarity": 2
+            },
+            {
+                "id": "mist-veiled-mercury-elixir",
+                "name": "Mist Veiled Mercury Elixir",
+                "rarity": 3
+            },
+            {
+                "id": "mist-veiled-gold-elixir",
+                "name": "Mist Veiled Gold Elixir",
+                "rarity": 4
+            },
+            {
+                "id": "mist-veiled-primo-elixir",
+                "name": "Mist Veiled Primo Elixir",
+                "rarity": 5
+            }
+        ]
+    },
+    "aerosiderite": {
+        "weapons": [
+            "black-tassel",
+            "compound-bow",
+            "iron-sting",
+            "mappa-mare",
+            "memory-of-dust",
+            "prototype-archaic",
+            "prototype-starglitter",
+            "serpent-spine",
+            "skyrider-greatsword",
+            "skyrider-sword",
+            "vortex-vanquisher"
+        ],
+        "availability": ["Wednesday", "Saturday", "Sunday"],
+        "source": "hidden-palace-of-lianshan",
+        "items": [
+            {
+                "id": "grain-of-aerosiderite",
+                "name": "Grain of Aerosiderite",
+                "rarity": 2
+            },
+            {
+                "id": "piece-of-aerosiderite",
+                "name": "Piece of Aerosiderite",
+                "rarity": 3
+            },
+            {
+                "id": "bit-of-aerosiderite",
+                "name": "Bit of Aerosiderite",
+                "rarity": 4
+            },
+            {
+                "id": "chunk-of-aerosiderite",
+                "name": "Chunk of Aerosiderite",
+                "rarity": 5
+            }
+        ]
+    }
+}

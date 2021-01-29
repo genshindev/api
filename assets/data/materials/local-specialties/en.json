@@ -1,0 +1,86 @@
+{
+    "mondstadt": [
+        {
+            "id": "calla-lily",
+            "name": "Calla Lily",
+            "characters": ["diona", "kaeya"]
+        },
+        {
+            "id": "cecilia",
+            "name": "Cecilia",
+            "characters": ["albedo", "venti"]
+        },
+        {
+            "id": "dandelion-seed",
+            "name": "Dandelion Seed",
+            "characters": ["jean"]
+        },
+        {
+            "id": "philanemo-mushroom",
+            "name": "Philanemo Mushroom",
+            "characters": ["barbara", "klee", "mona"]
+        },
+        {
+            "id": "small-lamp-grass",
+            "name": "Small Lamp Grass",
+            "characters": ["amber", "diluc", "fischl"]
+        },
+        {
+            "id": "valberry",
+            "name": "Valberry",
+            "characters": ["lisa", "noelle"]
+        },
+        {
+            "id": "windwheel-aster",
+            "name": "Windwheel Aster",
+            "characters": ["bennett", "sucrose", "traveler-anemo", "traveler-geo"]
+        },
+        {
+            "id": "wolfhook",
+            "name": "Wolfhook",
+            "characters": ["razor"]
+        }
+    ],
+    "liyue": [
+        {
+            "id": "cor-lapis",
+            "name": "Cor Lapis",
+            "characters": ["chongyun", "keqing", "zhongli"]
+        },
+        {
+            "id": "glaze-lily",
+            "name": "Glaze Lily",
+            "characters": ["ningguang"]
+        },
+        {
+            "id": "jueyun-chili",
+            "name": "Jueyun Chili",
+            "characters": ["xiangling"]
+        },
+        {
+            "id": "noctilucous-jade",
+            "name": "Noctilucous Jade",
+            "characters": ["beidou"]
+        },
+        {
+            "id": "qingxin",
+            "name": "Qingxin",
+            "characters": ["ganyu", "xiao"]
+        },
+        {
+            "id": "silk-flower",
+            "name": "Silk Flower",
+            "characters": ["xingqiu"]
+        },
+        {
+            "id": "starconch",
+            "name": "Starconch",
+            "characters": ["tartaglia"]
+        },
+        {
+            "id": "violetgrass",
+            "name": "Violetgrass",
+            "characters": ["qiqi", "xinyan"]
+        }
+    ]
+}

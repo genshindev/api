@@ -1,0 +1,414 @@
+{
+    "slime": {
+        "characters": [
+            "lisa",
+            "venti",
+            "xiangling",
+            "zhongli"
+        ],
+        "items": [
+            {
+                "id": "slime-condensate",
+                "name": "Slime Condensate",
+                "rarity": 1
+            },
+            {
+                "id": "slime-secretions",
+                "name": "Slime Secretions",
+                "rarity": 2
+            },
+            {
+                "id": "slime-concentrate",
+                "name": "Slime Concentrate",
+                "rarity": 3
+            }
+        ],
+        "sources": ["Slime"]
+    },
+    "hilichurl-masks": {
+        "characters": [
+            "jean",
+            "noelle",
+            "razor",
+            "chongyun",
+            "xingqiu"
+        ],
+        "items": [
+            {
+                "id": "damaged-mask",
+                "name": "Damaged Mask",
+                "rarity": 1
+            },
+            {
+                "id": "stained-mask",
+                "name": "Stained Mask",
+                "rarity": 2
+            },
+            {
+                "id": "ominous-mask",
+                "name": "Ominous Mask",
+                "rarity": 3
+            }
+        ],
+        "sources": ["Hilichurl", "Samachurl", "Mitachurl", "Lawachurl"]
+    },
+    "hilichurl-arrowheads": {
+        "characters": [
+            "amber",
+            "diona",
+            "fischl"
+        ],
+        "items": [
+            {
+                "id": "firm-arrowhead",
+                "name": "Firm Arrowhead",
+                "rarity": 1
+            },
+            {
+                "id": "sharp-arrowhead",
+                "name": "Sharp Arrowhead",
+                "rarity": 2
+            },
+            {
+                "id": "weathered-arrowhead",
+                "name": "Weathered Arrowhead",
+                "rarity": 3
+            }
+        ],
+        "sources": ["Hilichurl Archer"]
+    },
+    "samachurl-scrolls": {
+        "characters": [
+            "albedo",
+            "barbara",
+            "klee",
+            "qiqi",
+            "traveler-anemo",
+            "traveler-geo"
+        ],
+        "items": [
+            {
+                "id": "divining-scroll",
+                "name": "Divining Scroll",
+                "rarity": 1
+            },
+            {
+                "id": "sealed-scroll",
+                "name": "Sealed Scroll",
+                "rarity": 2
+            },
+            {
+                "id": "forbidden-curse-scroll",
+                "name": "Forbidden Curse Scroll",
+                "rarity": 3
+            }
+        ],
+        "sources": ["Samachurl"]
+    },
+    "treasure-hoarder-insignias": {
+        "characters": [
+            "kaeya",
+            "bennett",
+            "beidou",
+            "xinyan"
+        ],
+        "items": [
+            {
+                "id": "treasure-hoarder-insignia",
+                "name": "Treasure Hoarder Insignia",
+                "rarity": 1
+            },
+            {
+                "id": "silver-raven-insignia",
+                "name": "Silver Raven Insignia",
+                "rarity": 2
+            },
+            {
+                "id": "golden-raven-insignia",
+                "name": "Golden Raven Insignia",
+                "rarity": 3
+            }
+        ],
+        "sources": ["Treasure Hoarder"]
+    },
+    "fatui-insignias": {
+        "characters": [
+            "diluc",
+            "ningguang",
+            "tartaglia"
+        ],
+        "items": [
+            {
+                "id": "recruit's-insignia",
+                "name": "Recruit's Insignia",
+                "rarity": 1
+            },
+            {
+                "id": "sergeant's-insignia",
+                "name": "Sergeant's Insignia",
+                "rarity": 2
+            },
+            {
+                "id": "lieutenant's-insignia",
+                "name": "Lieutenant's Insignia",
+                "rarity": 3
+            }
+        ],
+        "sources": ["Fatui Skirmisher", "Fatui Cicin Mage", "Fatui Agent"]
+    },
+    "whopperflower-nectar": {
+        "characters": [
+            "mona",
+            "sucrose",
+            "keqing"
+        ],
+        "items": [
+            {
+                "id": "whopperflower-nectar",
+                "name": "Whopperflower Nectar",
+                "rarity": 1
+            },
+            {
+                "id": "shimmering-nectar",
+                "name": "Shimmering Nectar",
+                "rarity": 2
+            },
+            {
+                "id": "energy-nectar",
+                "name": "Energy Nectar",
+                "rarity": 3
+            }
+        ],
+        "sources": ["Whopperflower"]
+    },
+    "hilichurl-horns": {
+        "weapons": [
+            "apprentice's-notes",
+            "aquila-favonia",
+            "cool-steel",
+            "dull-blade",
+            "favonius-codex",
+            "favonius-sword",
+            "ferrous-shadow",
+            "festering-desire",
+            "magic-guide",
+            "pocket-grimoire",
+            "raven-bow",
+            "royal-grimoire",
+            "royal-longsword",
+            "silver-sword",
+            "snow-tombed-starsilver",
+            "the-bell",
+            "the-stringless",
+            "the-viridescent-hunt"
+        ],
+        "items": [
+            {
+                "id": "heavy-horn",
+                "name": "Heavy Horn",
+                "rarity": 2
+            },
+            {
+                "id": "black-bronze-horn",
+                "name": "Black Bronze Horn",
+                "rarity": 3
+            },
+            {
+                "id": "black-crystal-horn",
+                "name": "Black Crystal Horn",
+                "rarity": 4
+            }
+        ],
+        "sources": ["Mitachurl", "Lawachurl"]
+    },
+    "ley-line": {
+        "weapons": [
+            "alley-hunter",
+            "bloodtainted-greatsword",
+            "deathmatch",
+            "dragonspine-spear",
+            "harbinger-of-dawn",
+            "hunter's-bow",
+            "old-merc's-pal",
+            "sacrificial-bow",
+            "sacrificial-greatsword",
+            "seasoned-hunter's-bow",
+            "sharpshooter's-oath",
+            "skyward-atlas",
+            "skyward-blade",
+            "skyward-harp",
+            "skyward-pride",
+            "sword-of-descension",
+            "the-black-sword",
+            "the-flute",
+            "the-widsith",
+            "thrilling-tales-of-dragon-slayers",
+            "waster-greatsword",
+            "wine-and-song"
+        ],
+        "items": [
+            {
+                "id": "dead-ley-line-branch",
+                "name": "Dead Ley Line Branch",
+                "rarity": 2
+            },
+            {
+                "id": "dead-ley-line-leaves",
+                "name": "Dead Ley Line Leaves",
+                "rarity": 3
+            },
+            {
+                "id": "ley-line-sprout",
+                "name": "Ley Line Sprout",
+                "rarity": 4
+            }
+        ],
+        "sources": ["Abyss Mage"]
+    },
+    "bone-shards": {
+        "weapons": [
+            "black-tassel",
+            "compound-bow",
+            "iron-sting",
+            "mappa-mare",
+            "memory-of-dust",
+            "prototype-archaic",
+            "prototype-starglitter",
+            "serpent-spine",
+            "skyrider-greatsword",
+            "skyrider-sword",
+            "vortex-vanquisher"
+        ],
+        "items": [
+            {
+                "id": "fragile-bone-shard",
+                "name": "Fragile Bone Shard",
+                "rarity": 2
+            },
+            {
+                "id": "sturdy-bone-shard",
+                "name": "Sturdy Bone Shard",
+                "rarity": 3
+            },
+            {
+                "id": "fossilized-bone-shard",
+                "name": "Fossilized Bone Shard",
+                "rarity": 4
+            }
+        ],
+        "sources": ["Geovishap Hatchling"]
+    },
+    "mist-grass": {
+        "weapons": [
+            "blackcliff-slasher",
+            "debate-club",
+            "dragon's-bane",
+            "dragonspine-spear",
+            "eye-of-perception",
+            "fillet-blade",
+            "halberd",
+            "messenger",
+            "prototype-amber",
+            "prototype-crescent",
+            "prototype-rancour",
+            "rainslasher",
+            "royal-spear",
+            "the-unforged",
+            "twin-nephrite"
+        ],
+        "items": [
+            {
+                "id": "mist-grass-pollen",
+                "name": "Mist Grass Pollen",
+                "rarity": 2
+            },
+            {
+                "id": "mist-grass",
+                "name": "Mist Grass",
+                "rarity": 3
+            },
+            {
+                "id": "mist-grass-wick",
+                "name": "Mist Grass Wick",
+                "rarity": 4
+            }
+        ],
+        "sources": ["Fatui Cicin Mage"]
+    },
+    "fatui-knives": {
+        "weapons": [
+            "blackcliff-agate",
+            "blackcliff-longsword",
+            "blackcliff-warbow",
+            "crescent-pike",
+            "dark-iron-sword",
+            "emerald-orb",
+            "lion's-roar",
+            "primordial-jade-winged-spear",
+            "rust",
+            "slingshot",
+            "solar-pearl",
+            "summit-shaper",
+            "white-tassel",
+            "whiteblind"
+        ],
+        "items": [
+            {
+                "id": "hunter's-sacrificial-knife",
+                "name": "Hunter's Sacrificial Knife",
+                "rarity": 2
+            },
+            {
+                "id": "agent's-sacrificial-knife",
+                "name": "Agent's Sacrificial Knife",
+                "rarity": 3
+            },
+            {
+                "id": "inspector's-sacrificial-knife",
+                "name": "Inspector's Sacrificial Knife",
+                "rarity": 4
+            }
+        ],
+        "sources": ["Fatui Agent"]
+    },
+    "chaos-parts": {
+        "weapons": [
+            "amos'-bow",
+            "beginner's-protector",
+            "favonius-greatsword",
+            "favonius-lance",
+            "favonius-warbow",
+            "frostbearer",
+            "iron-point",
+            "lost-prayer-to-the-sacred-winds",
+            "otherworldly-story",
+            "recurve-bow",
+            "royal-bow",
+            "royal-greatsword",
+            "sacrificial-fragments",
+            "sacrificial-sword",
+            "skyward-spine",
+            "traveler's-handy-sword",
+            "white-iron-greatsword",
+            "wolf's-gravestone"
+        ],
+        "items": [
+            {
+                "id": "chaos-device",
+                "name": "Chaos Device",
+                "rarity": 2
+            },
+            {
+                "id": "chaos-circuit",
+                "name": "Chaos Circuit",
+                "rarity": 3
+            },
+            {
+                "id": "chaos-core",
+                "name": "Chaos Core",
+                "rarity": 4
+            }
+        ],
+        "sources": ["Ruin Guard", "Ruin Hunter", "Ruin Grader"]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "id": "enhancement-ore",
+            "name": "Enhancement Ore",
+            "experience": 400,
+            "rarity": 1,
+            "source": ["Crafting"]
+        },
+        {
+            "id": "fine-enhancement-ore",
+            "name": "Fine Enhancement Ore",
+            "experience": 2000,
+            "rarity": 2,
+            "source": ["Crafting"]
+        },
+        {
+            "id": "mystic-enhancement-ore",
+            "name": "Mystic Enhancement Ore",
+            "experience": 10000,
+            "rarity": 3,
+            "source": ["Crafting"]
+        }
+    ]
+}
