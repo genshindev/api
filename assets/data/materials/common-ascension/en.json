@@ -8,17 +8,17 @@
         ],
         "items": [
             {
-                "slug": "slime-condensate",
+                "id": "slime-condensate",
                 "name": "Slime Condensate",
                 "rarity": 1
             },
             {
-                "slug": "slime-secretions",
+                "id": "slime-secretions",
                 "name": "Slime Secretions",
                 "rarity": 2
             },
             {
-                "slug": "slime-concentrate",
+                "id": "slime-concentrate",
                 "name": "Slime Concentrate",
                 "rarity": 3
             }
@@ -35,17 +35,17 @@
         ],
         "items": [
             {
-                "slug": "damaged-mask",
+                "id": "damaged-mask",
                 "name": "Damaged Mask",
                 "rarity": 1
             },
             {
-                "slug": "stained-mask",
+                "id": "stained-mask",
                 "name": "Stained Mask",
                 "rarity": 2
             },
             {
-                "slug": "ominous-mask",
+                "id": "ominous-mask",
                 "name": "Ominous Mask",
                 "rarity": 3
             }
@@ -60,17 +60,17 @@
         ],
         "items": [
             {
-                "slug": "firm-arrowhead",
+                "id": "firm-arrowhead",
                 "name": "Firm Arrowhead",
                 "rarity": 1
             },
             {
-                "slug": "sharp-arrowhead",
+                "id": "sharp-arrowhead",
                 "name": "Sharp Arrowhead",
                 "rarity": 2
             },
             {
-                "slug": "weathered-arrowhead",
+                "id": "weathered-arrowhead",
                 "name": "Weathered Arrowhead",
                 "rarity": 3
             }
@@ -88,17 +88,17 @@
         ],
         "items": [
             {
-                "slug": "divining-scroll",
+                "id": "divining-scroll",
                 "name": "Divining Scroll",
                 "rarity": 1
             },
             {
-                "slug": "sealed-scroll",
+                "id": "sealed-scroll",
                 "name": "Sealed Scroll",
                 "rarity": 2
             },
             {
-                "slug": "forbidden-curse-scroll",
+                "id": "forbidden-curse-scroll",
                 "name": "Forbidden Curse Scroll",
                 "rarity": 3
             }
@@ -114,17 +114,17 @@
         ],
         "items": [
             {
-                "slug": "treasure-hoarder-insignia",
+                "id": "treasure-hoarder-insignia",
                 "name": "Treasure Hoarder Insignia",
                 "rarity": 1
             },
             {
-                "slug": "silver-raven-insignia",
+                "id": "silver-raven-insignia",
                 "name": "Silver Raven Insignia",
                 "rarity": 2
             },
             {
-                "slug": "golden-raven-insignia",
+                "id": "golden-raven-insignia",
                 "name": "Golden Raven Insignia",
                 "rarity": 3
             }
@@ -139,17 +139,17 @@
         ],
         "items": [
             {
-                "slug": "recruit's-insignia",
+                "id": "recruit's-insignia",
                 "name": "Recruit's Insignia",
                 "rarity": 1
             },
             {
-                "slug": "sergeant's-insignia",
+                "id": "sergeant's-insignia",
                 "name": "Sergeant's Insignia",
                 "rarity": 2
             },
             {
-                "slug": "lieutenant's-insignia",
+                "id": "lieutenant's-insignia",
                 "name": "Lieutenant's Insignia",
                 "rarity": 3
             }
@@ -164,17 +164,17 @@
         ],
         "items": [
             {
-                "slug": "whopperflower-nectar",
+                "id": "whopperflower-nectar",
                 "name": "Whopperflower Nectar",
                 "rarity": 1
             },
             {
-                "slug": "shimmering-nectar",
+                "id": "shimmering-nectar",
                 "name": "Shimmering Nectar",
                 "rarity": 2
             },
             {
-                "slug": "energy-nectar",
+                "id": "energy-nectar",
                 "name": "Energy Nectar",
                 "rarity": 3
             }
@@ -204,17 +204,17 @@
         ],
         "items": [
             {
-                "slug": "heavy-horn",
+                "id": "heavy-horn",
                 "name": "Heavy Horn",
                 "rarity": 2
             },
             {
-                "slug": "black-bronze-horn",
+                "id": "black-bronze-horn",
                 "name": "Black Bronze Horn",
                 "rarity": 3
             },
             {
-                "slug": "black-crystal-horn",
+                "id": "black-crystal-horn",
                 "name": "Black Crystal Horn",
                 "rarity": 4
             }
@@ -248,17 +248,17 @@
         ],
         "items": [
             {
-                "slug": "dead-ley-line-branch",
+                "id": "dead-ley-line-branch",
                 "name": "Dead Ley Line Branch",
                 "rarity": 2
             },
             {
-                "slug": "dead-ley-line-leaves",
+                "id": "dead-ley-line-leaves",
                 "name": "Dead Ley Line Leaves",
                 "rarity": 3
             },
             {
-                "slug": "ley-line-sprout",
+                "id": "ley-line-sprout",
                 "name": "Ley Line Sprout",
                 "rarity": 4
             }
@@ -281,17 +281,17 @@
         ],
         "items": [
             {
-                "slug": "fragile-bone-shard",
+                "id": "fragile-bone-shard",
                 "name": "Fragile Bone Shard",
                 "rarity": 2
             },
             {
-                "slug": "sturdy-bone-shard",
+                "id": "sturdy-bone-shard",
                 "name": "Sturdy Bone Shard",
                 "rarity": 3
             },
             {
-                "slug": "fossilized-bone-shard",
+                "id": "fossilized-bone-shard",
                 "name": "Fossilized Bone Shard",
                 "rarity": 4
             }
@@ -318,17 +318,17 @@
         ],
         "items": [
             {
-                "slug": "mist-grass-pollen",
+                "id": "mist-grass-pollen",
                 "name": "Mist Grass Pollen",
                 "rarity": 2
             },
             {
-                "slug": "mist-grass",
+                "id": "mist-grass",
                 "name": "Mist Grass",
                 "rarity": 3
             },
             {
-                "slug": "mist-grass-wick",
+                "id": "mist-grass-wick",
                 "name": "Mist Grass Wick",
                 "rarity": 4
             }
@@ -354,17 +354,17 @@
         ],
         "items": [
             {
-                "slug": "hunter's-sacrificial-knife",
+                "id": "hunter's-sacrificial-knife",
                 "name": "Hunter's Sacrificial Knife",
                 "rarity": 2
             },
             {
-                "slug": "agent's-sacrificial-knife",
+                "id": "agent's-sacrificial-knife",
                 "name": "Agent's Sacrificial Knife",
                 "rarity": 3
             },
             {
-                "slug": "inspector's-sacrificial-knife",
+                "id": "inspector's-sacrificial-knife",
                 "name": "Inspector's Sacrificial Knife",
                 "rarity": 4
             }
@@ -394,17 +394,17 @@
         ],
         "items": [
             {
-                "slug": "chaos-device",
+                "id": "chaos-device",
                 "name": "Chaos Device",
                 "rarity": 2
             },
             {
-                "slug": "chaos-circuit",
+                "id": "chaos-circuit",
                 "name": "Chaos Circuit",
                 "rarity": 3
             },
             {
-                "slug": "chaos-core",
+                "id": "chaos-core",
                 "name": "Chaos Core",
                 "rarity": 4
             }

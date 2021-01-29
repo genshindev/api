@@ -23,22 +23,22 @@
         "source": "cecilia-garden",
         "items": [
             {
-                "slug": "tile-of-decarabian's-tower",
+                "id": "tile-of-decarabian's-tower",
                 "name": "Tile of Decarabian's Tower",
                 "rarity": 2
             },
             {
-                "slug": "debris-of-decarabian's-city",
+                "id": "debris-of-decarabian's-city",
                 "name": "Debris of Decarabian's City",
                 "rarity": 3
             },
             {
-                "slug": "fragment-of-decarabian's-epic",
+                "id": "fragment-of-decarabian's-epic",
                 "name": "Fragment of Decarabian's Epic",
                 "rarity": 4
             },
             {
-                "slug": "scattered-piece-of-decarabian's-dream",
+                "id": "scattered-piece-of-decarabian's-dream",
                 "name": "Scattered Piece of Decarabian's Dream",
                 "rarity": 5
             }
@@ -73,22 +73,22 @@
         "source": "cecilia-garden",
         "items": [
             {
-                "slug": "boreal-wolf's-milk-tooth",
+                "id": "boreal-wolf's-milk-tooth",
                 "name": "Boreal Wolf's Milk Tooth",
                 "rarity": 2
             },
             {
-                "slug": "boreal-wolf's-cracked-tooth",
+                "id": "boreal-wolf's-cracked-tooth",
                 "name": "Boreal Wolf's Cracked Tooth",
                 "rarity": 3
             },
             {
-                "slug": "boreal-wolf's-broken-fang",
+                "id": "boreal-wolf's-broken-fang",
                 "name": "Boreal Wolf's Broken Fang",
                 "rarity": 4
             },
             {
-                "slug": "boreal-wolf's-nostalgia",
+                "id": "boreal-wolf's-nostalgia",
                 "name": "Boreal Wolf's Nostalgia",
                 "rarity": 5
             }
@@ -119,22 +119,22 @@
         "source": "cecilia-garden",
         "items": [
             {
-                "slug": "fetters-of-the-dandelion-gladiator",
+                "id": "fetters-of-the-dandelion-gladiator",
                 "name": "Fetters of the Dandelion Gladiator",
                 "rarity": 2
             },
             {
-                "slug": "chains-of-the-dandelion-gladiator",
+                "id": "chains-of-the-dandelion-gladiator",
                 "name": "Chains of the Dandelion Gladiator",
                 "rarity": 3
             },
             {
-                "slug": "shackles-of-the-dandelion-gladiator",
+                "id": "shackles-of-the-dandelion-gladiator",
                 "name": "Shackles of the Dandelion Gladiator",
                 "rarity": 4
             },
             {
-                "slug": "dream-of-the-dandelion-gladiator",
+                "id": "dream-of-the-dandelion-gladiator",
                 "name": "Dream of the Dandelion Gladiator",
                 "rarity": 5
             }
@@ -161,22 +161,22 @@
         "source": "hidden-palace-of-lianshan",
         "items": [
             {
-                "slug": "luminous-sands-from-guyun",
+                "id": "luminous-sands-from-guyun",
                 "name": "Luminous Sands from Guyun",
                 "rarity": 2
             },
             {
-                "slug": "lustrous-stone-from-guyun",
+                "id": "lustrous-stone-from-guyun",
                 "name": "Lustrous Stone from Guyun",
                 "rarity": 3
             },
             {
-                "slug": "relic-from-guyun",
+                "id": "relic-from-guyun",
                 "name": "Relic from Guyun",
                 "rarity": 4
             },
             {
-                "slug": "divine-body-from-guyun",
+                "id": "divine-body-from-guyun",
                 "name": "Divine Body from Guyun",
                 "rarity": 5
             }
@@ -204,22 +204,22 @@
         "source": "hidden-palace-of-lianshan",
         "items": [
             {
-                "slug": "mist-veiled-lead-elixir",
+                "id": "mist-veiled-lead-elixir",
                 "name": "Mist Veiled Lead Elixir",
                 "rarity": 2
             },
             {
-                "slug": "mist-veiled-mercury-elixir",
+                "id": "mist-veiled-mercury-elixir",
                 "name": "Mist Veiled Mercury Elixir",
                 "rarity": 3
             },
             {
-                "slug": "mist-veiled-gold-elixir",
+                "id": "mist-veiled-gold-elixir",
                 "name": "Mist Veiled Gold Elixir",
                 "rarity": 4
             },
             {
-                "slug": "mist-veiled-primo-elixir",
+                "id": "mist-veiled-primo-elixir",
                 "name": "Mist Veiled Primo Elixir",
                 "rarity": 5
             }
@@ -243,22 +243,22 @@
         "source": "hidden-palace-of-lianshan",
         "items": [
             {
-                "slug": "grain-of-aerosiderite",
+                "id": "grain-of-aerosiderite",
                 "name": "Grain of Aerosiderite",
                 "rarity": 2
             },
             {
-                "slug": "piece-of-aerosiderite",
+                "id": "piece-of-aerosiderite",
                 "name": "Piece of Aerosiderite",
                 "rarity": 3
             },
             {
-                "slug": "bit-of-aerosiderite",
+                "id": "bit-of-aerosiderite",
                 "name": "Bit of Aerosiderite",
                 "rarity": 4
             },
             {
-                "slug": "chunk-of-aerosiderite",
+                "id": "chunk-of-aerosiderite",
                 "name": "Chunk of Aerosiderite",
                 "rarity": 5
             }

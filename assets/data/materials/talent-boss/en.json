@@ -1,5 +1,6 @@
 {
     "tail-of-boreas": {
+        "id": "tail-of-boreas",
         "name": "Tail of Boreas",
         "characters": [
             "qiqi",
@@ -9,6 +10,7 @@
         ]
     },
     "ring-of-boreas": {
+        "id": "ring-of-boreas",
         "name": "Ring of Boreas",
         "characters": [
             "barbara",
@@ -18,6 +20,7 @@
         ]
     },
     "spirit-locket-of-boreas": {
+        "id": "spirit-locket-of-boreas",
         "name": "Spirit Locket of Boreas",
         "characters": [
             "fischl",
@@ -27,6 +30,7 @@
         ]
     },
     "dvalin's-plume": {
+        "id": "dvalin's-plume",
         "name": "Dvalin's Plume",
         "characters": [
             "bennett",
@@ -35,6 +39,7 @@
         ]
     },
     "dvalin's-claw": {
+        "id": "dvalin's-claw",
         "name": "Dvalin's Claw",
         "characters": [
             "lisa",
@@ -44,6 +49,7 @@
         ]
     },
     "dvalin's-sigh": {
+        "id": "dvalin's-sigh",
         "name": "Dvalin's Sigh",
         "characters": [
             "amber",
@@ -54,6 +60,7 @@
         ]
     },
     "tusk-of-monoceros-caeli": {
+        "id": "tusk-of-monoceros-caeli",
         "name": "Tusk of Monoceros Caeli",
         "characters": [
             "albedo",
@@ -62,6 +69,7 @@
         ]
     },
     "shard-of-a-foul-legacy": {
+        "id": "shard-of-a-foul-legacy",
         "name": "Shard of a Foul Legacy",
         "characters": [
             "diona",
@@ -69,6 +77,7 @@
         ]
     },
     "shadow-of-the-warrior": {
+        "id": "shadow-of-the-warrior",
         "name": "Shadow of the Warrior",
         "characters": [
             "ganyu"

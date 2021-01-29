@@ -13,17 +13,17 @@
         "source": "forsaken-rift",
         "items": [
             {
-                "slug": "teachings-of-freedom",
+                "id": "teachings-of-freedom",
                 "name": "Teachings of Freedom",
                 "rarity": 2
             },
             {
-                "slug": "guide-to-freedom",
+                "id": "guide-to-freedom",
                 "name": "Guide to Freedom",
                 "rarity": 3
             },
             {
-                "slug": "philosophies-of-freedom",
+                "id": "philosophies-of-freedom",
                 "name": "Philosophies of Freedom",
                 "rarity": 4
             }
@@ -43,17 +43,17 @@
         "source": "forsaken-rift",
         "items": [
             {
-                "slug": "teachings-of-resistance",
+                "id": "teachings-of-resistance",
                 "name": "Teachings of Resistance",
                 "rarity": 2
             },
             {
-                "slug": "guide-to-resistance",
+                "id": "guide-to-resistance",
                 "name": "Guide to Resistance",
                 "rarity": 3
             },
             {
-                "slug": "philosophies-of-resistance",
+                "id": "philosophies-of-resistance",
                 "name": "Philosophies of Resistance",
                 "rarity": 4
             }
@@ -73,17 +73,17 @@
         "source": "forsaken-rift",
         "items": [
             {
-                "slug": "teachings-of-ballad",
+                "id": "teachings-of-ballad",
                 "name": "Teachings of Ballad",
                 "rarity": 2
             },
             {
-                "slug": "guide-to-ballad",
+                "id": "guide-to-ballad",
                 "name": "Guide to Ballad",
                 "rarity": 3
             },
             {
-                "slug": "philosophies-of-ballad",
+                "id": "philosophies-of-ballad",
                 "name": "Philosophies of Ballad",
                 "rarity": 4
             }
@@ -100,17 +100,17 @@
         "source": "taishan-mansion",
         "items": [
             {
-                "slug": "teachings-of-prosperity",
+                "id": "teachings-of-prosperity",
                 "name": "Teachings of Prosperity",
                 "rarity": 2
             },
             {
-                "slug": "guide-to-prosperity",
+                "id": "guide-to-prosperity",
                 "name": "Guide to Prosperity",
                 "rarity": 3
             },
             {
-                "slug": "philosophies-of-prosperity",
+                "id": "philosophies-of-prosperity",
                 "name": "Philosophies of Prosperity",
                 "rarity": 4
             }
@@ -127,17 +127,17 @@
         "source": "taishan-mansion",
         "items": [
             {
-                "slug": "teachings-of-diligence",
+                "id": "teachings-of-diligence",
                 "name": "Teachings of Diligence",
                 "rarity": 2
             },
             {
-                "slug": "guide-to-diligence",
+                "id": "guide-to-diligence",
                 "name": "Guide to Diligence",
                 "rarity": 3
             },
             {
-                "slug": "philosophies-of-diligence",
+                "id": "philosophies-of-diligence",
                 "name": "Philosophies of Diligence",
                 "rarity": 4
             }
@@ -155,17 +155,17 @@
         "source": "taishan-mansion",
         "items": [
             {
-                "slug": "teachings-of-gold",
+                "id": "teachings-of-gold",
                 "name": "Teachings of Gold",
                 "rarity": 2
             },
             {
-                "slug": "guide-to-gold",
+                "id": "guide-to-gold",
                 "name": "Guide to Gold",
                 "rarity": 3
             },
             {
-                "slug": "philosophies-of-gold",
+                "id": "philosophies-of-gold",
                 "name": "Philosophies of Gold",
                 "rarity": 4
             }

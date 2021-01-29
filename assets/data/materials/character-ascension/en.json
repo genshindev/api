@@ -1,7 +1,7 @@
 {
     "anemo": {
         "sliver": {
-            "slug": "vayuda-turquoise-sliver",
+            "id": "vayuda-turquoise-sliver",
             "name": "Vayuda Turquoise Sliver",
             "sources": [
                 "Anemo Hypostasis", 
@@ -21,7 +21,7 @@
             "rarity": 2
         },
         "fragment": {
-            "slug": "vayuda-turquoise-fragment",
+            "id": "vayuda-turquoise-fragment",
             "name": "Vayuda Turquoise Fragment",
             "sources": [
                 "Anemo Hypostasis", 
@@ -39,7 +39,7 @@
             "rarity": 3
         },
         "chunk": {
-            "slug": "vayuda-turquoise-chunk",
+            "id": "vayuda-turquoise-chunk",
             "name": "Vayuda Turquoise Chunk",
             "sources": [
                 "Anemo Hypostasis", 
@@ -55,7 +55,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "slug": "vayuda-turquoise-gemstone",
+            "id": "vayuda-turquoise-gemstone",
             "name": "Vayuda Turquoise Gemstone",
             "sources": [
                 "Anemo Hypostasis", 
@@ -70,7 +70,7 @@
     },
     "cryo": {
         "sliver": {
-            "slug": "shivada-jade-sliver",
+            "id": "shivada-jade-sliver",
             "name": "Shivada Jade Sliver",
             "sources": [
                 "Cryo Regisvine", 
@@ -89,7 +89,7 @@
             "rarity": 2
         },
         "fragment": {
-            "slug": "shivada-jade-fragment",
+            "id": "shivada-jade-fragment",
             "name": "Shivada Jade Fragment",
             "sources": [
                 "Cryo Regisvine", 
@@ -107,7 +107,7 @@
             "rarity": 3
         },
         "chunk": {
-            "slug": "shivada-jade-chunk",
+            "id": "shivada-jade-chunk",
             "name": "Shivada Jade Chunk",
             "sources": [
                 "Cryo Regisvine", 
@@ -124,7 +124,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "slug": "shivada-jade-gemstone",
+            "id": "shivada-jade-gemstone",
             "name": "Shivada Jade Gemstone",
             "sources": [
                 "Cryo Regisvine", 
@@ -139,7 +139,7 @@
     },
     "electro": {
         "sliver": {
-            "slug": "vajrada-amethyst-sliver",
+            "id": "vajrada-amethyst-sliver",
             "name": "Vajrada Amethyst Sliver",
             "sources": [
                 "Electro Hypostasis", 
@@ -158,7 +158,7 @@
             "rarity": 2
         },
         "fragment": {
-            "slug": "vajrada-amethyst-fragment",
+            "id": "vajrada-amethyst-fragment",
             "name": "Vajrada Amethyst Fragment",
             "sources": [
                 "Electro Hypostasis", 
@@ -177,7 +177,7 @@
             "rarity": 3
         },
         "chunk": {
-            "slug": "vajrada-amethyst-chunk",
+            "id": "vajrada-amethyst-chunk",
             "name": "Vajrada Amethyst Chunk",
             "sources": [
                 "Electro Hypostasis", 
@@ -194,7 +194,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "slug": "vajrada-amethyst-gemstone",
+            "id": "vajrada-amethyst-gemstone",
             "name": "Vajrada Amethyst Gemstone",
             "sources": [
                 "Electro Hypostasis", 
@@ -209,7 +209,7 @@
     },
     "geo": {
         "sliver": {
-            "slug": "prithiva-topaz-sliver",
+            "id": "prithiva-topaz-sliver",
             "name": "Prithiva Topaz Sliver",
             "sources": [
                 "Geo Hypostasis", 
@@ -229,7 +229,7 @@
             "rarity": 2
         },
         "fragment": {
-            "slug": "prithiva-topaz-fragment",
+            "id": "prithiva-topaz-fragment",
             "name": "Prithiva Topaz Fragment",
             "sources": [
                 "Geo Hypostasis", 
@@ -248,7 +248,7 @@
             "rarity": 3
         },
         "chunk": {
-            "slug": "prithiva-topaz-chunk",
+            "id": "prithiva-topaz-chunk",
             "name": "Prithiva Topaz Chunk",
             "sources": [
                 "Geo Hypostasis", 
@@ -265,7 +265,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "slug": "prithiva-topaz-gemstone",
+            "id": "prithiva-topaz-gemstone",
             "name": "Prithiva Topaz Gemstone",
             "sources": [
                 "Geo Hypostasis", 
@@ -280,7 +280,7 @@
     },
     "hydro": {
         "sliver": {
-            "slug": "varunada-lazurite-sliver",
+            "id": "varunada-lazurite-sliver",
             "name": "Varunada Lazurite Sliver",
             "sources": [
                 "Oceanid", 
@@ -300,7 +300,7 @@
             "rarity": 2
         },
         "fragment": {
-            "slug": "varunada-lazurite-fragment",
+            "id": "varunada-lazurite-fragment",
             "name": "Varunada Lazurite Fragment",
             "sources": [
                 "Oceanid", 
@@ -319,7 +319,7 @@
             "rarity": 3
         },
         "chunk": {
-            "slug": "varunada-lazurite-chunk",
+            "id": "varunada-lazurite-chunk",
             "name": "Varunada Lazurite Chunk",
             "sources": [
                 "Oceanid", 
@@ -336,7 +336,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "slug": "varunada-lazurite-gemstone",
+            "id": "varunada-lazurite-gemstone",
             "name": "Varunada Lazurite Gemstone",
             "sources": [
                 "Oceanid", 
@@ -351,7 +351,7 @@
     },
     "pyro": {
         "sliver": {
-            "slug": "agnidus-agate-sliver",
+            "id": "agnidus-agate-sliver",
             "name": "Agnidus Agate Sliver",
             "sources": [
                 "Pyro Regisvine", 
@@ -371,7 +371,7 @@
             "rarity": 2
         },
         "fragment": {
-            "slug": "agnidus-agate-fragment",
+            "id": "agnidus-agate-fragment",
             "name": "Agnidus Agate Fragment",
             "sources": [
                 "Pyro Regisvine", 
@@ -390,7 +390,7 @@
             "rarity": 3
         },
         "chunk": {
-            "slug": "agnidus-agate-chunk",
+            "id": "agnidus-agate-chunk",
             "name": "Agnidus Agate Chunk",
             "sources": [
                 "Pyro Regisvine", 
@@ -407,7 +407,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "slug": "agnidus-agate-gemstone",
+            "id": "agnidus-agate-gemstone",
             "name": "Agnidus Agate Gemstone",
             "sources": [
                 "Pyro Regisvine", 
@@ -422,25 +422,25 @@
     },
     "traveler": {
         "sliver": {
-            "slug": "brilliant-diamond-sliver",
+            "id": "brilliant-diamond-sliver",
             "name": "Brilliant Diamond Sliver",
             "sources": ["Adventure Rank 15"],
             "rarity": 2
         },
         "fragment": {
-            "slug": "brilliant-diamond-fragment",
+            "id": "brilliant-diamond-fragment",
             "name": "Brilliant Diamond Fragment",
             "sources": ["Adventure Rank 25", "Adventure Rank 26", "Adventure Rank 28", "Adventure Rank 30"],
             "rarity": 3
         },
         "chunk": {
-            "slug": "brilliant-diamond-chunk",
+            "id": "brilliant-diamond-chunk",
             "name": "Brilliant Diamond Chunk",
             "sources": ["Adventure Rank 35", "Adventure Rank 38", "Adventure Rank 40"],
             "rarity": 4
         },
         "gemstone": {
-            "slug": "brilliant-diamond-gemstone",
+            "id": "brilliant-diamond-gemstone",
             "name": "Brilliant Diamond Gemstone",
             "sources": ["Adventure Rank 41", "Adventure Rank 42", "Adventure Rank 45"],
             "rarity": 5

@@ -1,31 +1,31 @@
 {
     "anemo": {
-        "slug": "hurricane-seed",
+        "id": "hurricane-seed",
         "name": "Hurrican Seed",
         "source": "Anemo Hypostasis"
     },
     "cryo": {
-        "slug": "hoarfrost-core",
+        "id": "hoarfrost-core",
         "name": "Hoarfrost Core",
         "source": "Cryo Regisvine"
     },
     "electro": {
-        "slug": "lightning-prism",
+        "id": "lightning-prism",
         "name": "Lightning Prism",
         "source": "Electro Hypostasis"
     },
     "geo": {
-        "slug": "basalt-pillar",
+        "id": "basalt-pillar",
         "name": "Basalt Pillar",
         "source": "Geo Hypostasis"
     },
     "hydro": {
-        "slug": "cleansing-heart",
+        "id": "cleansing-heart",
         "name": "Cleansing Heart",
         "source": "Oceanid"
     },
     "pyro": {
-        "slug": "everflame-seed",
+        "id": "everflame-seed",
         "name": "Everflame Seed",
         "source": "Pyro Regisvine"
     }

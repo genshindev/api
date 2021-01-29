@@ -1,70 +1,86 @@
 {
-    "mondstadt": {
-        "calla-lily": {
+    "mondstadt": [
+        {
+            "id": "calla-lily",
             "name": "Calla Lily",
             "characters": ["diona", "kaeya"]
         },
-        "cecilia": {
+        {
+            "id": "cecilia",
             "name": "Cecilia",
             "characters": ["albedo", "venti"]
         },
-        "dandelion-seed": {
+        {
+            "id": "dandelion-seed",
             "name": "Dandelion Seed",
             "characters": ["jean"]
         },
-        "philanemo-mushroom": {
+        {
+            "id": "philanemo-mushroom",
             "name": "Philanemo Mushroom",
             "characters": ["barbara", "klee", "mona"]
         },
-        "small-lamp-grass": {
+        {
+            "id": "small-lamp-grass",
             "name": "Small Lamp Grass",
             "characters": ["amber", "diluc", "fischl"]
         },
-        "valberry": {
+        {
+            "id": "valberry",
             "name": "Valberry",
             "characters": ["lisa", "noelle"]
         },
-        "windwheel-aster": {
+        {
+            "id": "windwheel-aster",
             "name": "Windwheel Aster",
             "characters": ["bennett", "sucrose", "traveler-anemo", "traveler-geo"]
         },
-        "wolfhook": {
+        {
+            "id": "wolfhook",
             "name": "Wolfhook",
             "characters": ["razor"]
         }
-    },
-    "liyue": {
-        "cor-lapis": {
+    ],
+    "liyue": [
+        {
+            "id": "cor-lapis",
             "name": "Cor Lapis",
             "characters": ["chongyun", "keqing", "zhongli"]
         },
-        "glaze-lily": {
+        {
+            "id": "glaze-lily",
             "name": "Glaze Lily",
             "characters": ["ningguang"]
         },
-        "jueyun-chili": {
+        {
+            "id": "jueyun-chili",
             "name": "Jueyun Chili",
             "characters": ["xiangling"]
         },
-        "noctilucous-jade": {
+        {
+            "id": "noctilucous-jade",
             "name": "Noctilucous Jade",
             "characters": ["beidou"]
         },
-        "qingxin": {
+        {
+            "id": "qingxin",
             "name": "Qingxin",
             "characters": ["ganyu", "xiao"]
         },
-        "silk-flower": {
+        {
+            "id": "silk-flower",
             "name": "Silk Flower",
             "characters": ["xingqiu"]
         },
-        "starconch": {
+        {
+            "id": "starconch",
             "name": "Starconch",
             "characters": ["tartaglia"]
         },
-        "violetgrass": {
+        {
+            "id": "violetgrass",
             "name": "Violetgrass",
             "characters": ["qiqi", "xinyan"]
         }
-    }
+    ]
 }
