@@ -14,7 +14,7 @@ dotenv.config();
 
 (async () => {
   const app = new Koa();
-  const port = process.env.API_PORT || 5000;
+  const port = process.env.PORT || 5000;
 
   app.use(koaBody());
   app.use(helmet());
