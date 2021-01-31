@@ -1,7 +1,6 @@
 dependencies:
   '@koa/cors': 3.1.0
   '@types/koa__cors': 3.0.2
-  dotenv: 8.2.0
   file-loader: 6.2.0
   gulp-cli: 2.3.0
   json-loader: 0.5.7
@@ -1209,12 +1208,6 @@ packages:
       node: '>=8'
     resolution:
       integrity: sha512-QM8q3zDe58hqUqjraQOmzZ1LIH9SWQJTlEKCH4kJ2oQvLZk7RbQXvtDM2XEq3fwkV9CCvvH4LA0AV+ogFsBM2Q==
-  /dotenv/8.2.0:
-    dev: false
-    engines:
-      node: '>=8'
-    resolution:
-      integrity: sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
   /duplexer3/0.1.4:
     dev: true
     resolution:
@@ -3605,7 +3598,7 @@ packages:
     resolution:
       integrity: sha512-pb/MYmXstAkysRFx8piNI1tGFNQIFA3vkE3Gq4EuA1dF6gHp/+vgZqsCGJapvy8N3Q+4o7FwvquPJcnZ7RYy4g==
   /resolve-url/0.2.1:
-    deprecated: 'https://github.com/lydell/resolve-url#deprecated'
+    deprecated: https://github.com/lydell/resolve-url#deprecated
     dev: false
     resolution:
       integrity: sha1-LGN/53yJOv0qZj/iGqkIAGjiBSo=
@@ -4301,7 +4294,7 @@ packages:
     resolution:
       integrity: sha512-B0yRTzYdUCCn9n+F4+Gh4yIDtMQcaJsmYBDsTSG8g/OejKBodLQ2IHfN3bM7jUsRXndopT7OIXWdYqc1fjmV6g==
   /urix/0.1.0:
-    deprecated: 'Please see https://github.com/lydell/urix#deprecated'
+    deprecated: Please see https://github.com/lydell/urix#deprecated
     dev: false
     resolution:
       integrity: sha1-2pN/emLiH+wf0Y1Js1wpNQZ6bHI=
@@ -4467,7 +4460,6 @@ specifiers:
   '@types/sharp': ^0.26.1
   '@typescript-eslint/eslint-plugin': ^4.10.0
   '@typescript-eslint/parser': ^4.10.0
-  dotenv: ^8.2.0
   eslint: ^7.15.0
   eslint-config-prettier: ^6.15.0
   eslint-plugin-import: ^2.22.1
