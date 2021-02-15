@@ -1,6 +1,7 @@
 {
   "name": "Jean",
   "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of the Knights of Favonius in Mondstadt.",
+  "nation": "Mondstadt",
   "vision": "Anemo",
   "weapon": "Sword",
   "rarity": 5,

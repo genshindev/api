@@ -1,6 +1,7 @@
 {
   "name": "Tartaglia",
   "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
+  "nation": "Snezhnaya",
   "vision": "Hydro",
   "weapon": "Bow",
   "rarity": 5,

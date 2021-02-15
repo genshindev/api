@@ -1,6 +1,7 @@
 {
   "name": "Bennett",
   "description": "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+  "nation": "Mondstadt",
   "vision": "Pyro",
   "weapon": "Sword",
   "rarity": 4,

@@ -4,6 +4,7 @@
   "vision": "Geo",
   "weapon": "Polearm",
   "rarity": 5,
+  "nation": "Liyue",
   "skillTalents": [
     {
       "name": "Rain of Stone",
