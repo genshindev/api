@@ -1,6 +1,7 @@
 {
   "name": "Diluc",
   "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+  "nation": "Mondstadt",
   "vision": "Pyro",
   "weapon": "Claymore",
   "rarity": 5,

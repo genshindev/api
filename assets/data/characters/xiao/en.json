@@ -1,6 +1,7 @@
 {
   "name": "Xiao",
   "description": "A yaksha adeptus that defends Liyue. Also heralded as the \"Conqueror of Demons\" or \"Vigilant Yaksha.\"",
+  "nation": "Liyue",
   "vision": "Anemo",
   "weapon": "Polearm",
   "rarity": 5,

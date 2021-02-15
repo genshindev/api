@@ -1,6 +1,7 @@
 {
   "name": "Xiangling",
   "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+  "nation": "Liyue",
   "vision": "Pyro",
   "weapon": "Polearm",
   "rarity": 4,

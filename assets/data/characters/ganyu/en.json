@@ -1,6 +1,7 @@
 {
   "name": "Ganyu",
   "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+  "nation": "Liyue",
   "vision": "Cryo",
   "weapon": "Bow",
   "rarity": 5,

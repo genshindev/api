@@ -1,6 +1,7 @@
 {
   "name": "Venti",
   "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+  "nation": "Mondstadt",
   "vision": "Anemo",
   "weapon": "Bow",
   "rarity": 5,

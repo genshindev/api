@@ -1,6 +1,7 @@
 {
   "name": "Razor",
   "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+  "nation": "Mondstadt",
   "vision": "Electro",
   "weapon": "Claymore",
   "rarity": 4,

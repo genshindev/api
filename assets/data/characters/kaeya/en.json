@@ -1,6 +1,7 @@
 {
   "name": "Kaeya",
   "description": "A thinker in the Knights of Favonius with a somewhat exotic appearance.",
+  "nation": "Mondstadt",
   "vision": "Cryo",
   "weapon": "Sword",
   "rarity": 4,

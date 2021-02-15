@@ -4,6 +4,7 @@
   "vision": "Hydro",
   "weapon": "Catalyst",
   "rarity": 4,
+  "nation": "Mondstadt",
   "skillTalents": [
     {
       "name": "Whisper of Water",
