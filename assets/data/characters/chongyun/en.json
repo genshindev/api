@@ -1,10 +1,13 @@
 {
   "name": "Chongyun",
-  "description": "A young exortcist from a family of exorcists. He does everything he can to suppress his pure positive energy.",
-  "nation": "Liyue",
   "vision": "Cryo",
   "weapon": "Claymore",
+  "nation": "Liyue",
+  "affiliation": "Liyue Harbor",
   "rarity": 4,
+  "constellation": "Nubis Caesor",
+  "birthday": "0000-09-07",
+  "description": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
   "skillTalents": [
     {
       "name": "Demonbane",
