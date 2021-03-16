@@ -1,10 +1,13 @@
 {
   "name": "Qiqi",
-  "description": "An apprentice and herb-picker Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
-  "nation": "Liyue",
   "vision": "Cryo",
   "weapon": "Sword",
+  "nation": "Liyue",
+  "affiliation": "Bubu Pharmacy",
   "rarity": 5,
+  "constellation": "Pristina Nola",
+  "birthday": "0000-03-03",
+  "description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
   "skillTalents": [
     {
       "name": "Ancient Sword Art",
