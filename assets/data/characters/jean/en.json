@@ -1,10 +1,13 @@
 {
   "name": "Jean",
-  "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of the Knights of Favonius in Mondstadt.",
-  "nation": "Mondstadt",
   "vision": "Anemo",
   "weapon": "Sword",
+  "nation": "Mondstadt",
+  "affiliation": "Knights of Favonius",
   "rarity": 5,
+  "constellation": "Leo Minor",
+  "birthday": "0000-03-14",
+  "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius",
   "skillTalents": [
     {
       "name": "Favonius Bladework",
