@@ -1,10 +1,13 @@
 {
   "name": "Beidou",
-  "description": "Beidou is the leader of the Crux — an armed fleet based in Liyue Harbor. An armed fleet means exactly what it sounds like: a fleet of ships armed to the teeth.",
-  "nation": "Liyue",
   "vision": "Electro",
   "weapon": "Claymore",
+  "nation": "Liyue",
+  "affiliation": "The Crux",
   "rarity": 4,
+  "constellation": "Victor Mare",
+  "birthday": "0000-02-14",
+  "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
   "skillTalents": [
     {
       "name": "Oceanborne",

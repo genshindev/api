@@ -1,10 +1,13 @@
 {
   "name": "Zhongli",
-  "description": "A mysterious guest invited by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
   "vision": "Geo",
   "weapon": "Polearm",
-  "rarity": 5,
   "nation": "Liyue",
+  "affiliation": "Liyue Harbor",
+  "rarity": 5,
+  "constellation": "Lapis Dei",
+  "birthday": "0000-12-31",
+  "description": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
   "skillTalents": [
     {
       "name": "Rain of Stone",
@@ -14,7 +17,7 @@
     {
       "name": "Dominus Lapidis",
       "unlock": "Elemental Skill",
-      "description": "Press\nCommands the omnipresent power of earth to solidify into a Stone Stele, dealing AoE Geo DMG.\nAdditionally, the Stone Stele will resonate with other Geo Constructs in the vicinity, dealing Geo DMG to surrounding enemies.\nThe Stone Stele is considered a Geo Construct, and can both be climbed and used to block attacks. Only one may exist at any one time.\nHold\nCauses nearby Geo energy to explode, causing the following effects:\n\nCreates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP, and absorbs Geo DMG 250% more effectively.\nCauses AoE Geo DMG.\nIf there are nearby targets with the Geo element, it will drain a large amount of Geo element from a maximum of 2 such targets. This effect does not cause DMG.\n"
+      "description": "Press\nCommands the omnipresent power of earth to solidify into a Stone Stele, dealing AoE Geo DMG.\nAdditionally, the Stone Stele will resonate with other Geo Constructs in the vicinity, dealing Geo DMG to surrounding enemies.\nThe Stone Stele is considered a Geo Construct, and can both be climbed and used to block attacks. Only one may exist at any one time.\nHold\nCauses nearby Geo energy to explode, causing the following effects:\n\nCreates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP, and absorbs Geo DMG 250% more effectively.\nCauses AoE Geo DMG.\nIf there are nearby targets with the Geo element, it will drain a large amount of Geo element from a maximum of 2 such targets. This effect does not cause DMG.\n\nStone Stele\nWhen created, deals AoE Geo DMG.\nAdditionally, it will intermittently resonate with other nearby Geo constructs, dealing Geo DMG to nearby opponents.\nThe Stone Stele is considered a Geo construct that can both be climbed and used to block attacks.\nOnly one Stele created by Zhongli himself may initially exist at any one time.\n\nJade Shield\nPossesses 150% DMG Absorption against all Elemental and Physical DMG.\nCharacters protected by the Jade Shield will decrease the Elemental RES and Physical RES of opponents in a small AoE by 20%. This effect cannot be stacked."
     },
     {
       "name": "Planet Befall",
@@ -31,7 +34,7 @@
     {
       "name": "Dominance of Earth",
       "unlock": "Unlocked at Ascension 4",
-      "description": "Planet Befall deals additional DMG equal to 33% of Zhongli's Max HP."
+      "description": "Zhongli deals bonus DMG based on his Max HP:\nNormal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.\nDominus Lapidis' Stone Stele, resonance, and hold DMG is increased by 1.9% of Max HP.\nPlanet Befall's DMG is increased by 33% of Max HP."
     },
     {
       "name": "Arcanum of Crystal",

@@ -1,10 +1,13 @@
 {
   "name": "Lisa",
-  "description": "The languid but knowledgeable Librarian of the Knights of Favonius who was deemed by Sumeru Academia to be their most distinguised graduate in the past two centuries.",
-  "nation": "Mondstadt",
   "vision": "Electro",
   "weapon": "Catalyst",
+  "nation": "Mondstadt",
+  "affiliation": "Knights of Favonius",
   "rarity": 4,
+  "constellation": "Tempus Fugit",
+  "birthday": "0000-06-09",
+  "description": "The languid but knowledgeable Librarian of the Knights of Favonius who was deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries.",
   "skillTalents": [
     {
       "name": "Lightning Touch",

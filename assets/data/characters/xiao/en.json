@@ -1,10 +1,13 @@
 {
   "name": "Xiao",
-  "description": "A yaksha adeptus that defends Liyue. Also heralded as the \"Conqueror of Demons\" or \"Vigilant Yaksha.\"",
-  "nation": "Liyue",
   "vision": "Anemo",
   "weapon": "Polearm",
+  "nation": "Liyue",
+  "affiliation": "Liyue Adeptus"
   "rarity": 5,
+  "constellation": "Alatus Nemeseos",
+  "birthday": "0000-04-17",
+  "description": "A yaksha adeptus that defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
   "skillTalents": [
     {
       "name": "Whirlwind Thrust",

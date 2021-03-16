@@ -1,10 +1,13 @@
 {
   "name": "Xinyan",
-  "description": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
-  "nation": "Liyue",
   "vision": "Pyro",
   "weapon": "Claymore",
+  "nation": "Liyue",
+  "affiliation": "Liyue Harbor",
   "rarity": 4,
+  "constellation": "Fila Ignium",
+  "birthday": "0000-10-16",
+  "description": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
   "skillTalents": [
     {
       "name": "Dance on Fire",

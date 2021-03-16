@@ -1,10 +1,13 @@
 {
     "name": "Albedo",
-    "description": "An alchemist based in Mondstadt, in the service of the Knights of Favonius.",
-    "nation": "Mondstadt",
     "vision": "Geo",
     "weapon": "Sword",
+    "nation": "Mondstadt",
+    "affiliation": "Knights of Favonius",
     "rarity": 5,
+    "constellation": "Princeps Cretaceus",
+    "birthday": "0000-09-13",
+    "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
     "skillTalents": [
       {
         "name": "Favonius Bladework - Weiss",

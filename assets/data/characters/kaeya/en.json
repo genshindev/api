@@ -1,10 +1,13 @@
 {
   "name": "Kaeya",
-  "description": "A thinker in the Knights of Favonius with a somewhat exotic appearance.",
-  "nation": "Mondstadt",
   "vision": "Cryo",
   "weapon": "Sword",
+  "nation": "Mondstadt",
+  "affiliation": "Knights of Favonius",
   "rarity": 4,
+  "constellation": "Pavo Ocellus",
+  "birthday": "0000-11-30",
+  "description": "A thinker in the Knights of Favonius with a somewhat exotic appearance.",
   "skillTalents": [
     {
       "name": "Ceremonial Bladework",
