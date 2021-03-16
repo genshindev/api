@@ -1,10 +1,13 @@
 {
   "name": "Tartaglia",
-  "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
-  "nation": "Snezhnaya",
   "vision": "Hydro",
   "weapon": "Bow",
+  "nation": "Snezhnaya",
+  "affiliation": "Fatui",
   "rarity": 5,
+  "constellation": "Monoceros Caeli",
+  "birthday": "0000-07-20",
+  "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
   "skillTalents": [
     {
       "name": "Cutting Torrent",
