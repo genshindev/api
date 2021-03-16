@@ -1,10 +1,13 @@
 {
   "name": "Ningguang",
-  "description": "The Tianquan of Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
-  "nation": "Liyue",
   "vision": "Geo",
   "weapon": "Catalyst",
+  "nation": "Liyue",
+  "affiliation": "Liyuw Qixing",
   "rarity": 4,
+  "constellation": "Opus Aequilibrium",
+  "birthday": "0000-08-26",
+  "description": "The Tianquan of Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
   "skillTalents": [
     {
       "name": "Sparkling Scatter",
