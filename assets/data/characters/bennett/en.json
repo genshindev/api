@@ -1,10 +1,13 @@
 {
   "name": "Bennett",
-  "description": "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
-  "nation": "Mondstadt",
   "vision": "Pyro",
   "weapon": "Sword",
+  "nation": "Mondstadt",
+  "affiliation": "Adventurers' Guild",
   "rarity": 4,
+  "constellation": "Rota Calamitas",
+  "birthday": "0000-02-29",
+  "description": "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
   "skillTalents": [
     {
       "name": "Strike of Fortune",
