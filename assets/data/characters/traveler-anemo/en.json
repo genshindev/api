@@ -1,9 +1,10 @@
 {
     "name": "Traveler",
-    "description": "The Sustainer is dying, the Creator has yet to return.\nBut the world won't burn again, because you will ascend to the seat of 「God」.",
     "vision": "Anemo",
     "weapon": "Sword",
     "rarity": 5,
+    "constellation": "Viatrix",
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
     "skillTalents": [
       {
         "name": "Foreign Ironwind",

@@ -1,10 +1,13 @@
 {
   "name": "Noelle",
-  "description": "A maid in the service of the Knights of Favonius that dreams of joining their ranks someday.",
-  "nation": "Mondstadt",
   "vision": "Geo",
   "weapon": "Claymore",
+  "nation": "Mondstadt",
+  "affiliation": "Knights of Favonius",
   "rarity": 4,
+  "constellation": "Parma Cordis",
+  "birthday": "0000-03-21",
+  "description": "A maid who faithfully serves the Knights of Favonius that dreams of joining their ranks someday.",
   "skillTalents": [
     {
       "name": "Favonius Bladework - Maid",

@@ -1,10 +1,13 @@
 {
   "name": "Barbara",
-  "description": "Every denizen of Mondstadt adores Barbara. However, she learned the word \"idol\" from a magazine.",
   "vision": "Hydro",
   "weapon": "Catalyst",
-  "rarity": 4,
   "nation": "Mondstadt",
+  "affiliation": "Church of Favonius",
+  "rarity": 4,
+  "constellation": "Crater",
+  "birthday": "0000-07-05",
+  "description": "Every denizen of Mondstadt adores Barbara. However, she learned the word \"idol\" from a magazine.",
   "skillTalents": [
     {
       "name": "Whisper of Water",

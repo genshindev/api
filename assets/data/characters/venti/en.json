@@ -1,10 +1,13 @@
 {
   "name": "Venti",
-  "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
-  "nation": "Mondstadt",
   "vision": "Anemo",
   "weapon": "Bow",
+  "nation": "Mondstadt",
+  "affiliation": "Mondstadt",
   "rarity": 5,
+  "constellation": "Carmen Dei",
+  "birthday": "0000-06-16",
+  "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
   "skillTalents": [
     {
       "name": "Divine Marksmanship",

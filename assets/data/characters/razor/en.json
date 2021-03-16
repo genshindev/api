@@ -1,10 +1,13 @@
 {
   "name": "Razor",
-  "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
-  "nation": "Mondstadt",
   "vision": "Electro",
   "weapon": "Claymore",
+  "nation": "Mondstadt",
+  "affiliation": "Wolvendom",
   "rarity": 4,
+  "constellation": "Lupus Minor",
+  "birthday": "0000-09-09",
+  "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
   "skillTalents": [
     {
       "name": "Steel Fang",

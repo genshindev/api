@@ -1,10 +1,13 @@
 {
   "name": "Klee",
-  "description": "An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
-  "nation": "Mondstadt",
   "vision": "Pyro",
   "weapon": "Catalyst",
+  "nation": "Mondstadt",
+  "affiliation": "Knights of Favonius",
   "rarity": 5,
+  "constellation": "Trifolium",
+  "birthday": "0000-07-27",
+  "description": "An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
   "skillTalents": [
     {
       "name": "Kaboom!",

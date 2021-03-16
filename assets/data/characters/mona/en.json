@@ -1,10 +1,13 @@
 {
   "name": "Mona",
-  "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title.",
-  "nation": "Mondstadt",
   "vision": "Hydro",
   "weapon": "Catalyst",
+  "nation": "Mondstadt",
+  "affiliation": "Mondstadt",
   "rarity": 5,
+  "constellation": "Astrolabos",
+  "birthday": "0000-08-31",
+  "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
   "skillTalents": [
     {
       "name": "Ripple of Fate",

@@ -1,10 +1,13 @@
 {
   "name": "Xiangling",
-  "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
-  "nation": "Liyue",
   "vision": "Pyro",
   "weapon": "Polearm",
+  "nation": "Liyue",
+  "affiliation": "Wanmin Restaurant",
   "rarity": 4,
+  "constellation": "Trulla",
+  "birthday": "0000-11-02",
+  "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
   "skillTalents": [
     {
       "name": "Dough-Fu",

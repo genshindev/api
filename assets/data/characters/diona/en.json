@@ -1,10 +1,13 @@
 {
   "name": "Diona",
-  "description": "A young lady who has inherited trace amounts of non-human blood. She is the incredible popular bartender of the Cat's Tail tavern.",
-  "nation": "Mondstadt",
   "vision": "Cryo",
   "weapon": "Bow",
+  "nation": "Mondstadt",
+  "affiliation": "The Cat's Tail",
   "rarity": 4,
+  "constellation": "Feles",
+  "birthday": "0000-01-18",
+  "description": "A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.",
   "skillTalents": [
     {
       "name": "Katzlein Style",

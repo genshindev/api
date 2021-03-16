@@ -1,10 +1,13 @@
 {
   "name": "Ganyu",
-  "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
-  "nation": "Liyue",
   "vision": "Cryo",
   "weapon": "Bow",
+  "nation": "Liyue",
+  "affiliation": "Yuehai Pavilion",
   "rarity": 5,
+  "constellation": "Sinae Unicornis",
+  "birthday": "0000-12-02",
+  "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
   "skillTalents": [
     {
       "name": "Liutian Archery",
