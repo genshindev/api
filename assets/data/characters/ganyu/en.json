@@ -175,5 +175,6 @@
       "level": 6
     }
   ],
-  "vision_key": "CRYO"
+  "vision_key": "CRYO",
+  "weapon_type": "BOW"
 }

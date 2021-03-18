@@ -139,5 +139,6 @@
       "level": 6
     }
   ],
-  "vision_key": "GEO"
+  "vision_key": "GEO",
+  "weapon_type": "CATALYST"
 }
