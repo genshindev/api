@@ -50,7 +50,8 @@
           "name": "Low / High Plunge DMG",
           "value": "114% / 142%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Icy Paws",
@@ -77,7 +78,8 @@
           "name": "Holding CD",
           "value": "15s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Signature Mix",
@@ -108,19 +110,22 @@
           "name": "Energy Cost",
           "value": "80"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Cat's Tail Secret Menu",
       "unlock": "Unlocked at Ascension 1",
-      "description": "Characters shielded by Icy Paws have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%."
+      "description": "Characters shielded by Icy Paws have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.",
+      "level": 1
     },
     {
       "name": "Drunkard's Farce",
       "unlock": "Unlocked at Ascension 4",
-      "description": "Opponents who enter the AoE of Signature Mix have 10% decreased ATK for 15s."
+      "description": "Opponents who enter the AoE of Signature Mix have 10% decreased ATK for 15s.",
+      "level": 4
     },
     {
       "name": "Complimentary Bar Food",
@@ -132,32 +137,39 @@
     {
       "name": "A Lingering Flavor",
       "unlock": "Constellation Lv. 1",
-      "description": "Regenerates 15 Energy for Diona after the effects of Signature Mix end."
+      "description": "Regenerates 15 Energy for Diona after the effects of Signature Mix end.",
+      "level": 1
     },
     {
       "name": "Shaken, Not Purred",
       "unlock": "Constellation Lv. 2",
-      "description": "Increases Icy Paws' DMG by 15%, and increases its shield's DMG Absorption by 15%. Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the Icy Paws shield's DMG Absorption for 5s."
+      "description": "Increases Icy Paws' DMG by 15%, and increases its shield's DMG Absorption by 15%. Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the Icy Paws shield's DMG Absorption for 5s.",
+      "level": 2
     },
     {
       "name": "A-Another Round?",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Signature Mix by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Signature Mix by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Wine Industry Slayer",
       "unlock": "Constellation Lv. 4",
-      "description": "Within the radius of Signature Mix, Diona's charge time for aimed shots is reduced by 60%."
+      "description": "Within the radius of Signature Mix, Diona's charge time for aimed shots is reduced by 60%.",
+      "level": 4
     },
     {
       "name": "Double Shot, On The Rocks",
       "unlock": "Constellation Lv. 5",
-      "description": "Increases the level of Icy Paws by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the level of Icy Paws by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Cat's Tail Closing Time",
       "unlock": "Constellation Lv. 6",
-      "description": "Characters within Signature Mix's radius will gain the following effects based on their HP amounts:\nIncreasing Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.\nElemental Mastery is increased by 200 when HP is above 50%."
+      "description": "Characters within Signature Mix's radius will gain the following effects based on their HP amounts:\nIncreasing Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.\nElemental Mastery is increased by 200 when HP is above 50%.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "CRYO"
 }

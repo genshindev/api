@@ -54,7 +54,8 @@
           "name": "Low / High Plunge DMG",
           "value": "164% / 205%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Claw and Thunder",
@@ -89,7 +90,8 @@
           "name": "CD (hold)",
           "value": "10s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Lightning Fang",
@@ -124,19 +126,22 @@
           "name": "Energy Cost",
           "value": "80"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Awakening",
       "unlock": "Unlocked at Ascension 1",
-      "description": "Decreases Claw and Thunder's CD by 18%.\nUsing Lightning Fang resets the CD of Claw and Thunder."
+      "description": "Decreases Claw and Thunder's CD by 18%.\nUsing Lightning Fang resets the CD of Claw and Thunder.",
+      "level": 1
     },
     {
       "name": "Hunger",
       "unlock": "Unlocked at Ascension 4",
-      "description": "When Razor's Energy is below 50%, increases Energy Recharge by 30%."
+      "description": "When Razor's Energy is below 50%, increases Energy Recharge by 30%.",
+      "level": 4
     },
     {
       "name": "Wolvensprint",
@@ -148,32 +153,39 @@
     {
       "name": "Wolf's Instinct",
       "unlock": "Constellation Lv. 1",
-      "description": "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s."
+      "description": "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s.",
+      "level": 1
     },
     {
       "name": "Suppression",
       "unlock": "Constellation Lv. 2",
-      "description": "Increases CRIT Rate against enemies with less than 30% HP by 10%."
+      "description": "Increases CRIT Rate against enemies with less than 30% HP by 10%.",
+      "level": 2
     },
     {
       "name": "Soul Companion",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Lightning Fang by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Lightning Fang by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Bite",
       "unlock": "Constellation Lv. 4",
-      "description": "When casting Claw and Thunder (Press), enemies hit will have their DEF decreased by 15% for 7s."
+      "description": "When casting Claw and Thunder (Press), enemies hit will have their DEF decreased by 15% for 7s.",
+      "level": 4
     },
     {
       "name": "Sharpened Claws",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Claw and Thunder by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Claw and Thunder by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Lupus Fulguris",
       "unlock": "Constellation Lv. 6",
-      "description": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as Electro DMG.\nWhen Razor is not using Lightning Fang, a lightning strike on an enemy will grant Razor an Electro Sigil for Claw and Thunder."
+      "description": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as Electro DMG.\nWhen Razor is not using Lightning Fang, a lightning strike on an enemy will grant Razor an Electro Sigil for Claw and Thunder.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "ELECTRO"
 }

@@ -54,7 +54,8 @@
           "name": "Low / High Plunge DMG",
           "value": "179% / 224%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Searing Onslaught",
@@ -77,7 +78,8 @@
           "name": "CD",
           "value": "10s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Dawn",
@@ -108,19 +110,22 @@
           "name": "Energy Cost",
           "value": "40"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Relentless",
       "unlock": "Unlocked at Ascension 1",
-      "description": "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s."
+      "description": "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.",
+      "level": 1
     },
     {
       "name": "Blessing of Phoenix",
       "unlock": "Unlocked at Ascension 4",
-      "description": "The Pyro Enchantment provided by Dawn lasts for 4s longer. Additionally, Diluc gains 20% Pyro DMG Bonus during the duration of this effect."
+      "description": "The Pyro Enchantment provided by Dawn lasts for 4s longer. Additionally, Diluc gains 20% Pyro DMG Bonus during the duration of this effect.",
+      "level": 4
     },
     {
       "name": "Tradition of the Dawn Knight",
@@ -132,32 +137,39 @@
     {
       "name": "Conviction",
       "unlock": "Constellation Lv. 1",
-      "description": "Diluc deals 15% more DMG to enemies whose HP is above 50%."
+      "description": "Diluc deals 15% more DMG to enemies whose HP is above 50%.",
+      "level": 1
     },
     {
       "name": "Searing Ember",
       "unlock": "Constellation Lv. 2",
-      "description": "When Diluc takes DMG, his Base ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s."
+      "description": "When Diluc takes DMG, his Base ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s.",
+      "level": 2
     },
     {
       "name": "Steel and Fire",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Searing Onslaught by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Searing Onslaught by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Flowing Flame",
       "unlock": "Constellation Lv. 4",
-      "description": "Casting Searing Onslaught in sequence greatly increases damage dealt.\nWithin 2s of using Searing Onslaught, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for the next 2s."
+      "description": "Casting Searing Onslaught in sequence greatly increases damage dealt.\nWithin 2s of using Searing Onslaught, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for the next 2s.",
+      "level": 4
     },
     {
       "name": "Phoenix, Harbinger of Dawn",
       "unlock": "Constellation Lv. 5",
-      "description": "Increases the level of Dawn by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the level of Dawn by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Flaming Sword, Nemesis of Dark",
       "unlock": "Constellation Lv. 6",
-      "description": "After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo."
+      "description": "After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "PYRO"
 }

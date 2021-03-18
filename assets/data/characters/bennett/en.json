@@ -50,7 +50,8 @@
           "name": "Low / High Plunge DMG",
           "value": "128% / 160%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Passion Overload",
@@ -77,7 +78,8 @@
           "name": "CD",
           "value": "5 / 7.5 / 10s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Fantastic Voyage",
@@ -108,19 +110,22 @@
           "name": "Energy Cost",
           "value": "60"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Rekindle",
       "unlock": "Unlocked at Ascension 1",
-      "description": "Decreases Passion Overload's CD by 20%."
+      "description": "Decreases Passion Overload's CD by 20%.",
+      "level": 1
     },
     {
       "name": "Fearnaught",
       "unlock": "Unlocked at Ascension 4",
-      "description": "When inside the area created by Fantastic Voyage, Passion Overload takes on the following effects:\nCD is reduced by 50%.\nBennett will not be launched by the effects of Charge Level 2."
+      "description": "When inside the area created by Fantastic Voyage, Passion Overload takes on the following effects:\nCD is reduced by 50%.\nBennett will not be launched by the effects of Charge Level 2.",
+      "level": 4
     },
     {
       "name": "It Should Be Safe...",
@@ -132,32 +137,39 @@
     {
       "name": "Grand Expectation",
       "unlock": "Constellation Lv. 1",
-      "description": "Fantastic Voyage's ATK increases no longer has an HP restriction, and gains an additional 20% Base ATK."
+      "description": "Fantastic Voyage's ATK increases no longer has an HP restriction, and gains an additional 20% Base ATK.",
+      "level": 1
     },
     {
       "name": "Impasse Conqueror",
       "unlock": "Constellation Lv. 2",
-      "description": "When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%."
+      "description": "When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%.",
+      "level": 2
     },
     {
       "name": "Unstoppable Fervor",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Passion Overload by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Passion Overload by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Unexpected Odyssey",
       "unlock": "Constellation Lv. 4",
-      "description": "Using a Normal Attack when executing the second attack of Passion Overload's Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack's DMG."
+      "description": "Using a Normal Attack when executing the second attack of Passion Overload's Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack's DMG.",
+      "level": 4
     },
     {
       "name": "True Explorer",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Fantastic Voyage by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Fantastic Voyage by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Fire Ventures with Me",
       "unlock": "Constellation Lv. 6",
-      "description": "Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage's radius gain a 15% Pyro DMG Bonus. Normal and Charged Attacks now do Pyro DMG."
+      "description": "Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage's radius gain a 15% Pyro DMG Bonus. Normal and Charged Attacks now do Pyro DMG.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "PYRO"
 }

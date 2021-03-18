@@ -46,7 +46,8 @@
           "name": "Low / High Plunge DMG",
           "value": "114% / 142%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Reflection of Doom",
@@ -65,7 +66,8 @@
           "name": "CD",
           "value": "12s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Stellaris Phantasm",
@@ -96,7 +98,8 @@
           "name": "Energy Cost",
           "value": "60"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     },
     {
       "name": "Illusory Torrent",
@@ -118,12 +121,14 @@
     {
       "name": "Come 'n' Get Me, Hag!",
       "unlock": "Unlocked at Ascension 1",
-      "description": "After she has used Illusory Torrent for 2s, if there are any enemies nearby, Mona will automatically create a Phantom.\nA Phantom created in this manner lasts for 2s, and its explosion DMG is equal to 50% of Mirror Reflection of Doom."
+      "description": "After she has used Illusory Torrent for 2s, if there are any enemies nearby, Mona will automatically create a Phantom.\nA Phantom created in this manner lasts for 2s, and its explosion DMG is equal to 50% of Mirror Reflection of Doom.",
+      "level": 1
     },
     {
       "name": "Waterborne Destiny",
       "unlock": "Unlocked at Ascension 4",
-      "description": "Increases Mona's Hydro DMG Bonus by a degree equivalent to 20% of her Energy Recharge rate."
+      "description": "Increases Mona's Hydro DMG Bonus by a degree equivalent to 20% of her Energy Recharge rate.",
+      "level": 4
     },
     {
       "name": "Principium of Astrology",
@@ -135,32 +140,39 @@
     {
       "name": "Prophecy of Submersion",
       "unlock": "Constellation Lv. 1",
-      "description": "The effects of Hydro-related Elemental Reactions are enhanced for 8s after a character hits an enemy affected by an Omen:\nElectro-Charged DMG is increased by 15%.\nVaporize DMG is increased by 15%.\nHydro Swirl DMG is increased by 15%.\nThe duration for which enemies are Frozen is increased by 15%."
+      "description": "The effects of Hydro-related Elemental Reactions are enhanced for 8s after a character hits an enemy affected by an Omen:\nElectro-Charged DMG is increased by 15%.\nVaporize DMG is increased by 15%.\nHydro Swirl DMG is increased by 15%.\nThe duration for which enemies are Frozen is increased by 15%.",
+      "level": 1
     },
     {
       "name": "Lunar Chain",
       "unlock": "Constellation Lv. 2",
-      "description": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\nThis effect can only occur once every 5s."
+      "description": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\nThis effect can only occur once every 5s.",
+      "level": 2
     },
     {
       "name": "Restless Revolution",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Stellaris Phantasm by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Stellaris Phantasm by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Prophecy of Oblivion",
       "unlock": "Constellation Lv. 4",
-      "description": "When a character attacks an enemy affected by the Omen status effect, their CRIT Rate is increased by 15%."
+      "description": "When a character attacks an enemy affected by the Omen status effect, their CRIT Rate is increased by 15%.",
+      "level": 4
     },
     {
       "name": "Mockery of Fortuna",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Mirror Reflection of Doom by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Mirror Reflection of Doom by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Rhetorics of Calamitas",
       "unlock": "Constellation Lv. 6",
-      "description": "Upon entering Illusory Torrent, Mona gain a 60% increase to the DMG her next Charged Attack per second of movement.\nA maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s."
+      "description": "Upon entering Illusory Torrent, Mona gain a 60% increase to the DMG her next Charged Attack per second of movement.\nA maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "HYDRO"
 }
