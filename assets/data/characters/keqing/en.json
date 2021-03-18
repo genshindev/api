@@ -50,7 +50,8 @@
           "name": "Low / High Plunge DMG",
           "value": "128% / 160%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Stellar Restoration",
@@ -73,7 +74,8 @@
           "name": "CD",
           "value": "7.5s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Starward Sword",
@@ -100,19 +102,22 @@
           "name": "Energy Cost",
           "value": "40"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Thundering Penance",
       "unlock": "Unlocked at Ascension 1",
-      "description": "Within 5s of recasting Stellar Restoration while a Lightning Stiletto is present, Keqing's Normal and Charged Attacks are converted to Electro DMG."
+      "description": "Within 5s of recasting Stellar Restoration while a Lightning Stiletto is present, Keqing's Normal and Charged Attacks are converted to Electro DMG.",
+      "level": 1
     },
     {
       "name": "Aristocratic Dignity",
       "unlock": "Unlocked at Ascension 4",
-      "description": "When casting Starward Sword, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s."
+      "description": "When casting Starward Sword, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.",
+      "level": 4
     },
     {
       "name": "Land's Overseer",
@@ -124,32 +129,39 @@
     {
       "name": "Thundering Might",
       "unlock": "Constellation Lv. 1",
-      "description": "Recasting Stellar Restoration while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as AoE Electro DMG at the start point and terminus of her Blink."
+      "description": "Recasting Stellar Restoration while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as AoE Electro DMG at the start point and terminus of her Blink.",
+      "level": 1
     },
     {
       "name": "Keen Extraction",
       "unlock": "Constellation Lv. 2",
-      "description": "When Keqing's Normal and Charged Attack's hit enemies affected by Electro, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s."
+      "description": "When Keqing's Normal and Charged Attack's hit enemies affected by Electro, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s.",
+      "level": 2
     },
     {
       "name": "Forseen Reformation",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Starward Sword by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Starward Sword by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Attunement",
       "unlock": "Constellation Lv. 4",
-      "description": "For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is increased by 25%."
+      "description": "For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is increased by 25%.",
+      "level": 4
     },
     {
       "name": "Beckoning Stars",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Stellar Restoration by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Stellar Restoration by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Tenacious Star",
       "unlock": "Constellation Lv. 6",
-      "description": "When initiating a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% Electro DMG Bonus for 8s. Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities."
+      "description": "When initiating a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% Electro DMG Bonus for 8s. Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "ELECTRO"
 }

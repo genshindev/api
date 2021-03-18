@@ -54,7 +54,8 @@
           "name": "Low / High Plunge DMG",
           "value": "149% / 186%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Breastplate",
@@ -85,7 +86,8 @@
           "name": "CD",
           "value": "24s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Sweeping Time",
@@ -116,19 +118,22 @@
           "name": "Energy Cost",
           "value": "60"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Devotion",
       "unlock": "Unlocked at Ascension 1",
-      "description": "When Noelle is in the party but not on the field, this ability triggers automatically when the active character's HP falls below 30%:\nCreates a shield that lasts for 20s and absorbs DMG equal to 400% of Noelle's DEF. This effect can only occur once every 60s."
+      "description": "When Noelle is in the party but not on the field, this ability triggers automatically when the active character's HP falls below 30%:\nCreates a shield that lasts for 20s and absorbs DMG equal to 400% of Noelle's DEF. This effect can only occur once every 60s.",
+      "level": 1
     },
     {
       "name": "Nice and Clean",
       "unlock": "Unlocked at Ascension 4",
-      "description": "Every 4 Normal or Charged Attack hits will decrease the CD of Breastplate by 1s.\nHitting multiple enemies with a single attack is only counted as 1 hit."
+      "description": "Every 4 Normal or Charged Attack hits will decrease the CD of Breastplate by 1s.\nHitting multiple enemies with a single attack is only counted as 1 hit.",
+      "level": 4
     },
     {
       "name": "Maid's Knighthood",
@@ -140,32 +145,39 @@
     {
       "name": "I Got Your Back",
       "unlock": "Constellation Lv. 1",
-      "description": "While Sweeping Time and Breastplate are both in effect, the chance of Breastplate's healing effects activating is increased to 100%."
+      "description": "While Sweeping Time and Breastplate are both in effect, the chance of Breastplate's healing effects activating is increased to 100%.",
+      "level": 1
     },
     {
       "name": "Combat Maid",
       "unlock": "Constellation Lv. 2",
-      "description": "Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%."
+      "description": "Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%.",
+      "level": 2
     },
     {
       "name": "Invulnerable Maid",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Breastplate by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Breastplate by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "To Be Cleaned",
       "unlock": "Constellation Lv. 4",
-      "description": "When Breastplate's duration expires or it is destroyed by DMG, it will deal 400% ATK of Geo DMG to surrounding enemies."
+      "description": "When Breastplate's duration expires or it is destroyed by DMG, it will deal 400% ATK of Geo DMG to surrounding enemies.",
+      "level": 4
     },
     {
       "name": "Favonius Sweeper Master",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Sweeping Time by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Sweeping Time by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Must Be Spotless",
       "unlock": "Constellation Lv. 6",
-      "description": "Sweeping Time increases Noelle's ATK by an additional 50% of her DEF.\nAdditionally, every enemy defeated during the skill's duration adds 1s to the duration, up to 10s."
+      "description": "Sweeping Time increases Noelle's ATK by an additional 50% of her DEF.\nAdditionally, every enemy defeated during the skill's duration adds 1s to the duration, up to 10s.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "GEO"
 }

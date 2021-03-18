@@ -50,7 +50,8 @@
           "name": "Low / High Plunge DMG",
           "value": "128% / 160%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Guhua Sword - Fatal Rainscreen",
@@ -73,7 +74,8 @@
           "name": "CD",
           "value": "21s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Guhua Sword - Raincutter",
@@ -96,19 +98,22 @@
           "name": "Energy Cost",
           "value": "80"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Hydropathic",
       "unlock": "Unlocked at Ascension 1",
-      "description": "When a Rain Sword is shattered or when its duration expires, it regenerates the current character's HP based on 6% of Xingqiu's Max HP."
+      "description": "When a Rain Sword is shattered or when its duration expires, it regenerates the current character's HP based on 6% of Xingqiu's Max HP.",
+      "level": 1
     },
     {
       "name": "Blades Amidst Raindrops",
       "unlock": "Unlocked at Ascension 4",
-      "description": "Xingqiu gains a 20% Hydro DMG Bonus."
+      "description": "Xingqiu gains a 20% Hydro DMG Bonus.",
+      "level": 4
     },
     {
       "name": "Flash of Genius",
@@ -120,32 +125,39 @@
     {
       "name": "The Scent Remained",
       "unlock": "Constellation Lv. 1",
-      "description": "Increases the maximum number of Rain Swords by 1."
+      "description": "Increases the maximum number of Rain Swords by 1.",
+      "level": 1
     },
     {
       "name": "Rainbow Upon the Azure Sky",
       "unlock": "Constellation Lv. 2",
-      "description": "Extends the duration of Guhua Sword - Raincutter by 3s.\nDecreases the Hydro RES of enemies hit by sword rain attacks by 15% for 4s."
+      "description": "Extends the duration of Guhua Sword - Raincutter by 3s.\nDecreases the Hydro RES of enemies hit by sword rain attacks by 15% for 4s.",
+      "level": 2
     },
     {
       "name": "Weaver of Verses",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Guhua Sword - Raincutter by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Guhua Sword - Raincutter by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Evilsoother",
       "unlock": "Constellation Lv. 4",
-      "description": "Throughout the duration of Guhua Sword: Raincutter, the DMG dealt by Guhua Sword: Fatal Rainscreen is increased by 50%."
+      "description": "Throughout the duration of Guhua Sword: Raincutter, the DMG dealt by Guhua Sword: Fatal Rainscreen is increased by 50%.",
+      "level": 4
     },
     {
       "name": "Embrace of Rain",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Guhua Sword - Fatal Rainscreen by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Guhua Sword - Fatal Rainscreen by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Hence, Call Them My Own Verses",
       "unlock": "Constellation Lv. 6",
-      "description": "Activating 2 of Guhua Sword - Raincutter's sword rain attacks greatly increases the DMG of the third. Xingqiu regenerates 3 Energy when sword rain attacks hit enemies."
+      "description": "Activating 2 of Guhua Sword - Raincutter's sword rain attacks greatly increases the DMG of the third. Xingqiu regenerates 3 Energy when sword rain attacks hit enemies.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "HYDRO"
 }

@@ -46,7 +46,8 @@
           "name": "Height DMG",
           "value": "130% / 195%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Lemniscatic Wind Cycling",
@@ -61,7 +62,8 @@
           "name": "CD",
           "value": "10s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Bane of All Evil",
@@ -88,19 +90,22 @@
           "name": "Energy Cost",
           "value": "60"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Evil Conqueror - Tamer of Demons",
       "unlock": "Unlocked at Ascension 1",
-      "description": "Starting Bane of All Evil increases Xiao's DMG by 5%. After this, Xiao's DMG continues to increase by 5% every 3s until the skill ends. Max 25% increase."
+      "description": "Starting Bane of All Evil increases Xiao's DMG by 5%. After this, Xiao's DMG continues to increase by 5% every 3s until the skill ends. Max 25% increase.",
+      "level": 1
     },
     {
       "name": "Dissolution Eon - Heaven Fall",
       "unlock": "Unlocked at Ascension 4",
-      "description": "When Lemniscatic Wind Cycling is used, increases all subsequent Lemniscatic Wind Cycling's DMG by 10% for 6s. Max 3 stacks. Duration refreshes with new stacks."
+      "description": "When Lemniscatic Wind Cycling is used, increases all subsequent Lemniscatic Wind Cycling's DMG by 10% for 6s. Max 3 stacks. Duration refreshes with new stacks.",
+      "level": 4
     },
     {
       "name": "Transcension - Gravity Defier",
@@ -112,32 +117,39 @@
     {
       "name": "Dissolution Eon - Destroyer of Worlds",
       "unlock": "Constellation Lv. 1",
-      "description": "Increases Lemniscatic Wind Cycling's charges by 1."
+      "description": "Increases Lemniscatic Wind Cycling's charges by 1.",
+      "level": 1
     },
     {
       "name": "Annihilation Eon - Blossom of Kaleidos",
       "unlock": "Constellation Lv. 2",
-      "description": "When in party but not the currently active character, Xiao's Energy Recharge is increased by 25%."
+      "description": "When in party but not the currently active character, Xiao's Energy Recharge is increased by 25%.",
+      "level": 2
     },
     {
       "name": "Evil Conqueror - Wrath Deity",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Lemniscatic Wind Cycling by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Lemniscatic Wind Cycling by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Transcension - Extinction of Suffering",
       "unlock": "Constellation Lv. 4",
-      "description": "When Xiao's HP falls below 50%, gains a 100% DEF Bonus."
+      "description": "When Xiao's HP falls below 50%, gains a 100% DEF Bonus.",
+      "level": 4
     },
     {
       "name": "Evolution Eon - Origin of Ignorance",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Bane of All Evil by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Bane of All Evil by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Evil Conqueror - Vigilant Yaksha",
       "unlock": "Constellation Lv. 6",
-      "description": "During Bane of All Evil, hitting 2 or more enemies with a Charged Attack grants Lemniscatic Wind Cycling 1 additional charge and reduces Lemniscatic Wind Cycling's CD by 1s."
+      "description": "During Bane of All Evil, hitting 2 or more enemies with a Charged Attack grants Lemniscatic Wind Cycling 1 additional charge and reduces Lemniscatic Wind Cycling's CD by 1s.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "ANEMO"
 }
