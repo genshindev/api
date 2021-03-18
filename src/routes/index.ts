@@ -26,6 +26,7 @@ router.get('/:type', async (ctx) => {
     const entityNames = await getAvailableEntities(type);
     ctx.body = entityNames;
   } catch (e) {
+    ctx.status = 404;
     const availableTypes = await getTypes();
     ctx.body = {
       error: e.message,
@@ -71,6 +72,7 @@ router.get('/:type/:id/list', async (ctx) => {
   try {
     ctx.body = await getAvailableImages(type, id);
   } catch (e) {
+    ctx.status = 404;
     ctx.body = { error: e.message };
   }
 });
@@ -84,6 +86,7 @@ router.get('/:type/:id/:imageType', async (ctx) => {
     ctx.body = image.image;
     ctx.type = image.type;
   } catch (e) {
+    ctx.status = 404;
     try {
       const av = await getAvailableImages(type, id);
       ctx.body = { error: e.message, availableImages: av };
