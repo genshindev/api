@@ -50,7 +50,8 @@
           "name": "Low / High Plunge DMG",
           "value": "128% / 160%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Gale Blade",
@@ -73,7 +74,8 @@
           "name": "CD",
           "value": "6s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Dandelion Breeze",
@@ -104,19 +106,22 @@
           "name": "Energy Cost",
           "value": "80"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Wind Companion",
       "unlock": "Unlocked at Ascension 1",
-      "description": "Hits by Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members."
+      "description": "Hits by Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.",
+      "level": 1
     },
     {
       "name": "Let the Wind Lead",
       "unlock": "Unlocked at Ascension 4",
-      "description": "Using Dandelion Breeze will regenerate 20% of its Energy."
+      "description": "Using Dandelion Breeze will regenerate 20% of its Energy.",
+      "level": 4
     },
     {
       "name": "Guiding Breeze",
@@ -128,32 +133,39 @@
     {
       "name": "Spiraling Tempest",
       "unlock": "Constellation Lv. 1",
-      "description": "Increases the pulling speed of Gale Blade after holding for more than 1s, and increases the DMG dealt by 40%."
+      "description": "Increases the pulling speed of Gale Blade after holding for more than 1s, and increases the DMG dealt by 40%.",
+      "level": 1
     },
     {
       "name": "People's Aegis",
       "unlock": "Constellation Lv. 2",
-      "description": "When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s."
+      "description": "When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.",
+      "level": 2
     },
     {
       "name": "When the West Wind Arises",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Dandelion Breeze by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Dandelion Breeze by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Lands of Dandelion",
       "unlock": "Constellation Lv. 4",
-      "description": "Within the Field created by Dandelion Breeze, all enemies have their Anemo RES decreased by 40%."
+      "description": "Within the Field created by Dandelion Breeze, all enemies have their Anemo RES decreased by 40%.",
+      "level": 4
     },
     {
       "name": "Outbursting Gust",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Gale Blade by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Gale Blade by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Lion's Fang, Fair Protector of Mondstadt",
       "unlock": "Constellation Lv. 6",
-      "description": "Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s."
+      "description": "Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "ANEMO"
 }

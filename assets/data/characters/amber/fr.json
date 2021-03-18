@@ -52,7 +52,8 @@
           "name": "DGT Chute basse/élevée",
           "value": "114% / 142%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Poupée explosive",
@@ -71,7 +72,8 @@
           "name": "Temps de recharge",
           "value": "15s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Pluie de flèches",
@@ -98,19 +100,22 @@
           "name": "Énergie élémentaire",
           "value": "40"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Dans le mille !",
       "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
-      "description": "Augmente le taux CRIT de Pluie de flèches de 10% et la zone d'effet de 30%."
+      "description": "Augmente le taux CRIT de Pluie de flèches de 10% et la zone d'effet de 30%.",
+      "level": 1
     },
     {
       "name": "Tir précis",
       "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
-      "description": "L'ATQ augmente de 15% pendant 10s lorsque le tir visé touche un point faible."
+      "description": "L'ATQ augmente de 15% pendant 10s lorsque le tir visé touche un point faible.",
+      "level": 4
     },
     {
       "name": "Championne de planage",
@@ -122,32 +127,39 @@
     {
       "name": "Une flèche suffit !",
       "unlock": "Constellation Niv. 1",
-      "description": "Tire 2 flèches consécutives à chaque tir visé. La seconde flèche inflige 20% des DGT de la première."
+      "description": "Tire 2 flèches consécutives à chaque tir visé. La seconde flèche inflige 20% des DGT de la première.",
+      "level": 1
     },
     {
       "name": "Tout est prêt",
       "unlock": "Constellation Niv. 2",
-      "description": "Une toute nouvelle modification du Baron Lapinou ! Un tir visé à pleine charge aux pieds du Baron Lapinou, et ce dernier explose directement... Ce type d'explosion inflige 200% de DGT supplémentaires."
+      "description": "Une toute nouvelle modification du Baron Lapinou ! Un tir visé à pleine charge aux pieds du Baron Lapinou, et ce dernier explose directement... Ce type d'explosion inflige 200% de DGT supplémentaires.",
+      "level": 2
     },
     {
       "name": "Ça brûle !",
       "unlock": "Constellation Niv. 3",
-      "description": "Niveau de compétence Pluie de flèches +3.\nNiveau max : 15"
+      "description": "Niveau de compétence Pluie de flèches +3.\nNiveau max : 15",
+      "level": 3
     },
     {
       "name": "Ce n'est pas n'importe quelle poupée...",
       "unlock": "Constellation Niv. 4",
-      "description": "Réduit le TdR de Poupée explosive de 20% et permet de l'utiliser 1 fois supplémentaire."
+      "description": "Réduit le TdR de Poupée explosive de 20% et permet de l'utiliser 1 fois supplémentaire.",
+      "level": 4
     },
     {
       "name": "Baron Lapinou !",
       "unlock": "Constellation Niv. 5",
-      "description": "Niveau de compétence Poupée explosive +3.\nNiveau max : 15"
+      "description": "Niveau de compétence Poupée explosive +3.\nNiveau max : 15",
+      "level": 5
     },
     {
       "name": "Feu sauvage",
       "unlock": "Constellation Niv. 6",
-      "description": "Pluie de flèches augmente la VIT de déplacement de tous les personnages de l'équipe de 15% et leur ATQ de 15% pendant 10s."
+      "description": "Pluie de flèches augmente la VIT de déplacement de tous les personnages de l'équipe de 15% et leur ATQ de 15% pendant 10s.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "PYRO"
 }

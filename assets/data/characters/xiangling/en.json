@@ -50,7 +50,8 @@
           "name": "Low / High Plunge DMG",
           "value": "128% / 160%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Guoba Attack",
@@ -65,7 +66,8 @@
           "name": "CD",
           "value": "12s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Pyronado",
@@ -100,19 +102,22 @@
           "name": "Energy Cost",
           "value": "80"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Crossfire",
       "unlock": "Unlocked at Ascension 1",
-      "description": "Increases the flame range of Guoba by 20%."
+      "description": "Increases the flame range of Guoba by 20%.",
+      "level": 1
     },
     {
       "name": "Beware, It's Super Hot!",
       "unlock": "Unlocked at Ascension 4",
-      "description": "When Guoba Attack's effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s."
+      "description": "When Guoba Attack's effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.",
+      "level": 4
     },
     {
       "name": "Chef de Cuisine",
@@ -124,32 +129,39 @@
     {
       "name": "Crispy Outside, Tender Inside",
       "unlock": "Constellation Lv. 1",
-      "description": "Enemies hit by Guoba's attacks have their Pyro RES reduced by 15% for 6s."
+      "description": "Enemies hit by Guoba's attacks have their Pyro RES reduced by 15% for 6s.",
+      "level": 1
     },
     {
       "name": "Oil Meets Fire",
       "unlock": "Constellation Lv. 2",
-      "description": "The last attack in a Normal Attack sequence applies the Implode status onto the enemy for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as AoE Pyro DMG."
+      "description": "The last attack in a Normal Attack sequence applies the Implode status onto the enemy for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as AoE Pyro DMG.",
+      "level": 2
     },
     {
       "name": "Deepfry",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Pyronado by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Pyronado by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Slowbake",
       "unlock": "Constellation Lv. 4",
-      "description": "Pyronado's duration is increased by 40%."
+      "description": "Pyronado's duration is increased by 40%.",
+      "level": 4
     },
     {
       "name": "Guoba Mad",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Guoba Attack by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Guoba Attack by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Condensed Pyronado",
       "unlock": "Constellation Lv. 6",
-      "description": "For the duration of Pyronado, all party members receive a 15% Pyro DMG Bonus."
+      "description": "For the duration of Pyronado, all party members receive a 15% Pyro DMG Bonus.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "PYRO"
 }

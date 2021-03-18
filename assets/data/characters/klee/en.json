@@ -42,7 +42,8 @@
           "name": "Low / High Plunge DMG",
           "value": "114% / 142%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Jumpy Dumpty",
@@ -65,7 +66,8 @@
           "name": "CD",
           "value": "20s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Sparks 'n' Splash",
@@ -88,19 +90,22 @@
           "name": "Energy Cost",
           "value": "60"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Pounding Surprise",
       "unlock": "Unlocked at Ascension 1",
-      "description": "When Jumpy Dumpty and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark. This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG."
+      "description": "When Jumpy Dumpty and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark. This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG.",
+      "level": 1
     },
     {
       "name": "Sparkling Burst",
       "unlock": "Unlocked at Ascension 4",
-      "description": "When a Charged Attack results in a CRIT, all party members gain 2 Elemental Energy."
+      "description": "When a Charged Attack results in a CRIT, all party members gain 2 Elemental Energy.",
+      "level": 4
     },
     {
       "name": "All Of My Treasures!",
@@ -112,32 +117,39 @@
     {
       "name": "Chained Reaction",
       "unlock": "Constellation Lv. 1",
-      "description": "Attacks and Skills have a certain chance to summon a spark that bombards enemies, dealing DMG equal to 120% of Sparks 'n' Splash's DMG."
+      "description": "Attacks and Skills have a certain chance to summon a spark that bombards enemies, dealing DMG equal to 120% of Sparks 'n' Splash's DMG.",
+      "level": 1
     },
     {
       "name": "Explosive Frags",
       "unlock": "Constellation Lv. 2",
-      "description": "Being hit by Jumpy Dumpty's mines decreases enemy DEF by 23% for 10s."
+      "description": "Being hit by Jumpy Dumpty's mines decreases enemy DEF by 23% for 10s.",
+      "level": 2
     },
     {
       "name": "Exquisite Compound",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Jumpy Dumpty by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Jumpy Dumpty by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Sparkly Explosion",
       "unlock": "Constellation Lv. 4",
-      "description": "If Klee leaves the field during the duration of Sparks 'n' Splash, her departure triggers an explosion that deals 555% of her ATK as AoE Pyro DMG."
+      "description": "If Klee leaves the field during the duration of Sparks 'n' Splash, her departure triggers an explosion that deals 555% of her ATK as AoE Pyro DMG.",
+      "level": 4
     },
     {
       "name": "Nova Burst",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Sparks 'n' Splash by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Sparks 'n' Splash by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Blazing Delight",
       "unlock": "Constellation Lv. 6",
-      "description": "While under the effects of Sparks 'n' Splash, other members of the party will continuously regenerate Energy.\nWhen Sparks 'n' Splash is used, all party members will gain 10% Pyro DMG Bonus for 25s."
+      "description": "While under the effects of Sparks 'n' Splash, other members of the party will continuously regenerate Energy.\nWhen Sparks 'n' Splash is used, all party members will gain 10% Pyro DMG Bonus for 25s.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "PYRO"
 }

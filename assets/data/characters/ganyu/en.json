@@ -62,7 +62,8 @@
           "name": "Low / High Plunge DMG",
           "value": "114% / 142%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Trail of the Qilin",
@@ -89,7 +90,8 @@
           "name": "CD",
           "value": "10s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Celestial Shower",
@@ -112,19 +114,22 @@
           "name": "Energy Cost",
           "value": "60"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Undivided Heart",
       "unlock": "Unlocked at Ascension 1",
-      "description": "After firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5s."
+      "description": "After firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5s.",
+      "level": 1
     },
     {
       "name": "Harmony between Heaven and Earth",
       "unlock": "Unlocked at Ascension 4",
-      "description": "Celestial Shower grants a 20% Cryo DMG Bonus to active members in the AoE."
+      "description": "Celestial Shower grants a 20% Cryo DMG Bonus to active members in the AoE.",
+      "level": 4
     },
     {
       "name": "Preserved for the Hunt",
@@ -136,32 +141,39 @@
     {
       "name": "Dew-Drinker",
       "unlock": "Constellation Lv. 1",
-      "description": "Taking DMG from a Charge Level 2 Frostflake Arrow or Frostflake Arrow Bloom decreases opponents' Cryo RES by 15% for 6s.\n\nA hit regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hit the target."
+      "description": "Taking DMG from a Charge Level 2 Frostflake Arrow or Frostflake Arrow Bloom decreases opponents' Cryo RES by 15% for 6s.\n\nA hit regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hit the target.",
+      "level": 1
     },
     {
       "name": "The Auspicious",
       "unlock": "Constellation Lv. 2",
-      "description": "Trail of the Qilin gains 1 additional charge."
+      "description": "Trail of the Qilin gains 1 additional charge.",
+      "level": 2
     },
     {
       "name": "Cloud-Strider",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Celestial Shower by 3. Maximum upgrade level is 15."
+      "description": "Increases the Level of Celestial Shower by 3. Maximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Westward Sojourn",
       "unlock": "Constellation Lv. 4",
-      "description": "Opponents standing within the AoE of Celestial Shower take increased DMG. This effect strengthens over time. Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.\nThe effect lingers for 3s after the opponent leaves the AoE."
+      "description": "Opponents standing within the AoE of Celestial Shower take increased DMG. This effect strengthens over time. Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.\nThe effect lingers for 3s after the opponent leaves the AoE.",
+      "level": 4
     },
     {
       "name": "The Merciful",
       "unlock": "Constellation Lv. 5",
-      "description": "Increases the Level of Trail of the Qilin by 3. Maximum upgrade level is 15."
+      "description": "Increases the Level of Trail of the Qilin by 3. Maximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "The Clement",
       "unlock": "Constellation Lv. 6",
-      "description": "Using Trail of the Qilin causes the next Frostflake Arrow shot within 30s to not require charging."
+      "description": "Using Trail of the Qilin causes the next Frostflake Arrow shot within 30s to not require charging.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "CRYO"
 }
