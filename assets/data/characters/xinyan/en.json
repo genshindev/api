@@ -85,5 +85,6 @@
       "level": 6
     }
   ],
-  "vision_key": "PYRO"
+  "vision_key": "PYRO",
+  "weapon_type": "CLAYMORE"
 }

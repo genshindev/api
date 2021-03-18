@@ -174,5 +174,6 @@
       "level": 6
     }
   ],
-  "vision_key": "HYDRO"
+  "vision_key": "HYDRO",
+  "weapon_type": "CATALYST"
 }
