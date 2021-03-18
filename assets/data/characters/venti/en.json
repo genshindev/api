@@ -167,5 +167,6 @@
       "level": 6
     }
   ],
-  "vision_key": "ANEMO"
+  "vision_key": "ANEMO",
+  "weapon_type": "BOW"
 }
