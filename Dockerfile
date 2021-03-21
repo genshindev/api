@@ -1,6 +1,8 @@
 FROM node:14
 WORKDIR /usr/src/app
 
+ARG PORT=5000
+
 RUN npm install -g pnpm
 
 COPY package*.json ./
@@ -10,5 +12,5 @@ RUN pnpm install
 COPY . .
 RUN npm run build
 
-EXPOSE 5000
+EXPOSE ${PORT}
 CMD ["node", "dist"]

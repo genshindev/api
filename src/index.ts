@@ -6,8 +6,19 @@ import Koa from 'koa';
 import koaBody from 'koa-body';
 import helmet from 'koa-helmet';
 import cors from '@koa/cors';
+import * as Sentry from '@sentry/node';
 
 import router from './routes';
+
+const sentryDsn = process.env.SENTRY_DSN;
+
+// Check if Sentry
+if (sentryDsn && sentryDsn.length > 0) {
+  Sentry.init({
+    dsn: sentryDsn,
+    tracesSampleRate: 0.5,
+  });
+}
 
 (async () => {
   const app = new Koa();
