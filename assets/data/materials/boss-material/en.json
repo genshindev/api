@@ -28,5 +28,10 @@
         "id": "everflame-seed",
         "name": "Everflame Seed",
         "source": "Pyro Regisvine"
+    },
+    "multiple": {
+        "id": "juvenile-jade",
+        "name": "Juvenile Jade",
+        "source": "Primo Geovishap",
     }
 }
