@@ -2,7 +2,7 @@
   "name": "Dull Blade",
   "type": "Sword",
   "rarity": 1,
-  "baseAttack": "23",
+  "baseAttack": 23,
   "subStat": "-",
   "passiveName": "-",
   "passiveDesc": "-",

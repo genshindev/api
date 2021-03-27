@@ -2,7 +2,7 @@
   "name": "Pocket Grimoire",
   "type": "Catalyst",
   "rarity": 2,
-  "baseAttack": "33",
+  "baseAttack": 33,
   "subStat": "-",
   "passiveName": "-",
   "passiveDesc": "-",

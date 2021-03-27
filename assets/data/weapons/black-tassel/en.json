@@ -2,7 +2,7 @@
   "name": "Black Tassel",
   "type": "Polearm",
   "rarity": 3,
-  "baseAttack": "38",
+  "baseAttack": 38,
   "subStat": "HP",
   "passiveName": "Bane of the Soft",
   "passiveDesc": "Increases DMG against slimes by 40/50/60/70/80%.",

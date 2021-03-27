@@ -2,7 +2,7 @@
   "name": "Beginner's Protector",
   "type": "Polearm",
   "rarity": 1,
-  "baseAttack": "23",
+  "baseAttack": 23,
   "subStat": "-",
   "passiveName": "-",
   "passiveDesc": "-",

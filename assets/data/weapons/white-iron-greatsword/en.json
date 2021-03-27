@@ -2,7 +2,7 @@
   "name": "White Iron Greatsword",
   "type": "Claymore",
   "rarity": 3,
-  "baseAttack": "39",
+  "baseAttack": 39,
   "subStat": "DEF",
   "passiveName": "Cull the Weak",
   "passiveDesc": "Defeating an opponent restores 8/10/12/14/16% HP.",
