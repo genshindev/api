@@ -37,17 +37,34 @@ router.get('/:type', async (ctx) => {
 
 router.get('/:type/all', async (ctx) => {
   try {
-    const { lang } = ctx.query;
+    const { lang, ...params } = ctx.query;
     const { type } = ctx.params;
     const entities = await getAvailableEntities(type);
 
     if (!entities) return;
 
-    ctx.body = await Promise.all(
+    const entityObjects = await Promise.all(
       entities.map(async (id) => {
         return await getEntity(type, id, lang);
       }),
     );
+
+    ctx.body = entityObjects.filter((entity) => {
+      for (const key of Object.keys(params)) {
+        const value = entity[key];
+
+        switch (typeof value) {
+          case 'string':
+            if (!value.includes(params[key])) return false;
+            break;
+          default:
+            if (value != params[key]) return false;
+            break;
+        }
+      }
+
+      return true;
+    });
   } catch (e) {
     ctx.status = 404;
     ctx.body = { error: e.message };
