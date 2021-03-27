@@ -80,3 +80,7 @@ Then simply add overrides for the data that's present on the `en.json` with the 
 
 For entities like characters, images are being served from `assets/images/{entityType}/{entityId}`. These images can be in any image format (`heic, heif, jpeg, jpg, png, raw, tiff, webp, gif`), but have their extension stripped, e.g. `icon.webp` becomes `icon`. \
 Then simply add the file to the `assets/images/{entityType}/{entityId}` folder or create it if it doesn't already exist.
+
+### License
+
+Licensed under Open Software License v3.0
