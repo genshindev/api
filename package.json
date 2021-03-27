@@ -57,6 +57,7 @@
     "@sentry/node": "^6.2.3",
     "@sentry/tracing": "^6.2.3",
     "@types/koa__cors": "^3.0.2",
+    "chalk": "^4.1.0",
     "file-loader": "^6.2.0",
     "gulp-cli": "^2.3.0",
     "json-loader": "^0.5.7",
