@@ -1,0 +1,52 @@
+{
+    "id": "whopperflower",
+    "name": "Whopperflower",
+    "region": "Global",
+    "description": "A bizarre mimetic plant monster that harnesses the elements in combat. These plants lurk under the surface and ambush unsuspecting prey. With the passage of years, sufficient nutrition, and the right environment, it could even take root somewhere and grow into a giant tree that sways and spews elemental power...",
+    
+    "type": "Common Enemies",
+    "family": "Mystical Beasts",
+
+    "drops": [
+        {
+            "name": "Whopperflower Nectar",
+            "rarity": 1,
+            "minimum-level": 1
+        },
+        {
+            "name": "Shimmering Nectar",
+            "rarity": 2,
+            "minimum-level": 40
+        },
+        {
+            "name": "Energy Nectar",
+            "rarity": 3,
+            "minimum-level": 60
+        }
+    ],
+
+    "elemental-descriptions": [
+        {
+            "element": "anemo",
+            "description": "A wizened, mumbling hilichurl, one that spreads the message of Anemo. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. Their ability to command the flowing winds stems from dark, forgotten memories."
+        },
+        {
+            "element": "geo",
+            "description": "A wizened, mumbling hilichurl, one that listens to the strength of Geo. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. To the persevering mountains, these old hilichurls are but children, but their memories and experiences have guided them towards gaining power over rock and stone."
+        },
+        {
+            "element": "dendro",
+            "description": "A wizened, mumbling hilichurl, one that awakens the might of Dendro. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. A grudge stirs beneath that mask, and poison ivy sprouts as hateful whispers issue forth from it."
+        },
+        {
+            "element": "hydro",
+            "description": "A wizened, mumbling hilichurl, one that chants of the power of Hydro. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. What sort of life would lead to such simple creatures being able to summon water and rains?"
+        },
+        {
+            "element": "cryo",
+            "description": "A wizened, mumbling hilichurl, one that calls upon the bite of Cryo. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. These shamans remember the frosty chants and are even more skilled in the art of using them to entrap their foes."
+        }
+    ]
+
+    
+}

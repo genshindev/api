@@ -1,0 +1,41 @@
+{
+    "id": "lawachurl",
+    "description": "A Mitachurl that has mutated due to an accumulation of a large amount of elements in its body. They are bigger, stronger, and absolutely ferocious. Hilichurls worship no gods and follow no order or discipline. The strongest and the most ferocious one among them is seen as fit to lead the tribe.",
+    "region": "Multiple",
+
+    "type": "Elite Enemies",
+    "family": "Hilichurls",
+    "faction": "Abyss Order",
+
+    "drops": [
+        {
+            "name": "Heavy Horn",
+            "rarity": 2,
+            "minimum-level": 1
+        },
+        {
+            "name": "Black Bronze Horn",
+            "rarity": 3,
+            "minimum-level": 40
+        },
+        {
+            "name": "Black Crystal Horn",
+            "rarity": 4,
+            "minimum-level": 60
+        }
+    ],
+
+    "stonehide-lawachurl": {
+        "id": "stonehide-lawachurl",
+        "name": "Stonehide Lawachurl",
+        "description": "A mysterious \"lord\" of hilichurls that walks between a thousand peaks. This huge hilichurl is referred to as a \"lawa\" by its brethren. The abundant Geo energies in the environment have become part of their flesh, blood, and skin, which look as if they were chiseled out of mountain rock.",
+        "region": "Liyue"
+    },
+
+    "frostarm-lawachurl": {
+        "id": "frostarm-lawachurl",
+        "name": "Frostarm Lawachurl",
+        "description": "",
+        "region": "Dragonspine"
+    }
+}

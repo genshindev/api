@@ -1,0 +1,49 @@
+{
+    "id": "ruin-grazer",
+    "name": "Ruin Grazer",
+    "description": "A giant war machine resembling a Ruin Guard. They are far more stronger and faster than their brethren.",
+    "region": "Dragonspine",
+
+    "type": "Elite Enemies",
+    "family": "Automatons",
+    "faction": "Abyss Order",
+
+    "drops": [
+        {
+            "name": "Chaos Device",
+            "rarity": 2,
+            "minimum-level": 1
+        },
+        {
+            "name": "Chaos Circuit",
+            "rarity": 3,
+            "minimum-level": 40
+        },
+        {
+            "name": "Chaos Core",
+            "rarity": 4,
+            "minimum-level": 60
+        }
+    ],
+
+    "artifacts": [
+        {
+            "name": "Berserker",
+            "rarity": "3/4"
+        },
+        {
+            "name": "Instructor",
+            "rarity": "3/4"
+        },
+        {
+            "name": "The Exile",
+            "rarity": "3/4"
+        },
+        {
+            "name": "Travelling Doctor",
+            "rarity": "3"
+        }
+    ],
+    
+    "mora-gained": 600
+}
