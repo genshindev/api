@@ -2,7 +2,7 @@
   "name": "Skyrider Greatsword",
   "type": "Claymore",
   "rarity": 3,
-  "baseAttack": "39",
+  "baseAttack": 39,
   "subStat": "Physical DMG Bonus",
   "passiveName": "Courage",
   "passiveDesc": "On hit, Normal or Charged Attacks increase ATK by 6/7/8/9/10% for 6s. Max 4 stacks. Can only occur once every 0.5s.",

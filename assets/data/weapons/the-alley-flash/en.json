@@ -2,7 +2,7 @@
   "name": "The Alley Flash",
   "type": "Sword",
   "rarity": 4,
-  "baseAttack": "44",
+  "baseAttack": 44,
   "subStat": "CRIT Rate",
   "passiveName": "Itinerant Hero",
   "passiveDesc": "Continuosly sprinting for at least 1s increases ATK by 28% for 6s. This effect cannot stack.",

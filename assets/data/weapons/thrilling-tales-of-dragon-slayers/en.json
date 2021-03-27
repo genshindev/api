@@ -2,7 +2,7 @@
   "name": "Thrilling Tales of Dragon Slayers",
   "type": "Catalyst",
   "rarity": 3,
-  "baseAttack": "39",
+  "baseAttack": 39,
   "subStat": "HP",
   "passiveName": "Legacy",
   "passiveDesc": "When switching characters, the new character taking the field has their ATK increased by 24/30/36/42/48% for 10s. This effect can only occur once every 20s.",

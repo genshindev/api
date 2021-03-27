@@ -2,7 +2,7 @@
   "name": "Skyward Blade",
   "type": "Sword",
   "rarity": 5,
-  "baseAttack": "44",
+  "baseAttack": 44,
   "subStat": "Energy Recharge",
   "passiveName": "Sky-Piercing Fang",
   "passiveDesc": "CRIT Rate increased by 4%. Gains Skypiercing Might upon using an Elemental Burst:\nIncreases Movement SPD by 10%, increases ATK SPD by 10%, and increases the DMG of Normal and Charged Attack hits by 20% for 12s.",

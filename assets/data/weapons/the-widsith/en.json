@@ -2,7 +2,7 @@
   "name": "The Widsith",
   "type": "Catalyst",
   "rarity": 4,
-  "baseAttack": "42",
+  "baseAttack": 42,
   "subStat": "CRIT DMG",
   "passiveName": "Debut",
   "passiveDesc": "When the character takes the field, they gain a random theme song for 10s:\nRecitative: Increases Base ATK by 60%\nInterlude: Elemental Mastery is increased by 240\nAria: Increases all Elemental DMG by 48%\nCan only occur once every 30s",

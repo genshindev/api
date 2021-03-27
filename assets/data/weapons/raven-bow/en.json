@@ -2,7 +2,7 @@
   "name": "Raven Bow",
   "type": "Bow",
   "rarity": 3,
-  "baseAttack": "40",
+  "baseAttack": 40,
   "subStat": "Elemental Mastery",
   "passiveName": "Bane of Flame and Water",
   "passiveDesc": "Increases DMG against enemies affected by Hydro or Pyro by 12/15/18/21/24%.",

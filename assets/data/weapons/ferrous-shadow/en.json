@@ -2,7 +2,7 @@
   "name": "Ferrous Shadow",
   "type": "Claymore",
   "rarity": 3,
-  "baseAttack": "39",
+  "baseAttack": 39,
   "subStat": "HP",
   "passiveName": "Unbending",
   "passiveDesc": "When HP falls below 70/75/80/85/90%, increases Charged Attack DMG by 30/35/40/45/50%, and Charged Attacks become much harder to interrupt.",
