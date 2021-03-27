@@ -8,6 +8,7 @@ import { promises as fs, existsSync } from 'fs';
 import mimeTypes from 'mime-types';
 import path from 'path';
 import sharp from 'sharp';
+import chalk from 'chalk';
 
 const cache = new keyv();
 
@@ -34,7 +35,11 @@ export async function getAvailableEntities(
 
   const entities = await fs.readdir(dataDirectory(type));
   await cache.set(`data-${type}`, entities);
-  console.log(`added data-${type} to cache`);
+  console.log(
+    chalk.blue('[Cache-Data]'),
+    chalk.green(`(${type})`),
+    'Added to the cache',
+  );
   return entities;
 }
 
@@ -66,8 +71,16 @@ export async function getEntity(
   const file = await fs.readFile(filePath);
   try {
     const entity = JSON.parse(file.toString('utf-8'));
-    await await cache.set(`data-${type}-${id}-${lang}`, entity);
-    console.log(`added data-${type}-${id}-${lang} to cache`);
+    await cache.set(`data-${type}-${id}-${lang}`, entity);
+    console.log(
+      chalk.blue('[Cache-Data]'),
+      chalk.green(`(${type})`),
+      'Added',
+      chalk.yellow(id),
+      'in',
+      chalk.magenta(`${lang}`),
+      'to the cache',
+    );
     return entity;
   } catch (e) {
     throw new Error(
@@ -90,7 +103,13 @@ export async function getAvailableImages(
 
   const images = await fs.readdir(filePath);
   await cache.set(`image-${type}-${id}`, images);
-  console.log(`added image-${type}-${id} to cache`);
+  console.log(
+    chalk.blue('[Cache-Image]'),
+    chalk.green(`(${type})`),
+    'Added',
+    chalk.yellow(id),
+    'to the cache',
+  );
   return images;
 }
 

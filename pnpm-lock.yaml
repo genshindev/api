@@ -3,6 +3,7 @@ dependencies:
   '@sentry/node': 6.2.3
   '@sentry/tracing': 6.2.3
   '@types/koa__cors': 3.0.2
+  chalk: 4.1.0
   file-loader: 6.2.0
   gulp-cli: 2.3.0
   json-loader: 0.5.7
@@ -539,7 +540,6 @@ packages:
   /ansi-styles/4.3.0:
     dependencies:
       color-convert: 2.0.1
-    dev: true
     engines:
       node: '>=8'
     resolution:
@@ -871,7 +871,6 @@ packages:
     dependencies:
       ansi-styles: 4.3.0
       supports-color: 7.2.0
-    dev: true
     engines:
       node: '>=10'
     resolution:
@@ -970,7 +969,6 @@ packages:
   /color-convert/2.0.1:
     dependencies:
       color-name: 1.1.4
-    dev: true
     engines:
       node: '>=7.0.0'
     resolution:
@@ -2065,7 +2063,6 @@ packages:
     resolution:
       integrity: sha1-tdRU3CGZriJWmfNGfloH87lVuv0=
   /has-flag/4.0.0:
-    dev: true
     engines:
       node: '>=8'
     resolution:
@@ -4127,7 +4124,6 @@ packages:
   /supports-color/7.2.0:
     dependencies:
       has-flag: 4.0.0
-    dev: true
     engines:
       node: '>=8'
     resolution:
@@ -4565,6 +4561,7 @@ specifiers:
   '@types/sharp': ^0.26.1
   '@typescript-eslint/eslint-plugin': ^4.10.0
   '@typescript-eslint/parser': ^4.10.0
+  chalk: ^4.1.0
   eslint: ^7.15.0
   eslint-config-prettier: ^6.15.0
   eslint-plugin-import: ^2.22.1
