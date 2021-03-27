@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/M8t9nFG"><img src="https://img.shields.io/discord/763148972435963934?logo=discord" alt="chat on Discord"></a>
 
-An API that serves data for the game Genshin Impact by miHoYo.
+An API that serves data for the game Genshin Impact by miHoYo (the game is made by miHoYo, not the API).
 
 **An always up-to-date version is hosted at https://api.genshin.dev!**
 
