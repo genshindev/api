@@ -1,0 +1,12 @@
+{
+    "id": "the-great-snowboar-king",
+    "name": "The Great Snowboar King",
+    "title": "The True Ruler of Dragonspine?",
+    "description": "N/A",
+    "region": "Dragonspine",
+
+    "type": "Elite Enemies",
+    "family": "Unique Enemies",
+
+    "drops": "Chilled Meat"
+}

@@ -1,0 +1,52 @@
+{
+    "id": "slime",
+    "name": "Slime",
+    "region": "Global",
+    "description": "A pudgy elemental life form. It's said that desserts made from slimes of different elements will have incredibly distinctive flavors.",
+    
+    "type": "Common Enemies",
+    "family": "Slime",
+
+    "drops": [
+        {
+            "name": "Slime Condensate",
+            "rarity": 1,
+            "minimum-level": 1
+        },
+        {
+            "name": "Slime Secretions",
+            "rarity": 2,
+            "minimum-level": 40
+        },
+        {
+            "name": "Slime Concentrate",
+            "rarity": 3,
+            "minimum-level": 60
+        }
+    ],
+
+    "elemental-descriptions": [
+        {
+            "element": "anemo",
+            "description": "A wizened, mumbling hilichurl, one that spreads the message of Anemo. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. Their ability to command the flowing winds stems from dark, forgotten memories."
+        },
+        {
+            "element": "geo",
+            "description": "A wizened, mumbling hilichurl, one that listens to the strength of Geo. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. To the persevering mountains, these old hilichurls are but children, but their memories and experiences have guided them towards gaining power over rock and stone."
+        },
+        {
+            "element": "dendro",
+            "description": "A wizened, mumbling hilichurl, one that awakens the might of Dendro. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. A grudge stirs beneath that mask, and poison ivy sprouts as hateful whispers issue forth from it."
+        },
+        {
+            "element": "hydro",
+            "description": "A wizened, mumbling hilichurl, one that chants of the power of Hydro. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. What sort of life would lead to such simple creatures being able to summon water and rains?"
+        },
+        {
+            "element": "cryo",
+            "description": "A wizened, mumbling hilichurl, one that calls upon the bite of Cryo. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. These shamans remember the frosty chants and are even more skilled in the art of using them to entrap their foes."
+        }
+    ]
+
+    
+}

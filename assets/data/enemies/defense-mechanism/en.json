@@ -1,0 +1,11 @@
+{
+    "id": "defense-mechanism",
+    "name": "Defense Mechanism",
+    "description": "N/A",
+    "region": "Dragonspine",
+
+    "type": "Unique Enemies",
+    "family": "Unknown",
+
+    "mora-gained": 0
+}
