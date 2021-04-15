@@ -1,0 +1,322 @@
+{
+  "almond": {
+    "name": "Almond",
+    "description": "A seed with a peculiar fragrance that gives food a refreshing taste.",
+    "sources": ["Sold by Second Life", "Sold by Ms. Bai"]
+  },
+  "bacon": {
+    "name": "Bacon",
+    "description": "Smoked strips of pork. With just enough fat, but not too greasy.Mmmmm... Bacon.Meat must be processed first to be made into Bacon.",
+    "rarity": 3,
+    "sources": ["Sold by Good Hunter", "Processing"]
+  },
+  "bamboo-shoot": {
+    "name": "Bamboo Shoot",
+    "description": "A fresh young bamboo shoot, straight out of the ground. It is a delicious cooking ingredient with an exotic aroma, found exclusively in bamboo-growing regions.",
+    "sources": ["Found in the wild", "Sold by Wanmin Restaurant"]
+  },
+  "berry": {
+    "name": "Berry",
+    "description": "Small brightly-colored fruit. They can be found everywhere, and the taste of them wipes the fatigue of a long journey away.",
+    "sources": ["Found in the wild"]
+  },
+  "bird-egg": {
+    "name": "Bird Egg",
+    "description": "An incredibly versatile ingredient that can supply all of your daily protein needs.",
+    "sources": [
+      "Found in the wild",
+      "Vendor: Draff, Head of Hunters at Springvale"
+    ]
+  },
+  "butter": {
+    "name": "Butter",
+    "description": "An extract from milk. With the appropriate application, it can bring rich aromas to even the most basic ingredients.",
+    "rarity": 2,
+    "sources": ["Sold by Good Hunter", "Sold by Verr Goldet", "Processing"]
+  },
+  "cabbage": {
+    "name": "Cabbage",
+    "description": "A layered, leafy vegetable. Said to have originally been an ornamental plant, it certainly looks great in the pot.",
+    "sources": [
+      "Found in the wild",
+      "Sold by Second Life",
+      "Sold by Mondstadt General Goods",
+      "Dropped by Unusual Hilichurl"
+    ]
+  },
+  "calla-lily": {
+    "name": "Calla Lily",
+    "description": "A flower that grows near water sources. When cooked the petals have a chunky texture, yet are sweet and a little bitter.",
+    "sources": ["Found near lakes", "Found in Springvale", "Sold by Flora"]
+  },
+  "carrot": {
+    "name": "Carrot",
+    "description": "A healthy and nutritious vegetable that is crunchy and sweet to the taste. Easy to grow and harvest.",
+    "sources": [
+      "Found in the wild",
+      "Found in crates and barrels",
+      "Sold at Wanmin Restaurant"
+    ]
+  },
+  "cheese": {
+    "name": "Cheese",
+    "description": "Made from fermented milk. With high energy and limitless possibilities, it's used in a wide range of dishes.Milk must be processed first to be made into Cheese.",
+    "rarity": 3,
+    "sources": ["Sold by Good Hunter", "Processing", "Sold by Changshun"]
+  },
+  "chilled-meat": {
+    "name": "Chilled Meat",
+    "description": "Rare, fresh meat.This species of boar is recorded to have gone extinct several hundred years ago and has been preserved by the extreme temperatures on Dragonspine. For the gourmets of Teyvat, this is an ingredient of unspeakable sacrosanctness.",
+    "sources": ["Snowboars"]
+  },
+  "crab": {
+    "name": "Crab",
+    "description": "A shelled creature that lives near the ocean. Its flaky, delicious meat can easily be made into tasty dishes.",
+    "sources": [
+      "Found near lakes, river banks, and beaches",
+      "Sold by Uncle Sun",
+      "Sold at Wanmin Restaurant"
+    ]
+  },
+  "crab-roe": {
+    "name": "Crab Roe",
+    "description": "A delicacy specific to female crabs. A rare and prized ingredient that isn't quite to everyone's taste.",
+    "rarity": 3,
+    "sources": ["Sold by Good Hunter", "Processing"]
+  },
+  "cream": {
+    "name": "Cream",
+    "description": "A dairy product made from milk. An essential ingredient in making pastries.",
+    "rarity": 2,
+    "sources": ["Sold by Good Hunter", "Processing"]
+  },
+  "fish": {
+    "name": "Fish",
+    "description": "A fresh fillet of fish. Handled correctly it can make a rich dish.",
+    "sources": [
+      "Found swimming in water",
+      "Sold by Uncle Sun",
+      "Sold by Uncle Gao",
+      "Sold at Wanmin Restaurant"
+    ]
+  },
+  "flour": {
+    "name": "Flour",
+    "description": "A powder ground from wheat. No matter what it goes into it brings a sense of satisfaction to the diner. Wheat must be processed first to be made into Flour.",
+    "sources": [
+      "Sold by Good Hunter",
+      "Sold by Wanmin Restaurant",
+      "Processing"
+    ]
+  },
+  "fowl": {
+    "name": "Fowl",
+    "description": "A fresh bird. Handled correctly it can make a hearty meal.",
+    "sources": [
+      "Found in the wild",
+      "Vendor: Draff, Head of Hunters at Springvale"
+    ]
+  },
+  "ham": {
+    "name": "Ham",
+    "description": "Smoked leg meat. Even the thinnest slice is packed full of flavor.Meat must be processed first to be made into Ham.",
+    "rarity": 2,
+    "sources": [
+      "Processing",
+      "Sold by Good Hunter",
+      "Sold by Wanmin Restaurant"
+    ]
+  },
+  "jam": {
+    "name": "Jam",
+    "description": "A puree made from fruit and sugar. Even a little bit can easily wake up drowsy taste buds. Apples and Berries must be processed first to be made into Jam.",
+    "rarity": 3,
+    "sources": ["Sold by Good Hunter", "Processing"]
+  },
+  "jueyun-chili": {
+    "name": "Jueyun Chili",
+    "description": "A spicy plant native to Liyue.Merely smelling it makes one hot and thirsty.",
+    "sources": [
+      "Found in the wild",
+      "Found in Qingce Village",
+      "Sold at Wanmin Restaurant"
+    ]
+  },
+  "lotus-head": {
+    "name": "Lotus Head",
+    "description": "An aquatic plant native to Liyue that grows and blooms in pairs. One is fragrant, and the other bitter. It's said to make a good herbal medicine.",
+    "sources": [
+      "Found near lakes and river banks",
+      "Sold by Bubu Pharmacy",
+      "Sold at Wanmin Restaurant"
+    ]
+  },
+  "matsutake": {
+    "name": "Matsutake",
+    "description": "A rare fungus that generally grows on or near pine trees. Its delicate aroma gives away its location.",
+    "sources": [
+      "Found in the wild",
+      "Sold at Wanmin Restaurant",
+      "Sold by Verr Goldet"
+    ]
+  },
+  "milk": {
+    "name": "Milk",
+    "description": "Sweet and fragrant cow's milk. Don't waste a single drop, not even that one rolling down your chin.",
+    "sources": ["Sold by Mondstadt General Goods", "Sold by Second Life"]
+  },
+  "mint": {
+    "name": "Mint",
+    "description": "A refreshingly cool ingredient. The cool, fresh flavor can cut through the heat of many dishes.",
+    "sources": ["Found in the wild", "Sold by Chloris"]
+  },
+  "mushroom": {
+    "name": "Mushroom",
+    "description": "Hardy common fungi. Can grow anywhere with the right amount of shade and moisture.",
+    "sources": ["Found in the wild", "Purchased at Wanmin Restaurant"]
+  },
+  "onion": {
+    "name": "Onion",
+    "description": "A spherical vegetable. As vengeance for cutting it, it will make you cry, no matter how brave you are.",
+    "sources": ["Sold by Mondstadt General Goods", "Sold by Second Life"]
+  },
+  "pepper": {
+    "name": "Pepper",
+    "description": "Peppery. Cuts through oily flavors and excites the taste buds. Goes best on meat.",
+    "sources": ["Sold by Second Life", "Sold by Mondstadt General Goods"]
+  },
+  "pinecone": {
+    "name": "Pinecone",
+    "description": "Filled with oil-rich seeds. Certainly won't be growing into a tree from inside a squirrel's stomach.",
+    "sources": ["Found in the wild"]
+  },
+  "potato": {
+    "name": "Potato",
+    "description": "A chunky vegetable. A gift from the earth that you never tire of with its multitude of cooking methods.",
+    "sources": [
+      "Found in the wild",
+      "Sold by Mondstadt General Goods",
+      "Sold by Second Life",
+      "Sold by Changshun"
+    ]
+  },
+  "qingxin": {
+    "name": "Qingxin",
+    "description": "A translucent white flower that only grows on the highest stone peaks. It eschews the warmth and moisture of the plains to gaze out afar from the solitary mountaintops.",
+    "sources": [
+      "Found in the heights of stone forests",
+      "Sold by Bubu Pharmacy",
+      "Found in Huaguang Stone Forest",
+      "Found in Jueyun Karst"
+    ]
+  },
+  "radish": {
+    "name": "Radish",
+    "description": "Rich in fiber and nutrients. Easy to grow and harvest.",
+    "sources": [
+      "Found in the wild",
+      "Found in crates and barrels",
+      "Sold at Wanmin Restaurant"
+    ]
+  },
+  "raw-meat": {
+    "name": "Raw Meat",
+    "description": "A fresh chunk of meat. Handled properly it can be used to make delicious food.",
+    "sources": ["Found in the wild", "Sold by Draff", "Processing"]
+  },
+  "rice": {
+    "name": "Rice",
+    "description": "A grain crop commonly found in Teyvat. People of all walks of life enjoy its distinct grainy texture. As the saying goes, \"The same kind of rice can feed one hundred kinds of people.\"",
+    "sources": ["Sold by Second Life"]
+  },
+  "salt": {
+    "name": "Salt",
+    "description": "A savory seasoning. A precise but adequate amount will elevate the quality of the cuisine.",
+    "sources": ["Sold by Mondstadt General Goods", "Sold by Second Life"]
+  },
+  "sausage": {
+    "name": "Sausage",
+    "description": "Finely minced meat wrapped in a skin. A staple of every meat lover's daily diet.Meat must be processed first to be made into Sausages.",
+    "rarity": 3,
+    "sources": [
+      "Sold by Good Hunter",
+      "Sold by Wanmin Restaurant",
+      "Sold by Verr Goldet",
+      "Processing"
+    ]
+  },
+  "shrimp-meat": {
+    "name": "Shrimp Meat",
+    "description": "A whole piece of deep sea shrimp meat, full of nutrients and bursting with delicious flavor.",
+    "sources": ["Sold by Second Life", "Sold by Uncle Sun"]
+  },
+  "small-lamp-grass": {
+    "name": "Small Lamp Grass",
+    "description": "A wild grass that emits light at night. Used in cooking to enhance other flavors.",
+    "sources": [
+      "Found in the wild at night",
+      "Found in Wolvendom",
+      "Found in the Whispering Woods",
+      "Sold by Flora"
+    ]
+  },
+  "smoked-fowl": {
+    "name": "Smoked Fowl",
+    "description": "Fowl that has been smoked. The firm texture gives new taste to dishes.Fowl must be processed first to be made into Smoked Fowl.",
+    "rarity": 2,
+    "sources": ["Sold by Good Hunter", "Processing"]
+  },
+  "snapdragon": {
+    "name": "Snapdragon",
+    "description": "Can be eaten once cooked. As a spice it can bring wonderful flavor to dishes.",
+    "sources": ["Found in the wild", "Sold by Chloris"]
+  },
+  "sugar": {
+    "name": "Sugar",
+    "description": "A seasoning derived from Sweet Flowers. Has the power to give both energy and happiness.Can be purchased from the merchants in the city, or made with Sweet Flowers.",
+    "rarity": 2,
+    "sources": [
+      "Sold by Good Hunter",
+      "Sold by Wanmin Restaurant",
+      "Sold by Changshun",
+      "Processing"
+    ]
+  },
+  "sweet-flower": {
+    "name": "Sweet Flower",
+    "description": "Particularly fragrant flowers. They can be found easily, even in the dark. Just follow the scent.",
+    "sources": ["Found in the wild", "Purchase from Flora in Mondstadt"]
+  },
+  "tofu": {
+    "name": "Tofu",
+    "description": "Freshly made bean product that has a silky-smooth tender texture.",
+    "sources": ["Sold by Second Life", "Sold by Ms. Bai"]
+  },
+  "tomato": {
+    "name": "Tomato",
+    "description": "A bright red ingredient that gives a tangy kick. Yes, the 'fruit or vegetable' debate is still going…",
+    "sources": [
+      "Found in the wild",
+      "Sold by Second Life",
+      "Sold by Mondstadt General Goods"
+    ]
+  },
+  "violetgrass": {
+    "name": "Violetgrass",
+    "description": "A small flower with strong vitality. It was said its downward-blooming flower keeps its fragrance from dissipating.",
+    "sources": [
+      "Found near cliffs in Liyue",
+      "Sold by Verr Goldet",
+      "Sold at Bubu Pharmacy"
+    ]
+  },
+  "wheat": {
+    "name": "Wheat",
+    "description": "Golden sun-kissed tassels. Needs to be ground down to flour for further use.",
+    "sources": [
+      "Found in barrels and crates",
+      "Sold by Mondstadt General Goods",
+      "Sold by Second Life"
+    ]
+  }
+}
