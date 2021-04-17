@@ -1,0 +1,230 @@
+{
+  "unmoving-essential-oil": {
+    "name": "Unmoving Essential Oil",
+    "effect": "Increases all party members' Geo DMG by 25% for 300s.",
+    "rarity": 3,
+    "crafting": [
+      {
+        "item": "Frog",
+        "quantity": 1
+      },
+      {
+        "item": "Cor Lapis",
+        "quantity": 1
+      },
+      {
+        "item": "Mora",
+        "quantity": 100
+      }
+    ]
+  },
+  "desiccant-potion": {
+    "name": "Desiccant Potion",
+    "effect": "Increases all party members' Hydro RES by 25% for 300s.",
+    "rarity": 3,
+    "crafting": [
+      {
+        "item": "Butterfly Wings",
+        "quantity": 1
+      },
+      {
+        "item": "Lotus Head",
+        "quantity": 1
+      },
+      {
+        "item": "Mora",
+        "quantity": 100
+      }
+    ]
+  },
+  "dustproof-potion": {
+    "name": "Dustproof Potion",
+    "effect": "Increases all party members' Geo RES by 25% for 300s.",
+    "rarity": 3,
+    "crafting": [
+      {
+        "item": "Butterfly Wings",
+        "quantity": 1
+      },
+      {
+        "item": "Cor Lapis",
+        "quantity": 1
+      },
+      {
+        "item": "Mora",
+        "quantity": 100
+      }
+    ]
+  },
+  "flaming-essential-oil": {
+    "name": "Flaming Essential Oil",
+    "effect": "Increases all party members' Pyro DMG by 25% for 300s.",
+    "rarity": 3,
+    "crafting": [
+      {
+        "item": "Frog",
+        "quantity": 1
+      },
+      {
+        "item": "Flaming Flower Stamen",
+        "quantity": 1
+      },
+      {
+        "item": "Mora",
+        "quantity": 100
+      }
+    ]
+  },
+  "frosting-essential-oil": {
+    "name": "Frosting Essential Oil",
+    "effect": "Increases all party members' Cryo DMG by 25% for 300s.",
+    "rarity": 3,
+    "crafting": [
+      {
+        "item": "Lizard Tail",
+        "quantity": 1
+      },
+      {
+        "item": "Mist Flower Corolla",
+        "quantity": 1
+      },
+      {
+        "item": "Mora",
+        "quantity": 100
+      }
+    ]
+  },
+  "frostshield-potion": {
+    "name": "Frostshield Potion",
+    "effect": "Increases all party members' Cryo RES by 25% for 300s.",
+    "rarity": 3,
+    "crafting": [
+      {
+        "item": "Crystal Core",
+        "quantity": 1
+      },
+      {
+        "item": "Mist Flower Corolla",
+        "quantity": 1
+      },
+      {
+        "item": "Mora",
+        "quantity": 100
+      }
+    ]
+  },
+  "heatshield-potion": {
+    "name": "Heatshield Potion",
+    "effect": "Increases all party members' Pyro RES by 25% for 300s.",
+    "rarity": 3,
+    "crafting": [
+      {
+        "item": "Butterfly Wings",
+        "quantity": 1
+      },
+      {
+        "item": "Flaming Flower Stamen",
+        "quantity": 1
+      },
+      {
+        "item": "Mora",
+        "quantity": 100
+      }
+    ]
+  },
+  "gushing-essential-oil": {
+    "name": "Gushing Essential Oil",
+    "effect": "Increases all party members' Anemo DMG by 25% for 300s.",
+    "rarity": 3,
+    "crafting": [
+      {
+        "item": "Lizard Tail",
+        "quantity": 1
+      },
+      {
+        "item": "Dandelion Seed",
+        "quantity": 1
+      },
+      {
+        "item": "Mora",
+        "quantity": 100
+      }
+    ]
+  },
+  "insulation-potion": {
+    "name": "Insulation Potion",
+    "effect": "Increases all party members' Electro RES by 25% for 300s.",
+    "rarity": 3,
+    "crafting": [
+      {
+        "item": "Butterfly Wings",
+        "quantity": 1
+      },
+      {
+        "item": "Electro Crystal",
+        "quantity": 1
+      },
+      {
+        "item": "Mora",
+        "quantity": 100
+      }
+    ]
+  },
+  "shocking-essential-oil": {
+    "name": "Shocking Essential Oil",
+    "effect": "Increases all party members' Electro DMG by 25% for 300s.",
+    "rarity": 3,
+    "crafting": [
+      {
+        "item": "Frog",
+        "quantity": 1
+      },
+      {
+        "item": "Electro Crystal",
+        "quantity": 1
+      },
+      {
+        "item": "Mora",
+        "quantity": 100
+      }
+    ]
+  },
+  "streaming-essential-oil": {
+    "name": "Streaming Essential Oil",
+    "effect": "Increases all party members' Hydro DMG by 25% for 300s.",
+    "rarity": 3,
+    "crafting": [
+      {
+        "item": "Frog",
+        "quantity": 1
+      },
+      {
+        "item": "Lotus Head",
+        "quantity": 1
+      },
+      {
+        "item": "Mora",
+        "quantity": 100
+      }
+    ]
+  },
+  "windbarrier-potion": {
+    "name": "Windbarrier Potion",
+    "effect": "Increases all party members' Anemo RES by 25% for 300s.",
+    "rarity": 3,
+    "crafting": [
+      {
+        "item": "Crystal Core",
+        "quantity": 1
+      },
+      {
+        "item": "Dandelion Seed",
+        "quantity": 1
+      },
+      {
+        "item": "Mora",
+        "quantity": 100
+      }
+    ]
+  }
+}
