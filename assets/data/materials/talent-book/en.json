@@ -4,6 +4,7 @@
       "amber",
       "barbara",
       "diona",
+      "klee",
       "sucrose",
       "tartaglia",
       "traveler-anemo",
@@ -35,6 +36,7 @@
       "diluc",
       "jean",
       "mona",
+      "noelle",
       "razor",
       "traveler-anemo",
       "traveler-geo"
@@ -65,6 +67,7 @@
       "fischl",
       "kaeya",
       "lisa",
+      "rosaria",
       "venti",
       "traveler-anemo",
       "traveler-geo"
@@ -90,7 +93,7 @@
     ]
   },
   "prosperity": {
-    "characters": ["keqing", "ningguang", "qiqi", "traveler-geo"],
+    "characters": ["keqing", "ningguang", "qiqi", "xiao", "traveler-geo"],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "taishan-mansion",
     "items": [
@@ -112,7 +115,7 @@
     ]
   },
   "diligence": {
-    "characters": ["chongyun", "ganyu", "xiangling", "traveler-geo"],
+    "characters": ["chongyun", "ganyu", "hu-tao", "xiangling", "traveler-geo"],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "taishan-mansion",
     "items": [

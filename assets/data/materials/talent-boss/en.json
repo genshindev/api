@@ -43,11 +43,11 @@
   "shard-of-a-foul-legacy": {
     "id": "shard-of-a-foul-legacy",
     "name": "Shard of a Foul Legacy",
-    "characters": ["diona", "tartagli"]
+    "characters": ["diona", "hu-tao", "tartaglia"]
   },
   "shadow-of-the-warrior": {
     "id": "shadow-of-the-warrior",
     "name": "Shadow of the Warrior",
-    "characters": ["ganyu"]
+    "characters": ["ganyu", "rosaria", "xiao"]
   }
 }
