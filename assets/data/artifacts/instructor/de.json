@@ -1,0 +1,6 @@
+{
+  "name": "Ausbilder",
+  "max_rarity": 4,
+  "2-piece_bonus": "Erhöht Elementarkunde um 80 Punkte.",
+  "4-piece_bonus": "Erhöht die Elementarkunde aller Truppenmitglieder nach Auslösen von Elementarreaktionen 8s lang um 120 Punkte."
+}

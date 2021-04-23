@@ -1,0 +1,6 @@
+{
+  "name": "Wanderarzt",
+  "max_rarity": 3,
+  "2-piece_bonus": "Erhöht den passiven Heileffekt der Figur um 20%.",
+  "4-piece_bonus": "Stellt bei Anwendung von Spezialfähigkeiten 20% LP wieder her."
+}

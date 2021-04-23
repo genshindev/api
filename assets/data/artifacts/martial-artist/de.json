@@ -1,0 +1,6 @@
+{
+  "name": "Kampfkünstler",
+  "max_rarity": 4,
+  "2-piece_bonus": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 15%.",
+  "4-piece_bonus": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 8 Sekunden lang um 25%."
+}
