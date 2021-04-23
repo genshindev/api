@@ -1,0 +1,6 @@
+{
+  "name": "Glücksspieler",
+  "max_rarity": 4,
+  "2-piece_bonus": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 20%.",
+  "4-piece_bonus": "Überspringt die Abklingzeit der Elementarfähigkeiten beim Besiegen von Gegnern mit einer Wahrscheinlichkeit von 100%. 15 Sekunden Abklingzeit"
+}
