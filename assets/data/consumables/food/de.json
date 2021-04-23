@@ -1,0 +1,1588 @@
+{
+  "pile-em-up": {
+    "name": "Hochgestapeltes",
+    "rarity": 3,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht die KT aller Truppenmitglieder 300 Sekunden lang um 10% bis 20%.",
+    "hasRecipe": true,
+    "description": "A rich, meaty dish. Originally a Mondstadt dish made of steaks, potatoes, and cheese, it has since become synonymous with Ludi Harpastum.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 3
+      },
+      {
+        "item": "Kartoffel",
+        "quantity": 3
+      },
+      {
+        "item": "Lampenkraut",
+        "quantity": 1
+      },
+      {
+        "item": "Käse",
+        "quantity": 1
+      }
+    ]
+  },
+  "adeptus-temptation": {
+    "name": "Versuchung der Adepten",
+    "rarity": 5,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht den ANG aller Truppenmitglieder 300 Sekunden lang um 260-372 Punkte und die KT um 8% bis 12%.",
+    "hasRecipe": true,
+    "description": "A complex, famous type of Liyue cuisine, in which specially selected ingredients are submerged and slowly bowled into soup stock. The recipe scribbled from memory alone was enough to urge the adepti to once again return to the world of men.",
+    "proficiency": 25,
+    "recipe": [
+      {
+        "item": "Schinken",
+        "quantity": 4
+      },
+      {
+        "item": "Krebs",
+        "quantity": 3
+      },
+      {
+        "item": "Garnelenfleisch",
+        "quantity": 3
+      },
+      {
+        "item": "Matsutake",
+        "quantity": 3
+      }
+    ]
+  },
+  "adventurers-breakfast-sandwich": {
+    "name": "Adventurer's Breakfast Sandwich",
+    "rarity": 3,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Increases all party members' ATK by 160~228 for 300s.",
+    "hasRecipe": true,
+    "description": "A nutritious egg dish. Luxurious mayonnaise sits atop a lining of ham and poached egg toast. The smooth mouthfeel fills you with energy for the long road ahead, and is one of the Adventurers' Guild's top-rated breakfasts.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Vogelei",
+        "quantity": 4
+      },
+      {
+        "item": "Mehl",
+        "quantity": 3
+      },
+      {
+        "item": "Schinken",
+        "quantity": 1
+      }
+    ]
+  },
+  "almond-tofu": {
+    "name": "Mandel Tofu",
+    "rarity": 2,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht den ANG aller Truppenmitglieder 300 Sekunden lang um 66 bis 95 Punkte.",
+    "hasRecipe": true,
+    "description": "A dessert made out of almond. It has a silky-smooth texture with a long-lasting aroma of almond. It's named tofu only because of its tofu-like shape.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Milch",
+        "quantity": 3
+      },
+      {
+        "item": "Zucker",
+        "quantity": 1
+      },
+      {
+        "item": "Mandeln",
+        "quantity": 1
+      }
+    ]
+  },
+  "apple-cider": {
+    "name": "Apple Cider",
+    "rarity": 2,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "A freshly squeezed, fashionable, and fruity non-alcoholic beverage. Said to have a strong sobering effect, tavern patrons often order this as the last drink of the night."
+  },
+  "apple": {
+    "name": "Apfel",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Restores 300 HP.",
+    "hasRecipe": false,
+    "description": "Crisp and fragrant. Delicious raw or made into wine."
+  },
+  "bamboo-shoot-soup": {
+    "name": "Bambussprossen Suppe",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Restores 26~30% of Max HP to the selected character. Regenerates 450~790 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A soup dish that's been stewed for a good long while. The meat and ham have been diced into small pieces, and the soup has been kept on low heat till it turned milky white. The process has brought out the distinct flavors of both kinds of meat, making for an especially tasty soup.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 2
+      },
+      {
+        "item": "Schinken",
+        "quantity": 2
+      },
+      {
+        "item": "Bambussprossen",
+        "quantity": 1
+      }
+    ]
+  },
+  "barbatos-ratatouille": {
+    "name": "Windgott-Ragout",
+    "rarity": 3,
+    "type": "Abenteurer Gericht",
+    "effect": "Verringert die beim Gleiten und Rennen verbrauchte Ausdauer alle Truppenmitglieder 900 Sekunden lang um 15 bis 25%.",
+    "hasRecipe": true,
+    "description": "A simple chowder with a long history. The ingredients are similarly traditional and simple. No matter where you are, a piping-hot chowder of this sort can always give you a sense of real and unsurpassed satisfaction.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Karotte",
+        "quantity": 4
+      },
+      {
+        "item": "Kartoffel",
+        "quantity": 4
+      },
+      {
+        "item": "Zwiebel",
+        "quantity": 4
+      }
+    ]
+  },
+  "berry-mint-burst": {
+    "name": "Berry & Mint Burst",
+    "rarity": 2,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Increases all party members' CRIT Rate by 16% for 300s.",
+    "hasRecipe": false,
+    "description": "A freshly squeezed, fashionable, and fruity non-alcoholic beverage. A refreshing burst of Mint with Berries to sweeten the deal, it has an exquisite aroma"
+  },
+  "black-back-perch-stew": {
+    "name": "Black-Back Perch Stew",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Restores 26~30% of Max HP to the selected character and regenerates 450~790 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A poached fish dish. The fresh and tasty fish fillets are tender and juicy. The secret to this recipe is adding powdered Violetgrass into the heated oil to give the dish that aromatic scent. It's spicy, but not too spicy.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fisch",
+        "quantity": 3
+      },
+      {
+        "item": "Jueyun-Peperoni",
+        "quantity": 1
+      },
+      {
+        "item": "Salz",
+        "quantity": 1
+      },
+      {
+        "item": "Violettes Gras",
+        "quantity": 1
+      }
+    ]
+  },
+  "calla-lily-seafood-soup": {
+    "name": "Guter Fang",
+    "rarity": 3,
+    "type": "VTD erhöhendes Gericht",
+    "effect": "Erhöht die VTD aller Truppenmitglieder 300 Sekunden lang um 282 Punkte.",
+    "hasRecipe": true,
+    "description": "A balanced combination of seafood. The delicacy of crab and mint make for a clear soup, and the calla lily brings it a refreshing taste.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Krebs",
+        "quantity": 4
+      },
+      {
+        "item": "Wasserlilie",
+        "quantity": 1
+      },
+      {
+        "item": "Minze",
+        "quantity": 2
+      }
+    ]
+  },
+  "chicken-mushroom-skewer": {
+    "name": "Chicken-Mushroom Skewer",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Restores 8~10% of Max HP and an additional 800~1,200 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A skewer of mushrooms and poultry. Fresh poultry is complimented by fragrant mushrooms. Don't be picky, chow down!",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Champignon",
+        "quantity": 1
+      },
+      {
+        "item": "Rohes Geflügel",
+        "quantity": 1
+      }
+    ]
+  },
+  "cold-cut-platter": {
+    "name": "Kalte Fleischplatte",
+    "rarity": 3,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht den physischen Schaden aller Truppenmitglieder 300 Sekunden lang um 20% bis 40%.",
+    "hasRecipe": true,
+    "description": "A plate of cold cut meat. An equal balance of bacon, ham and sausage keeps everyone happy.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Schinken",
+        "quantity": 1
+      },
+      {
+        "item": "Speck",
+        "quantity": 1
+      },
+      {
+        "item": "Wurst",
+        "quantity": 1
+      },
+      {
+        "item": "Minze",
+        "quantity": 1
+      }
+    ]
+  },
+  "come-and-get-it": {
+    "name": "Schüssel Buntes",
+    "rarity": 3,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht die KT aller Truppenmitglieder 300 Sekunden lang um 10% bis 20%.",
+    "hasRecipe": true,
+    "description": "A dish made out of a luxurious variety of ingredients. There is no great refinement in the making of this food, and it appears in Liyue often during festival season. Whenever this dish is served up, the person at the head of the table will invite everyone to dig in, saying \"Come on, eat, eat,\" hence the name.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 3
+      },
+      {
+        "item": "Fisch",
+        "quantity": 3
+      },
+      {
+        "item": "Reis",
+        "quantity": 3
+      },
+      {
+        "item": "Tofu",
+        "quantity": 1
+      }
+    ]
+  },
+  "crab-ham-veggie-bake": {
+    "name": "Geschmorter Schinken mit Krebsgemüse",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Belebt die gewählte Figur wieder und stellt 900 bis 1500 LP wieder her.",
+    "hasRecipe": true,
+    "description": "A luxurious bake. Cracks through the golden outer skin reveal a medley of rosy ham and bright vegetables. How tantalizing!",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Krebsrogen",
+        "quantity": 1
+      },
+      {
+        "item": "Schinken",
+        "quantity": 1
+      },
+      {
+        "item": "Sahne",
+        "quantity": 1
+      },
+      {
+        "item": "Weißkohl",
+        "quantity": 1
+      }
+    ]
+  },
+  "cream-stew": {
+    "name": "Sahneeintopf",
+    "rarity": 2,
+    "type": "Abenteurer Gericht",
+    "effect": "Verringert die beim Rennen verbrauchte Ausdauer aller Truppenmitglieder 900s lang um 20%. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "hasRecipe": true,
+    "description": "Ein milder Eintopf mit frischer Sahne. Der Eintopf ist gut eingedickt und überzeugt mit seiner seidigen Textur.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 2
+      },
+      {
+        "item": "Sahne",
+        "quantity": 2
+      },
+      {
+        "item": "Goldfischkraut",
+        "quantity": 1
+      }
+    ]
+  },
+  "crispy-potato-shrimp-platter": {
+    "name": "Crispy Potato Shrimp Platter",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Restores 26~30% of Max HP to the selected character and regenerates 450~790 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "An attractive-looking pre-meal snack. A spread made from potatoes and berries is placed onto crispy potato slices, and a whole shrimp is then added on top. The fragrant and full-bodied flavors serve to whet the appetite, while the addition of Mint adds a whole other dimension to the mix.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Minze",
+        "quantity": 4
+      },
+      {
+        "item": "Garnelenfleisch",
+        "quantity": 4
+      },
+      {
+        "item": "Kartoffel",
+        "quantity": 3
+      },
+      {
+        "item": "Beere",
+        "quantity": 2
+      }
+    ]
+  },
+  "crystal-shrimp": {
+    "name": "Kristallgarnelen",
+    "rarity": 2,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Stellt der gewählten Figur 18 bis 22% LP wieder her. Stellt innerhalb der nächsten 30 Sekunden alle 5 Sekunden 300 bis 470 LP wieder hier.",
+    "hasRecipe": true,
+    "description": "One of Liyue's traditional snacks. The stuffing is taken from whole fresh shrimp, and the glistening quality of the flour can be guessed at from the translucence of the outer skin. Has a springy, tasty chew.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Reis",
+        "quantity": 3
+      },
+      {
+        "item": "Garnelenfleisch",
+        "quantity": 3
+      },
+      {
+        "item": "Karotte",
+        "quantity": 2
+      }
+    ]
+  },
+  "fishermans-toast": {
+    "name": "Fischerschnitte",
+    "rarity": 2,
+    "type": "VTD erhöhendes Gericht",
+    "effect": "Erhöht die VTD aller Truppenmitglieder 300s lang um 107 Punkte. Wirkung ist im Mehrspielermodus auf einige Figuren beschränkt.",
+    "hasRecipe": true,
+    "description": "Eine mit Zwiebeln übersäte Scheibe Brot, der Liebling aller Fischersleut. Mit einem Snach voll dieser Leckerbissen steht einem ganzen Tag am Fluss nichts entgegen.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Mehl",
+        "quantity": 3
+      },
+      {
+        "item": "Tomate",
+        "quantity": 2
+      },
+      {
+        "item": "Zwiebel",
+        "quantity": 1
+      },
+      {
+        "item": "Milch",
+        "quantity": 1
+      }
+    ]
+  },
+  "flaming-red-bolognese": {
+    "name": "Feurige Nudeln",
+    "rarity": 2,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Stellt der gewählten Figur 18 bis 22% LP wieder her. Stellt innerhalb der nächsten 30 Sekunden alle 5 Sekunden 300 bis 470 LP wieder her.",
+    "hasRecipe": true,
+    "description": "Bolognese covered with a meat sauce. The meaty, herby aroma really gets your appetite going.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Mehl",
+        "quantity": 2
+      },
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 2
+      },
+      {
+        "item": "Tomate",
+        "quantity": 1
+      }
+    ]
+  },
+  "fragrant-mashed-potatoes": {
+    "name": "Fragrant Mashed Potatoes",
+    "rarity": 3,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Increases all party members' ATK by 160~228 for 300s.",
+    "hasRecipe": true,
+    "description": "Seasoned mashed potatoes. The potatoes were thoroughly mashed before a sauce was drizzled over them. The mouthfeel is soft and smooth and it has a rich, multi-layered flavor profile. A satisfying choice for a hungry stomach, whether as a side or as a main dish.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Kartoffel",
+        "quantity": 6
+      },
+      {
+        "item": "Sahne",
+        "quantity": 4
+      },
+      {
+        "item": "Pfeffer",
+        "quantity": 3
+      }
+    ]
+  },
+  "fried-radish-balls": {
+    "name": "Frittierte Rettichbällchen",
+    "rarity": 2,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht den ANG aller Truppenmitglieder 300 Sekunden lang um 66 bis 95 Punkte.",
+    "hasRecipe": true,
+    "description": "Fried Radish Balls. Fragrant and crispy. Make sure to eat them while they're hot! Said to be a recipe from Liyue.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Mehl",
+        "quantity": 3
+      },
+      {
+        "item": "Rettich",
+        "quantity": 2
+      },
+      {
+        "item": "Pfeffer",
+        "quantity": 1
+      }
+    ]
+  },
+  "fullmoon-egg": {
+    "name": "Vollmondei",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Belebt die gewählte Figur wieder. Stellt 900 bis 1500 LP wieder her.",
+    "hasRecipe": true,
+    "description": "One of Liyue's traditional snacks. The egg has been beaten into the flour to form a dough and the shrimp and fish have been diced, minced, and packaged into the shape of a teacup, before being garnished with whole shrimp and steamed in a pot. The resulting design is like that of clouds embracing the moon, hence the name Fullmoon Egg.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fisch",
+        "quantity": 4
+      },
+      {
+        "item": "Garnelenfleisch",
+        "quantity": 2
+      },
+      {
+        "item": "Vogelei",
+        "quantity": 2
+      },
+      {
+        "item": "Mehl",
+        "quantity": 1
+      }
+    ]
+  },
+  "golden-chicken-burger": {
+    "name": "Golden Chicken Burger",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Restores 30~34% of Max HP and an additional 600~1,900 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A hamburger in which the fowl meat is the main star. The fluffy bread sandwiches slices of fresh vegetables and a flavorful, crispy fowl fillet. No utensils required here: Just grab it in your hands and bite down on that bundle of rich, satisfying succulence with a hearty \"ker-runch\"!",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Rohes Geflügel",
+        "quantity": 4
+      },
+      {
+        "item": "Mehl",
+        "quantity": 2
+      },
+      {
+        "item": "Weißkohl",
+        "quantity": 2
+      },
+      {
+        "item": "Butter",
+        "quantity": 2
+      }
+    ]
+  },
+  "golden-crab": {
+    "name": "Golden Crab",
+    "rarity": 4,
+    "type": "VTD erhöhendes Gericht",
+    "effect": "Increases all party members' DEF by 242~308 and healing effects by 6~10% for 300s.",
+    "hasRecipe": true,
+    "description": "A crab dish cooked in the ancient ways. The crab has been chopped into pieces and battered with flour, before being stir-fried till golden and rich with flavor. It is worthy of the word \"gold,\" whether in terms of appearance or quality.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Vogelei",
+        "quantity": 5
+      },
+      {
+        "item": "Mehl",
+        "quantity": 5
+      },
+      {
+        "item": "Krebs",
+        "quantity": 4
+      },
+      {
+        "item": "Salz",
+        "quantity": 2
+      }
+    ]
+  },
+  "golden-fried-chicken": {
+    "name": "Golden Fried Chicken",
+    "rarity": 4,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Increases all party members' ATK by 224~320 and CRIT Rate by 6~10% for 300s.",
+    "hasRecipe": true,
+    "description": "Fowl that has been seasoned and then fried. The golden outer skin has all but sealed the abundant juices into the meat, leading to absolute enjoyment with each bite. The taste at your fingertips will linger in memory far longer than the instant it takes to reduce the meal to nothing but slim bones.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Rohes Geflügel",
+        "quantity": 4
+      },
+      {
+        "item": "Butter",
+        "quantity": 4
+      },
+      {
+        "item": "Pfeffer",
+        "quantity": 3
+      },
+      {
+        "item": "Mehl",
+        "quantity": 2
+      }
+    ]
+  },
+  "golden-shrimp-balls": {
+    "name": "Golden Shrimp Balls",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Revives a character and restores 900~1,500 HP.",
+    "hasRecipe": true,
+    "description": "A deep-fried shrimp dish. The aroma assaults your senses, while the crispy potatoes bring out the light sweetness of the shrimp meat. This, in tandem with its cute, small shape, makes it very enticing indeed.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Garnelenfleisch",
+        "quantity": 5
+      },
+      {
+        "item": "Kartoffel",
+        "quantity": 4
+      },
+      {
+        "item": "Mehl",
+        "quantity": 3
+      }
+    ]
+  },
+  "goulash": {
+    "name": "Gulasch",
+    "rarity": 2,
+    "type": "Abenteurer Gericht",
+    "effect": "Slightly decreases~Decreases the rate of Sheer Cold accumulation for all party members for 900s.",
+    "hasRecipe": true,
+    "description": "A steaming-hot stew. Hot stew made from Chilled Meat and vegetables chopped into small pieces. Slow-boiled tomatoes give this dish a rich and thick texture. Filling one's stomach with this comforting mixture has a warming effect.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Gekühltes Fleisch",
+        "quantity": 2
+      },
+      {
+        "item": "Karotte",
+        "quantity": 2
+      },
+      {
+        "item": "Tomate",
+        "quantity": 1
+      }
+    ]
+  },
+  "grilled-tiger-fish": {
+    "name": "Gegrillter Tigerfisch",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Stellt der gewählten Figur 8 bis 10% LP sowie zusätzlich 800 bis 1200 LP wieder her.",
+    "hasRecipe": true,
+    "description": "A fish kebab grilled over an open flame. The fish is a fresh catch straight from the harbor, lightly picked and swiftly grilled. Its aroma attracts the street cats. Indeed, freshness is the secret of flavor.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Fisch",
+        "quantity": 1
+      },
+      {
+        "item": "Pfeffer",
+        "quantity": 1
+      }
+    ]
+  },
+  "holy-water": {
+    "name": "Holy Water",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "​",
+    "hasRecipe": false,
+    "description": "A bottle of clear, colorless, and contaminant-free liquid. Indistinguishable from ordinary spring water. May or may not be worth putting all of one's hopes into."
+  },
+  "jade-parcels": {
+    "name": "Gefüllte Jadetaschen",
+    "rarity": 4,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht den ANG aller Truppenmitglieder 300 Sekunden lang um 224 bis 320 Punkte und die KT um 6% bis 10%.",
+    "hasRecipe": true,
+    "description": "An exquisite-looking dish. The ham's sweetness is locked inside the fresh vegetables, drizzled with a spicy broth. Delicious is an understatement.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Lotos",
+        "quantity": 3
+      },
+      {
+        "item": "Jueyun-Peperoni",
+        "quantity": 2
+      },
+      {
+        "item": "Weißkohl",
+        "quantity": 2
+      },
+      {
+        "item": "Schinken",
+        "quantity": 1
+      }
+    ]
+  },
+  "jewelry-soup": {
+    "name": "Juwelensuppe",
+    "rarity": 2,
+    "type": "VTD erhöhendes Gericht",
+    "effect": "Erhöht die VTD aller Truppenmitglieder 300 Sekunden lang um 88 bis 126 Punkte.",
+    "hasRecipe": true,
+    "description": "A simple vegetable soup. Snapdragon, tofu, and lotus seeds are put into boiling water and simmered. Jewelry Soup earned its luxurious name from the look of the ingredients used, but contrary to its name, the soup is commonly prepared and served in ordinary households.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Goldfischkraut",
+        "quantity": 2
+      },
+      {
+        "item": "Tofu",
+        "quantity": 2
+      },
+      {
+        "item": "Lotos",
+        "quantity": 1
+      }
+    ]
+  },
+  "jueyun-chili-chicken": {
+    "name": "Höllenhühnchen",
+    "rarity": 2,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht die KT aller Truppenmitglieder 300 Sekunden lang um 16%.",
+    "hasRecipe": true,
+    "description": "Cold chicken mixed in dressings. The finesse technique used in mixing the dish retained the freshness of the delightful juice contained within the chicken. The glowing gold chicken skin hides a mildly hot flavor underneath.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Rohes Geflügel",
+        "quantity": 2
+      },
+      {
+        "item": "Jueyun-Peperoni",
+        "quantity": 1
+      },
+      {
+        "item": "Pfeffer",
+        "quantity": 1
+      }
+    ]
+  },
+  "jueyun-guoba": {
+    "name": "Jueyun Guoba",
+    "rarity": 3,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Increases all party members' Physical DMG by 20~40% for 300s.",
+    "hasRecipe": true,
+    "description": "One of Liyue's specialty snacks. Stir-fried ham and Jueyun Chili sprinkled on a crispy crust made from Rice and Horsetail create a refined, meaty snack that transforms humble Rice into a hot delicacy.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Pferdeschwanz",
+        "quantity": 2
+      },
+      {
+        "item": "Reis",
+        "quantity": 2
+      },
+      {
+        "item": "Schinken",
+        "quantity": 1
+      },
+      {
+        "item": "Jueyun-Peperoni",
+        "quantity": 1
+      }
+    ]
+  },
+  "lantern-rite-special-come-and-get-it": {
+    "name": "Laternen Ritual Spezial Schüssel Buntes",
+    "rarity": 3,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht die KT aller Truppenmitglieder 300 Sekunden lang um 20%.",
+    "hasRecipe": false,
+    "description": "Traditional cuisine made to celebrate Lantern Rite. There is no great refinement in the making of this food, and it appears in Liyue often during festival season. Whenever this dish is served up, the person at the head of the table will invite everyone to dig in, saying \"Come on, eat, eat,\" hence the name."
+  },
+  "lantern-rite-special-fried-radish-balls": {
+    "name": "Laternen Ritual Spezial Frittierte Rettichbällchen",
+    "rarity": 2,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht den ANG aller Truppenmitglieder 300 Sekunden lang um 95 Punkte.",
+    "hasRecipe": false,
+    "description": "Traditional cuisine made to celebrate Lantern Rite. Fragrant and crispy. Make sure to eat them while they're hot!"
+  },
+  "lantern-rite-special-grilled-tiger-fish": {
+    "name": "Laternen Ritual Spezial Gegrillter Tigerfisch",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Stellt der gewählten Figur 10% LP sowie zusätzlich 1200 LP wieder her.	",
+    "hasRecipe": false,
+    "description": "Traditional cuisine made to celebrate Lantern Rite. The fish is a fresh catch straight from the harbor, lightly seasoned and swiftly grilled. Its aroma attracts the street cats. Indeed, freshness is the secret of flavor. Its aroma attracts the street cats. Indeed, freshness is the secret of flavor."
+  },
+  "lantern-rite-special-jewelry-soup": {
+    "name": "Laternen Ritual Spezial Juwelensuppe",
+    "rarity": 2,
+    "type": "VTD erhöhendes Gericht",
+    "effect": "Erhöht die VTD aller Truppenmitglieder 300 Sekunden lang um 126 Punkte.	",
+    "hasRecipe": false,
+    "description": "Traditional cuisine made to celebrate Lantern Rite. Snapdragon, tofu, and lotus seeds are put into boiling water and simmered. Jewelry Soup earned its luxurious name from the look of the ingredients used, but contrary to its name, the soup is commonly prepared and served in ordinary households."
+  },
+  "lantern-rite-special-lotus-seed-and-bird-egg-soup": {
+    "name": "Laternen Ritual Spezial Gedämpftes Ei mit Lotossamen",
+    "rarity": 2,
+    "type": "Abenteurer Gericht",
+    "effect": "Verringert die beim Rennen verbrauchte Ausdauer aller Truppenmitglieder 900 Sekunden lang um 25%.",
+    "hasRecipe": false,
+    "description": "Traditional cuisine made to celebrate Lantern Rite. The clear, gold colors of the egg custard have been embellished with several lotus roots. Regardless of whether it is breakfast or a post-meal snack, its superior nutritional value can greatly nourish the body."
+  },
+  "lantern-rite-special-noodles-with-mountain-delicacies": {
+    "name": "Laternen Ritual Spezial Nudeln mit Fleischsoße und Pilzen",
+    "rarity": 2,
+    "type": "Abenteurer Gericht",
+    "effect": "Stellt 60 Punkte Ausdauer wieder her. 300 Sekunden Abklingzeit.	",
+    "hasRecipe": false,
+    "description": "Traditional cuisine made to celebrate Lantern Rite. The sauce has a rustic flavor, and there's a generous amount of it mixed in with the noodles. A humble but enduringly popular dish."
+  },
+  "lantern-rite-special-triple-layered-consomme": {
+    "name": "Laternen Ritual Spezial Dreischichtige Consomme",
+    "rarity": 3,
+    "type": "VTD erhöhendes Gericht",
+    "effect": "Increases all party members' Shield strength by 30%.",
+    "hasRecipe": false,
+    "description": "Traditional cuisine made to celebrate Lantern Rite. The ham, fowl, and bamboo shoots have been sliced into threads of equal length, and they've been laid out neatly in the soup bowl after being steamed at high heat, before being covered in consommé. The layers are distinct, and the mouthfeel is salty yet fresh."
+  },
+  "lotus-flower-crisp": {
+    "name": "Lotus Flower Crisp",
+    "rarity": 3,
+    "type": "VTD erhöhendes Gericht",
+    "effect": "Increases all party members' DEF by 165~235 for 300s.",
+    "hasRecipe": true,
+    "description": "One of Liyue's traditional snacks. Sweet stuffed lotus wrapped in a crispy, deep-fried crust. Its layers of flower petals unravel perfectly in the palm of your hand.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Mandeln",
+        "quantity": 4
+      },
+      {
+        "item": "Mehl",
+        "quantity": 2
+      },
+      {
+        "item": "Butter",
+        "quantity": 2
+      },
+      {
+        "item": "Zucker",
+        "quantity": 1
+      }
+    ]
+  },
+  "lotus-seed-and-bird-egg-soup": {
+    "name": "Gedämpftes Ei mit Lotossamen",
+    "rarity": 2,
+    "type": "Abenteurer Gericht",
+    "effect": "Verringert die beim Rennen verbrauchte Ausdauer aller Truppenmitglieder 900 Sekunden lang um 15 bis 25%.",
+    "hasRecipe": true,
+    "description": "A steaming egg dish. The clear, gold colors of the egg custard have been embellished with several lotus roots. Regardless of whether it is breakfast or a post-meal snack, its superior nutritional value can greatly nourish the body.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Lotos",
+        "quantity": 1
+      },
+      {
+        "item": "Vogelei",
+        "quantity": 1
+      },
+      {
+        "item": "Zucker",
+        "quantity": 1
+      }
+    ]
+  },
+  "matsutake-meat-rolls": {
+    "name": "Mit Matsutake gefüllte Fleischröllchen",
+    "rarity": 2,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Stellt der gewählten Figur 20 bis 24% LP sowie zusätzlich 900 bis 1500 LP wieder her.",
+    "hasRecipe": true,
+    "description": "A pan-fried meat dish. Ground meat is put on the Matsutake and gently pan-fried on low heat so the Matsutake can fully take in the aromatic juice of the meat. It's a mouthwatering delicacy in all of its glory.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Matsutake",
+        "quantity": 2
+      },
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 2
+      }
+    ]
+  },
+  "mint-jelly": {
+    "name": "Minzgötterspeise",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Restores 8~10% of Max HP and an additional 800~1,200 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "Eine erfrischende Nachspeise. Die Schritte zur Herstellung sind in der Tat recht einfach und wenn sie die Kehle hinuntergleitet, wird der leichte, frische Geschmack von Minze dich für den Rest des Tages beleben.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Minze",
+        "quantity": 1
+      },
+      {
+        "item": "Zucker",
+        "quantity": 1
+      }
+    ]
+  },
+  "mint-salad": {
+    "name": "Mint Salad",
+    "rarity": 2,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Increases all party members' ATK by 66~95 for 300s.",
+    "hasRecipe": true,
+    "description": "A fragrant salad dish. Finely chopped Jueyun Chilis blended with a sauce and mixed with Mint leaves. It looks like nothing special, but it has surprisingly potent powers of refreshment and reinvigoration. It is also the perfect palate-cleanser after a greasy, indulgent meal.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Minze",
+        "quantity": 4
+      },
+      {
+        "item": "Jueyun-Peperoni",
+        "quantity": 1
+      }
+    ]
+  },
+  "minty-meat-rolls": {
+    "name": "Minty Meat Rolls",
+    "rarity": 3,
+    "type": "Abenteurer Gericht",
+    "effect": "Decreases all party members' gliding and sprinting Stamina consumption by 15~25% for 900s.",
+    "hasRecipe": true,
+    "description": "A sour-and-spicy dish. The marinated meat has been thinly sliced and rolled into the mint leaves, before being brushed with a sauce blend containing Jueyun Chilis. The unique mint flavor adds the finishing touch to this dish, turning it into an excellent addition to any cold platter.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Minze",
+        "quantity": 4
+      },
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 3
+      },
+      {
+        "item": "Jueyun-Peperoni",
+        "quantity": 1
+      }
+    ]
+  },
+  "mondstadt-grilled-fish": {
+    "name": "Mondstadt Grilled Fish",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Revives a character and restores 50~150 HP.",
+    "hasRecipe": true,
+    "description": "Fish grilled thoroughly with moderate fire, making it completely dry and crispy. The sprinkled pepper on top brings out the freshness of the fish.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Fisch",
+        "quantity": 1
+      },
+      {
+        "item": "Pfeffer",
+        "quantity": 1
+      }
+    ]
+  },
+  "mondstadt-hash-brown": {
+    "name": "Kartoffelpuffer nach Mondstadt-Art",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Stellt der gewählten Figur 30 bis 34% LP sowie zusätzlich 600 bis 1900 LP wieder her.",
+    "hasRecipe": true,
+    "description": "A fried cake of mashed potatoes. A little bit of pinecone helps give it a nice crunch, and great with a bit of jam. Loved by people of all ages.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Kiefernzapfen",
+        "quantity": 2
+      },
+      {
+        "item": "Kartoffel",
+        "quantity": 1
+      },
+      {
+        "item": "Konfitüre",
+        "quantity": 1
+      }
+    ]
+  },
+  "moon-pie": {
+    "name": "Mondkuchen",
+    "rarity": 4,
+    "type": "VTD erhöhendes Gericht",
+    "effect": "Erhöht die Schildeffizienz aller Truppenmitglieder 300 Sekunden lang um 25% bis 35% und die VTD um 165 bis 235 Punkte.",
+    "hasRecipe": true,
+    "description": "A traditional staple from Mondstadt. Not only is the pickled meat within deeply flavorful, but the meringue has also maintained its sweetness and moisture through the baking process. This dish is not to be missed at any festival in Mondstadt.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 4
+      },
+      {
+        "item": "Vogelei",
+        "quantity": 4
+      },
+      {
+        "item": "Butter",
+        "quantity": 3
+      },
+      {
+        "item": "Mehl",
+        "quantity": 2
+      }
+    ]
+  },
+  "mora-meat": {
+    "name": "Mora Medaillon",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Belebt die gewählte Figur wieder. Stellt 50 bis 150 LP wieder her.",
+    "hasRecipe": true,
+    "description": "A large hunk of minced meat packaged inside of a pastry. When you split the pastry in two, minced meat spills out. The taste of meat grease is all but gone, and the baking process has brought out the sweetness of the pastry. Such pastries are usually stamped with the word \"Mora,\" all the better to represent wealth and fortune.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 1
+      },
+      {
+        "item": "Mehl",
+        "quantity": 1
+      }
+    ]
+  },
+  "mushroom-pizza": {
+    "name": "Pilzza",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Stellt der gewählten Figur 26 bis 30% LP wieder her und stellt innerhalb der nächsten 30 Sekunden alle 5 Sekunden 450 bis 790 LP wieder her.",
+    "hasRecipe": true,
+    "description": "A pizza covered in cheese and mushrooms. When still warm the cheese stretches out long, making it extremely satisfying to eat.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Champignon",
+        "quantity": 4
+      },
+      {
+        "item": "Mehl",
+        "quantity": 3
+      },
+      {
+        "item": "Weißkohl",
+        "quantity": 2
+      },
+      {
+        "item": "Käse",
+        "quantity": 1
+      }
+    ]
+  },
+  "noodles-with-mountain-delicacies": {
+    "name": "Nudeln mit Fleischsoße und Pilzen",
+    "rarity": 2,
+    "type": "Abenteurer Gericht",
+    "effect": "Stellt 40 bis 60 Punkte Ausdauer wieder her. 300 Sekunden Abklingzeit.",
+    "hasRecipe": true,
+    "description": "Noodles in a meat-and-vegetable sauce. The sauce has a rustic flavor, and there's a generous amount of it mixed in with the noodles. A humble but enduringly popular dish.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Champignon",
+        "quantity": 3
+      },
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 2
+      },
+      {
+        "item": "Mehl",
+        "quantity": 2
+      }
+    ]
+  },
+  "northern-apple-stew": {
+    "name": "Northern Apple Stew",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Restores 30~34% of Max HP and an additional 600~1,900 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A dish with braised meat and apples. The meat goes down smooth, its flavor dense, and when cut open, the meat juice that flows out bears traces of apple flavoring. An eye-popping, refreshing dish indeed.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 3
+      },
+      {
+        "item": "Apfel",
+        "quantity": 3
+      },
+      {
+        "item": "Butter",
+        "quantity": 1
+      },
+      {
+        "item": "Pfeffer",
+        "quantity": 1
+      }
+    ]
+  },
+  "northern-smoked-chicken": {
+    "name": "Northern Smoked Chicken",
+    "rarity": 2,
+    "type": "Abenteurer Gericht",
+    "effect": "Restores 40~60 Stamina.",
+    "hasRecipe": true,
+    "description": "Smoked fowl paired with vegetables. A staple for Northerners, often made for honored guests.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Räuchergeflügel",
+        "quantity": 1
+      },
+      {
+        "item": "Zwiebel",
+        "quantity": 1
+      },
+      {
+        "item": "Weißkohl",
+        "quantity": 1
+      }
+    ]
+  },
+  "pops-teas": {
+    "name": "Pop's Teas",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Restores 14% of Max HP to the selected character and regenerates 350 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "Tea from Liyue. After a grueling trek around the vast region of Liyue, there's nothing more rejuvenating than a big swig of tea from Pop's Teas."
+  },
+  "qingce-stir-fry": {
+    "name": "Qingce Stir Fry",
+    "rarity": 3,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Increases all party members' ATK by 160~228 for 300s.",
+    "hasRecipe": true,
+    "description": "A dish cooked over a roaring fire. They say it was originally just a rustic dish that everyone in Qingce Village knew how to make. But quite unexpectedly, its crispy and spicy dishes gained the recognition of people from elsewhere, and thus began to spread thoughout the Liyue region.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Champignon",
+        "quantity": 3
+      },
+      {
+        "item": "Lotos",
+        "quantity": 2
+      },
+      {
+        "item": "Jueyun-Peperoni",
+        "quantity": 1
+      },
+      {
+        "item": "Weißkohl",
+        "quantity": 1
+      }
+    ]
+  },
+  "radish-veggie-soup": {
+    "name": "Rettichsuppe",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Stellt der gewählten Figur 8 bis 10% LP wieder her. Stellt innerhalb der nächsten 30 Sekunden alle 5 Sekunden 210 bis 300 LP wieder her.",
+    "hasRecipe": true,
+    "description": "Radish-based vegetable soup. Its flavor is delicately between tart and sweet. With luscious radish, it's a well-balanced dish.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Rettich",
+        "quantity": 1
+      },
+      {
+        "item": "Minze",
+        "quantity": 1
+      }
+    ]
+  },
+  "satisfying-salad": {
+    "name": "Sättigender Salat",
+    "rarity": 2,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht die KT aller Truppenmitglieder 300s lang um 6 bis 12%.",
+    "hasRecipe": true,
+    "description": "Ein Salat mit verschiedenem Gemüse. Serviert werden die gekochte Kartoffel und das frische Gemüse mit einem weichgekochten Ei, was sowohl Auge als auch Magen erfreut.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Weißkohl",
+        "quantity": 2
+      },
+      {
+        "item": "Apfel",
+        "quantity": 2
+      },
+      {
+        "item": "Vogelei",
+        "quantity": 1
+      },
+      {
+        "item": "Kartoffel",
+        "quantity": 1
+      }
+    ]
+  },
+  "sauteed-matsutake": {
+    "name": "Kurzgebratene Matsutake",
+    "rarity": 3,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht den ANG aller Truppenmitglieder 300 Sekunden lang um 160 bis 228 Punkte.",
+    "hasRecipe": true,
+    "description": "Sautéed slices of Matsutake. Cooked in butter, it's crisp outside yet tender inside. Eat it before someone steals it from you.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Matsutake",
+        "quantity": 3
+      },
+      {
+        "item": "Mehl",
+        "quantity": 3
+      },
+      {
+        "item": "Kiefernzapfen",
+        "quantity": 2
+      },
+      {
+        "item": "Butter",
+        "quantity": 2
+      }
+    ]
+  },
+  "squirrel-fish": {
+    "name": "Eichhörnchenfisch",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Stellt der gewählten Figur 30 bis 34% LP sowie zusätzlich 600 bis 1900 LP wieder her.",
+    "hasRecipe": true,
+    "description": "A hard-to-prepare fish dish. The fish is first completely deboned before crisscross cuts are made on the skin. The fish is then coated in flour and deep-fried to a golden-brown color, then served with ketchup drizzled on top. It is tender and juicy on the inside and crispy on the outside. The dish resembles a squirrel's tail to a certain degree, hence the name.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fisch",
+        "quantity": 4
+      },
+      {
+        "item": "Tomate",
+        "quantity": 2
+      },
+      {
+        "item": "Mehl",
+        "quantity": 2
+      },
+      {
+        "item": "Zucker",
+        "quantity": 1
+      }
+    ]
+  },
+  "steak": {
+    "name": "Steak",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Belebt die gewählte Figur wieder. Stellt 50 bis 150 LP wieder her.",
+    "hasRecipe": true,
+    "description": "Ein gebratenes Steak. Die hohe Temperatur beim Braten hat den Fleischsaft eingeschlossen, sodass man sich nach dem Moment des Aufschneidens sehnt.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 2
+      }
+    ]
+  },
+  "sticky-honey-roast": {
+    "name": "Honigmöhren-Fleischpfanne",
+    "rarity": 3,
+    "type": "Abenteurer Gericht",
+    "effect": "Verringert die beim Klettern und Rennen verbrauchte Ausdauer alle Truppenmitglieder 900 Sekunden lang um 15 bis 25%.",
+    "hasRecipe": true,
+    "description": "A meat dish in a sweet honey sauce. The carrots take the gamey edge off the meat, and the sauce brings it all together sweetly. The perfect warm dish for a cold winter night.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 3
+      },
+      {
+        "item": "Karotte",
+        "quantity": 2
+      },
+      {
+        "item": "Zucker",
+        "quantity": 2
+      }
+    ]
+  },
+  "stir-fried-filet": {
+    "name": "Stir-Fried Filet",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Revives a character and restores 50~150 HP.",
+    "hasRecipe": true,
+    "description": "Sliced meat flash-fried in a wok. The mild Jueyun Chili adds just the right amount of kick to the delicious aroma of the meat. Perfect as an appetizer and also goes well with rice.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 1
+      },
+      {
+        "item": "Jueyun-Peperoni",
+        "quantity": 1
+      }
+    ]
+  },
+  "stone-harbor-delicacies": {
+    "name": "Drei Köstlichkeiten vom Steinhafen",
+    "rarity": 2,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Erhöht die KT aller Truppenmitglieder 300s lang um 6 bis 12%. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "hasRecipe": true,
+    "description": "Wok-fried vegetarian food. A stir-fried selection of three ingredients hailing from Liyue. Though the methodology is simple, it brings out the intense, innate flavors of the ingredients, and does not fade in brilliance when compared to some high-class delicacy.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Kartoffel",
+        "quantity": 1
+      },
+      {
+        "item": "Violettes Gras",
+        "quantity": 1
+      },
+      {
+        "item": "Matsutake",
+        "quantity": 1
+      }
+    ]
+  },
+  "sunsettia": {
+    "name": "Dämmerfrucht",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Stell der gewählten Figur 300 LP wieder her.",
+    "hasRecipe": false,
+    "description": "Eine Gabe der Natur, die man überall auf Teyvat findet. Sie ist so schön wie die Abenddämmerung und sättigt sehr. Sie hat ein merkwürdiges, süßes Aroma und belebt den ermüdeten Geist."
+  },
+  "sunshine-sprat": {
+    "name": "Sunshine Sprat",
+    "rarity": 3,
+    "type": "VTD erhöhendes Gericht",
+    "effect": "Increases all party members' Shield strength by 20~30% for 300s.",
+    "hasRecipe": true,
+    "description": "Gently fried fish dish. Cooked with the right heat and duration to maintain freshness for a long time. Tender and flaky, delicately browned thanks to the layer of aromatic butter on top, which creates a multi-layered and unique flavor.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Butter",
+        "quantity": 3
+      },
+      {
+        "item": "Fisch",
+        "quantity": 3
+      },
+      {
+        "item": "Salz",
+        "quantity": 1
+      },
+      {
+        "item": "Lampenkraut",
+        "quantity": 1
+      }
+    ]
+  },
+  "sweet-madame": {
+    "name": "Süß mariniertes Hühnchen",
+    "rarity": 2,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Stellt der gewählten Figur 20 bis 24% LP sowie zusätzlich 900 bis 1500 LP wieder her.",
+    "hasRecipe": true,
+    "description": "Ein mariniertes und dann geschmortes Hühnchen. Das zarte Fleisch ist durchdrungen von dem Saft der Zuckerblume.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Rohes Geflügel",
+        "quantity": 2
+      },
+      {
+        "item": "Zuckerblume",
+        "quantity": 2
+      }
+    ]
+  },
+  "tea-break-pancake": {
+    "name": "Landeierkuchen",
+    "rarity": 2,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Belebt die gewählte Figur wieder und stellt ihr 250~550 LP wieder her.",
+    "hasRecipe": true,
+    "description": "Belebt die gewählte Figur wieder und stellt 250 bis 550 LP wieder her.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Beere",
+        "quantity": 3
+      },
+      {
+        "item": "Mehl",
+        "quantity": 2
+      },
+      {
+        "item": "Vogelei",
+        "quantity": 1
+      }
+    ]
+  },
+  "teyvat-fried-egg": {
+    "name": "Teyvat-Spiegelei",
+    "rarity": 1,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Belebt die gewählte Figur wieder und stellt ihr 50~150 LP wieder her.",
+    "hasRecipe": true,
+    "description": "Ein aur nur einer Seite gebratenes Ei. Das Eigelb ist noch flüssig und lädt ein es aufzupieksen.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Vogelei",
+        "quantity": 1
+      }
+    ]
+  },
+  "tianshu-meat": {
+    "name": "Tianshu Meat",
+    "rarity": 4,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Increases all party members' Physical DMG by 25~45% and CRIT Rate by 6~10% for 300s.",
+    "hasRecipe": true,
+    "description": "A braised meat dish. The cut of meat is a happy medium between lean and fatty, and has been braised to smoking perfection. The ingredients glisten, and are soft but not greasy. Word has it that the Tianshu of a certain generation of the Liyue Qixing invented this dish after much painstaking development.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 4
+      },
+      {
+        "item": "Zucker",
+        "quantity": 2
+      },
+      {
+        "item": "Qingxin",
+        "quantity": 1
+      },
+      {
+        "item": "Matsutake",
+        "quantity": 1
+      }
+    ]
+  },
+  "triple-layered-consomme": {
+    "name": "Dreischichtige Consomme",
+    "rarity": 3,
+    "type": "VTD erhöhendes Gericht",
+    "effect": "Increases all party members' Shield strength by 20~30%.",
+    "hasRecipe": true,
+    "description": "A neatly arranged dish. The ham, fowl, and bamboo shoots have been sliced into threads of equal length, and they've been laid out neatly in the soup bowl after being steamed at high heat, before being covered in consommé. The layers are distinct, and the mouthfeel is salty yet fresh.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Schinken",
+        "quantity": 2
+      },
+      {
+        "item": "Rohes Geflügel",
+        "quantity": 2
+      },
+      {
+        "item": "Bambussprossen",
+        "quantity": 1
+      },
+      {
+        "item": "Champignon",
+        "quantity": 1
+      }
+    ]
+  },
+  "universal-peace": {
+    "name": "Weltfrieden",
+    "rarity": 3,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Stellt der gewählten Figur 30 bis 34% LP sowie zusätzlich 600 bis 1900 LP wieder her.",
+    "hasRecipe": true,
+    "description": "Colorful staple food. Maintains perfect balance between soft and fragrant rice and all kinds of carefully selected sweet ingredients. This dish is mainly known for its meaning as a symbol of prosperity and peace, and less so for its taste. However, with such noble ideals behind it, its flavor should not disappoint.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Reis",
+        "quantity": 4
+      },
+      {
+        "item": "Lotos",
+        "quantity": 2
+      },
+      {
+        "item": "Karotte",
+        "quantity": 2
+      },
+      {
+        "item": "Beere",
+        "quantity": 2
+      }
+    ]
+  },
+  "vegetarian-abalone": {
+    "name": "Vegetarische Seeohren",
+    "rarity": 2,
+    "type": "Wiederbelebendes Gericht",
+    "effect": "Belebt die gewählte Figur wieder. Stellt 250 bis 550 LP wieder her.",
+    "hasRecipe": true,
+    "description": "A vegetarian dish with a rich flavor. The matsutake has been sliced thin and fried till golden before pouring the sauce. The matsutake meat is sumptuous and has flavor to match that of fresh abalone — almost enough to make you think it was the real thing.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Matsutake",
+        "quantity": 2
+      },
+      {
+        "item": "Goldfischkraut",
+        "quantity": 2
+      }
+    ]
+  },
+  "wolfhook-juice": {
+    "name": "Wolfhook Juice",
+    "rarity": 2,
+    "type": "ANG erhöhendes Gericht",
+    "effect": "Increases all party members' ATK by 114 for 300s.",
+    "hasRecipe": false,
+    "description": "A freshly squeezed, fashionable, and fruity non-alcoholic beverage. Iced Wolfhook juice mixed with a pinch of other ingredients, forming a dreamy shade of violet."
+  },
+  "zhongyuan-chop-suey": {
+    "name": "Eingelegtes Allerlei",
+    "rarity": 3,
+    "type": "Abenteurer Gericht",
+    "effect": "Verringert die beim Klettern und Rennen verbrauchte Ausdauer alle Truppenmitglieder 900 Sekunden lang um 15 bis 25%.",
+    "hasRecipe": true,
+    "description": "A seasoned and cooked meat dish. Though it contains animal organ meat and bits and scraps of other things, the strong-flavored seasonings have masked the stench of the meat. Many have had this dish for the entirety of their lives without knowing \"chop suey\" is actually a swear word in the local language.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Rohes Fleisch",
+        "quantity": 3
+      },
+      {
+        "item": "Fisch",
+        "quantity": 3
+      },
+      {
+        "item": "Mehl",
+        "quantity": 3
+      },
+      {
+        "item": "Salz",
+        "quantity": 2
+      }
+    ]
+  }
+}
