@@ -1,0 +1,6 @@
+{
+  "name": "Wunder",
+  "max_rarity": 4,
+  "2-piece_bonus": "Erhöht den WDS gegen alle Elemente um 20%.",
+  "4-piece_bonus": "Erhöht den jeweiligen WDS nach Erleiden von Elementar-SCH 10 Sekunden lang um 30%. 10 Sekunden Abklingzeit"
+}
