@@ -1,0 +1,6 @@
+{
+  "name": "Abenteurer",
+  "max_rarity": 3,
+  "2-piece_bonus": "Erhöht die max. LP um 1,000.",
+  "4-piece_bonus": "Stellt nach dem Öffnen jeglicher Truhen 5s lang 30% LP wieder her."
+}
