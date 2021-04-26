@@ -1,0 +1,322 @@
+{
+  "almond": {
+    "name": "Mandeln",
+    "description": "Ein Samen mit einem kräftigen Geschmack, der Gerichten eine frische Note verleihen kann.",
+    "sources": ["Sold by Second Life", "Sold by Ms. Bai"]
+  },
+  "bacon": {
+    "name": "Speck",
+    "description": "Geräuchertes Bauchfleisch und -fett. Einfach die richtige Mischung. Da kann keiner widerstehen.",
+    "rarity": 3,
+    "sources": ["Sold by Good Hunter", "Beim Verarbeiten von Gerichten zu erhalten"]
+  },
+  "bamboo-shoot": {
+    "name": "Bambussprosse",
+    "description": "Eine frisch dem Boden entronnene Bambussprosse. Diese Zutat mit einem exotischen Aroma ist nur in Gegenden zu finden, wo Bambus wächst.",
+    "sources": ["In der freien Natur zu finden", "Sold by Wanmin Restaurant"]
+  },
+  "berry": {
+    "name": "Beere",
+    "description": "Eine Frucht in knalligen Farben, die man überall im Freien finden kann. Sie hilft dabei, die Müdigkeit auf der Reise zu überwinden.",
+    "sources": ["In der freien Natur zu finden"]
+  },
+  "bird-egg": {
+    "name": "Vogelei",
+    "description": "Ein Ei mit einst schier unendlichen Möglichkeiten. Nun bietet es dir eine Tagesration an Protein.",
+    "sources": [
+      "In der freien Natur zu finden",
+      "Vendor: Draff, Head of Hunters at Springvale"
+    ]
+  },
+  "butter": {
+    "name": "Butter",
+    "description": "Der fetthaltige Teil von Milch. In der richtigen Menge bringt es selbst dem einfachsten Gericht einen reichen, cremigen Geschmack.",
+    "rarity": 2,
+    "sources": ["Sold by Good Hunter", "Sold by Verr Goldet", "Beim Verarbeiten von Gerichten zu erhalten"]
+  },
+  "cabbage": {
+    "name": "Weißkohl",
+    "description": "Ein Gemüse mit vielen Schichten, das ursprünglich wohl als Topfpflanze großen Anklang gefunden hat. Macht sich wirklich gut im Topf.",
+    "sources": [
+      "In der freien Natur zu finden",
+      "Sold by Second Life",
+      "Sold by Mondstadt General Goods",
+      "Dropped by Unusual Hilichurl"
+    ]
+  },
+  "calla-lily": {
+    "name": "Wasserlilie",
+    "description": "Eine Blume, die am Ufer von Gewässern wächst. Ihre Blüten sind zubereitet ein wahres Erlebnis auf der Zunge, leicht süß und bitter.",
+    "sources": ["Found near lakes", "Found in Springvale", "Sold by Flora"]
+  },
+  "carrot": {
+    "name": "Möhre",
+    "description": "Eine sehr nahrhafte Wurzel. Sie ist sehr einfach anzubauen und zu ernten. Außerdem ist sie leicht süß und knackig.",
+    "sources": [
+      "In der freien Natur zu finden",
+      "Found in crates and barrels",
+      "Sold at Wanmin Restaurant"
+    ]
+  },
+  "cheese": {
+    "name": "Käse",
+    "description": "Ein aus geronnener Milch gewonnenes Erzeugnis. Es bietet gleichzeitig eine hohe Menge Energie sowie uneingeschränkte Möglichkeiten der Zubereitung.",
+    "rarity": 3,
+    "sources": ["Sold by Good Hunter", "Beim Verarbeiten von Gerichten zu erhalten", "Sold by Changshun"]
+  },
+  "chilled-meat": {
+    "name": "Kaltes Gourmetfleisch",
+    "description": "Ein sehr seltenes delikates Fleisch. Es kommt von einer Spezies, die angeblich bereits seit Hunderten von Jahren ausgestorben ist und hat sich dank des extrem kalten Wetters auf dem Drachengrat so gut erhalten. Für viele Feinschmecker aus allen Teilen Teyvats ist dieses Fleisch der Heilige Gral unter den Fleischsorten.",
+    "sources": ["Snowboars"]
+  },
+  "crab": {
+    "name": "Krebs",
+    "description": "Ein Krustentier, das in der Nähe des Meeres lebt. Unter der harten Schale verbirgt sich zartes Fleisch, das zu einer Delikatesse verarbeitet werden kann.",
+    "sources": [
+      "Found near lakes, river banks, and beaches",
+      "Sold by Uncle Sun",
+      "Sold at Wanmin Restaurant"
+    ]
+  },
+  "crab-roe": {
+    "name": "Krebsrogen",
+    "description": "Eine Delikatesse aus weiblichen Krebsen. In diesem seltenen wie teuren Rogen steckt die Essenz der Krebse, die allerdings nicht jedermanns Geschmack ist.",
+    "rarity": 3,
+    "sources": ["Sold by Good Hunter", "Beim Verarbeiten von Gerichten zu erhalten"]
+  },
+  "cream": {
+    "name": "Sahne",
+    "description": "Ein durch kräftiges Schlagen entstehendes Milchprodukt. Eine unentbehrliche Zutat bei der Herstellung von Süßspeisen.",
+    "rarity": 2,
+    "sources": ["Sold by Good Hunter", "Beim Verarbeiten von Gerichten zu erhalten"]
+  },
+  "fish": {
+    "name": "Fisch",
+    "description": "Ein frisches Stück Fisch, das sich richtig zubereitet für eine leckere Mahlzeit eignet.",
+    "sources": [
+      "Found swimming in water",
+      "Sold by Uncle Sun",
+      "Sold by Uncle Gao",
+      "Sold at Wanmin Restaurant"
+    ]
+  },
+  "flour": {
+    "name": "Mehl",
+    "description": "Aus Weizen gemahlenes Pulver. Füllt jeden Magen, egal wozu es verwendet wird.",
+    "sources": [
+      "Sold by Good Hunter",
+      "Sold by Wanmin Restaurant",
+      "Beim Verarbeiten von Gerichten zu erhalten"
+    ]
+  },
+  "fowl": {
+    "name": "Rohes Geflügel",
+    "description": "Ein frisches Stück rohes Geflügel, das seinen Geschmack mit der richtigen Zubereitung besonders entfaltet.",
+    "sources": [
+      "In der freien Natur zu finden",
+      "Vendor: Draff, Head of Hunters at Springvale"
+    ]
+  },
+  "ham": {
+    "name": "Schinken",
+    "description": "Geräuchertes Fleisch. Selbst die dünnste Scheibe ist voller Aroma.",
+    "rarity": 2,
+    "sources": [
+      "Beim Verarbeiten von Gerichten zu erhalten",
+      "Sold by Good Hunter",
+      "Sold by Wanmin Restaurant"
+    ]
+  },
+  "jam": {
+    "name": "Konfitüre",
+    "description": "Eine eingekochte Masse aus Früchten und Zucker. Ein kleines Löffelchen voll befreit einen selbst von der größten Müdigkeit.",
+    "rarity": 3,
+    "sources": ["Sold by Good Hunter", "Beim Verarbeiten von Gerichten zu erhalten"]
+  },
+  "jueyun-chili": {
+    "name": "Jueyun-Peperoni",
+    "description": "Eine scharf schmeckende Pflanze aus dem Gebiet von Liyue. Schon wenn man an ihr riecht, wird einem heiß und man bekommt Durst.",
+    "sources": [
+      "In der freien Natur zu finden",
+      "Found in Qingce Village",
+      "Sold at Wanmin Restaurant"
+    ]
+  },
+  "lotus-head": {
+    "name": "Lotos",
+    "description": "Eine Pflanze mit zwei Stängeln, die in stehenden Gewässern rund um Liyue wächst. Ein Stängel duftet angenehm, der andere ist bitter. Eignet sich angeblich gut für Medizin.",
+    "sources": [
+      "Found near lakes and river banks",
+      "Sold by Bubu Pharmacy",
+      "Sold at Wanmin Restaurant"
+    ]
+  },
+  "matsutake": {
+    "name": "Matsutake",
+    "description": "Eine Seltene Pilzart, die an oder in der Nähe von Kiefern wächst und ihre Stellung durch den unverkennbaren Duft verrät.",
+    "sources": [
+      "In der freien Natur zu finden",
+      "Sold at Wanmin Restaurant",
+      "Sold by Verr Goldet"
+    ]
+  },
+  "milk": {
+    "name": "Milch",
+    "description": "Von Kühen. Bei diesem vollen Aroma willst du keinen einzigen Tropfen verschwenden.",
+    "sources": ["Sold by Mondstadt General Goods", "Sold by Second Life"]
+  },
+  "mint": {
+    "name": "Minze",
+    "description": "Eine Pflanze mit erfrischenden ätherischen Ölen in ihren Blättern. Das kühle Gefühl auf der Zunge lässt einen die Sommerhitze besser ertragen.",
+    "sources": ["In der freien Natur zu finden", "Sold by Chloris"]
+  },
+  "mushroom": {
+    "name": "Champignon",
+    "description": "Vor Lebenskraft nur so strotzend und sehr häufig anzutreffen. Er braucht lediglich genug Schatten und Wasser. Ansonsten wächst er fast überall.",
+    "sources": ["In der freien Natur zu finden", "Purchased at Wanmin Restaurant"]
+  },
+  "onion": {
+    "name": "Zwiebel",
+    "description": "Ein kugelrundes Gemüse, das sich an seinen Angreifern rächt, indem es sie weinen lässt.",
+    "sources": ["Sold by Mondstadt General Goods", "Sold by Second Life"]
+  },
+  "pepper": {
+    "name": "Pfeffer",
+    "description": "Schmeckt nach Pfeffer. Bringt den Geschmack fettreicher Speisen gut hervor und passt besonders gut zu Fleisch.",
+    "sources": ["Sold by Second Life", "Sold by Mondstadt General Goods"]
+  },
+  "pinecone": {
+    "name": "Kiefernzapfen",
+    "description": "Enthält viele ölhaltige Kerne, die natürlich nicht zu einem gewaltigen Baum im Magen eines Eichhörnchens heranwachsen.",
+    "sources": ["In der freien Natur zu finden"]
+  },
+  "potato": {
+    "name": "Kartoffel",
+    "description": "Ein Knollengemüse, das man zubereiten kann, wie man will. Es verliert nie seinen Reiz.",
+    "sources": [
+      "In der freien Natur zu finden",
+      "Sold by Mondstadt General Goods",
+      "Sold by Second Life",
+      "Sold by Changshun"
+    ]
+  },
+  "qingxin": {
+    "name": "Cecilia",
+    "description": "Eine Blume mit einem Namen so schön wie ihr Anblick. Sie wächst nur hoch oben an kalten und windigen Stellen. Sie ist so schwer zu greifen wie ein flüchtiger Gedanke.",
+    "sources": [
+      "Found in the heights of stone forests",
+      "Sold by Bubu Pharmacy",
+      "Found in Huaguang Stone Forest",
+      "Found in Jueyun Karst"
+    ]
+  },
+  "radish": {
+    "name": "Rettich",
+    "description": "Eine sehr fasrige Wurzel. Sie ist sehr einfach anzubauen und zu ernten. Außerdem ist sie reich an Ballast- und Nährstoffen.",
+    "sources": [
+      "In der freien Natur zu finden",
+      "Found in crates and barrels",
+      "Sold at Wanmin Restaurant"
+    ]
+  },
+  "raw-meat": {
+    "name": "Rohes Fleisch",
+    "description": "Ein frisches Stück rohes Fleisch, das mit der richtigen Zubereitung zu einer nahrhaften Mahlzeit wird.",
+    "sources": ["In der freien Natur zu finden", "Sold by Draff", "Beim Verarbeiten von Gerichten zu erhalten"]
+  },
+  "rice": {
+    "name": "Reis",
+    "description": "Körner einer in Teyvat häufig aufzufindenden Getreideart. Die verschiedensten Menschen wissen diese sättigenden weißen Körner zu schätzen. Daher sagt man auch, \"Reis nährt alle Menschen.\"",
+    "sources": ["Sold by Second Life"]
+  },
+  "salt": {
+    "name": "Salz",
+    "description": "Ist salzig und verbessert den Geschmack von Gerichten nur in der richtigen Menge.",
+    "sources": ["Sold by Mondstadt General Goods", "Sold by Second Life"]
+  },
+  "sausage": {
+    "name": "Wurst",
+    "description": "In Tierdärme gefülltes Hackfleisch. Lange haltbar und nicht nur deswegen sehr beliebt auf der Speisekarte vieler Gegenden.",
+    "rarity": 3,
+    "sources": [
+      "Sold by Good Hunter",
+      "Sold by Wanmin Restaurant",
+      "Sold by Verr Goldet",
+      "Beim Verarbeiten von Gerichten zu erhalten"
+    ]
+  },
+  "shrimp-meat": {
+    "name": "Garnelenfleisch",
+    "description": "Garnelenfleisch aus den Tiefen der Meere. Es hat wertvolle Inhaltsstoffe und einen überwältigenden, frischen Geschmack.",
+    "sources": ["Sold by Second Life", "Sold by Uncle Sun"]
+  },
+  "small-lamp-grass": {
+    "name": "Lampenkraut",
+    "description": "Eine nachts leuchtende Wildblume, die den Geschmack von Gerichten angenehm intensiviert.",
+    "sources": [
+      "In der freien Natur bei Nacht zu finden",
+      "In Wolfenlauf zu finden",
+      "Found in the Whispering Woods",
+      "Sold by Flora"
+    ]
+  },
+  "smoked-fowl": {
+    "name": "Räuchergeflügel",
+    "description": "Geräuchertes Geflügel. Die feste Beschaffenheit sorgt für ein ganz anderes Geschmackserlebnis.",
+    "rarity": 2,
+    "sources": ["Sold by Good Hunter", "Beim Verarbeiten von Gerichten zu erhalten"]
+  },
+  "snapdragon": {
+    "name": "Goldfischkraut",
+    "description": "Zubereitet eine essbare Pflanze. Als würzende Zutat gibt sie deinem Essen das gewisse Etwas.",
+    "sources": ["In der freien Natur zu finden", "Sold by Chloris"]
+  },
+  "sugar": {
+    "name": "Zucker",
+    "description": "Ein Extrakt aus Zuckerblumen. Dieser süße Stoff, reich an Energie, belebt Körper und Seele.",
+    "rarity": 2,
+    "sources": [
+      "Sold by Good Hunter",
+      "Sold by Wanmin Restaurant",
+      "Sold by Changshun",
+      "Beim Verarbeiten von Gerichten zu erhalten"
+    ]
+  },
+  "sweet-flower": {
+    "name": "Zuckerblume",
+    "description": "Eine überaus stark duftende Blume. Selbst im Dunkeln kann man sie so finden.",
+    "sources": ["In der freien Natur zu finden", "Purchase from Flora in Mondstadt"]
+  },
+  "tofu": {
+    "name": "Tofu",
+    "description": "Ein aus Bohnenquark gepresstes Erzeugnis, das sich seidig weich auf der Zunge anfühlt.",
+    "sources": ["Sold by Second Life", "Sold by Ms. Bai"]
+  },
+  "tomato": {
+    "name": "Tomate",
+    "description": "Eine Frucht mit einer dünnen, knallroten Schale. Etwas säuerlich, aber sehr saftig. Ob Obst oder Gemüse, immer ein Genuss.",
+    "sources": [
+      "In der freien Natur zu finden",
+      "Sold by Second Life",
+      "Sold by Mondstadt General Goods"
+    ]
+  },
+  "violetgrass": {
+    "name": "Pferdeschwanz",
+    "description": "Eine violette Pflanze, die hin und wieder zwischen Schilf wächst und sich von diesem groß und aufrecht abhebt, als wollte sie ihre Erhabenheit demonstieren.",
+    "sources": [
+      "Found near cliffs in Liyue",
+      "Sold by Verr Goldet",
+      "Sold at Bubu Pharmacy"
+    ]
+  },
+  "wheat": {
+    "name": "Weizen",
+    "description": "Die goldenen Ähren strahlen pure Hoffnung aus. Sie müssen gedroschen und die Körner gemahlen werden. Mit Wasser und Feuer nehmen sie ihre letzte Form an.",
+    "sources": [
+      "Found in barrels and crates",
+      "Sold by Mondstadt General Goods",
+      "Sold by Second Life"
+    ]
+  }
+}
