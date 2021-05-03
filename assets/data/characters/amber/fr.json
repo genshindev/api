@@ -1,0 +1,166 @@
+{
+  "name": "Amber",
+  "title": "Championne de planage",
+  "vision": "Pyro",
+  "weapon": "Arc",
+  "gender": "Femme",
+  "nation": "Mondstadt",
+  "affiliation": "Ordre de Favonius",
+  "rarity": 4,
+  "constellation": "Lepus",
+  "birthday": "0000-08-10",
+  "description": "Une jeune fille pleine d'énergie. Elle est la seule et unique Éclaireuse de l'Ordre de Favonius.",
+  "skillTalents": [
+    {
+      "name": "Archerie revisitée",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEffectue un tir visé plus précis infligeant davantage de DGT.\nAttaque chargée\nEffectue un tir visé plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge en élément Pyro, infligeant de considérables DGT Pyro quand elle est complètement chargée.\nAttaque descendante\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "upgrades": [
+        {
+          "name": "DGT 1er coup",
+          "value": "36.1%"
+        },
+        {
+          "name": "DGT 2e coup",
+          "value": "36.1%"
+        },
+        {
+          "name": "DGT 3e coup",
+          "value": "46.4%"
+        },
+        {
+          "name": "DGT 4e coup",
+          "value": "47.3%"
+        },
+        {
+          "name": "DGT 5e coup",
+          "value": "59.3%"
+        },
+        {
+          "name": "DGT Tir visé",
+          "value": "43.9%"
+        },
+        {
+          "name": "DGT Tir visé (Pleine charge)",
+          "value": "124%"
+        },
+        {
+          "name": "DGT durant la chute",
+          "value": "56.8%"
+        },
+        {
+          "name": "DGT Chute basse/élevée",
+          "value": "114% / 142%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Poupée explosive",
+      "unlock": "Compétence élémentaire",
+      "description": "Le fidèle Baron Lapinou est déployé sur le terrain.\n\nBaron Lapinou\nLe baron nargue les ennemis proches et attire leur attention.\nSes PV sont proportionnels aux PV max d'Amber.\nLe baron explose à la fin ou s'il est détruit entre temps, et inflige des DGT Pyro de zone\n\nAppui long\nAjuste la direction du jet.\nAjuste la portée du jet.",
+      "upgrades": [
+        {
+          "name": "PV hérités",
+          "value": "41.4%"
+        },
+        {
+          "name": "DGT Explosion",
+          "value": "123%"
+        },
+        {
+          "name": "Temps de recharge",
+          "value": "15s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Pluie de flèches",
+      "unlock": "Déchainement élémentaire",
+      "description": "Tire une pluie de flèches qui inflige des DGT Pyro continus.",
+      "upgrades": [
+        {
+          "name": "DGT Pluie de flèches",
+          "value": "28.1%"
+        },
+        {
+          "name": "DGT totaux Pluie de flèches",
+          "value": "505%"
+        },
+        {
+          "name": "Durée",
+          "value": "2s"
+        },
+        {
+          "name": "Temps de recharge",
+          "value": "12s"
+        },
+        {
+          "name": "Énergie élémentaire",
+          "value": "40"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Dans le mille !",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Augmente le taux CRIT de Pluie de flèches de 10% et la zone d'effet de 30%.",
+      "level": 1
+    },
+    {
+      "name": "Tir précis",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "L'ATQ augmente de 15% pendant 10s lorsque le tir visé touche un point faible.",
+      "level": 4
+    },
+    {
+      "name": "Championne de planage",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20% lors du planage.\nNe peut pas être cumulé avec d'autres aptitudes passives ayant les mêmes effets."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Une flèche suffit !",
+      "unlock": "Constellation Niv. 1",
+      "description": "Tire 2 flèches consécutives à chaque tir visé. La seconde flèche inflige 20% des DGT de la première.",
+      "level": 1
+    },
+    {
+      "name": "Tout est prêt",
+      "unlock": "Constellation Niv. 2",
+      "description": "Une toute nouvelle modification du Baron Lapinou ! Un tir visé à pleine charge aux pieds du Baron Lapinou, et ce dernier explose directement... Ce type d'explosion inflige 200% de DGT supplémentaires.",
+      "level": 2
+    },
+    {
+      "name": "Ça brûle !",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau de compétence Pluie de flèches +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Ce n'est pas n'importe quelle poupée...",
+      "unlock": "Constellation Niv. 4",
+      "description": "Réduit le TdR de Poupée explosive de 20% et permet de l'utiliser 1 fois supplémentaire.",
+      "level": 4
+    },
+    {
+      "name": "Baron Lapinou !",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau de compétence Poupée explosive +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Feu sauvage",
+      "unlock": "Constellation Niv. 6",
+      "description": "Pluie de flèches augmente la VIT de déplacement de tous les personnages de l'équipe de 15% et leur ATQ de 15% pendant 10s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "BOW"
+}

@@ -2,7 +2,7 @@
   "name": "Royal Greatsword",
   "type": "Claymore",
   "rarity": 4,
-  "baseAttack": "43",
+  "baseAttack": 43,
   "subStat": "ATK",
   "passiveName": "Focus",
   "passiveDesc": "Upon damaging an enemy, increases CRIT Rate by 8%. Max 5 stacks. A CRIT hit removes all stacks.",

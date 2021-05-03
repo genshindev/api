@@ -53,7 +53,8 @@
           "name": "Low / High Plunge DMG",
           "value": "114% / 142%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Explosive Puppet",
@@ -72,7 +73,8 @@
           "name": "CD",
           "value": "15s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Fiery Rain",
@@ -99,19 +101,22 @@
           "name": "Energy Cost",
           "value": "40"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Every Arrow Finds Its Target",
       "unlock": "Unlocked at Ascension 1",
-      "description": "Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%."
+      "description": "Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%.",
+      "level": 1
     },
     {
       "name": "Precise Shot",
       "unlock": "Unlocked at Ascension 4",
-      "description": "Aimed Shot hits on weak spots increase Base ATK by 15% for 10s."
+      "description": "Aimed Shot hits on weak spots increase Base ATK by 15% for 10s.",
+      "level": 4
     },
     {
       "name": "Gliding Champion",
@@ -123,32 +128,40 @@
     {
       "name": "One Arrow to Rule Them All",
       "unlock": "Constellation Lv. 1",
-      "description": "Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG."
+      "description": "Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG.",
+      "level": 1
     },
     {
       "name": "Bunny Triggered",
       "unlock": "Constellation Lv. 2",
-      "description": "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.\nExplosion via manual detonation deals 200% additional DMG."
+      "description": "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.\nExplosion via manual detonation deals 200% additional DMG.",
+      "level": 2
     },
     {
       "name": "It Burns!",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Fiery Rain by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Fiery Rain by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "It's Not Just Any Doll...",
       "unlock": "Constellation Lv. 4",
-      "description": "Decreases Explosive Puppet's CD by 20%. Adds 1 additional charge."
+      "description": "Decreases Explosive Puppet's CD by 20%. Adds 1 additional charge.",
+      "level": 4
     },
     {
       "name": "It's Baron Bunny!",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Explosive Puppet by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Explosive Puppet by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Wildfire",
       "unlock": "Constellation Lv. 6",
-      "description": "Fiery Rain increases Amber's Movement SPD by 15% and Base ATK by 15% for 10s."
+      "description": "Fiery Rain increases Amber's Movement SPD by 15% and Base ATK by 15% for 10s.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "BOW"
 }

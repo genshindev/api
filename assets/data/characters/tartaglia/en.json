@@ -1,10 +1,13 @@
 {
   "name": "Tartaglia",
-  "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
-  "nation": "Snezhnaya",
   "vision": "Hydro",
   "weapon": "Bow",
+  "nation": "Snezhnaya",
+  "affiliation": "Fatui",
   "rarity": 5,
+  "constellation": "Monoceros Caeli",
+  "birthday": "0000-07-20",
+  "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
   "skillTalents": [
     {
       "name": "Cutting Torrent",
@@ -63,7 +66,8 @@
           "name": "Low / High Plunge DMG",
           "value": "128% / 160%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Foul Legacy: Raging Tide",
@@ -122,7 +126,8 @@
           "name": "Max CD",
           "value": "45s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Havor: Obliteration",
@@ -153,19 +158,22 @@
           "name": "Energy Cost",
           "value": "60"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Never Ending",
       "unlock": "Unlocked at Ascension 1",
-      "description": "Extends Riptide duration by 8s."
+      "description": "Extends Riptide duration by 8s.",
+      "level": 1
     },
     {
       "name": "Sword of Torrents",
       "unlock": "Unlocked at Ascension 4",
-      "description": "When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, or if his Normal and Charged Attacks do CRIT DMG, they will apply the Riptide status effect on the hit enemy."
+      "description": "When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, or if his Normal and Charged Attacks do CRIT DMG, they will apply the Riptide status effect on the hit enemy.",
+      "level": 4
     },
     {
       "name": "Master of Weaponry",
@@ -177,32 +185,40 @@
     {
       "name": "Foul Legacy: Tide Withholder",
       "unlock": "Constellation Lv. 1",
-      "description": "Decreases the CD of Foul Legacy: Raging Tide by 20%."
+      "description": "Decreases the CD of Foul Legacy: Raging Tide by 20%.",
+      "level": 1
     },
     {
       "name": "Foul Legacy: Understream",
       "unlock": "Constellation Lv. 2",
-      "description": "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy."
+      "description": "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy.",
+      "level": 2
     },
     {
       "name": "Abyssal Mayhem: Vortex of Turmoil",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Foul Legacy: Raging Tide by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Foul Legacy: Raging Tide by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Abyssal Mayhem: Hydrospout",
       "unlock": "Constellation Lv. 4",
-      "description": "If Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.\nRiptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals."
+      "description": "If Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.\nRiptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals.",
+      "level": 4
     },
     {
       "name": "Havoc: Formless Blade",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Havoc: Obliteration by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Havoc: Obliteration by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Havoc: Annihilation",
       "unlock": "Constellation Lv. 6",
-      "description": "When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset.\nThis effect will only take place once Tartaglia returns to his Ranged Stance."
+      "description": "When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset.\nThis effect will only take place once Tartaglia returns to his Ranged Stance.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "HYDRO",
+  "weapon_type": "BOW"
 }

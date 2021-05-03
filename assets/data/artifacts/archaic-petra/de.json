@@ -1,0 +1,6 @@
+{
+  "name": "Archaischer Fels",
+  "max_rarity": 5,
+  "2-piece_bonus": "Erhöht den Geo-Schaden um 15%.",
+  "4-piece_bonus": "Erhöht beim Erschaffen von Splittern durch eine Kristallisationsreaktion den mit dem jeweiligen Element verursachten Schaden aller Truppenmitglieder 10 Sekunden lang um 35%. Zu einem Zeitpunkt kann nur ein SCH-Bonus aufgrund dieses Effekts bestehen."
+}

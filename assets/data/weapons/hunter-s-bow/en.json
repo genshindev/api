@@ -1,0 +1,10 @@
+{
+  "name": "Hunter's Bow",
+  "type": "Bow",
+  "rarity": 1,
+  "baseAttack": 23,
+  "subStat": "-",
+  "passiveName": "-",
+  "passiveDesc": "-",
+  "location": "Chest"
+}

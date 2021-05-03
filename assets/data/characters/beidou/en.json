@@ -1,10 +1,13 @@
 {
   "name": "Beidou",
-  "description": "Beidou is the leader of the Crux — an armed fleet based in Liyue Harbor. An armed fleet means exactly what it sounds like: a fleet of ships armed to the teeth.",
-  "nation": "Liyue",
   "vision": "Electro",
   "weapon": "Claymore",
+  "nation": "Liyue",
+  "affiliation": "The Crux",
   "rarity": 4,
+  "constellation": "Victor Mare",
+  "birthday": "0000-02-14",
+  "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
   "skillTalents": [
     {
       "name": "Oceanborne",
@@ -55,7 +58,8 @@
           "name": "Low / High Plunge DMG",
           "value": "149% / 186%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Tidecaller",
@@ -78,7 +82,8 @@
           "name": "CD",
           "value": "7.5s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Stormbreaker",
@@ -109,19 +114,22 @@
           "name": "Energy Cost",
           "value": "80"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Retribution",
       "unlock": "Unlocked at Ascension 1",
-      "description": "Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus."
+      "description": "Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus.",
+      "level": 1
     },
     {
       "name": "Leviathan's Protection",
       "unlock": "Unlocked at Ascension 4",
-      "description": "Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:\nDMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.\nGreatly reduced delay before unleashing Charged Attacks."
+      "description": "Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:\nDMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.\nGreatly reduced delay before unleashing Charged Attacks.",
+      "level": 4
     },
     {
       "name": "Conqueror of Tides",
@@ -133,32 +141,40 @@
     {
       "name": "Sea Beast's Scourge",
       "unlock": "Constellation Lv. 1",
-      "description": "When Stormbreaker is used:\nCreates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\nThis shield absorbs Electro DMG 250% more effectively."
+      "description": "When Stormbreaker is used:\nCreates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\nThis shield absorbs Electro DMG 250% more effectively.",
+      "level": 1
     },
     {
       "name": "Upon the Turbulent Sea, the Thunder Arises",
       "unlock": "Constellation Lv. 2",
-      "description": "Stormbreaker's arc lightning can jump 2 additional targets."
+      "description": "Stormbreaker's arc lightning can jump 2 additional targets.",
+      "level": 2
     },
     {
       "name": "Summoner of Storm",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Tidecaller by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Tidecaller by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Stunning Revenge",
       "unlock": "Constellation Lv. 4",
-      "description": "Within 10s of taking DMG, Beidou's Normal Attacks gain 20% additional Electro DMG."
+      "description": "Within 10s of taking DMG, Beidou's Normal Attacks gain 20% additional Electro DMG.",
+      "level": 4
     },
     {
       "name": "Crimson Tidewalker",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Stormbreaker by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Stormbreaker by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Bane of Evil",
       "unlock": "Constellation Lv. 6",
-      "description": "During the duration of Stormbreaker, the Electro RES of surrounding enemies is decreased by 15%."
+      "description": "During the duration of Stormbreaker, the Electro RES of surrounding enemies is decreased by 15%.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "CLAYMORE"
 }

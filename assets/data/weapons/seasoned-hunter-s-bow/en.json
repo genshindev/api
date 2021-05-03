@@ -1,0 +1,10 @@
+{
+  "name": "Seasoned Hunter's Bow",
+  "type": "Bow",
+  "rarity": 2,
+  "baseAttack": 33,
+  "subStat": "-",
+  "passiveName": "-",
+  "passiveDesc": "-",
+  "location": "Chest"
+}

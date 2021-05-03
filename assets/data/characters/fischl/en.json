@@ -1,10 +1,13 @@
 {
   "name": "Fischl",
-  "description": "A mysterious girl who calls herself \"Prinzessia der Verurteilung\" and travels with a night raven named Oz.",
-  "nation": "Mondstadt",
   "vision": "Electro",
   "weapon": "Bow",
+  "nation": "Mondstadt",
+  "affiliation": "Adventurers' Guild",
   "rarity": 4,
+  "constellation": "Corvus",
+  "birthday": "0000-05-27",
+  "description": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
   "skillTalents": [
     {
       "name": "Bolts of Downfall",
@@ -47,7 +50,8 @@
           "name": "Low / High Plunge DMG",
           "value": "114% / 142%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Nightrider",
@@ -70,7 +74,8 @@
           "name": "CD",
           "value": "25s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Midnight Phantasmagoria",
@@ -89,19 +94,22 @@
           "name": "Energy Cost",
           "value": "60"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Stellar Predator",
       "unlock": "Unlocked at Ascension 1",
-      "description": "When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing AoE Electro DMG equal to 152.7% of the arrow's DMG."
+      "description": "When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing AoE Electro DMG equal to 152.7% of the arrow's DMG.",
+      "level": 1
     },
     {
       "name": "Lightning Smite",
       "unlock": "Unlocked at Ascension 4",
-      "description": "If a character triggers an Electro-related Elemental Reaction when Oz is on the field, the enemy shall be stricken with Thundering Retribution, dealing Electro DMG equal to 80% of Fischl's ATK."
+      "description": "If a character triggers an Electro-related Elemental Reaction when Oz is on the field, the enemy shall be stricken with Thundering Retribution, dealing Electro DMG equal to 80% of Fischl's ATK.",
+      "level": 4
     },
     {
       "name": "Mein Hausgarten",
@@ -113,32 +121,40 @@
     {
       "name": "Gaze of the Deep",
       "unlock": "Constellation Lv. 1",
-      "description": "Even when Oz is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl attacks an enemy, Oz fires a joint attack, dealing 22% of ATK DMG."
+      "description": "Even when Oz is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl attacks an enemy, Oz fires a joint attack, dealing 22% of ATK DMG.",
+      "level": 1
     },
     {
       "name": "Devourer of All-Sins",
       "unlock": "Constellation Lv. 2",
-      "description": "When Nightrider is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%."
+      "description": "When Nightrider is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%.",
+      "level": 2
     },
     {
       "name": "Wings of Nightmare",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Nightrider by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Nightrider by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Her Pilgrimage of Bleak",
       "unlock": "Constellation Lv. 4",
-      "description": "When Midnight Phatasmagoria is used, it deals 222% of ATK as Electro DMG to surrounding enemies.\nWhen the skill duration ends, Fischl regenerates 20% of her HP."
+      "description": "When Midnight Phatasmagoria is used, it deals 222% of ATK as Electro DMG to surrounding enemies.\nWhen the skill duration ends, Fischl regenerates 20% of her HP.",
+      "level": 4
     },
     {
       "name": "Against the Fleeing Light",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Midnight Phantasmagoria by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Midnight Phantasmagoria by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Evernight Raven",
       "unlock": "Constellation Lv. 6",
-      "description": "Increases the duration of Oz's summoning by 2s. Additionally, Oz attacks with the current character when present, dealing 30% of Fischl's ATK as Electro DMG."
+      "description": "Increases the duration of Oz's summoning by 2s. Additionally, Oz attacks with the current character when present, dealing 30% of Fischl's ATK as Electro DMG.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "BOW"
 }

@@ -2,7 +2,7 @@
   "name": "Serpent Spine",
   "type": "Claymore",
   "rarity": 4,
-  "baseAttack": "42",
+  "baseAttack": 42,
   "subStat": "CRIT Rate",
   "passiveName": "Wavesplitter",
   "passiveDesc": "Every 4s a character is on the field, they will deal 6% more DMG and take 3% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be cleared when the character takes DMG.",

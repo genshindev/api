@@ -1,10 +1,13 @@
 {
   "name": "Qiqi",
-  "description": "An apprentice and herb-picker Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
-  "nation": "Liyue",
   "vision": "Cryo",
   "weapon": "Sword",
+  "nation": "Liyue",
+  "affiliation": "Bubu Pharmacy",
   "rarity": 5,
+  "constellation": "Pristina Nola",
+  "birthday": "0000-03-03",
+  "description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
   "skillTalents": [
     {
       "name": "Ancient Sword Art",
@@ -47,7 +50,8 @@
           "name": "Low / High Plunge DMG",
           "value": "128% / 160%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Adeptus Art: Herald of Frost",
@@ -78,7 +82,8 @@
           "name": "CD",
           "value": "30s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Adeptus Art: Preserver of Fortune",
@@ -105,19 +110,22 @@
           "name": "Energy Cost",
           "value": "80"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Life-Prolonging Methods",
       "unlock": "Unlocked at Ascension 1",
-      "description": "When a character under the effects of Adeptus Art: Herald of Frost triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s."
+      "description": "When a character under the effects of Adeptus Art: Herald of Frost triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.",
+      "level": 1
     },
     {
       "name": "A Glimpse into Arcanum",
       "unlock": "Unlocked at Ascension 4",
-      "description": "When Qiqi hits enemies with her Normal and Charged Attacks, she has a 50% chance to apply a Fortune-Preserving Talisman to them for 6s. This effect can only occur once every 30s."
+      "description": "When Qiqi hits enemies with her Normal and Charged Attacks, she has a 50% chance to apply a Fortune-Preserving Talisman to them for 6s. This effect can only occur once every 30s.",
+      "level": 4
     },
     {
       "name": "Former Life Memories",
@@ -129,32 +137,40 @@
     {
       "name": "Ascetics of Frost",
       "unlock": "Constellation Lv. 1",
-      "description": "When the Herald of Frost hits an enemy marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy."
+      "description": "When the Herald of Frost hits an enemy marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy.",
+      "level": 1
     },
     {
       "name": "Frozen to the Bone",
       "unlock": "Constellation Lv. 2",
-      "description": "Qiqi's Normal and Charge Attack DMG against enemies affected by Cryo is increased by 15%."
+      "description": "Qiqi's Normal and Charge Attack DMG against enemies affected by Cryo is increased by 15%.",
+      "level": 2
     },
     {
       "name": "Ascendant Praise",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Adeptus Art: Preserver of Fortune by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Adeptus Art: Preserver of Fortune by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Divine Suppression",
       "unlock": "Constellation Lv. 4",
-      "description": "Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%."
+      "description": "Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%.",
+      "level": 4
     },
     {
       "name": "Crimson Lotus Bloom",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Adeptus Art: Herald of Frost by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Adeptus Art: Herald of Frost by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Rite of Resurrection",
       "unlock": "Constellation Lv. 6",
-      "description": "Using Adeptus Art: Preserve of Fortune revives all nearby fallen characters and regenerates 50% of their HP.\nThis effect can only occur once every 15 mins."
+      "description": "Using Adeptus Art: Preserve of Fortune revives all nearby fallen characters and regenerates 50% of their HP.\nThis effect can only occur once every 15 mins.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "SWORD"
 }

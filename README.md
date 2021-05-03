@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/M8t9nFG"><img src="https://img.shields.io/discord/763148972435963934?logo=discord" alt="chat on Discord"></a>
 
-An API that serves data for the game Genshin Impact by miHoYo.
+An API that serves data for the game Genshin Impact by miHoYo (the game is made by miHoYo, not the API).
 
 **An always up-to-date version is hosted at https://api.genshin.dev!**
 
@@ -80,3 +80,7 @@ Then simply add overrides for the data that's present on the `en.json` with the 
 
 For entities like characters, images are being served from `assets/images/{entityType}/{entityId}`. These images can be in any image format (`heic, heif, jpeg, jpg, png, raw, tiff, webp, gif`), but have their extension stripped, e.g. `icon.webp` becomes `icon`. \
 Then simply add the file to the `assets/images/{entityType}/{entityId}` folder or create it if it doesn't already exist.
+
+### License
+
+Licensed under Open Software License v3.0

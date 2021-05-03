@@ -2,7 +2,7 @@
   "name": "Lithic Spear",
   "type": "Polearm",
   "rarity": 4,
-  "baseAttack": "42",
+  "baseAttack": 42,
   "subStat": "Physical DMG Bonus",
   "passiveName": "Lithic Axiom - Subjugating Evil",
   "passiveDesc": "-",

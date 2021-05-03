@@ -1,0 +1,6 @@
+{
+  "name": "Grünlicher Schatten",
+  "max_rarity": 5,
+  "2-piece_bonus": "Erhöht den Anemo-Schaden um 15%.",
+  "4-piece_bonus": "Erhöht den mit Verwirbelungen verursachten Schaden um 60%. Verringert den dem jeweiligen Schaden entsprechenden WDS des betroffenen Gegners 10 Sekunden lang um 40%."
+}

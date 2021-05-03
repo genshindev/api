@@ -6,8 +6,21 @@ import Koa from 'koa';
 import koaBody from 'koa-body';
 import helmet from 'koa-helmet';
 import cors from '@koa/cors';
+import * as Sentry from '@sentry/node';
+import chalk from 'chalk';
 
 import router from './routes';
+
+const sentryDsn = process.env.SENTRY_DSN;
+
+// Check if Sentry
+if (sentryDsn && sentryDsn.length > 0) {
+  console.log(chalk.blue('[Sentry]'), 'Enabled Sentry error logging');
+  Sentry.init({
+    dsn: sentryDsn,
+    tracesSampleRate: 0.5,
+  });
+}
 
 (async () => {
   const app = new Koa();
@@ -20,6 +33,10 @@ import router from './routes';
   app.use(router.routes());
 
   app.listen(port, () => {
-    console.log(`API running on 0.0.0.0:${port}`);
+    console.log(
+      chalk.blue('[API]'),
+      'Running on',
+      chalk.yellow(`0.0.0.0:${port}`),
+    );
   });
 })();

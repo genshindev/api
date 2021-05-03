@@ -1,0 +1,6 @@
+{
+  "name": "Spendierlaune",
+  "max_rarity": 4,
+  "2-piece_bonus": "Erhöht die Aufladerate um 20%.",
+  "4-piece_bonus": "Stellt allen Truppenmitgliedern (außer sich selbst) bei Anwendung von Spezialfähigkeiten 6 Sekunden lang alle 2 Sekunden 2 Punkte Elementarenergie wieder her, nicht stapelbar."
+}

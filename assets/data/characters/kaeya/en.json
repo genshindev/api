@@ -1,10 +1,13 @@
 {
   "name": "Kaeya",
-  "description": "A thinker in the Knights of Favonius with a somewhat exotic appearance.",
-  "nation": "Mondstadt",
   "vision": "Cryo",
   "weapon": "Sword",
+  "nation": "Mondstadt",
+  "affiliation": "Knights of Favonius",
   "rarity": 4,
+  "constellation": "Pavo Ocellus",
+  "birthday": "0000-11-30",
+  "description": "A thinker in the Knights of Favonius with a somewhat exotic appearance.",
   "skillTalents": [
     {
       "name": "Ceremonial Bladework",
@@ -47,7 +50,8 @@
           "name": "Low / High Plunge DMG",
           "value": "128% / 160%"
         }
-      ]
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Frostgnaw",
@@ -62,7 +66,8 @@
           "name": "CD",
           "value": "6s"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Glacial Waltz",
@@ -85,19 +90,22 @@
           "name": "Energy Cost",
           "value": "60"
         }
-      ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [
     {
       "name": "Cold-Blooded Strike",
       "unlock": "Unlocked at Ascension 1",
-      "description": "Every hit with Frostgnaw regenerates HP for Kaeya equal to 15% of ATK."
+      "description": "Every hit with Frostgnaw regenerates HP for Kaeya equal to 15% of ATK.",
+      "level": 1
     },
     {
       "name": "Heart of the Abyss",
       "unlock": "Unlocked at Ascension 4",
-      "description": "Enemies Frozen by Frostgnaw will drop additional Elemental Particles.\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use."
+      "description": "Enemies Frozen by Frostgnaw will drop additional Elemental Particles.\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use.",
+      "level": 4
     },
     {
       "name": "Hidden Strength",
@@ -109,32 +117,40 @@
     {
       "name": "Excellent Blood",
       "unlock": "Constellation Lv. 1",
-      "description": "The CRIT Rate of Normal Attack and Charged Attack DMG against enemies affected by the Cold or Frozen status effects is increased by 15%."
+      "description": "The CRIT Rate of Normal Attack and Charged Attack DMG against enemies affected by the Cold or Frozen status effects is increased by 15%.",
+      "level": 1
     },
     {
       "name": "Never-Ending Performance",
       "unlock": "Constellation Lv. 2",
-      "description": "Every time Glacial Waltz defeats an enemy, its duration is increased by 2.5s, up to a maximum of 15s."
+      "description": "Every time Glacial Waltz defeats an enemy, its duration is increased by 2.5s, up to a maximum of 15s.",
+      "level": 2
     },
     {
       "name": "Dance of Frost",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Frostgnaw by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Frostgnaw by 3.\nMaximum upgrade level is 15.",
+      "level": 3
     },
     {
       "name": "Frozen Kiss",
       "unlock": "Constellation Lv. 4",
-      "description": "Triggers automatically when Kaeya's HP falls below 20%:\nCreates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s.\nThis shield absorbs Cryo DMG with 250% efficiency.\nCan only occur once every 60s."
+      "description": "Triggers automatically when Kaeya's HP falls below 20%:\nCreates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s.\nThis shield absorbs Cryo DMG with 250% efficiency.\nCan only occur once every 60s.",
+      "level": 4
     },
     {
       "name": "Frostbiting Embrace",
       "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Glacial Waltz by 3.\nMaximum upgrade level is 15."
+      "description": "Increase the Level of Glacial Waltz by 3.\nMaximum upgrade level is 15.",
+      "level": 5
     },
     {
       "name": "Glacial Whirlwind",
       "unlock": "Constellation Lv. 6",
-      "description": "Glacial Waltz will generate 1 additional icicle, and will regenerate 15 Energy when cast."
+      "description": "Glacial Waltz will generate 1 additional icicle, and will regenerate 15 Energy when cast.",
+      "level": 6
     }
-  ]
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "SWORD"
 }

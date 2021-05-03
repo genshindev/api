@@ -2,7 +2,7 @@
   "name": "White Tassel",
   "type": "Polearm",
   "rarity": 3,
-  "baseAttack": "39",
+  "baseAttack": 39,
   "subStat": "CRIT Rate",
   "passiveName": "Sharp",
   "passiveDesc": "Increases Normal Attack DMG by 24/30/36/42/48%.",

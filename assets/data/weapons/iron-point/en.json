@@ -2,7 +2,7 @@
   "name": "Iron Point",
   "type": "Polearm",
   "rarity": 2,
-  "baseAttack": "33",
+  "baseAttack": 33,
   "subStat": "-",
   "passiveName": "-",
   "passiveDesc": "-",

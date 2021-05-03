@@ -2,7 +2,7 @@
   "name": "Cool Steel",
   "type": "Sword",
   "rarity": 3,
-  "baseAttack": "39",
+  "baseAttack": 39,
   "subStat": "ATK",
   "passiveName": "Bane of Water and Ice",
   "passiveDesc": "Increases DMG against enemies affected by Hydro or Cryo by 12/15/18/21/24%.",

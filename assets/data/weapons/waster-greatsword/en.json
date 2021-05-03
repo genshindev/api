@@ -2,7 +2,7 @@
   "name": "Waster Greatsword",
   "type": "Claymore",
   "rarity": 1,
-  "baseAttack": "23",
+  "baseAttack": 23,
   "subStat": "-",
   "passiveName": "-",
   "passiveDesc": "-",
