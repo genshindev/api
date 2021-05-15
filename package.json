@@ -5,7 +5,7 @@
   "private": true,
   "main": "dist/index.js",
   "scripts": {
-    "start": "forever start .",
+    "start": "node .",
     "build": "tsc",
     "watch": "tsc -w",
     "dev": "nodemon",
