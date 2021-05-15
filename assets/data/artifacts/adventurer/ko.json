@@ -1,0 +1,6 @@
+{
+  "name": "모험가",
+  "max_rarity": 3,
+  "2-piece_bonus": "HP 최대치 +1000pt",
+  "4-piece_bonus": "각종 보물 상자를 오픈 후 5초 동안 30%의 HP를 지속해서 회복한다."
+}
