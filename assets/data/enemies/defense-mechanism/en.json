@@ -4,6 +4,8 @@
   "description": "N/A",
   "region": "Dragonspine",
 
+  "elements": ["Pyro", "Cryo", "Hydro", "Electro"],
+
   "type": "Unique Enemies",
   "family": "Unknown",
 

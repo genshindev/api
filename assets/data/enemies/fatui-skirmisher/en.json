@@ -8,6 +8,8 @@
   "family": "Fatui",
   "faction": "Fatui",
 
+  "elements": ["Geo", "Pyro", "Cyro", "Hydro", "Anemo", "Electro"],
+
   "drops": [
     {
       "name": "Recruit's Insignia",

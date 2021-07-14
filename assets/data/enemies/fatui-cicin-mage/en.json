@@ -8,6 +8,8 @@
   "family": "Fatui",
   "faction": "Fatui",
 
+  "element": ["Cyro", "Electro"],
+
   "drops": [
     {
       "name": "Mist Grass Pollen",

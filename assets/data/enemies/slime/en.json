@@ -7,6 +7,8 @@
   "type": "Common Enemies",
   "family": "Slime",
 
+  "elements": ["Anemo", "Geo", "Dendro", "Hydro", "Cydro"],
+
   "drops": [
     {
       "name": "Slime Condensate",
@@ -27,23 +29,23 @@
 
   "elemental-descriptions": [
     {
-      "element": "anemo",
+      "element": "Anemo",
       "description": "A wizened, mumbling hilichurl, one that spreads the message of Anemo. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. Their ability to command the flowing winds stems from dark, forgotten memories."
     },
     {
-      "element": "geo",
+      "element": "Geo",
       "description": "A wizened, mumbling hilichurl, one that listens to the strength of Geo. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. To the persevering mountains, these old hilichurls are but children, but their memories and experiences have guided them towards gaining power over rock and stone."
     },
     {
-      "element": "dendro",
+      "element": "Dendro",
       "description": "A wizened, mumbling hilichurl, one that awakens the might of Dendro. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. A grudge stirs beneath that mask, and poison ivy sprouts as hateful whispers issue forth from it."
     },
     {
-      "element": "hydro",
+      "element": "Hydro",
       "description": "A wizened, mumbling hilichurl, one that chants of the power of Hydro. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. What sort of life would lead to such simple creatures being able to summon water and rains?"
     },
     {
-      "element": "cryo",
+      "element": "Cryo",
       "description": "A wizened, mumbling hilichurl, one that calls upon the bite of Cryo. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. These shamans remember the frosty chants and are even more skilled in the art of using them to entrap their foes."
     }
   ]

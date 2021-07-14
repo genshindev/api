@@ -8,6 +8,8 @@
   "family": "Automatons",
   "faction": "Abyss Order",
 
+  "elements": ["Pyro"],
+
   "drops": [
     {
       "name": "Chaos Device",

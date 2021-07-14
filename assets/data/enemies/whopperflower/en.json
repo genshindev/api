@@ -7,6 +7,8 @@
   "type": "Common Enemies",
   "family": "Mystical Beasts",
 
+  "elements": ["Cyro", "Pyro"],
+
   "drops": [
     {
       "name": "Whopperflower Nectar",

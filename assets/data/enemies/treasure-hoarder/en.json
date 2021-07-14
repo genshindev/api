@@ -6,6 +6,8 @@
   "type": "Common Enemies",
   "family": "Treasure Hoarders",
 
+  "elements": ["Cryo", "Electro", "Hydro", "Pyro"],
+
   "drops": [
     {
       "name": "Treasure Hoarder Insignia",
