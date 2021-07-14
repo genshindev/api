@@ -48,7 +48,8 @@ export async function getEntity(
   id: string,
   lang: string = 'en',
 ): Promise<any> {
-  const found = await cache.get(`data-${type}-${id}-${lang}`);
+  const cacheId = `data-${type}-${id}-${lang}`;
+  const found = await cache.get(cacheId);
   if (found) return found;
 
   const filePath = path
@@ -71,7 +72,7 @@ export async function getEntity(
   const file = await fs.readFile(filePath);
   try {
     const entity = JSON.parse(file.toString('utf-8'));
-    await cache.set(`data-${type}-${id}-${lang}`, entity);
+    await cache.set(cacheId, entity);
     console.log(
       chalk.blue('[Cache-Data]'),
       chalk.green(`(${type})`),
@@ -93,7 +94,8 @@ export async function getAvailableImages(
   type: string,
   id: string,
 ): Promise<string[]> {
-  const found = await cache.get(`image-${type}-${id}`);
+  const cacheId = `image-${type}-${id}`;
+  const found = await cache.get(cacheId);
   if (found) return found;
 
   const filePath = path.join(imagesDirectory(type), id).normalize();
@@ -102,7 +104,7 @@ export async function getAvailableImages(
   }
 
   const images = await fs.readdir(filePath);
-  await cache.set(`image-${type}-${id}`, images);
+  await cache.set(cacheId, images);
   console.log(
     chalk.blue('[Cache-Image]'),
     chalk.green(`(${type})`),
