@@ -19,8 +19,8 @@
     }, 
     {
       "name": "Melt",
-      "elements": ["Cyro"],
-      "description": "When Pyro meets Cyro, Melt occurs. The effects of Cyro and Pyro will dissipate when Melt occurs."
+      "elements": ["Cryo"],
+      "description": "When Pyro meets Cryo, Melt occurs. The effects of Cryo and Pyro will dissipate when Melt occurs."
     }
   ]
 }
