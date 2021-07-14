@@ -8,6 +8,8 @@
   "family": "Fatui",
   "faction": "Fatui",
 
+  "elements": ["Pyro"],
+
   "drops": [
     {
       "name": "Hunter's Sacrificial Knife",
@@ -22,6 +24,21 @@
     {
       "name": "Inspector's Sacrificial Knife",
       "rarity": 4,
+      "minimum-level": 60
+    },
+    {
+      "name": "Recruit's Insignia",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Sergeant's Insignia",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Lieutenant's Insignia",
+      "rarity": 3,
       "minimum-level": 60
     }
   ],
