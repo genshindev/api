@@ -7,5 +7,7 @@
   "type": "Elite Enemies",
   "family": "Elemental Lifeforms",
 
+  "elements": ["Hydro", "Pyro", "Cryo"],
+
   "mora-gained": 0
 }

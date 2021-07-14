@@ -7,6 +7,8 @@
   "type": "Elite Enemies",
   "family": "Mythical Beasts",
 
+  "elements": ["Geo"],
+
   "drops": [
     {
       "name": "Fragile Bone Shard",
@@ -27,19 +29,23 @@
 
   "artifacts": [
     {
-      "name": "Berserker",
+      "name": "Blood-Soaked",
+      "set": "Berserker",
       "rarity": "3/4"
     },
     {
-      "name": "Instructor",
+      "name": "Instructor's Brooch",
+      "set": "Instructor",
       "rarity": "3/4"
     },
     {
-      "name": "The Exile",
+      "name": "Legacy",
+      "set": "The Exile",
       "rarity": "3/4"
     },
     {
-      "name": "Travelling Doctor",
+      "name": "Curative",
+      "set": "Traveling Doctor",
       "rarity": "3"
     }
   ]

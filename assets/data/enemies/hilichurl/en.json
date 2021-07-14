@@ -8,6 +8,8 @@
   "family": "Hilichurls",
   "faction": "Abyss Order",
 
+  "elements": ["Pyro", "Cyro", "Electro", "Dendro"],
+
   "drops": [
     {
       "name": "Damaged Mask",

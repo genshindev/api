@@ -8,5 +8,13 @@
   "type": "Elite Enemies",
   "family": "Unique Enemies",
 
-  "drops": "Chilled Meat"
+  "elements": [],
+
+  "drops": [
+    {
+      "name": "Chilled Meat",
+      "rarity": 1,
+      "minimum-level": 1
+    }
+  ]
 }
