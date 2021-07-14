@@ -1,4 +1,21 @@
 {
   "name": "Electro",
-  "key": "ELECTRO"
+  "key": "ELECTRO",
+  "reactions": [
+    {
+      "name": "Overloaded",
+      "elements": ["Pyro"],
+      "description": "When Electro meets Pyro, Overloaded occurs. The resulting explosion deals AoE Pyro DMG, and tears effortlessly through otherwise sturdy objects."
+    },
+    {
+      "name": "Electro-Charged",
+      "elements": ["Hydro"],
+      "description": "When Electro meets Hydro, Electro-Charged occurs. Electro-Charged continuously deals Electro DMG until it wears off.\nElectricity intermittently arcs off of Electro-Charged beings, shocking Hydro-affected opponents nearby."
+    },
+    {
+      "name": "Superconduct",
+      "elements": ["Cyro"],
+      "description": "When Electro meets Cyro, Superconduct occurs. Superconduct deals AoE Cyro DMG and significantly decreases Physical RES for the affected being."
+    }
+  ]
 }

@@ -1,4 +1,11 @@
 {
   "name": "Dendro",
-  "key": "DENDRO"
+  "key": "DENDRO",
+  "reactions": [
+    {
+      "name": "Burning",
+      "elements": ["Pyro"],
+      "description": "When Dendro meets Pyro, it triggers Burning, which continuously deals Pyro DMG until it wears off."
+    }
+  ]
 }

@@ -1,4 +1,11 @@
 {
   "name": "Geo",
-  "key": "GEO"
+  "key": "GEO",
+  "reactions": [
+    {
+      "name": "Crystallize",
+      "elements": ["Pyro", "Hydro", "Electro", "Cyro"],
+      "description": "When Geo comes into contact with Pyro/Hydro/Electro/Cyro elements, Crystalize will be triggered!"
+    }
+  ]
 }
