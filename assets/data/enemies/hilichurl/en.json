@@ -8,7 +8,7 @@
   "family": "Hilichurls",
   "faction": "Abyss Order",
 
-  "elements": ["Pyro", "Cyro", "Electro", "Dendro"],
+  "elements": ["Pyro", "Cryo", "Electro", "Dendro"],
 
   "drops": [
     {

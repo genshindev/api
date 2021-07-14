@@ -8,7 +8,7 @@
   "family": "Fatui",
   "faction": "Fatui",
 
-  "elements": ["Geo", "Pyro", "Cyro", "Hydro", "Anemo", "Electro"],
+  "elements": ["Geo", "Pyro", "Cryo", "Hydro", "Anemo", "Electro"],
 
   "drops": [
     {

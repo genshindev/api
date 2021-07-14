@@ -7,7 +7,7 @@
   "type": "Common Enemies",
   "family": "Mystical Beasts",
 
-  "elements": ["Cyro", "Pyro"],
+  "elements": ["Cryo", "Pyro"],
 
   "drops": [
     {

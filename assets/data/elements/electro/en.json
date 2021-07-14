@@ -14,8 +14,8 @@
     },
     {
       "name": "Superconduct",
-      "elements": ["Cyro"],
-      "description": "When Electro meets Cyro, Superconduct occurs. Superconduct deals AoE Cyro DMG and significantly decreases Physical RES for the affected being."
+      "elements": ["Cryo"],
+      "description": "When Electro meets Cryo, Superconduct occurs. Superconduct deals AoE Cryo DMG and significantly decreases Physical RES for the affected being."
     }
   ]
 }
