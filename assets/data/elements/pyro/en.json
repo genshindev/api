@@ -1,4 +1,26 @@
 {
   "name": "Pyro",
-  "key": "PYRO"
+  "key": "PYRO",
+  "reactions": [
+    {
+      "name": "Vaporize",
+      "elements": ["Hydro"],
+      "description": "When Pyro meets Hydro, Vaporize occurs. The effects of Pyro and Hydro will dissipate when Vaporize occurs.\nVaporize itself does not inflict DMG. However, the Pyro or Hydro attack that triggers Vaporize deals increased DMG."
+    },
+    {
+      "name": "Overloaded",
+      "elements": ["Electro"],
+      "description": "When Pyro meets Electro, Overloaded occurs. The resulting explosion deals AoE Pyro DMG, and tears effortlessly through otherwise sturdy objects."
+    },
+    {
+      "name": "Burning",
+      "elements": ["Dendro"],
+      "description": "When Pyro meets Dendro, it triggers Burning, which continuously deals Pyro DMG until it wears off."
+    }, 
+    {
+      "name": "Melt",
+      "elements": ["Cyro"],
+      "description": "When Pyro meets Cyro, Melt occurs. The effects of Cyro and Pyro will dissipate when Melt occurs."
+    }
+  ]
 }
