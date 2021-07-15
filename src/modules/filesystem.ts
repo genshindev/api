@@ -48,7 +48,7 @@ export async function getEntity(
   id: string,
   lang: string = 'en',
 ): Promise<any> {
-  const cacheId = `data-${type}-${id}-${lang}`;
+  const cacheId = `data-${type}-${id}-${lang}`.toLowerCase();
   const found = await cache.get(cacheId);
   if (found) return found;
 
@@ -94,7 +94,7 @@ export async function getAvailableImages(
   type: string,
   id: string,
 ): Promise<string[]> {
-  const cacheId = `image-${type}-${id}`;
+  const cacheId = `image-${type}-${id}`.toLowerCase();
   const found = await cache.get(cacheId);
   if (found) return found;
 
