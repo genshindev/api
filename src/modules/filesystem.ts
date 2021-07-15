@@ -27,7 +27,7 @@ export async function getTypes(): Promise<string[]> {
 export async function getAvailableEntities(
   type: string,
 ): Promise<string[] | null> {
-  const found = await cache.get(`data-${type}`);
+  const found = await cache.get(`data-${type}`.toLowerCase());
   if (found) return found;
 
   const exists = existsSync(dataDirectory(type));
