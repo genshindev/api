@@ -30,17 +30,7 @@
       "leyLineDisorder": "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-100% Reduce CD) until the inflicted Hydro element is removed."
     }
   ],
-  "recommendedElements": [
-    {
-      "element": "CRYO"
-    },
-    {
-      "element": "PYRO"
-    },
-    {
-      "element": "ELECTRO"
-    }
-  ],
+  "recommendedElements": ["Electro", "Cryo", "Pyro"],
   "rewards": [
     {
       "day": "mon",
