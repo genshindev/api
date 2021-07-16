@@ -1,1 +1,229 @@
-{}
+{
+  "name": "Domain of Guyun",
+  "type": "Blessing",
+  "description": "The Ley Line Monolith inside this ancient Ley Line Altar is coveted by the monsters crowding the altar.\nYou shall earn priceless Artifacts if you protect the Ley Line Monolith from the monsters with the power of Electro.",
+  "location": "Guyun Stone Forest, Sea of Clouds, Liyue",
+  "nation": "Liyue",
+  "requirements": [
+    {
+      "level": 1,
+      "adventureRank": 22,
+      "recommendedLevel": 34,
+      "leyLineDisorder": ["Electro-Charged DMG increased by 150%, and its AoE is increased by 100%."]
+    },
+    {
+      "level": 2,
+      "adventureRank": 25,
+      "recommendedLevel": 47,
+      "leyLineDisorder": ["When Overloaded is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents."]
+    },
+    {
+      "level": 3,
+      "adventureRank": 30,
+      "recommendedLevel": 59,
+      "leyLineDisorder": ["When Superconduct is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents."]
+    },
+    {
+      "level": 4,
+      "adventureRank": 35,
+      "recommendedLevel": 69,
+      "leyLineDisorder": ["Electro-Charged DMG increased by 150%, and its AoE is increased by 100%."]
+    },
+    {
+      "level": 5,
+      "adventureRank": 40,
+      "recommendedLevel": 80,
+      "leyLineDisorder": [
+        "When Overloaded is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents.",
+        "When Melt is triggered, you will be hit by a powerful blast, causing your character to take DMG.",
+        "When Vaporize is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+      ]
+    },
+    {
+      "level": 6,
+      "adventureRank": 45,
+      "recommendedLevel": 90,
+      "leyLineDisorder": [
+        "When Superconduct is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents.",
+        "When Melt is triggered, you will be hit by a powerful blast, causing your character to take DMG.",
+        "When Vaporize is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+      ]
+    }
+  ],
+  "recommendedElements": ["Electro"],
+  "rewards": [
+    {
+      "day": "always",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1525,
+          "drops": [
+            {
+              "name": "Lucky Dog",
+              "rarity": "2/3",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Heart of Bravery",
+              "rarity": 3,
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1700,
+          "drops": [
+            {
+              "name": "Lucky Dog",
+              "rarity": "2/3",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Heart of Bravery",
+              "rarity": 3,
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Lucky Dog",
+              "rarity": 3,
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Heart of Bravery",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Archaic Petra",
+              "rarity": 4,
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Retracing Bolide",
+              "rarity": 4,
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2025,
+          "items": [
+            {
+              "name": "Lucky Dog",
+              "rarity": 3,
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Heart of Bravery",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Archaic Petra",
+              "rarity": 4,
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Retracing Bolide",
+              "rarity": 4,
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Lucky Dog",
+              "rarity": 3,
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Heart of Bravery",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Archaic Petra",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Retracing Bolide",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Lucky Dog",
+              "rarity": 3,
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Heart of Bravery",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Archaic Petra",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Retracing Bolide",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
