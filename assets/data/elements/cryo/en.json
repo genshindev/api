@@ -1,4 +1,21 @@
 {
   "name": "Cryo",
-  "key": "CRYO"
+  "key": "CRYO",
+  "reactions": [
+    {
+      "name": "Melt",
+      "elements": ["Pyro"],
+      "description": "When Cryo meets Pyro, Melt occurs. The effects of Cryo and Pyro will dissipate when Melt occurs.\nMelt itself does not inflict DMG. However, the Pyro or Cryo attack that triggers Melt deals increased DMG."
+    }, 
+    {
+      "name": "Frozen",
+      "elements": ["Hydro"],
+      "description": "When Cryo meets Hydro, Frozen occurs. Frozen beings are rendered immobile, but also become rock-hard."
+    },
+    {
+      "name": "Superconduct",
+      "elements": ["Electro"],
+      "description": "When Cryo meets Electro, Superconduct occurs. Superconduct deals AoE Cryo DMG and significantly decreases Physical RES for the affected being."
+    }
+  ]
 }

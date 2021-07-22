@@ -1,0 +1,52 @@
+{
+  "id": "geovishap-hatchling",
+  "name": "Geovishap Hatchling",
+  "description": "A young vishap with a hard Geo exoskeleton. Vishaps are exceptionally agile creatures that one would be wise not to underestimate in battle. Experts from Sumeru Arcademia believe that they become dragons when fully grown. By avoiding predators and natural disasters, perhaps they can even live long enough to become formidable beasts that reign over entire mountains.",
+  "region": "Liyue",
+
+  "type": "Common Enemies",
+  "family": "Mythical Beasts",
+
+  "elements": ["Geo"],
+
+  "drops": [
+    {
+      "name": "Fragile Bone Shard",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Sturdy Bone Shard",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Fossilized Bone Shard",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "artifacts": [
+    {
+      "name": "Blood-Soaked",
+      "set": "Berserker",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Instructor's Brooch",
+      "set": "Instructor",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Legacy",
+      "set": "The Exile",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Curative",
+      "set": "Traveling Doctor",
+      "rarity": "3"
+    }
+  ]
+}

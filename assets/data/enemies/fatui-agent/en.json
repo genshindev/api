@@ -1,0 +1,47 @@
+{
+  "id": "fatui-agent",
+  "name": "Fatui Agent",
+  "description": "A Fatui secret agent. The duty of a Fatui agent is to settle debts — but not only those of a monetary or goods-in-kind nature. They also ensure dues are paid when it comes to the principle of \"an eye for an eye.\" If there is one thing the Fatui are not known for, it is leniency, and whoever dares to oppose them will invoke the full force of their wrath upon them.",
+  "region": "Liyue, Dragonspine",
+
+  "type": "Elite Enemies",
+  "family": "Fatui",
+  "faction": "Fatui",
+
+  "elements": ["Pyro"],
+
+  "drops": [
+    {
+      "name": "Hunter's Sacrificial Knife",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Agent's Sacrificial Knife",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Inspector's Sacrificial Knife",
+      "rarity": 4,
+      "minimum-level": 60
+    },
+    {
+      "name": "Recruit's Insignia",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Sergeant's Insignia",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Lieutenant's Insignia",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "mora-gained": 200
+}

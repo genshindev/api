@@ -1,0 +1,55 @@
+{
+  "id": "ruin-guard",
+  "name": "Ruin Guard",
+  "description": "Humanoid war machines armed with sharp appendages. They can also fire barrages of missiles.",
+  "region": "Global",
+
+  "type": "Elite Enemies",
+  "family": "Automatons",
+  "faction": "Abyss Order",
+
+  "elements": ["Pyro"],
+
+  "drops": [
+    {
+      "name": "Chaos Device",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Chaos Circuit",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Chaos Core",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "artifacts": [
+    {
+      "name": "Blood-Soaked",
+      "set": "Berserker",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Instructor's Brooch",
+      "set": "Instructor",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Legacy",
+      "set": "The Exile",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Curative",
+      "set": "Traveling Doctor",
+      "rarity": "3"
+    }
+  ],
+
+  "mora-gained": 200
+}

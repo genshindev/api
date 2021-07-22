@@ -1,0 +1,49 @@
+{
+  "id": "hilichurl-shooter",
+  "name": "Hilichurl Shooter",
+  "description": "",
+  "region": "Global",
+
+  "type": "Common Enemies",
+  "family": "Hilichurls",
+  "faction": "Abyss Order",
+
+  "elements": ["Electro", "Pyro", "Cryo"],
+
+  "drops": [
+    {
+      "name": "Firm Arrowhead",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Sharp Arrowhead",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Weathered Arrowhead",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "elemental-descriptions": [
+    {
+      "element": "Physical",
+      "description": "The primitive wandering inhabitants of Teyvat's wildernesses. Hilichurl archers who wield simple crossbows. Hilichurls do not, in truth, possess the craftsmanship needed to build crossbows. As such, it is commonly believed that there is an organization that controls the hilichurls from behind the scenes and furnishes them with equipment and material supplies. The Abyss Mages that often accompany these hilichurls are especially suspicious."
+    },
+    {
+      "element": "Electro",
+      "description": "The primitive wandering inhabitants of Teyvat's wildernesses. These archers wield simple crossbows, and their arrowheads are crafted from carved Electro Crystals that will deliver an electric shock upon impact. They say that hilichurl archers of exceptional skill can fire five crossbow bolts at once–a most impressive feat indeed."
+    },
+    {
+      "element": "Pyro",
+      "description": "The primitive wandering inhabitants of Teyvat's wildernesses. These archers wield simple crossbows, and their arrowheads are coated with a thin layer of flammable material that can set their targets on fire. El Musk of the previous generation believed that this is an innovation by brighter hilichurls who wished to cook their game after hunting it."
+    },
+    {
+      "element": "Cryo",
+      "description": "The primitive wandering inhabitants of Teyvat's wildernesses. These archers wield simple crossbows, and unmelting ice shrouds their arrowheads. It is said that wounds caused by these arrowheads heal very slowly, as the cold will slow the circulation of blood."
+    }
+  ]
+}

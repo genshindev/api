@@ -1,0 +1,53 @@
+{
+  "id": "mitachurl",
+  "name": "Mitacurl",
+  "description": "The most formidable warriors of the Hilichurl tribes. Fighting and eating meat are the two most important things to Hilichurls, because those are what make them grow stronger. All young Hilichurls dream of growing up to become a big and strong Mitachurl, because that way they can eat more meat, and fight more battles.",
+  "region": "Global",
+
+  "type": "Elite Enemies",
+  "family": "Hilichurls",
+  "faction": "Abyss Order",
+
+  "elements": ["Pyro"],
+
+  "drops": [
+    {
+      "name": "Heavy Horn",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Black Bronze Horn",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Black Crystal Horn",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "artifacts": [
+    {
+      "name": "Blood-Soaked",
+      "set": "Berserker",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Instructor's Brooch",
+      "set": "Instructor",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Legacy",
+      "set": "The Exile",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Curative",
+      "set": "Traveling Doctor",
+      "rarity": "3"
+    }
+  ]
+}

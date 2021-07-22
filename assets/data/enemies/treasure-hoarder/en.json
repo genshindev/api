@@ -1,0 +1,63 @@
+{
+  "id": "treasure-hoarder",
+  "name": "Treasure Hoarder",
+  "region": "Global",
+
+  "type": "Common Enemies",
+  "family": "Treasure Hoarders",
+
+  "elements": ["Cryo", "Electro", "Hydro", "Pyro"],
+
+  "drops": [
+    {
+      "name": "Treasure Hoarder Insignia",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Silver Raven Insignia",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Golden Raven Insignia",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Scouts",
+      "description": "Common Treasure Hoarders who prefer to throw knives at their targets but will deliver a swift roundhouse kick to anyone who gets too close. Right before they throw a knife, that knife will shine giving players a warning to dodge it."
+    },
+    {
+      "name": "Marksmen",
+      "description": "Standard ranged Treasure Hoarders who use crossbows. Being a pure long ranged fighter, they have no defense in melee range. They seem to be the quietest of the Hoarders, only blurting out words upon defeat."
+    },
+    {
+      "name": "Potioneers",
+      "description": "Treasure Hoarders who throw elemental potions that leave a puddle of a certain element on the ground. Judging from their quotes, they're possibly alchemists who perform illegal experiments, and treat the Traveler as a test subject. Like Scouts they will deliver a swift kick at close range."
+    },
+    {
+      "name": "Gravediggers",
+      "description": "Treasure Hoarders that wield shovels and will dig out soil as a ranged attack that will impair the target's sight upon impact. They are about the same height as Pugilists/Crushers but are burly in build."
+    },
+    {
+      "name": "Puglists",
+      "description": "Tall and muscular Treasure Hoarders that utilize punches in combat. They alternate between 2-slug combo, or a full combo consisting of 2-slug strikes followed by a lunging punch. They will also use the very same lunging punch at a distance."
+    },
+    {
+      "name": "Crushers",
+      "description": "Tall and muscular Treasure Hoarders who use hammers to fight their opponents, their swings are slow, but it deals large amount of damage if hit."
+    },
+    {
+      "name": "Handymen",
+      "description": "Tough and burly Treasure Hoarders who like Pugilists fight unarmed, but with kicks instead of punches. They alternate between a single or a 3-swing kick combo and utilize a dropkick at a distance."
+    },
+    {
+      "name": "Seamen",
+      "description": "Treasure Hoarders armed with oars and are of the same build as Gravediggers and Handymen. At close range, they swing as slowly as a Gravedigger knocking anyone down if hit, after attacking two times (or if they are at a distance), they will will swing their oars wildly at their opponents that can deal lots of damage if not dodged on time, however the resulting attack will leave them winded and leave them open to attack until they recover."
+    }
+  ]
+}

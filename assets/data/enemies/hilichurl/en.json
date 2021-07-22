@@ -1,0 +1,30 @@
+{
+  "id": "hilichurl",
+  "name": "Hilichurl",
+  "description": "The primitive wandering inhabitants of Teyvat's wildernesses. They look very similar to humanity but seem to have lost both their intellect and spirituality. Their presence on the continent has been recorded for over a thousand years, and yet they have neither history nor civilization. Since the pitch-black calamity from five hundred years ago, they have begun to spread in large numbers across the land. They are not very strong, and they lack organization, but they nonetheless bring sizable trouble to humans every once in a while.",
+  "region": "Global",
+
+  "type": "Common Enemies",
+  "family": "Hilichurls",
+  "faction": "Abyss Order",
+
+  "elements": ["Pyro", "Cryo", "Electro", "Dendro"],
+
+  "drops": [
+    {
+      "name": "Damaged Mask",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Stained Mask",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Ominous Mask",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ]
+}

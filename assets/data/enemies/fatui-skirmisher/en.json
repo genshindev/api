@@ -1,0 +1,74 @@
+{
+  "id": "fatui-skirmisher",
+  "name": "Fatui Skirmisher",
+  "description": "A soldier encased within a Fatui war machine. These skirmishers do not question if they shall live or die as they advance into nations far from home to complete advance missions and lay the groundwork for operations to come. Unlike the elite Mages and Agents, Fatui Skirmishers are soldiers of lesser individual might. To complete their tasks and reduce losses in men and materiel, their tactics are thus more reliant on teamwork.",
+  "region": "Global",
+
+  "type": "Common Enemies",
+  "family": "Fatui",
+  "faction": "Fatui",
+
+  "elements": ["Geo", "Pyro", "Cryo", "Hydro", "Anemo", "Electro"],
+
+  "drops": [
+    {
+      "name": "Recruit's Insignia",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Sergeant's Insignia",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Lieutenant's Insignia",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "hydrogunner-legionnaire": {
+    "id": "hydrogunner-legionnaire",
+    "name": "Hydrogrunner Legionnaire",
+    "type": "Legionnaire",
+    "element": "Hydro"
+  },
+
+  "cryogunner-legionnaire": {
+    "id": "cryogunner-legionnaire",
+    "name": "Cryogunner Legionnaire",
+    "type": "Legionnaire",
+    "element": "Cryo"
+  },
+
+  "geochanter-bracers": {
+    "id": "geochanter-bracers",
+    "name": "Geochanter Bracers",
+    "type": "Bracer",
+    "element": "Geo"
+  },
+
+  "pyroslinger-bracers": {
+    "id": "pyroslinger-bracers",
+    "name": "Pyroslinger Bracers",
+    "type": "Bracer",
+    "element": "Pyro"
+  },
+
+  "anemoboxer-vanguard": {
+    "id": "anemoboxer-vanguard",
+    "name": "Anemoboxer Vanguard",
+    "type": "Vanguard",
+    "element": "Anemo"
+  },
+
+  "electrohammer-vanguard": {
+    "id": "electrohammer-vanguard",
+    "name": "Electrohammer Vanguard",
+    "type": "Vanguard",
+    "element": "Electro"
+  },
+
+  "mora-gained": 50
+}

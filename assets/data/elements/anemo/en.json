@@ -1,4 +1,11 @@
 {
   "name": "Anemo",
-  "key": "ANEMO"
+  "key": "ANEMO",
+  "reactions": [
+    {
+      "name": "Swirl",
+      "elements": ["Pyro", "Hydro", "Electro", "Cryo"],
+      "description": "When Anemo meets certain other elements, it can trigger Swirl. Swirl can deal elemental DMG, affect beings, and generate further Elemental Reactions."
+    }
+  ]
 }
