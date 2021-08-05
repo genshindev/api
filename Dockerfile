@@ -13,4 +13,4 @@ COPY . .
 RUN npm run build
 
 EXPOSE ${PORT}
-CMD ["node", "dist"]
+CMD ["forever", "start", "dist"]
