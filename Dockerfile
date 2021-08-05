@@ -13,4 +13,4 @@ COPY . .
 RUN npm run build
 
 EXPOSE ${PORT}
-CMD ["forever", "start", "dist"]
+CMD ["npm", "run", "start"]
