@@ -1,4 +1,4 @@
-FROM node:14
+FROM node:12
 WORKDIR /usr/src/app
 
 ARG PORT=5000
