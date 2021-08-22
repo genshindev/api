@@ -1,0 +1,10 @@
+{
+  "name": "千岩長槍",
+  "type": "Polearm",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "攻撃力",
+  "passiveName": "千岩訣·同心",
+  "passiveDesc": "チームに璃月出身のキャラクターが1人いる毎に、この武器を装備したキャラクターの攻撃力+7%、会心率+3%。最大4重まで。",
+  "location": "祈願"
+}

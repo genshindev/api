@@ -1,0 +1,10 @@
+{
+  "name": "斬岩·試作",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "物理ダメージ",
+  "passiveName": "岩砕き",
+  "passiveDesc": "通常攻撃または重撃が命中すると、攻撃力と防御力+4%、継続時間6秒、最大4重まで。0.3秒毎に1回のみ発動可能。",
+  "location": "鍛造"
+}

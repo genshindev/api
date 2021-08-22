@@ -1,0 +1,10 @@
+{
+  "name": "狼の末路",
+  "type": "Claymore",
+  "rarity": 5,
+  "baseAttack": 46,
+  "subStat": "攻撃力",
+  "passiveName": "狼のような狩人",
+  "passiveDesc": "攻撃力+20%。HPが30%以下の敵に命中すると、チーム全員の攻撃力+40%、継続時間12秒。30秒に1回のみ発動可能。",
+  "location": "祈願"
+}

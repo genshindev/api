@@ -1,0 +1,10 @@
+{
+  "name": "澹月·試作",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "攻撃力",
+  "passiveName": "帰らない",
+  "passiveDesc": "重撃が弱点に命中した場合、移動速度+10%、攻撃力+36%、継続時間10秒。",
+  "location": "鍛造"
+}

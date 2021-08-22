@@ -1,0 +1,10 @@
+{
+  "name": "死闘の槍",
+  "type": "Polearm",
+  "rarity": 4,
+  "baseAttack": 41,
+  "subStat": "会心率",
+  "passiveName": "剣闘士",
+  "passiveDesc": "近くに敵が2人以上いる時、攻撃力+16%、防御力+16%。近くに敵が2人未満の時、攻撃力+24%。",
+  "location": "天空紀行"
+}
