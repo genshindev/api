@@ -1,0 +1,10 @@
+{
+  "name": "暗鉄剣",
+  "type": "Sword",
+  "rarity": 3,
+  "baseAttack": 39,
+  "subStat": "元素熟知",
+  "passiveName": "オーバーロード",
+  "passiveDesc": "過負荷、超電導、感電または雷元素拡散反応が発生した12秒間、攻撃力+20%。",
+  "location": "｢璃月港｣の快刀陳と会話"
+}

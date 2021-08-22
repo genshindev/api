@@ -1,0 +1,10 @@
+{
+  "name": "降臨の剣",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 39,
+  "subStat": "攻撃力",
+  "passiveName": "降世",
+  "passiveDesc": "\"PlayStation Network\"でプレイする時のみ有効。\\n通常攻撃と重撃が命中時50%の確率で攻撃力の200%の狭範囲ダメージを与える。10秒毎に1回のみ発動可能。旅人が降臨の剣を装備すると、さらに攻撃力+66。",
+  "location": "PS4版特典"
+}

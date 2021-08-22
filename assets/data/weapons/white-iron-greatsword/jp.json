@@ -1,0 +1,10 @@
+{
+  "name": "白鉄の大剣",
+  "type": "Claymore",
+  "rarity": 3,
+  "baseAttack": 39,
+  "subStat": "防御力",
+  "passiveName": "刈り取る",
+  "passiveDesc": "敵を倒したとき、HPを8%回復する。",
+  "location": "宝箱等"
+}

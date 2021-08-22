@@ -1,0 +1,10 @@
+{
+  "name": "飛天大御剣",
+  "type": "Claymore",
+  "rarity": 3,
+  "baseAttack": 39,
+  "subStat": "物理ダメージ",
+  "passiveName": "勇気",
+  "passiveDesc": "通常攻撃と重撃が命中すると、攻撃力+6%、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。",
+  "location": "宝箱等"
+}

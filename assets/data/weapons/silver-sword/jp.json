@@ -1,0 +1,10 @@
+{
+  "name": "銀の剣",
+  "type": "Sword",
+  "rarity": 2,
+  "baseAttack": 33,
+  "subStat": "-",
+  "passiveName": "-",
+  "passiveDesc": "-",
+  "location": "宝箱"
+}

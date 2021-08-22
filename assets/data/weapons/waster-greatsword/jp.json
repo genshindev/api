@@ -1,0 +1,10 @@
+{
+  "name": "訓練用大剣",
+  "type": "Claymore",
+  "rarity": 1,
+  "baseAttack": 23,
+  "subStat": "-",
+  "passiveName": "-",
+  "passiveDesc": "-",
+  "location": "宝箱"
+}

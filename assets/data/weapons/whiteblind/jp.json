@@ -1,0 +1,10 @@
+{
+  "name": "白影の剣",
+  "type": "Claymore",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "防御力",
+  "passiveName": "注入の刃",
+  "passiveDesc": "通常攻撃と重撃が命中すると、攻撃力と防御力+6%、継続時間6秒、最大4重まで。0.5秒毎に1回のみ発動可能。",
+  "location": "鍛造"
+}
