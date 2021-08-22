@@ -1,0 +1,6 @@
+{
+  "name": "冒険者",
+  "max_rarity": 3,
+  "2-piece_bonus": "HP上限+1000。",
+  "4-piece_bonus": "宝箱を開けた後5秒間、HPの30%を徐々に回復する。"
+}
