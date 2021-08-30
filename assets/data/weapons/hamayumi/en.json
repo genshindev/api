@@ -1,0 +1,10 @@
+{
+  "name": "Hamayumi",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 41,
+  "subStat": "ATK",
+  "passiveName": "Full Draw",
+  "passiveDesc": "Increases Normal Attack DMG by 16% and Charged Attack DMG by 12%. When the equipping character's Energy reaches 100%, this effect is increased by 100%.",
+  "location": "Crafting"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Dodoco Tales",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 41,
+  "subStat": "ATK",
+  "passiveName": "Dodoventure!",
+  "passiveDesc": "Normal Attack hits on opponents increase Charged Attack DMG by 16% for 6s. Charged Attack hits on opponents increase ATK by 8% for 6s.",
+  "location": "Event"
+}

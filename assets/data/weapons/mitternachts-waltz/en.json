@@ -1,0 +1,10 @@
+{
+  "name": "Mitternachts Waltz",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "Physical DMG Bonus",
+  "passiveName": "Evernight Duet",
+  "passiveDesc": "Normal Attack hits on opponents increase Elemental Skill DMG by 20% for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by 20% for 5s.",
+  "location": "Gacha"
+}
