@@ -1,0 +1,10 @@
+{
+  "name": "文使い",
+  "type": "Bow",
+  "rarity": 3,
+  "baseAttack": 40,
+  "subStat": "会心ダメージ",
+  "passiveName": "矢文",
+  "passiveDesc": "重撃が弱点に命中した場合、追加で攻撃力100%のダメージを与え、必ず会心ダメージとなる。10秒毎に1回のみ発動可能。",
+  "location": "宝箱"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "四風原典",
+  "type": "Catalyst",
+  "rarity": 5,
+  "baseAttack": 46,
+  "subStat": "会心率",
+  "passiveName": "果てしない恵み",
+  "passiveDesc": "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+8%、最大4重まで。キャラが退場または戦闘不能まで有効。",
+  "location": "祈願"
+}

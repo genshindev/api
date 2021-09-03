@@ -1,0 +1,10 @@
+{
+  "name": "黒岩の緋玉",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "会心ダメージ",
+  "passiveName": "勝ちに乗じる",
+  "passiveDesc": "敵を倒した後、攻撃力+12%、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。",
+  "location": "スターライト交換"
+}

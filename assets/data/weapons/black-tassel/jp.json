@@ -1,0 +1,10 @@
+{
+  "name": "黒纓槍",
+  "type": "Polearm",
+  "rarity": 3,
+  "baseAttack": 38,
+  "subStat": "HP",
+  "passiveName": "スライム殺し",
+  "passiveDesc": "スライムタイプの敵に対するダメージ+40%。",
+  "location": "祈願"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "黎明の神剣",
+  "type": "Sword",
+  "rarity": 3,
+  "baseAttack": 39,
+  "subStat": "会心ダメージ",
+  "passiveName": "奮い立てる",
+  "passiveDesc": "HPが90%以上の時、会心率+14%。",
+  "location": "祈願"
+}

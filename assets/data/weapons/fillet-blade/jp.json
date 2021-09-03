@@ -1,0 +1,10 @@
+{
+  "name": "チ虎魚の刀",
+  "type": "Sword",
+  "rarity": 3,
+  "baseAttack": 39,
+  "subStat": "攻撃力",
+  "passiveName": "切り捨て",
+  "passiveDesc": "攻撃が命中すると、50%の確率で1体の敵に攻撃力の240%のダメージを与える。15秒毎に1回のみ発動可能。",
+  "location": "宝箱等"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "黒剣",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "会心率",
+  "passiveName": "正義",
+  "passiveDesc": "通常攻撃と重撃ダメージ+20%。さらに通常攻撃と重撃が会心時、攻撃力の60%分のHPを回復する。5秒に1回のみ発動可能。",
+  "location": "天空紀行"
+}

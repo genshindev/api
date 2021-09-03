@@ -1,0 +1,10 @@
+{
+  "name": "祭礼の大剣",
+  "type": "Claymore",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "元素チャージ効率",
+  "passiveName": "落ち着き",
+  "passiveDesc": "元素スキルが敵にダメージを与えた時、40%の確率で該当スキルのクールタイムをリセットする。30秒毎に1回のみ発動可能。",
+  "location": "祈願"
+}
