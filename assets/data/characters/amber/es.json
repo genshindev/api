@@ -1,0 +1,90 @@
+{
+    "name": "",
+    "vision": "",
+    "weapon": "",
+    "nation": "",
+    "affiliation": "",
+    "rarity": 4,
+    "constellation": "",
+    "birthday": "",
+    "description": "",
+    "skillTalents": [
+      {
+        "name": "",
+        "unlock": "Normal Attack",
+        "description": "",
+        "type": "NORMAL_ATTACK"
+      },
+      {
+        "name": "",
+        "unlock": "Elemental Skill",
+        "description": "",
+        "type": "ELEMENTAL_SKILL"
+      },
+      {
+        "name": "",
+        "unlock": "Elemental Burst",
+        "description": "",
+        "type": "ELEMENTAL_BURST"
+      }
+    ],
+    "passiveTalents": [
+      {
+        "name": "",
+        "unlock": "Unlocked at Ascension 1",
+        "description": "",
+        "level": 1
+      },
+      {
+        "name": "",
+        "unlock": "Unlocked at Ascension 4",
+        "description": "",
+        "level": 4
+      },
+      {
+        "name": "",
+        "unlock": "Unlocked Automatically",
+        "description": ""
+      }
+    ],
+    "constellations": [
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 1",
+        "description": "",
+        "level": 1
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 2",
+        "description": "",
+        "level": 2
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 3",
+        "description": "",
+        "level": 3
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 4",
+        "description": "",
+        "level": 4
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 5",
+        "description": "",
+        "level": 5
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 6",
+        "description": "",
+        "level": 6
+      }
+    ],
+    "vision_key": "GEO",
+    "weapon_type": "SWORD"
+}
