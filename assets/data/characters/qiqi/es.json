@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Qiqi",
+    "vision": "Cryo",
+    "weapon": "Espada Ligera",
+    "nation": "Liyue",
+    "affiliation": "Farmacia Bubu",
+    "rarity": 5,
+    "constellation": "Pristina Nola",
     "birthday": "",
-    "description": "",
+    "description": "Una aprendiz y recolectora de hierbas en la Farmacia Bubu. Una zombi con una tez blanca como el hueso, de pocas palabras y emociones.",
     "skillTalents": [
       {
         "name": "",

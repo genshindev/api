@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Bennet",
+    "vision": "Pyro",
+    "weapon": "Espada Ligera",
+    "nation": "Mondstadt",
+    "affiliation": "Gremio de Aventureros",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Rota Calamitas",
     "birthday": "",
-    "description": "",
+    "description": "El chico aventurero de Mondstadt. Su naturaleza amable no va acorde con su mala suerte.",
     "skillTalents": [
       {
         "name": "",

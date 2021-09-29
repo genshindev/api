@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Kaeya",
+    "vision": "Cryo",
+    "weapon": "Espada Ligera",
+    "nation": "Mondstadt",
+    "affiliation": "Caballeros de Favonius",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Pavo Ocellus",
     "birthday": "",
-    "description": "",
+    "description": "El gran estratega de los Caballeros de Favonius. Se rumorea que procede de un lugar fuera de Mondstadt",
     "skillTalents": [
       {
         "name": "",

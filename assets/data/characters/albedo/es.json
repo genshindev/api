@@ -1,18 +1,18 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
-    "birthday": "",
-    "description": "",
+    "name": "Albedo",
+    "vision": "Geo",
+    "weapon": "Espada Ligera",
+    "nation": "Mondstadt",
+    "affiliation": "Caballeros de Favonius",
+    "rarity": 5,
+    "constellation": "Princeps Cretaceus",
+    "birthday": "0000-09-13",
+    "description": "Alquimista en Jefe de los Caballeros de Favonius y Capitán del equipo de investigacion. Lo llaman el \"Príncipe de la Roca Caliza\"",
     "skillTalents": [
       {
-        "name": "",
+        "name": "Técnica de espada de favonius - Albor",
         "unlock": "Normal Attack",
-        "description": "",
+        "description": "Ataque Normal\nRealiza hasta 5 ataques rápidos\nAtaque Cargado\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado\nAtaque Descendente",
         "type": "NORMAL_ATTACK"
       },
       {

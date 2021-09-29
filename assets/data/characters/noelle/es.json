@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Noelle",
+    "vision": "Geo",
+    "weapon": "Mandoble",
+    "nation": "Monstadt",
+    "affiliation": "Caballeros de Favonius",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Parma Cordis",
     "birthday": "",
-    "description": "",
+    "description": "La criada de confianza de los Caballeros de Favonius. Sueña con convertirse algún día en una de ellos.",
     "skillTalents": [
       {
         "name": "",

@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Chongyun",
+    "vision": "Cryo",
+    "weapon": "Mandoble",
+    "nation": "Liyue",
+    "affiliation": "Liyue",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Nubis Caesor",
     "birthday": "",
-    "description": "",
+    "description": "Un joven exorcista procedente de una familia de exorcistas. Hace todo lo que puede para reprimir su propio poder, la \"positividad congénita\".",
     "skillTalents": [
       {
         "name": "",

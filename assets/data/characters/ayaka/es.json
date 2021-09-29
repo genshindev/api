@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Kamisato Ayaka",
+    "vision": "Cryo",
+    "weapon": "Espada Ligera",
+    "nation": "Inazuma",
+    "affiliation": "Comisión Yashiro",
+    "rarity": 5,
+    "constellation": "Grus Nivis",
     "birthday": "",
-    "description": "",
+    "description": "La hija del clan Kamisato, perteneciente a la Comisión Yashiro de Inazuma. Una persona solemne, refinada, inteligente y tenaz.",
     "skillTalents": [
       {
         "name": "",

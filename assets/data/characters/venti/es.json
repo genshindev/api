@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Venti",
+    "vision": "Anemo",
+    "weapon": "Arco",
+    "nation": "Mondstadt",
+    "affiliation": "Mondstadt",
+    "rarity": 5,
+    "constellation": "Carmen Dei",
     "birthday": "",
-    "description": "",
+    "description": "Uno de los muchos bardos de Mondstadt que deambula libremente por las calles y callejones de la ciudad",
     "skillTalents": [
       {
         "name": "",

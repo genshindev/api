@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Amber",
+    "vision": "Pyro",
+    "weapon": "Arco",
+    "nation": "Mondstadt",
+    "affiliation": "Caballeros de Favonius",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Lepus Minor",
     "birthday": "",
-    "description": "",
+    "description": "Siempre enérgica y llena de vida, Amber es la mejor Exploradora de los caballeros de Favonius, aunque también es la única",
     "skillTalents": [
       {
         "name": "",

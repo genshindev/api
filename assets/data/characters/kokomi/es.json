@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Sangonomiya Kokomi",
+    "vision": "Hydro",
+    "weapon": "Catalizador",
+    "nation": "Inazuma",
+    "affiliation": "Isla Watatsumi",
+    "rarity": 5,
+    "constellation": "Dracaena Somnolenta",
     "birthday": "",
-    "description": "",
+    "description": "La Sacerdotisa Divina y quien controla todos los asuntos de la Isla Watatsumi",
     "skillTalents": [
       {
         "name": "",

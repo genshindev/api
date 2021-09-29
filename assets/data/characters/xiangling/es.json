@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Xiangling",
+    "vision": "Pyro",
+    "weapon": "Lanza",
+    "nation": "Liyue",
+    "affiliation": "Restaurante Wanmin",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Trullae",
     "birthday": "",
-    "description": "",
+    "description": "Una reconocida chef de Liyue. Siente una gran pasión por la cocina y sus platos picantes son de una excelente calidad.",
     "skillTalents": [
       {
         "name": "",

@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Sacarosa",
+    "vision": "Anemo",
+    "weapon": "Catalizador",
+    "nation": "Mondstadt",
+    "affiliation": "Caballeros de Favonius",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Ampulla",
     "birthday": "",
-    "description": "",
+    "description": "Una alquimista e investigadora de la escuela de bioalquimia que siente curiosidad por todo.",
     "skillTalents": [
       {
         "name": "",

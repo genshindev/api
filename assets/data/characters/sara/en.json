@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Kujou Sara",
+    "vision": "Electro",
+    "weapon": "Bow",
+    "nation": "Inazumna",
+    "affiliation": "Tenryou Commission",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Flabellum",
     "birthday": "",
-    "description": "",
+    "description": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
     "skillTalents": [
       {
         "name": "",

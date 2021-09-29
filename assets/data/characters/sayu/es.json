@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Sayu",
+    "vision": "Anemo",
+    "weapon": "Mandoble",
+    "nation": "Inazuma",
+    "affiliation": "Los Ocelos",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Nyctereutes Minor",
     "birthday": "",
-    "description": "",
+    "description": "Una ninja pertenciente a Los Ocelos. Muy bajita y siempre con aspecto de no haber dormido lo suficiente.",
     "skillTalents": [
       {
         "name": "",

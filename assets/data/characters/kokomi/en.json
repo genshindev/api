@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Sangonomiya Kokomi",
+    "vision": "Hydro",
+    "weapon": "Catalyst",
+    "nation": "Inazuma",
+    "affiliation": "Watasumi Island",
+    "rarity": 5,
+    "constellation": "Dracaena Somnolenta",
     "birthday": "",
-    "description": "",
+    "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
     "skillTalents": [
       {
         "name": "",

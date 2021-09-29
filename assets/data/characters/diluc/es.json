@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Diluc",
+    "vision": "Pyro",
+    "weapon": "Mandoble",
+    "nation": "Mondstadt",
+    "affiliation": "Viñedo del amanecer",
+    "rarity": 5,
+    "constellation": "Noctua",
     "birthday": "",
-    "description": "",
+    "description": "El magnate del imperio vinícola de Mondstadt, inigualable en todos los sentidos.",
     "skillTalents": [
       {
         "name": "",

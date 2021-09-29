@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Aloy",
+    "vision": "Cryo",
+    "weapon": "Arco",
+    "nation": "Desconocido",
+    "affiliation": "Rebelde",
+    "rarity": 5,
+    "constellation": "Nora Fortis",
     "birthday": "",
     "description": "",
     "skillTalents": [

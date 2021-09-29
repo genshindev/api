@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Yoimiya",
+    "vision": "Pyro",
+    "weapon": "Arco",
+    "nation": "Inazuma",
+    "affiliation": "Pirotecnia Naganohara",
+    "rarity": 5,
+    "constellation": "Carassius Auratus",
     "birthday": "",
-    "description": "",
+    "description": "La dueña de la tiende de Pirotecnia Naganohara y Reina del Festival de Verano. Deposita los deseos de la gente en sus artesanales fuegos artificiales.",
     "skillTalents": [
       {
         "name": "",
