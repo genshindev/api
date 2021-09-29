@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Razor",
+    "vision": "Electro",
+    "weapon": "Mandoble",
+    "nation": "Mondstadt",
+    "affiliation": "Reino de Lobos",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Lupus Minor",
     "birthday": "",
-    "description": "",
+    "description": "Un niño que vive entre los lobos en el Reino de Lobos de Mondstadt, lejos de la civilización. Es ágil como un relámpago.",
     "skillTalents": [
       {
         "name": "",

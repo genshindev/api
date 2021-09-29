@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Zhongli",
+    "vision": "Geo",
+    "weapon": "Lanza",
+    "nation": "Liyue",
+    "affiliation": "Liyue",
+    "rarity": 5,
+    "constellation": "Lapis Dei",
     "birthday": "",
-    "description": "",
+    "description": "Misterioso invitado de la Funeraria El Camino. Erudito y con información sobre todo tipo de cosas.",
     "skillTalents": [
       {
         "name": "",

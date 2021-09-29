@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Mona",
+    "vision": "Hydro",
+    "weapon": "Catalizador",
+    "nation": "Monstadt",
+    "affiliation": "Monstadt",
+    "rarity": 5,
+    "constellation": "Astrolabos",
     "birthday": "",
-    "description": "",
+    "description": "Una misteriosa y joven astróloga que se hace llamar \"Astróloga Mona Megistus\". Está convencida de que posee las habilidades para estar a la altura del título. Erudita y orgullosa.",
     "skillTalents": [
       {
         "name": "",

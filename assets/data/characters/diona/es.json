@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Diona",
+    "vision": "Cryo",
+    "weapon": "Arco",
+    "nation": "Mondstadt",
+    "affiliation": "Taberna Cola de Gato",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Feles",
     "birthday": "",
-    "description": "",
+    "description": "Una joven cuya sangre no es humana por completo. Es la popular cantinera de la Taberna Cola de Gato.",
     "skillTalents": [
       {
         "name": "",

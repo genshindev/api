@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Klee",
+    "vision": "Pyro",
+    "weapon": "Catalizador",
+    "nation": "Mondstadt",
+    "affiliation": "Caballeros de Favonius",
+    "rarity": 5,
+    "constellation": "Trifolium",
     "birthday": "",
-    "description": "",
+    "description": "Una visitante frecuente de los calabozos de los Caballeros de Favonius, la maestra de explosiones de Mondstadt. La llaman \"el Sol Fugitivo\".",
     "skillTalents": [
       {
         "name": "",

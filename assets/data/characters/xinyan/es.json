@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Xinyan",
+    "vision": "Pyro",
+    "weapon": "Mandoble",
+    "nation": "Liyue",
+    "affiliation": "Liyue",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Fila Ignium",
     "birthday": "",
-    "description": "",
+    "description": "La única rockera de Liyue. A través de la música y la pasión de sus canciones, hace una crítica de los prejuecios de la sociedad.",
     "skillTalents": [
       {
         "name": "",

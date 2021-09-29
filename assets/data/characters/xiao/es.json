@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Xiao",
+    "vision": "Anemo",
+    "weapon": "Lanza",
+    "nation": "Liyue",
+    "affiliation": "Adeptus de Liyue",
+    "rarity": 5,
+    "constellation": "Alatus Nemeseos",
     "birthday": "",
-    "description": "",
+    "description": "Un Yaksha y Adeptus que protege Liyue. También llamado el \"Gran Cazador de Demonios\" o \"Guardián Yaksha\".",
     "skillTalents": [
       {
         "name": "",

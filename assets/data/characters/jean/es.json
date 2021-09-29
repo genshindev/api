@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Jean",
+    "vision": "Anemo",
+    "weapon": "Espada Ligera",
+    "nation": "Mondstadt",
+    "affiliation": "Caballeros de Favonius",
+    "rarity": 5,
+    "constellation": "Leo Menor",
     "birthday": "",
-    "description": "",
+    "description": "La justa y rigurosa Caballera de Dandelion, y Gran Maestra Intendendte de los Caballeros de Favonius de Mondstadt",
     "skillTalents": [
       {
         "name": "",

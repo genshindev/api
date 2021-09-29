@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Hu Tao",
+    "vision": "Pyro",
+    "weapon": "Lanza",
+    "nation": "Liyue",
+    "affiliation": "Funeraria El Camino",
+    "rarity": 5,
+    "constellation": "Papilio Charontis",
     "birthday": "",
-    "description": "",
+    "description": "77.ᵃ directora de la Funeraria El Camino. Pese a su corta edad, ya es la principal encargada de todos los asuntos funerarios de Liyue.",
     "skillTalents": [
       {
         "name": "",

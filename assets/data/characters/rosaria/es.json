@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Rosaria",
+    "vision": "Cryo",
+    "weapon": "Lanza",
+    "nation": "Mondstadt",
+    "affiliation": "Iglesia de Favonius",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Spinea Corona",
     "birthday": "",
-    "description": "",
+    "description": "Una monja que, aparte de por su ropa, nadie diría que pertenece al clero, Su frialdad hacia todo la hace extremadamente incisiva y siempre actúa en solitario.",
     "skillTalents": [
       {
         "name": "",

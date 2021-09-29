@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Xingchiu",
+    "vision": "Hydro",
+    "weapon": "Espada Ligera",
+    "nation": "Liyue",
+    "affiliation": "Gremio de Comerciantes de Feiyun",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Fabulae Textile",
     "birthday": "",
-    "description": "",
+    "description": "Un joven con una espada larga al que puede verse frecuentemente en las librerías. Tiene un corazón de oro y anhela la justicia y la igualdad para todos.",
     "skillTalents": [
       {
         "name": "",

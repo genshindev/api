@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Yoimiya",
+    "vision": "Pyro",
+    "weapon": "Bow",
+    "nation": "Inazuma",
+    "affiliation": "Naganohara Fireworks",
+    "rarity": 5,
+    "constellation": "Carassius Auratus",
     "birthday": "",
-    "description": "",
+    "description": "Owner of Naganohara Fireworks. Known as the \"Queen of the Summer Festival,\" she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
     "skillTalents": [
       {
         "name": "",

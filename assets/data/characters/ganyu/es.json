@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Ganyu",
+    "vision": "Cryo",
+    "weapon": "Arco",
+    "nation": "Liyue",
+    "affiliation": "Pabellón Yuehai",
+    "rarity": 5,
+    "constellation": "Sinae Unicornis",
     "birthday": "",
-    "description": "",
+    "description": "La secretaria del Pabellón Yuehai. La sangre de las bestias iluminadas Chilin fluye por sus venas",
     "skillTalents": [
       {
         "name": "",

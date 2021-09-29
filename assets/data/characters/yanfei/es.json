@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Yanfei",
+    "vision": "Pyro",
+    "weapon": "Catalizador",
+    "nation": "Liyue",
+    "affiliation": "Liyue",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Bestia Iustitia",
     "birthday": "",
-    "description": "",
+    "description": "Una reconocida asesora legal que vive en Liyue. Esta joven tan perspicaz tiene parte de sangre de bestia iluminada.",
     "skillTalents": [
       {
         "name": "",

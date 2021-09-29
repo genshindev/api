@@ -1,13 +1,10 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
-    "birthday": "",
-    "description": "",
+    "name": "Traveler",
+    "vision": "Anemo",
+    "weapon": "Espada Ligera",
+    "rarity": 5,
+    "constellation": "Viator",
+    "description": "Un viajero de otro mundo al que le arrebataron su única familia, y que se vio obligado a embarcarse en un viaje en busca de Los Siete.",
     "skillTalents": [
       {
         "name": "",

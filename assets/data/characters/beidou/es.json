@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
+    "name": "Beidou",
+    "vision": "Electro",
+    "weapon": "Mandoble",
     "nation": "",
-    "affiliation": "",
+    "affiliation": "Flota Crux Meridianam",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Victor Mare",
     "birthday": "",
-    "description": "",
+    "description": "Líder de la Flota Crux Meridianam. Es una jefa bastante desenfadada y franca.",
     "skillTalents": [
       {
         "name": "",

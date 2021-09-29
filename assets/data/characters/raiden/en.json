@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Raiden Shogun",
+    "vision": "Electro",
+    "weapon": "Polearm",
+    "nation": "Inazuma",
+    "affiliation": "Inazuma City",
+    "rarity": 5,
+    "constellation": "Imperatrix Umbrosa",
     "birthday": "",
-    "description": "",
+    "description": "Her Excellency, the Almighty, Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
     "skillTalents": [
       {
         "name": "",

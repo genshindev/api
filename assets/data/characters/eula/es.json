@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
-    "rarity": 4,
-    "constellation": "",
+    "name": "Eula",
+    "vision": "Cryo",
+    "weapon": "Mandoble",
+    "nation": "Mondstadt",
+    "affiliation": "Caballeros de Favonius",
+    "rarity": 5,
+    "constellation": "Aphros Delos",
     "birthday": "",
-    "description": "",
+    "description": "La Caballera de la Marea, procedente de una familia con un gran linaje y Capitana del Equipo de Reconocimiento de los Caballeros de Favonius. Aunque es descendiente de la antigua aristocracia, se unió a los Caballeros de Favonius, sus archienemigos, algo que sigue siendo un gran enigma para todo Mondstadt hasta el día de hoy.",
     "skillTalents": [
       {
         "name": "",

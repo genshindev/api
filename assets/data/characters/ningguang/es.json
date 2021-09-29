@@ -1,13 +1,13 @@
 {
-    "name": "",
-    "vision": "",
-    "weapon": "",
-    "nation": "",
-    "affiliation": "",
+    "name": "Ninguang",
+    "vision": "Geo",
+    "weapon": "Catalizador",
+    "nation": "Liyue",
+    "affiliation": "Siete Estrellas de Liyue",
     "rarity": 4,
-    "constellation": "",
+    "constellation": "Opus Aequilibrium",
     "birthday": "",
-    "description": "",
+    "description": "Ninguang, conocida como el \"Equilibrio Celestial\", es miembro de las \"Siete Estrellas de Liyue\". Su riqueza es insuperable en todo Teyvat.",
     "skillTalents": [
       {
         "name": "",
