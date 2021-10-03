@@ -1,0 +1,82 @@
+{
+  "name": "Traveler",
+  "vision": "Anemo",
+  "weapon": "Espada Ligera",
+  "rarity": 5,
+  "constellation": "Viator",
+  "description": "Un viajero de otro mundo al que le arrebataron su única familia, y que se vio obligado a embarcarse en un viaje en busca de Los Siete.",
+  "skillTalents": [
+    {
+      "name": "Espada de piedra extranjera",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 5 ataques rápidos.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\nAtaque descendiente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Espada estrellacaída",
+      "unlock": "Habilidad Elemental",
+      "description": "Toma un meteorito de las profundidades de la tierra, infligiendo Daño Geo de Área.\nEl meteorito es considerado un objeto Geo, puede ser escalado o usado para bloquear ataques.\nMantener pulsado: Puede ajustar la posición de efecto de esta habilidad.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Despertar de la Tierra",
+      "unlock": "Habilidad Definitiva",
+      "description": "Crea una onda expansiva Geo que nace de las profundidades de la tierra. Inflige Daño Geo de Área a todos los enemigos a los que alcanza. Tras ello, crea una columna de piedra que se levanta abruptamente en el límite de la onda. La columna de piedra se considera un objeto Geo, por lo que puede escalarse o usarse para bloquear ataques.\nMantener pulsado: Puede ajustar la posición de efecto de esta habilidad.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Roca quebrada",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Disminuye el TdE de Espada estrellacaída -2 s.",
+      "level": 1
+    },
+    {
+      "name": "Roca turbulenta",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "El último golpe del Ataque Normal provoca una destrucción, infligiendo un 60% de Daño Geo a los enemigos dentro del área.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Muro inquebrantable",
+      "unlock": "Constelación Nivel 1",
+      "description": "Aumenta la Prob. CRIT de todos los aliados dentro del radio de Despertar de la Tierra en 10%, y aumenta su RES a interrupción.",
+      "level": 1
+    },
+    {
+      "name": "Fusión de lava",
+      "unlock": "Constelación Nivel 2",
+      "description": "El meteorito de Espada estrellacaída explota de nuevo cuando es destruido, causando Daño Geo de Área adicional equivalente al daño de Espada estrellacaída.",
+      "level": 2
+    },
+    {
+      "name": "Voluntad pétrea",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Despertar de la Tierra +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Fuerza de reacción",
+      "unlock": "Constelación Nivel 4",
+      "description": "Al golpear al enemigo con una onda expansiva de Despertar de la Tierra, recuperas 5 de Energía. Puedes recuperar hasta 25 puntos de energía de esta forma.",
+      "level": 4
+    },
+    {
+      "name": "Impacto meteórico",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Espada estrellacaída +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Bloque eterno",
+      "unlock": "Constelación Nivel 6",
+      "description": "Extiende la duración del muro de piedra de Despertar de la Tierra en 5s.\nExtiende la duración del meteorito de Espada estrellacaída en 10 s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "SWORD"
+}

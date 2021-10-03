@@ -1,0 +1,82 @@
+{
+  "name": "Traveler",
+  "vision": "Anemo",
+  "weapon": "Espada Ligera",
+  "rarity": 5,
+  "constellation": "Viator",
+  "description": "Un viajero de otro mundo al que le arrebataron su única familia, y que se vio obligado a embarcarse en un viaje en busca de Los Siete.",
+  "skillTalents": [
+    {
+      "name": "Relámpago extranjero",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 5 ataques rápidos.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\nAtaque descendiente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Espada electrosombría",
+      "unlock": "Habilidad Elemental",
+      "description": "Libera tres rápidos relámpagos sombríos, los cuales infligen Daño Electro contra los enemigos y, al golpearlos, colocan un abalorio de la profusión. Originalmente solo se pueden crear un máximo de 2 abalorios de la profusión. Al usar esta habilidad se reiniciarán todos los abalorios ya creados.\n\nAbalorio de la profusión: Cuando un personaje esté cerca de un abalorio de la profusión, lo absorberá y obtendrá los siguientes efectos:\nRecuperará Energía Elemental.\nAumentará la Recarga de Energía.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Estallido atronador",
+      "unlock": "Habilidad Definitiva",
+      "description": "Invocas el velo del relámpago para empujar e infligir Daño Electro a los enemigos a tu alrededor.\nVelo del relámpago: Cuando tu personaje en uso golpea a un enemigo con sus Ataques Normales o Cargados, caerá un rayo temible que inflige Daño Electro.\nAl golpear al enemigo, el rayo hará que dicho personaje recupere Energía Elemental.\nSolo puede caer un rayo temible cada 0.5 s.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Trueno centelleante",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Cuando otro personaje cercano del equipo absorbe un abalorio de la profusión creado mediante Espada electrosombría, el TdE de esta habilidad se reduce en 1.5 s.",
+      "level": 1
+    },
+    {
+      "name": "Relámpago resonante",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Aumenta la Energía recargada por el abalorio de la profusión creado mediante Espada electrosombría en una cantidad proporcional al 10% de la Recarga de Energía del viajero.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Trueno de la cosecha primaveral",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Aumenta a 3 la cantidad de abalorios de la profusión que se pueden crear mediante Espada electrosombría.",
+      "level": 1
+    },
+    {
+      "name": "Rayo vehemente",
+      "unlock": "Desbloqueado en la Ascención 2",
+      "description": "Cuando un enemigo es golpeado por el rayo temible de Estallido atronador, su RES Electro se reduce en un 15% durante 8 s.",
+      "level": 2
+    },
+    {
+      "name": "Restallido lejano",
+      "unlock": "Desbloqueado en la Ascención 3",
+      "description": "Aumenta el nivel de habilidad de Estallido atronador +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Relámpago súbito",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Si la Energía Elemental de un personaje está por debajo del 35% cuando absorbe un abalorio de la profusión creado con Espada electrosombría, la cantidad de Energía recuperada por medio del abalorio aumenta en un 100%.",
+      "level": 4
+    },
+    {
+      "name": "Naturaleza eléctrica",
+      "unlock": "Desbloqueado en la Ascención 5",
+      "description": "Aumenta el nivel de habilidad de Espada electrosombría +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Sacudida celestial",
+      "unlock": "Desbloqueado en la Ascención 6",
+      "description": "Tras provocar dos rayos temibles con Estallido atronador, el daño del siguiente rayo temible aumentará en un 100% y regenerará 1 pt. adicional de Energía Elemental para el personaje en uso.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "SWORD"
+}
