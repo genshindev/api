@@ -13,18 +13,92 @@
         "name": "Firework Flare-Up",
         "unlock": "Normal Attack",
         "description": "Normal Attack:\nPerforms up to 5 consecutive shots with a bow.\n\nCharged Attack:\nPerform a more precise Aimed Shot with increased DMG. While aiming, flames will accumulate on the arrowhead before being fired off as an attack. Has different effects based on how long the energy has been charged:\nCharge Level 1: Fires off a flaming arrow that deals Pyro DMG.\nCharge Level 2: Generates a maximum of 3 Kindling Arrows based on time spent charging, releasing them as part of this Aimed Shot. Kindling Arrows will home in on nearby opponents, dealing Pyro DMG on hit.\n\nPlunging Attack:\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "upgrades": [
+          {
+            "name": "1-Hit DMG",
+            "value": "35.64% + 35.64%"
+          },
+          {
+            "name": "2-Hit DMG",
+            "value": "68.38%"
+          },
+          {
+            "name": "3-Hit DMG",
+            "value": "88.89%"
+          },
+          {
+            "name": "4-Hit DMG",
+            "value": "46.42% + 46.42%"
+          },
+          {
+            "name": "5-Hit DMG",
+            "value": "105.86%"
+          },
+          {
+            "name": "Aimed Shot",
+            "value": "43.86%"
+          },
+          {
+            "name": "Fully-Charged Aimed Shot",
+            "value": "124%"
+          },
+          {
+            "name": "Plunge DMG",
+            "value": "56.8%"
+          },
+          {
+            "name": "Low / High Plunge DMG",
+            "value": "114% / 142%"
+          }
+        ],
         "type": "NORMAL_ATTACK"
       },
       {
         "name": "Niwabi Fire-Dance",
         "unlock": "Elemental Skill",
         "description": "Yoimiya waves a sparkler and causes a ring of saltpeter to surround her.\nNiwabi Enshou: During this time, arrows fired by Yoimiya's Normal Attack will be Blazing Arrows, and their DMG will be increased and converted to Pyro DMG. during this time, Normal Attack: Firework Flare-Up will not generate Kindling Arrows at Charge Level 2.\nThis effect will deactivate when Yoimiya leaves the field.",
+        "upgrades": [
+          {
+            "name": "Blazing Arrow DMG",
+            "value": "137.91%"
+          },
+          {
+            "name": "Duration",
+            "value": "10s"
+          },
+          {
+            "name": "CD",
+            "value": "18s"
+          }
+        ],
         "type": "ELEMENTAL_SKILL"
       },
       {
         "name": "Ryuukin Saxifrage",
         "unlock": "Elemental Burst",
         "description": "Yoimiya leaps into the air along with her original creation, the \"Ryuukin Saxifrage,\" and fires forth blazing rockets bursting with surprises that deal AoE Pyro DMG and mark one of the hit opponents with Aurous Blaze.\nAurous Blaze: All Normal/Charged/Plunging Attacks, Elemental Skills, and Elemental Bursts by any party member other than Yoimiya that hit an opponent marked by Aurous Blaze will trigger an explosion, dealing AoE Pyro DMG.\nWhen an opponent affected by Aurous Blaze is defeated before its duration expires, the effect will pass on to another nearby opponent, who will inherit the remaining duration.\nOne Aurous Blaze explosion can be triggered every 2s. When Yoimiya is down, Aurous Blaze effects created through her skills will be deactivated.",
+        "upgrades": [
+          {
+            "name": "Skill DMG",
+            "value": "127.2%"
+          },
+          {
+            "name": "Aurous Blaze Explosion DMG",
+            "value": "122%"
+          },
+          {
+            "name": "Duration",
+            "value": "10s"
+          },
+          {
+            "name": "CD",
+            "value": "15s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "60"
+          }
+        ],
         "type": "ELEMENTAL_BURST"
       }
     ],
