@@ -13,18 +13,100 @@
         "name": "Puntería divina",
         "unlock": "Ataque Normal",
         "description": "Ataque Normal:\nRealiza hasta 6 disparos consecutivos con arco.\nAtaque Cargado:\nDispara un Tiro preciso que inflige mayor daño. Al apuntar, se acumularán vientos favorables en la punta de flecha. Una flecha con fuerza del viento totalmente cargada infligirá Daño Anemo.\nAtaque descendiente:\nDispara una lluvia de flechas desde el aire y desciende rápidamente, causando daño a distancia al impactar en el suelo.",
+        "upgrades": [
+          {
+            "name": "Daño de 1er golpe",
+            "value": "20.4% + 20.4%"
+          },
+          {
+            "name": "Daño de 2º golpe",
+            "value": "44.4%"
+          },
+          {
+            "name": "Daño de 3er golpe",
+            "value": "52.4%"
+          },
+          {
+            "name": "Daño de 4º golpe",
+            "value": "26.1% + 26.1%"
+          },
+          {
+            "name": "Daño de 5º golpe",
+            "value": "50.7%"
+          },
+          {
+            "name": "Daño de 6º golpe",
+            "value": "71%"
+          },
+          {
+            "name": "Disparo preciso",
+            "value": "43.9%"
+          },
+          {
+            "name": "Disparo preciso (carga completa)",
+            "value": "124%"
+          },
+          {
+            "name": "Daño de Caída",
+            "value": "56.8%"
+          },
+          {
+            "name": "Daño de impacto de caida baja / alta",
+            "value": "114% / 142%"
+          }
+        ],
         "type": "NORMAL_ATTACK"
       },
       {
         "name": "Sonata celestial",
         "unlock": "Habilidad Elemental",
         "description": "¡Oh viento sobre el que vuelan todos los himnos y cantos, lleva a estos caminantes de la tierra hacia los cielos!\nPulsar una vez Invoca un campo de viento en la ubicación del enemigo, infligiendo Daño Anemo de Área y lanzando a los enemigos por el aire.\nMantener pulsado Invoca un campo de viento aún más grande con Venti como epicentro, infligiendo Daño Anemo de Área y lanzando a los enemigos afectados al aire. Después de soltar esta habilidad, Venti cabalga el viento en el aire.",
+        "upgrades": [
+          {
+            "name": "Daño al pulsar una vez",
+            "value": "276%"
+          },
+          {
+            "name": "TdE al pulsar una vez",
+            "value": "6s"
+          },
+          {
+            "name": "Daño de mantener pulsado",
+            "value": "380%"
+          },
+          {
+            "name": "TdE de mantener pulsado",
+            "value": "15s"
+          }
+        ],
         "type": "ELEMENTAL_SKILL"
       },
       {
         "name": "Gran Oda del Viento",
         "unlock": "Habilidad Elemental",
         "description": "Dispara una flecha hecha de innumerables vientos fusionados, creando un enorme Ojo de la Tormenta que absorbe objetos y enemigos a su paso e inflige Daño Anemo.\nCambio elemental Si el Ojo de la tormenta entra en contacto con Hydro/Pyro/Cryo/Electro, inflige Daño elemental adicional de ese tipo. El cambio elemental solo puede ocurrir una vez por uso.",
+        "upgrades": [
+          {
+            "name": "Daño continuo",
+            "value": "47%"
+          },
+          {
+            "name": "Daño Elemental adicional",
+            "value": "23.5%"
+          },
+          {
+            "name": "Duracion",
+            "value": "8s"
+          },
+          {
+            "name": "TdE",
+            "value": "15s"
+          },
+          {
+            "name": "Energía Elemental",
+            "value": "60"
+          }
+        ],
         "type": "ELEMENTAL_BURST"
       }
     ],
