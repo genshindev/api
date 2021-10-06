@@ -16,7 +16,7 @@
       "name": "Burning",
       "elements": ["Dendro"],
       "description": "When Pyro meets Dendro, it triggers Burning, which continuously deals Pyro DMG until it wears off."
-    }, 
+    },
     {
       "name": "Melt",
       "elements": ["Cryo"],

@@ -9,25 +9,33 @@
       "level": 1,
       "adventureRank": 22,
       "recommendedLevel": 34,
-      "leyLineDisorder": ["Electro-Charged DMG increased by 150%, and its AoE is increased by 100%."]
+      "leyLineDisorder": [
+        "Electro-Charged DMG increased by 150%, and its AoE is increased by 100%."
+      ]
     },
     {
       "level": 2,
       "adventureRank": 25,
       "recommendedLevel": 47,
-      "leyLineDisorder": ["When Overloaded is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents."]
+      "leyLineDisorder": [
+        "When Overloaded is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents."
+      ]
     },
     {
       "level": 3,
       "adventureRank": 30,
       "recommendedLevel": 59,
-      "leyLineDisorder": ["When Superconduct is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents."]
+      "leyLineDisorder": [
+        "When Superconduct is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents."
+      ]
     },
     {
       "level": 4,
       "adventureRank": 35,
       "recommendedLevel": 69,
-      "leyLineDisorder": ["Electro-Charged DMG increased by 150%, and its AoE is increased by 100%."]
+      "leyLineDisorder": [
+        "Electro-Charged DMG increased by 150%, and its AoE is increased by 100%."
+      ]
     },
     {
       "level": 5,

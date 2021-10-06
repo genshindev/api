@@ -8,7 +8,10 @@
     "name": "Speck",
     "description": "Geräuchertes Bauchfleisch und -fett. Einfach die richtige Mischung. Da kann keiner widerstehen.",
     "rarity": 3,
-    "sources": ["Sold by Good Hunter", "Beim Verarbeiten von Gerichten zu erhalten"]
+    "sources": [
+      "Sold by Good Hunter",
+      "Beim Verarbeiten von Gerichten zu erhalten"
+    ]
   },
   "bamboo-shoot": {
     "name": "Bambussprosse",
@@ -32,7 +35,11 @@
     "name": "Butter",
     "description": "Der fetthaltige Teil von Milch. In der richtigen Menge bringt es selbst dem einfachsten Gericht einen reichen, cremigen Geschmack.",
     "rarity": 2,
-    "sources": ["Sold by Good Hunter", "Sold by Verr Goldet", "Beim Verarbeiten von Gerichten zu erhalten"]
+    "sources": [
+      "Sold by Good Hunter",
+      "Sold by Verr Goldet",
+      "Beim Verarbeiten von Gerichten zu erhalten"
+    ]
   },
   "cabbage": {
     "name": "Weißkohl",
@@ -62,7 +69,11 @@
     "name": "Käse",
     "description": "Ein aus geronnener Milch gewonnenes Erzeugnis. Es bietet gleichzeitig eine hohe Menge Energie sowie uneingeschränkte Möglichkeiten der Zubereitung.",
     "rarity": 3,
-    "sources": ["Sold by Good Hunter", "Beim Verarbeiten von Gerichten zu erhalten", "Sold by Changshun"]
+    "sources": [
+      "Sold by Good Hunter",
+      "Beim Verarbeiten von Gerichten zu erhalten",
+      "Sold by Changshun"
+    ]
   },
   "chilled-meat": {
     "name": "Kaltes Gourmetfleisch",
@@ -82,13 +93,19 @@
     "name": "Krebsrogen",
     "description": "Eine Delikatesse aus weiblichen Krebsen. In diesem seltenen wie teuren Rogen steckt die Essenz der Krebse, die allerdings nicht jedermanns Geschmack ist.",
     "rarity": 3,
-    "sources": ["Sold by Good Hunter", "Beim Verarbeiten von Gerichten zu erhalten"]
+    "sources": [
+      "Sold by Good Hunter",
+      "Beim Verarbeiten von Gerichten zu erhalten"
+    ]
   },
   "cream": {
     "name": "Sahne",
     "description": "Ein durch kräftiges Schlagen entstehendes Milchprodukt. Eine unentbehrliche Zutat bei der Herstellung von Süßspeisen.",
     "rarity": 2,
-    "sources": ["Sold by Good Hunter", "Beim Verarbeiten von Gerichten zu erhalten"]
+    "sources": [
+      "Sold by Good Hunter",
+      "Beim Verarbeiten von Gerichten zu erhalten"
+    ]
   },
   "fish": {
     "name": "Fisch",
@@ -131,7 +148,10 @@
     "name": "Konfitüre",
     "description": "Eine eingekochte Masse aus Früchten und Zucker. Ein kleines Löffelchen voll befreit einen selbst von der größten Müdigkeit.",
     "rarity": 3,
-    "sources": ["Sold by Good Hunter", "Beim Verarbeiten von Gerichten zu erhalten"]
+    "sources": [
+      "Sold by Good Hunter",
+      "Beim Verarbeiten von Gerichten zu erhalten"
+    ]
   },
   "jueyun-chili": {
     "name": "Jueyun-Peperoni",
@@ -173,7 +193,10 @@
   "mushroom": {
     "name": "Champignon",
     "description": "Vor Lebenskraft nur so strotzend und sehr häufig anzutreffen. Er braucht lediglich genug Schatten und Wasser. Ansonsten wächst er fast überall.",
-    "sources": ["In der freien Natur zu finden", "Purchased at Wanmin Restaurant"]
+    "sources": [
+      "In der freien Natur zu finden",
+      "Purchased at Wanmin Restaurant"
+    ]
   },
   "onion": {
     "name": "Zwiebel",
@@ -222,7 +245,11 @@
   "raw-meat": {
     "name": "Rohes Fleisch",
     "description": "Ein frisches Stück rohes Fleisch, das mit der richtigen Zubereitung zu einer nahrhaften Mahlzeit wird.",
-    "sources": ["In der freien Natur zu finden", "Sold by Draff", "Beim Verarbeiten von Gerichten zu erhalten"]
+    "sources": [
+      "In der freien Natur zu finden",
+      "Sold by Draff",
+      "Beim Verarbeiten von Gerichten zu erhalten"
+    ]
   },
   "rice": {
     "name": "Reis",
@@ -264,7 +291,10 @@
     "name": "Räuchergeflügel",
     "description": "Geräuchertes Geflügel. Die feste Beschaffenheit sorgt für ein ganz anderes Geschmackserlebnis.",
     "rarity": 2,
-    "sources": ["Sold by Good Hunter", "Beim Verarbeiten von Gerichten zu erhalten"]
+    "sources": [
+      "Sold by Good Hunter",
+      "Beim Verarbeiten von Gerichten zu erhalten"
+    ]
   },
   "snapdragon": {
     "name": "Goldfischkraut",
@@ -285,7 +315,10 @@
   "sweet-flower": {
     "name": "Zuckerblume",
     "description": "Eine überaus stark duftende Blume. Selbst im Dunkeln kann man sie so finden.",
-    "sources": ["In der freien Natur zu finden", "Purchase from Flora in Mondstadt"]
+    "sources": [
+      "In der freien Natur zu finden",
+      "Purchase from Flora in Mondstadt"
+    ]
   },
   "tofu": {
     "name": "Tofu",
