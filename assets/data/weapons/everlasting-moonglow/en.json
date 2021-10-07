@@ -1,6 +1,6 @@
 {
   "name": "Everlasting Moonglow",
-  "type": Catalyst",
+  "type": "Catalyst",
   "rarity": 5,
   "baseAttack": 46,
   "subStat": "HP",
