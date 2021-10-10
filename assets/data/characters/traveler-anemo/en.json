@@ -2,6 +2,8 @@
   "name": "Traveler",
   "vision": "Anemo",
   "weapon": "Sword",
+  "nation": "Outlander",
+  "affiliation": "Not affilated to any Nation",
   "rarity": 5,
   "constellation": "Viatrix",
   "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
