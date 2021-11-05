@@ -1,0 +1,90 @@
+{
+  "name": "Sacarosa",
+  "vision": "Anemo",
+  "weapon": "Catalizador",
+  "nation": "Mondstadt",
+  "affiliation": "Caballeros de Favonius",
+  "rarity": 4,
+  "constellation": "Ampulla",
+  "birthday": "0000-11-26",
+  "description": "Una alquimista e investigadora de la escuela de bioalquimia que siente curiosidad por todo.",
+  "skillTalents": [
+    {
+      "name": "Creación del Espíritu del Viento",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 4 ataques usando Espíritus del Viento, que infligen Daño Anemo.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante e inflige Daño Anemo en el AdE después de un corto tiempo de lanzamiento.\nAtaque descendiente:\nAl llamar a los Espíritus del Viento, Sacarosa se lanza hacia el suelo desde el aire, dañando a todos los enemigos en su camino. Inflige Daño Anemo en el AdE al impactar con el suelo.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Creación del espíritu del viento: Experimento 6308",
+      "unlock": "Habilidad Elemental",
+      "description": "Invoca un pequeño Espíritu del Viento que inflige Daño Anemo a los enemigos en un AdE, arrastrándolos hacia la ubicación del Espíritu del Viento antes de lanzarlos por los aires.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Creación del espíritu del viento prohibida: Isomorfo 75 tipo II",
+      "unlock": "Habilidad Definitiva",
+      "description": "Sacarosa arroja un brebaje inestable que crea un Gran Espíritu del Viento. Durante la habilidad, el Gran Espíritu del Viento atrae y arroja a los enemigos cercanos, infligiendo Daño Anemo en el AdE.\nCambio elemental: Si el espíritu del Viento entra en contacto con Hydro/Pyro/Cryo/Electro, infligirá Daño elemental adicional de ese tipo. El cambio elemental solo puede ocurrir una vez por uso.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Conversión de catalizador",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Cuando Sacarosa active un Torbellino, aumentará la Maestría Elemental de todos los miembros del equipo con el elemento correspondiente en 50 pts. por los próximos 8 s.",
+      "level": 1
+    },
+    {
+      "name": "Mollis Favonius",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Cuando Creación del espíritu del viento: Experimento 6308 o Creación del espíritu del viento prohibida: Isomorfo 75 tipo II golpee a un enemigo, aumenta la Maestría Elemental de otros miembros del equipo con base en el 20% de Maestría Elemental de Sacarosa durante 8 s.",
+      "level": 4
+    },
+    {
+      "name": "Invención inestable",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Al crear materiales para personaje y armas, hay un 10% de probabilidad de recibir el doble."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Cúmulo de campo de vacío",
+      "unlock": "Constelación Nivel 1",
+      "description": "Aumenta en 1 las cargas de Creación del espíritu del viento: Experimento 6308.",
+      "level": 1
+    },
+    {
+      "name": "Bett: Forma no consolidada",
+      "unlock": "Constelación Nivel 2",
+      "description": "Aumenta en 2 s la duración de Creación prohibida del espíritu del viento: Isomorfo 75 tipo II.",
+      "level": 2
+    },
+    {
+      "name": "Alquimista infalible",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Creación del espíritu del viento: Experimento 6308 +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Alquemanía",
+      "unlock": "Constelación Nivel 4",
+      "description": "Por cada 7 Ataques Normales y Cargados de Sacarosa, el TdE de Creación del espíritu del viento: Experimento 6308 se reduce entre 1 y 7 s.",
+      "level": 4
+    },
+    {
+      "name": "Precaución: frasco ordinario",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Creación prohibida del espíritu del viento: Isomorfo 75 tipo II +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Entropía caótica",
+      "unlock": "Constelación Nivel 6",
+      "description": "Si Creación prohibida del espíritu del viento: Isomorfo 75 tipo II desencadena un cambio elemental, todos los miembros del equipo obtienen un 20% de Bono de Daño Elemental del elemento al que se cambió mientras dure la habilidad.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ANEMO",
+  "weapon_type": "CATALYST"
+}

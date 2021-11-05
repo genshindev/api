@@ -1,0 +1,90 @@
+{
+  "name": "Albedo",
+  "vision": "Geo",
+  "weapon": "Espada Ligera",
+  "nation": "Mondstadt",
+  "affiliation": "Caballeros de Favonius",
+  "rarity": 5,
+  "constellation": "Princeps Cretaceus",
+  "birthday": "0000-09-13",
+  "description": "Alquimista en Jefe de los Caballeros de Favonius y Capitán del equipo de investigacion. Lo llaman el \"Príncipe de la Roca Caliza\"",
+  "skillTalents": [
+    {
+      "name": "Técnica de espada de favonius - Albor",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal\nRealiza hasta 5 ataques rápidos\nAtaque Cargado\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado\nAtaque Descendente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Abiogénesis: Isotoma solar",
+      "unlock": "Habilidad Elemental",
+      "description": "Crea una isotoma solar que inflige Daño Geo en el AdE. \nIsotoma solar:\n\nCuando los enemigos situados en el centro del área de la isotoma solar reciben daño, esta se convertirá en una flor fugaz, abriéndose e infligiendo Daño Geo en el AdE proporcional a la DEF de Albedo.\nSolo puede crearse una flor fugaz cada 2 s.\nCuando un personaje se sitúa sobre la isotoma solar, el poder de Geo se concentrará para formar una plataforma cristalizada de cierta altura sobre la que se podrán mantener los personajes.\nSolo puede existir a la vez una isotoma creada por Albedo. La isotoma solar se considera una creación Geo.\n\nMantener pulsado Controla la ubicación sobre la que tiene lugar la habilidad.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Creación: Marea tectónica",
+      "unlock": "Habilidad Definitiva",
+      "description": "Albedo ordena a sus cristales Geo que exploten, lanzándolos al frente e infligiendo Daño Geo en el AdE. Si en el campo de batalla ya hay una isotoma solar creada por Albedo, creará 7 flores de la muerte dentro del área de la isotoma, provocando una violenta explosión que inflige Daño Geo en el AdE.\nEl daño causado por la explosión y las flores de la muerte no creará una flor fugaz.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Fuerza caliza",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Aumenta en un 25% el daño infligido por la flor fugaz de Abiogénesis: Isotoma solar contra los enemigos con menos del 50% de Vida.",
+      "level": 1
+    },
+    {
+      "name": "Sabiduría del homúnculo",
+      "unlock": "Desbloqueado en la ascensión 4",
+      "description": "Creación: Marea tectónica aumenta en 125 pts. la Maestría Elemental de los personajes del equipo cercanos durante 10 s.",
+      "level": 4
+    },
+    {
+      "name": "Genio de la alquimia",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Al crear materiales de ascensión de arma, hay una probabilidad del 10% de recibir el doble."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Flor del Edén",
+      "unlock": "Constelación Nivel 1",
+      "description": "Cuando explota una flor fugaz de Abiogénesis: Isotoma solar creara por Albedo, este recupera 1.2 pts. de Energía Elemental.",
+      "level": 1
+    },
+    {
+      "name": "Eón Fanerozoico",
+      "unlock": "Constelación Nivel 2",
+      "description": "Al explotar, las flores fugaces de Abiogénesis: Isotoma solar otorgan a Albedo aritmética fatídica durante 30 s:\nCada acumulación de aritmética fatídica aumenta el daño de Albedo en una cantidad igual al 30% de su DEF.\nPuede acumularse un máximo de 4 veces.\nCreación: Marea tectónica consume la aritmética fatídica, eliminando todas sus acumulaciones y aumentando el daño infligido por las explosiones de Creación: Marea tectónica y de las flores de la muerte.",
+      "level": 2
+    },
+    {
+      "name": "Gracia de Helios",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Abiogénesis: Isotoma solar +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Caída divina",
+      "unlock": "Constelación Nivel 4",
+      "description": "Si los personajes en uso están en el área de la isotoma solar, aumenta en un 30% el daño de sus Ataques Descendientes.",
+      "level": 4
+    },
+    {
+      "name": "Marea del Hádico",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Creación: Marea tectónica +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Tierra purificadora",
+      "unlock": "Constelación Nivel 6",
+      "description": "Aumenta en un 17% el daño de los personajes si estos están en el área de la isotoma solar y bajo la protección de un escudo creado mediante Cristalización.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "SWORD"
+}

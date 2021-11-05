@@ -1,0 +1,90 @@
+{
+  "name": "Xiao",
+  "vision": "Anemo",
+  "weapon": "Lanza",
+  "nation": "Liyue",
+  "affiliation": "Adeptus de Liyue",
+  "rarity": 5,
+  "constellation": "Alatus Nemeseos",
+  "birthday": "0000-04-17",
+  "description": "Un Yaksha y Adeptus que protege Liyue. También llamado el \"Gran Cazador de Demonios\" o \"Guardián Yaksha\".",
+  "skillTalents": [
+    {
+      "name": "Impulso de torbellino",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nEjecuta hasta 6 ataques rápidos con lanza.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para atacar alzando su lanza.\nAtaque Descendente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto. Xiao no recibirá daño al caer con un Ataque Descendente.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Ciclón de viento lemniscático",
+      "unlock": "Habilidad Elemental",
+      "description": "Xiao se lanza hacia adelante e inflinge Daño Anemo a todos los enemigos que se crucen en su camino. Puede activarse en el aire y empieza con un total de 2 cargas.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Azote de todos los males",
+      "unlock": "Habilidad Definitiva",
+      "description": "Xiao se pone la máscara de Yaksha que aterrorizó tanto a los demonios como a los arcontes hace miles de años.\n\nMáscara de Yaksha\nMejora la capacidad de salto de Xiao.\nMientras dura la habilidad, aumenta el alcance y el daño de los ataques de Xiao.\nConvierte su daño de ataque en Daño Anemo. Este cambio elemental no puede sustituirse imbuyéndose de otro elemento.\n\nEstar en esta forma consume la Vida de Xiao de manera continua.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Conquista del mal: Domademonios",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Al estar bajo los efectos de Azote de todos los males, el daño infligido por Xiao se incrementa en un 5%. Después, su daño continúa aumentando en un 5% cada 3 s hasta el fin de la habilidad. Solo se puede alcanzar un 25% de bono de daño máximo.",
+      "level": 1
+    },
+    {
+      "name": "Desintegración: Caída celestial",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Usar Ciclón de viento lemniscático aumenta en un 15% el daño infligido por los siguientes Ciclones de viento lemniscático durante 7 s.\nEste efecto puede acumularse un máximo de 3 veces y, cada vez que se obtenga una nueva carga, la duración de este efecto se reiniciará.",
+      "level": 4
+    },
+    {
+      "name": "Trascendencia: Desafío a la gravedad",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Disminuye en un 20% el Coste de Aguante al escalar de todos los miembros de tu equipo.\nNo se puede acumular con otros talentos pasivos que tengan los mismos efectos."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Desintegración: Destructor de mundos",
+      "unlock": "Constelación Nivel 1",
+      "description": "Aumenta las cargas de Ciclón de viento lemniscático en 1.",
+      "level": 1
+    },
+    {
+      "name": "Aniquilación: Flor de Kaleidos",
+      "unlock": "Constelación Nivel 2",
+      "description": "Cuando Xiao está en tu equipo pero no en combate, su Recarga de Energía aumenta en un 25%.",
+      "level": 2
+    },
+    {
+      "name": "Conquista del mal: Deidad de la ira",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Ciclón de viento lemniscático +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Trascendencia: Fin del sufrimiento",
+      "unlock": "Constelación Nivel 4",
+      "description": "Cuando la Vida de Xiao cae por debajo del 50%, obtiene un 100% de Bono de DEF.",
+      "level": 4
+    },
+    {
+      "name": "Evolución: Origen de la ignorancia",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Azote de todos los males +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Conquista del mal: Guardián Yaksha",
+      "unlock": "Constelación Nivel 6",
+      "description": "Mientras Xiao está bajo los efectos de Azote de todos los males, golpear a 2 o más enemigos con Ataque Descendente otorga a Ciclón de viento lemniscático 1 carga adicional y elimina su TdE durante 1 s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ANEMO",
+  "weapon_type": "POLEARM"
+}

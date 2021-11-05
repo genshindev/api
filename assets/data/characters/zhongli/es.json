@@ -1,0 +1,90 @@
+{
+  "name": "Zhongli",
+  "vision": "Geo",
+  "weapon": "Lanza",
+  "nation": "Liyue",
+  "affiliation": "Liyue",
+  "rarity": 5,
+  "constellation": "Lapis Dei",
+  "birthday": "0000-12-31",
+  "description": "Misterioso invitado de la Funeraria El Camino. Erudito y con información sobre todo tipo de cosas.",
+  "skillTalents": [
+    {
+      "name": "Lluvia pétrea",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 6 ataques rápidos con lanza.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para lanzarse al frente, haciendo que caigan lanzas de piedra en su camino.\nAtaque descendiente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Dominus lapidis",
+      "unlock": "Habilidal Elemental",
+      "description": "Cada montaña, roca y centímetro de la tierra contiene poder Geo, pero solo unos pocos pueden usar libremente tal poder.\nUn clic: Controla el poder omnipresente de la tierra para solidificarlo en una Cresta de piedra que inflige Daño Geo en el AdE. La Cresta de piedra resonará con los objetos Geo cercanos, infligiendo Daño Geo a los enemigos de alrededor. La Cresta de piedra es considerada una creación Geo, y puede escalarse y usarse para bloquear ataques. Solo puede existir una al mismo tiempo.\nMantener pulsado:Hace que los elementos Geo cercanos exploten, provocando los siguientes efectos:\nCrea un escudo de jade. La cantidad de absorción de daño del escudo se basa en la Vida Máx. de Zhongli, y dicho escudo tiene un 250% de absorción de Daño Geo.\nInflige Daño Geo en el AdE.\nSi hay enemigos cercanos afectados por el Elemento Geo, absorberá una gran cantidad de Elemento Geo de un máximo de dos objetivos afectados por dicho elemento. Este efecto no causa daño.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Lluvia estelar",
+      "unlock": "Habilidad Definitiva",
+      "description": "Atrae un meteorito a la tierra, causando Daño Geo masivo a los enemigos dentro de su AdE y aplicando el efecto de Petrificación.\nPetrificación Los enemigos bajo el efecto de Petrificación no pueden moverse.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Ondas resonantes",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Cuando el Escudo de Jade recibe daño, genera un efecto de fortalecimiento.\nLos personajes con Escudo de Jade aumentan su Protección de Escudo en un 5%.\nEste efecto puede acumularse hasta 5 veces y dura hasta que desaparezca el Escudo de Jade.",
+      "level": 1
+    },
+    {
+      "name": "Dominio de la Tierra",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "El daño infligido por los siguientes ataques de Zhongli aumenta en proporción a su Vida Máx.:\nAumenta el daño de Ataque Normal, Ataque Cargado y Ataque Descendente en un 1.39% de su Vida Máx.\nAumenta en un 1.9% de su Vida Máx. el daño de resonancia de la cresta de piedra de Dominus lapidis, así como el daño de mantener pulsado.\nAumenta el daño de Lluvia estelar en un 33% de la Vida Máx. de Zhongli.",
+      "level": 4
+    },
+    {
+      "name": "Cristal del destino",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Recupera el 15% de los minerales utilizados en la fabricación de lanzas."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Roca, el núcleo de la Tierra",
+      "unlock": "Constelación Nivel 1",
+      "description": "Dominus lapidis puede crear un máximo de 2 crestas de piedra al mismo tiempo.",
+      "level": 1
+    },
+    {
+      "name": "Piedra, el origen del jade",
+      "unlock": "Constelación Nivel 2",
+      "description": "Al caer Lluvia estelar, otorga un escudo de jade a los personajes en uso cercanos.",
+      "level": 2
+    },
+    {
+      "name": "Jade, el brillo del crepúsculo",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Dominus lapidis +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Topacio, indestructible e intrépido",
+      "unlock": "Constelación Nivel 4",
+      "description": "Aumenta el AdE de Lluvia estelar en un 20%.\nAdemás, aumenta en 2 s la duración de Petrificación de Lluvia estelar.",
+      "level": 4
+    },
+    {
+      "name": "Lapislázuli, el heraldo del orden",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Lluvia estelar +3.Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Chrysos, la generosidad del dominador",
+      "unlock": "Constelación Nivel 6",
+      "description": "Cuando el escudo de jade recibe daño, el 40% del daño recibido se convierte en Vida para el personaje en uso.\nNo se puede recuperar más del 8% de la Vida Máx. del personaje cada vez que se activa el efecto.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "POLEARM"
+}

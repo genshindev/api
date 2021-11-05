@@ -1,0 +1,90 @@
+{
+  "name": "Aloy",
+  "vision": "Cryo",
+  "weapon": "Arco",
+  "nation": "Desconocido",
+  "affiliation": "Rebelde",
+  "rarity": 5,
+  "constellation": "Nora Fortis",
+  "birthday": "0000-04-04",
+  "description": "",
+  "skillTalents": [
+    {
+      "name": "Fuego rápido",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 4 ataques consecutivos.\nAtaque Cargado:\nPuede realizar un disparo más preciso que inflige más daño. Al apuntar, crea escarcha que acumula frío en la punta de la flecha. Cuando el frío se acumula por completo, la flecha inflige Daño Cryo al impactar contra el enemigo.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Campo gélido",
+      "unlock": "Habilidad Elemental",
+      "description": "Lanza una bomba helada hacia la dirección en la que apunta y, al impactar, produce una explosión que inflige Daño Cryo. Al explotar, la bomba se divide en varias minibombas ultracongelantes que explotan al entrar en contacto con un enemigo o tras cierto tiempo, infligiendo Daño Cryo.\nAl golpear a un enemigo, la bomba helada o las minibombas ultracongelantes reducen el ATQ de dicho enemigo y otorgan a Aloy una carga del efecto de inducción. Solo se puede obtener una carga de inducción cada 0.1 s.\n\nInducción\nAumenta el daño que inflige Aloy con su Ataque Normal en función del número de cargas de inducción. • Cuando tiene 4 cargas, Aloy las consume todas y obtiene \"hielo galopante\", el cual aumenta aún más el daño de su Ataque Normal y transforma en Daño Cryo todo el daño infligido con dicho ataque.\nEn el estado de hielo galopante, Aloy no podrá beneficiarse de inducción. Los efectos de inducción se perderán 30 s después de que Aloy sea retirada de combate.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Profecía del amanecer",
+      "unlock": "Habilidad Definitiva",
+      "description": "Aloy lanza una batería rebosante de Cryop hacia la direccíon en la que apunta y la detona con una flecha, infligiendo Daño Cryo en el AdE.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Superposición bélica",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Cuando Aloy está bajo los efectos de inducción de Campo gélido, su ATQ aumenta en un 16% y el ATQ de los miembros cercanos del equipo aumenta en un 8% durante 10 s.",
+      "level": 1
+    },
+    {
+      "name": "Golpe contundente",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Cuando Aloy está bajo los efectos de hielo galopante de Campo gélido, obtiene un 3.5% de Bono de Daño Cryo por segundo. Solo se puede alcanzar un máximo de 35% de bono de Daño Cryo de esta manera.",
+      "level": 4
+    },
+    {
+      "name": "Cazadora de lo salvaje",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Cuando Aloy está en el equipo, tus personajes no asustarán a los animales de los que se puede obtener carne de ave, carne cruda y carne congelada."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Estrella de otro mundo",
+      "unlock": "Constelación Nivel 1",
+      "description": "Aún no es el momento de que el cielo de esta persona se ilumine.",
+      "level": 1
+    },
+    {
+      "name": "Estrella de otro mundo",
+      "unlock": "Constelación Nivel 2",
+      "description": "Aún no es el momento de que el cielo de esta persona se ilumine.",
+      "level": 2
+    },
+    {
+      "name": "Estrella de otro mundo",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aún no es el momento de que el cielo de esta persona se ilumine.",
+      "level": 3
+    },
+    {
+      "name": "Estrella de otro mundo",
+      "unlock": "Constelación Nivel 4",
+      "description": "Aún no es el momento de que el cielo de esta persona se ilumine.",
+      "level": 4
+    },
+    {
+      "name": "Estrella de otro mundo",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aún no es el momento de que el cielo de esta persona se ilumine.",
+      "level": 5
+    },
+    {
+      "name": "Estrella de otro mundo",
+      "unlock": "Constelación Nivel 6",
+      "description": "Aún no es el momento de que el cielo de esta persona se ilumine.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "BOW"
+}

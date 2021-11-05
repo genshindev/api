@@ -1,0 +1,90 @@
+{
+  "name": "Amber",
+  "vision": "Pyro",
+  "weapon": "Arco",
+  "nation": "Mondstadt",
+  "affiliation": "Caballeros de Favonius",
+  "rarity": 4,
+  "constellation": "Lepus Minor",
+  "birthday": "0000-08-10",
+  "description": "Siempre enérgica y llena de vida, Amber es la mejor Exploradora de los caballeros de Favonius, aunque también es la única",
+  "skillTalents": [
+    {
+      "name": "Arquero divino",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 5 disparos consecutivos con arco.\nAtaque Cargado:\nDispara un Tiro preciso que inflige mayor daño. Al apuntar, se acumularán llamas en la punta de flecha. Una flecha en llamas totalmente cargada infligirá Daño Pyro.\nAtaque descendiente:\nDispara una lluvia de flechas desde el aire y desciende rápidamente, causando daño a distancia al impactar en el suelo.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Marioneta explosiva",
+      "unlock": "Habilidad Elemental",
+      "description": "El fiel Barón Bunny aparece en escena.\nBarón Bunny:\nSe burla de los enemigos cercanos para atraer su atención.\nLa Vida Máx. de Barón Bunny aumenta en proporción a la Vida de Amber.\nCuando es destruido o su temporizador llega a cero, Barón Bunny explota, infligiendo Daño Pyro de Área.\n\nMantener apretado:\nAjusta la dirección de lanzamiento de Barón Bunny. Cuanto más tiempo se mantenga apretado el botón, más lejos se lanzará.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Lluvia ardiente",
+      "unlock": "Habilidad Definitiva",
+      "description": "Dispara una lluvia de flechas, infligiendo Daño Pyro en el AdE continuo.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "¡Puntería final!",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Lluvia ardiente aumenta un 10% de Prob. CRIT y el AdE se expande un 30%.",
+      "level": 1
+    },
+    {
+      "name": "Disparo preciso",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Al infligir daño en los puntos débiles del enemigo usando Tiro preciso, el ATQ Básico aumenta un 15% durante 10 s.",
+      "level": 4
+    },
+    {
+      "name": "Campeona de Vuelo",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Disminuye el consumo de Aguante al planear en un 20%."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "¡Una Flecha para Gobernarlos a Todos!",
+      "unlock": "Constelación Nivel 1",
+      "description": "Lanza 2 flechas por cada Tiro preciso. La segunda flecha inflige 20% del daño de la primera flecha.",
+      "level": 1
+    },
+    {
+      "name": "Lanzamiento de Barón Bunny",
+      "unlock": "Constelación Nivel 2",
+      "description": "¡Un nuevo y mejorado Barón Bunny! Golpear su pie con un Tiro preciso cargado detona inmediatamente a Barón Bunny. Explotarlo manualmente infligirá un 200% de Daño adicional.",
+      "level": 2
+    },
+    {
+      "name": "¡Quémalo todo!",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Lluvia ardiente +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "No es una muñeca cualquiera...",
+      "unlock": "Constelación Nivel 4",
+      "description": "Reduce el TdE de Marioneta explosiva en un 20%, y puede ser utilizada 1 vez más.",
+      "level": 4
+    },
+    {
+      "name": "¡Es Barón Bunny!",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de marioneta explosiva +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Fuego Salvaje",
+      "unlock": "Constelación Nivel 6",
+      "description": "Lluvia ardiente aumenta la Vel. Movimiento y el ATQ Básico de todos los miembros del equipo en un 15% durante 10 s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "BOW"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Tartaglia",
+  "vision": "Hydro",
+  "weapon": "Arco",
+  "nation": "Snezhnaya",
+  "affiliation": "Fatui",
+  "rarity": 5,
+  "constellation": "Monoceros Caeli",
+  "birthday": "0000-07-20",
+  "description": "El undécimo de los Once, llamado \"Nobile\". Foamoso por ganar miles de peleas.",
+  "skillTalents": [
+    {
+      "name": "Torrente cortante",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 6 disparos consecutivos con arco.\nAtaque Cargado:\nRealiza un ataque más preciso, infligiendo más daño con Disparo Preciso. Mientras se apunta, el poder de Hydro se acumulará en la punta de la flecha. Una flecha totalmente cargada con un torrente infligirá Daño Hydro al golpear, y aplicará el estado de Obstrucción del flujo.\nObstrucción del flujo Inflige Daño Hydro en el AdE cuando Tartaglia ataca a un objetivo afectado por Obstrucción del flujo. El daño infligido por este estado se considera daño de Ataque Normal.\nObstrucción del flujo Destello: cuando se dispara un Disparo Preciso totalmente cargado contra un enemigo bajo los efectos de Obstrucción del flujo, inflige daño continuo en el AdE. La Obstrucción del flujo: Destello solo podrá activarse una vez cada 0.7 s.\nObstrucción del flujo: Explosión: al derrotar a un enemigo bajo los efectos de Obstrucción del flujo, se provocará una explosión Hydro que aplicará dicho efecto sobre los enemigos cercanos.\nAtaque descendiente:\nDesciende rápidamente desde el aire y dispara una lluvia de flechas, infligiendo Daño en el AdE al impactar contra el suelo. No es posible activar el Ataque descendiente cuando Tartaglia se encuentra en posición de combate cuerpo a cuerpo de Legado del mal: Olas furiosas.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Legado del mal: Olas furiosas",
+      "unlock": "Habilidad Elemental",
+      "description": "Lanza un arsenal hecho de agua pura que inflige Daño Hydro a los enemigos cercanos y entra en posición de combate cuerpo a cuerpo.\nEn esta posición, los ataques Normales y Cargados de Tartaglia se convierten en Daño Hydro, el cual no puede ser sustituido imbuyéndolo de otro elemento, y cambian:\nAtaque Normal: Realiza hasta 6 tajos Hydro consecutivos.\nAtaque Cargado: Al consumir una cierta cantidad de Aguante, lanza un golpe de espada cruzado que inflige Daño Hydro.\nObstrucción del flujo: Corte Al golpear con un ataque cuerpo a cuerpo a un enemigo bajo los efectos de Obstrucción del flujo, Tartaglia realiza Obstrucción del flujo: Corte, infligiendo Daño Hydro en el AdE. Este daño es considerado como daño de Habilidad Elemental, y solo se puede activar una vez cada 1.5 s.\nDespués de 30 s, o una vez que los efectos de la habilidad se hayan disipado tras lanzarla, Tartaglia regresa a su posición de combate a distancia, y esta habilidad entra en TdE. Cuanto más tiempo permanezca Tartaglia en su posición de combate cuerpo a cuerpo, más durará el TdE. Si el retorno a la posición de combate a distancia se produce automáticamente después de 30 s, el TdE será aún más largo.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Caos: Obliteración",
+      "unlock": "Habilidad Definitiva",
+      "description": "Realiza diferentes ataques dependiendo de la posición de Tartaglia:\nCombate a distancia: Flecha del caos Dispara rápidamente una flecha mágica Hydro, infligiendo Daño Hydro en el AdE y aplicando el estado de Obstrucción del flujo. Tras lanzar la habilidad, devuelve una parte de su costo de Energía Elemental.\nCombate cuerpo a cuerpo: Luz de obliteración Realiza un corte con una gran AdE, infligiendo una gran cantidad de Daño Hydro a todos los enemigos cercanos y provocando Obstrucción del flujo: Estallido.\nObstrucción del flujo: Estallido Al atacar con Luz de obliteración a un enemigo afectado por Obstrucción del flujo, consumirá dicho efecto y creará una hidroexplosión, infligiendo Daño Hydro en el AdE. El daño que inflige Obstrucción del flujo: Estallido se considera daño de Habilidad Definitiva.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Infinito sinfín",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Aumenta en 8 s la duración de Obstrucción del flujo.",
+      "level": 1
+    },
+    {
+      "name": "Espada hidromorfa",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Cuando Tartaglia está en la posición de combate cuerpo a cuerpo de Legado del mal: Olas furiosas, si los Ataques Normales o Cargados hacen Daño CRIT, el enemigo golpeado será afectado por Obstrucción del flujo.",
+      "level": 4
+    },
+    {
+      "name": "Maestro de armas",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Aumenta en 1 el nivel del ATQ normal de todos los miembros de tu equipo."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Legado del mal: Retención de la marea",
+      "unlock": "Constelación Nivel 1",
+      "description": "El TdE de Legado del mal: Olas furiosas se reduce un 20%.",
+      "level": 1
+    },
+    {
+      "name": "Legado del mal: Transfondo",
+      "unlock": "Constelación Nivel 2",
+      "description": "Cuando los enemigos afectados por obstrucción del flujo son derrotados, Tartaglia restaura 4 pts. de Energía Elemental.",
+      "level": 2
+    },
+    {
+      "name": "Calamidad del Abismo: Fuente del conflicto",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Legado del mal: Olas furiosas +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Calamidad del Abismo: Hidrocontención",
+      "unlock": "Constelación Nivel 4",
+      "description": "Si Tartaglia está en la posición de combate cuerpo a cuerpo de Legado del mal: Olas furiosas, realizará Obstrucción del flujo: Corte cada 4 s contra los enemigos afectados por obstrucción del flujo. Si está en posición de combate a distancia, en su lugar, realizará Obstrucción del flujo: Destello.\nLa Obstrucción del flujo: Corte y Obstrucción del flujo: Destello desencadenadas mediante el efecto de esta constelación no están sujetas a los intervalos de tiempo que se les aplicaría normalmente, ni tampoco afectarán a los tiempos de dichas habilidades.",
+      "level": 4
+    },
+    {
+      "name": "Caos: Corte líquido",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Caos: Obliteración +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Caos: Extinción del ángel",
+      "unlock": "Constelación Nivel 6",
+      "description": "En combate cuerpo a cuerpo, al lanzar Caos: Obliteración, el TdE de Legado del Mal: Olas furiosas termina inmediatamente.\nEl efecto tiene lugar una vez que Tartaglia vuelve a la posición de combate a distancia.",
+      "level": 6
+    }
+  ],
+  "vision_key": "HYDRO",
+  "weapon_type": "BOW"
+}

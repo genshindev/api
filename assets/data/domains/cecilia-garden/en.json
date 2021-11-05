@@ -9,25 +9,33 @@
       "level": 1,
       "adventureRank": 16,
       "recommendedLevel": 15,
-      "leyLineDisorder": ["Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-80% Reduce CD) until the inflicted Hydro element is removed."]
+      "leyLineDisorder": [
+        "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-80% Reduce CD) until the inflicted Hydro element is removed."
+      ]
     },
     {
       "level": 2,
       "adventureRank": 21,
       "recommendedLevel": 36,
-      "leyLineDisorder": ["Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-100% Reduce CD) until the inflicted Hydro element is removed."]
+      "leyLineDisorder": [
+        "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-100% Reduce CD) until the inflicted Hydro element is removed."
+      ]
     },
     {
       "level": 3,
       "adventureRank": 30,
       "recommendedLevel": 59,
-      "leyLineDisorder": ["Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-100% Reduce CD) until the inflicted Hydro element is removed."]
+      "leyLineDisorder": [
+        "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-100% Reduce CD) until the inflicted Hydro element is removed."
+      ]
     },
     {
       "level": 4,
       "adventureRank": 40,
       "recommendedLevel": 80,
-      "leyLineDisorder": ["Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-100% Reduce CD) until the inflicted Hydro element is removed."]
+      "leyLineDisorder": [
+        "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-100% Reduce CD) until the inflicted Hydro element is removed."
+      ]
     }
   ],
   "recommendedElements": ["Electro", "Cryo", "Pyro"],

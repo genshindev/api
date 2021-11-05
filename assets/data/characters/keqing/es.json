@@ -1,0 +1,90 @@
+{
+  "name": "Keqing",
+  "vision": "Electro",
+  "weapon": "Espada Ligera",
+  "nation": "Liyue",
+  "affiliation": "Siete Estrellas de Liyue",
+  "rarity": 5,
+  "constellation": "Trulla Cementarii",
+  "birthday": "0000-11-20",
+  "description": "El Equilibrio Terrenal de las Siete Estrellas de Liyue. Tiene su opinión sobre el gobierno de Rex Lapis en Liyue, pero, en verdad, a los dioses les gustan bastante los escépticos como ella.",
+  "skillTalents": [
+    {
+      "name": "Estilo Yunlai",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 5 ataques rápidos.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\nAtaque descendiente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Retorno estelar",
+      "unlock": "Habilidad Elemental",
+      "description": "Lanza una Cuña relámpago que aniquila a sus enemigos como un rayo veloz.\nCuando la cuña golpea a su objetivo, inflige Daño Electro a los enemigos en un AdE pequeña, y añade una Marca de Cuña en el lugar donde golpea.\nMantener pulsado: Mantén pulsado para ajustar la dirección en la que se lanzará la cuña. Las cuñas lanzadas al mantener presionado pueden suspenderse en el aire, permitiendo que Keching salte hacia ellas al usar Retorno estelar por segunda vez.\n\nCuña relámpago: Si Keching usa Retorno estelar de nuevo o hace un Ataque Cargado durante la habilidad, borrará la Marca de Cuña y producirá diferentes efectos:\nSi vuelve a usar Retorno Estelar, se teletransportará hasta la ubicación de la marca y desatará un ataque cortante que inflige Daño Electro en el AdE. Al teletransportarse a una cuña lanzada al mantener presionado, Keching ignora los obstáculos del terreno.\nSi Keching usa un Ataque Cargado, desencadenará una serie de cortes de tormenta en la Marca de Cuña, infligiendo Daño Electro en el AdE.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Paseo celestial",
+      "unlock": "Habilidad Definitiva",
+      "description": "Keching desata el poder del rayo, infligiendo Daño Electro en el AdE. Después, se funde en la sombra de su espada y ataca con una serie de golpes relámpago a los enemigos infligiendo, al mismo tiempo, Daño Electro. El ataque final inflige una gran cantidad de Daño Electro en el AdE.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Penitencia del trueno",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Al utilizar Retorno estelar mientras esté presente una cuña relámpago, Keching se imbuye del Elemento Electro durante 5 s.",
+      "level": 1
+    },
+    {
+      "name": "Dignidad aristocrática",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Al lanzar Paseo celestial, la Prob. CRIT y la Recarga de Energía de Keching incrementan en un 15%. Este efecto dura 8 s.",
+      "level": 4
+    },
+    {
+      "name": "Supervisora de la tierra",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Reduce en un 25% el tiempo necesario para completar una expedición en Liyue."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Fuerza atronadora",
+      "unlock": "Constelación Nivel 1",
+      "description": "Usar Retorno estelar mientras está presente una cuña relámpago hace que Keching inflija un 50% de su ATQ como Daño Electro en el AdE en el punto de inicio y de reaparicióne.",
+      "level": 1
+    },
+    {
+      "name": "Impuestos desorbitantes",
+      "unlock": "Constelación Nivel 2",
+      "description": "Cuando los Ataques Normales y Cargados de Keching golpean a enemigos afectados por Electro, hay una probabilidad del 50% de crear una partícula elemental. Este efecto solo puede ocurrir una vez cada 5 s.",
+      "level": 2
+    },
+    {
+      "name": "Reforma anticipada",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Paseo celestial +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Sintonización",
+      "unlock": "Constelación Nivel 4",
+      "description": "Cuando Keching causa una Reacción Elemental con Electro, su ATQ aumenta en un 25% durante 10 s.",
+      "level": 4
+    },
+    {
+      "name": "Luces viajeras",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Retorno estelar +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Estrella tenaz",
+      "unlock": "Constelación Nivel 6",
+      "description": "Al hacer un Ataque Normal, un Ataque Cargado, una Habilidad Elemental o una Habilidad Definitiva, Keching obtiene un 6% de Bono de Daño Electro durante 8 s.\nLos efectos activados por Ataques Normales, Ataques Cargados, Habilidades Elementales y Habilidades Definitivas serán independientes unos de otros.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "SWORD"
+}

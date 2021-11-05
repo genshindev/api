@@ -1,0 +1,90 @@
+{
+  "name": "Xiangling",
+  "vision": "Pyro",
+  "weapon": "Lanza",
+  "nation": "Liyue",
+  "affiliation": "Restaurante Wanmin",
+  "rarity": 4,
+  "constellation": "Trullae",
+  "birthday": "0000-11-02",
+  "description": "Una reconocida chef de Liyue. Siente una gran pasión por la cocina y sus platos picantes son de una excelente calidad.",
+  "skillTalents": [
+    {
+      "name": "Kung-Fu pasta",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 5 ataques rápidos.\nAtaque Cargado:\nConsume cierta cantidad de Aguante para lanzarse al frente, infligiendo daño a los enemigos en el camino.\nAtaque descendiente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Ataque de Guoba",
+      "unlock": "Habilidad Elemental",
+      "description": "Invoca al Panda Guoba. Guoba escupe fuego continuamente hacia el enemigo, infligiendo Daño Pyro de Área.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Pyronado",
+      "unlock": "Habilidad Definitiva",
+      "description": "Haciendo muestra de su dominio sobre el fuego y las lanzas, Xiangling provoca un Torbellino de llamas a su alrededor. El torbellino se mueve con el personaje durante su efecto, infligiendo Daño Pyro a todos los enemigos en su camino.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Fuego cruzado",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "El alcance del lanzallamas de Guoba aumenta un 20%.",
+      "level": 1
+    },
+    {
+      "name": "¡Cuidado, que pica!",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Cuando termina el Ataque de guoba, Guoba deja chiles en el lugar donde desaparece. Obtén los chiles para aumentar el ATQ un 10% durante 10 s.",
+      "level": 4
+    },
+    {
+      "name": "Chef de cocina",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Cuando se logra un \"Perfecto\" en un plato con efectos de ataque, hay un 12% de posibilidades de obtener el doble de cantidad del producto."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Crujiente por fuera, tierno por dentro",
+      "unlock": "Constelación Nivel 1",
+      "description": "Reduce la RES Pyro de los enemigos atacados por Guoba en un 15% durante 6 s.",
+      "level": 1
+    },
+    {
+      "name": "Aceite y fuego",
+      "unlock": "Constelación Nivel 2",
+      "description": "El último golpe del Ataque Normal aplica sobre el enemigo un estado de implosión durante 2 s. Tras ese tiempo, el enemigo explotará, infligiendo un 75% de Daño Pyro en el AdE.",
+      "level": 2
+    },
+    {
+      "name": "Que quede bien frito",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Pyronado +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "A fuego lento",
+      "unlock": "Constelación Nivel 4",
+      "description": "Aumenta en un 40% la duración de Pyronado.",
+      "level": 4
+    },
+    {
+      "name": "Guoba furioso",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Ataque de Guoba +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Pyronado condensado",
+      "unlock": "Constelación Nivel 6",
+      "description": "Mientras Pyronado esté activo, todos los miembros del equipo obtienen un 15% de Bono de Daño Pyro.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "POLEARM"
+}

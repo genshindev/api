@@ -13,3 +13,4 @@ yarn-error.log*
 lerna-debug.log*
 
 nodemon.json
+package-lock.json
