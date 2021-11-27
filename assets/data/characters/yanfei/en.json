@@ -54,21 +54,17 @@
       "type": "NORMAL_ATTACK"
     },
     {
-      "name": "Jade Screen",
-      "unlock": "Signed Edict",
+      "name": "Signed Edict",
+      "unlock": "Elemental Skill",
       "description": "Summons blistering flames that deal AoE Pyro DMG.\nIf this attack hits an enemy, Yanfei is granted the maximum number of Scarlet Seals.",
       "upgrades": [
         {
-          "name": "Inherited HP",
-          "value": "50.1%"
-        },
-        {
           "name": "Skill DMG",
-          "value": "230%"
+          "value": "169.6%"
         },
         {
           "name": "CD",
-          "value": "12s"
+          "value": "9s"
         }
       ],
       "type": "ELEMENTAL_SKILL"
