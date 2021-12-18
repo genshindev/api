@@ -1,0 +1,173 @@
+{
+    "name": "Arataki Itto",
+    "vision": "Geo",
+    "weapon": "Claymore",
+    "nation": "Inazuma",
+    "affiliation": "Arataki Gang Oni",
+    "rarity": 5,
+    "constellation": "Taurus Iracundus",
+    "birthday": "0000-06-01",
+    "description": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?",
+    "skillTalents": [
+      {
+        "name": "Fight Club Legend",
+        "unlock": "Normal Attack",
+        "description": "Normal Attack\nPerform up to 4 consecutive strikes.\nCharged Attack\nWhen holding to perform a Charged Attack, Itto unleashes a series of Arataki Kesagiri slashes without consuming Stamina. Instead, each Arataki Kesagiri slash consumes 1 stack of Superlative Superstrength. When the final stack is consumed, Itto delivers a powerful final slash. If no stacks of Superlative Superstrength are available, Itto will perform a single Saichimonji Slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "upgrades": [
+          {
+            "name": "1-Hit DMG",
+            "value": "79.2%"
+          },
+          {
+            "name": "2-Hit DMG",
+            "value": "76.4%"
+          },
+          {
+            "name": "3-Hit DMG",
+            "value": "91.6%"
+          },
+          {
+            "name": "4-Hit DMG",
+            "value": "117.2%"
+          },
+          {
+            "name": "Arataki Kesagiri Combo Slash DMG",
+            "value": "91.2%"
+          },
+          {
+            "name": "Arataki Kesagiri Final Slash DMG",
+            "value": "190.1%"
+          },
+          {
+            "name": "Superlative Superstrength Duration",
+            "value": "60s"
+          },
+          {
+            "name": "Saichimonji Slash DMG",
+            "value": "90.5$"
+          },
+          {
+            "name": "Plunge DMG",
+            "value": "81.8%"
+          },
+          {
+            "name": "Low / High Plunge DMG",
+            "value": "163.6% / 204.4%"
+          }
+        ],
+        "type": "NORMAL_ATTACK"
+      },
+      {
+        "name": "Masatsu Zetsugi: Akaushi Burst!",
+        "unlock": "Elemental Skill",
+        "description": "Hurls Ushi, the young akaushi bull and auxiliary member of the Arataki Gang, dealing Geo DMG to opponents on hit. When Ushi hits opponents, Arataki Itto gains 1 stack of Superlative Superstrength.",
+        "upgrades": [
+          {
+            "name": "Skill DMG",
+            "value": "307.2%"
+          },
+          {
+            "name": "Inherited HP",
+            "value": "100%"
+          },
+          {
+            "name": "Duration",
+            "value": "6s"
+          },
+          {
+            "name": "CD",
+            "value": "10s"
+          }
+        ],
+        "type": "ELEMENTAL_SKILL"
+      },
+      {
+        "name": "Royal Descent: Behold, Itto the Evil!",
+        "unlock": "Elemental Burst",
+        "description": "Time to show 'em the might of the Arataki Gang! For a time, Itto lets out his inner Raging Oni King, wielding his Oni King's Kanabou in battle.",
+        "upgrades": [
+          {
+            "name": "ATK Bonus",
+            "value": "57.6% DEF"
+          },
+          {
+            "name": "ATK SPD Bonus",
+            "value": "10%"
+          },
+          {
+            "name": "Duration",
+            "value": "11s"
+          },
+          {
+            "name": "CD",
+            "value": "18s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "70"
+          }
+        ],
+        "type": "ELEMENTAL_BURST"
+      }
+    ],
+    "passiveTalents": [
+      {
+        "name": "Woodchuck Chucked",
+        "unlock": "Unlocked Automatically",
+        "description": "When a party member uses attacks to obtain wood from a tree, they have a 25% chance to get an additional log of wood."
+      },
+      {
+        "name": "Arataki Ichiban",
+        "unlock": "Unlocked at Ascension 1",
+        "description": "When Arataki Itto uses consecutive Arataki Kesagiri, he obtains the following effects:\n • Each slash increases the ATK SPD of the next slash by 10%. Max ATK SPD increase is 30%.\n • Increases his resistance to interruption.\nThese effects will be cleared once he stops performing consecutive slashes.",
+        "level": 1
+      },
+      {
+        "name": "Bloodline of the Crimson Oni",
+        "unlock": "Unlocked at Ascension 4",
+        "description": "Arataki Kesagiri DMG is increased by 35% of Arataki Itto's DEF.",
+        "level": 1
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Stay a While and Listen Up",
+        "unlock": "Constellation Lv. 1",
+        "description": "Royal Descent: Behold, Itto the Evil!, Arataki Itto gains 2 stacks of Superlative Superstrength. After 1s, Itto will gain 1 stack of Superlative Superstrength every 0.5s for 1.5s.",
+        "level": 1
+      },
+      {
+        "name": "Gather 'Round, It's a Brawl!",
+        "unlock": "Constellation Lv. 2",
+        "description": "Geo will decrease that skill's CD by 1.5s and restore 6 Energy to Arataki Itto. CD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored in this manner.",
+        "level": 2
+      },
+      {
+        "name": "Horns Lowered, Coming Through",
+        "unlock": "Constellation Lv. 3",
+        "description": "Masatsu Zetsugi: Akaushi Burst! by 3. Maximum upgrade level is 15.",
+        "level": 3
+      },
+      {
+        "name": "Jailhouse Bread and Butter",
+        "unlock": "Constellation Lv. 4",
+        "description": "When the Raging Oni King state caused by Royal Descent: Behold, Itto the Evil! ends, all nearby party members gain 20% DEF and 20% ATK for 10s.",
+        "level": 4
+      },
+      {
+        "name": "10 Years of Hanamizaka Fame",
+        "unlock": "Constellation Lv. 5",
+        "description": "Royal Descent: Behold, Itto the Evil! by 3. Maximum upgrade level is 15.",
+        "level": 5
+      },
+      {
+        "name": "Arataki Itto, Present!",
+        "unlock": "Constellation Lv. 6",
+        "description": "Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses Arataki Kesagiri, he has a 50% chance to not consume stacks of Superlative Superstrength.",
+        "level": 6
+      }
+    ],
+    "vision_key": "GEO",
+    "weapon_type": "CLAYMORE"
+  }
+  
