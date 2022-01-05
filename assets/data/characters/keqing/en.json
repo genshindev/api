@@ -164,5 +164,15 @@
     }
   ],
   "vision_key": "ELECTRO",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "outfits": [
+    {
+      "type": "Formal",
+      "name": "Opulent Splendor",
+      "description": "Keqing's formal wear. Amidst the beautiful dawn of the Lantern Rite, the threads weaved by days of hard work intertwine into a light yet magnificent appearance.",
+      "rarity": 4,
+      "price": 1680,
+      "image": "outfit-opulent-splendor"
+    }
+  ]
 }
