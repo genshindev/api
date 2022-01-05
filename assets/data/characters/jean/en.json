@@ -168,5 +168,15 @@
     }
   ],
   "vision_key": "ANEMO",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "outfits": [
+    {
+      "type": "Summer",
+      "name": "Sea Breeze Dandelion",
+      "description": "Jean's summer wear. Light and cool, but no less elegant for it. The perfect choice for a trip to the seaside.",
+      "rarity": 4,
+      "price": 1680,
+      "image": "outfit-sea-breeze-dandelion"
+    }
+  ]
 }
