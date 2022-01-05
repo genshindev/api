@@ -156,5 +156,15 @@
     }
   ],
   "vision_key": "HYDRO",
-  "weapon_type": "CATALYST"
+  "weapon_type": "CATALYST",
+  "outfits": [
+    {
+      "type": "Summer",
+      "name": "Summertime Sparkle",
+      "description": "Barbara's beach attire. This pretty skirt brims with summer vitality and carries with it a cool ocean breeze.",
+      "rarity": 4,
+      "price": 1680,
+      "image": "outfit-summertime-sparkle"
+    }
+  ]
 }
