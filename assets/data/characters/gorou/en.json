@@ -1,0 +1,92 @@
+{
+  "name": "Gorou",
+  "title": "Canine Warrior",
+  "vision": "Geo",
+  "weapon": "Bow",
+  "gender": "Male",
+  "nation": "Inazuma",
+  "affiliation": "Watatsumi Island",
+  "rarity": 4,
+  "constellation": "Canis Bellatoris",
+  "birthday": "0000-05-18",
+  "description": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
+  "skillTalents": [
+    {
+      "name": "Ripping Fang Fletching",
+      "unlock": "Normal attack",
+      "description": "Normal Attack\nPerform up to 4 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\nWhile aiming, stone crystals will accumulate on the arrowhead. A fully charged crystalline arrow will deal Geo DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Inuzaka All-Round Defense",
+      "unlock": "Elemental skill",
+      "description": "Deals AoE Geo DMG and sets up a General's War Banner.\nGeneral's War Banner\nProvides up to 3 buffs to active characters within the skill's AoE based on the number of Geo characters in the party at the time of casting:\n- 1 Geo character: Adds \"Standing Firm\" - DEF Bonus.\n- 2 Geo characters: Adds \"Impregnable\" - Increased resistance to interruption.\n- 3 Geo characters: Adds \"Crunch\" - Geo DMG Bonus.\nGorou can deploy only 1 General's War Banner on the field at any one time. Characters can only benefit from 1 General's War Banner at a time. When a party member leaves the field, the active buff will last for 2s.\nHold\nAdjust the location of the skill.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Juuga: Forward Unto Victory",
+      "unlock": "Elemental burst",
+      "description": "Displaying his valor as a general, Gorou deals AoE Geo DMG and creates a field known as General's Glory to embolden his comrades.\nGeneral's Glory\nThis field has the following properties:\n- Like the General's War Banner created by Inuzaka All-Round Defense, provides buffs to active characters within the skill's AoE based on the number of Geo characters in the party. Also moves together with your active character.\n- Generates 1 Crystal Collapse every 1.5s that deals AoE Geo DMG to 1 opponent within the skill's AoE.\n- Pulls 1 elemental shard in the skill's AoE to your active character's position every 1.5s (elemental shards are created by Crystallize reactions).\nIf a General's War Banner created by Gorou currently exists on the field when this ability is used, it will be destroyed. In addition, for the duration of General's Glory, Gorou's Elemental Skill \"Inuzaka All-Round Defense\" will not create the General's War Banner.\nIf Gorou falls, the effects of General's Glory will be cleared.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Seeker of Shinies",
+      "unlock": "Unlocked Automatically",
+      "description": "Displays the location of nearby resources unique to Inazuma on the mini-map."
+    },
+    {
+      "name": "Heedless of the Wind and Weather",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "After using Juuga: Forward Unto Victory, all nearby party members' DEF is increased by 25% for 12s.",
+      "level": 1
+    },
+    {
+      "name": "A Favor Repaid",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "Gorou receives the following DMG Bonuses to his attacks based on his DEF:\n- Inuzaka All-Round Defense: Skill DMG increased by 156% of DEF\n- Juuga: Forward Unto Victory: Skill DMG and Crystal Collapse DMG increased by 15.6% of DEF",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Rushing Hound: Swift as the Wind",
+      "unlock": "Constellation Lv. 1",
+      "description": "When characters (other than Gorou) within the AoE of Gorou's General's War Banner or General's Glory deal Geo DMG to opponents, the CD of Gorou's Inuzaka All-Round Defense is decreased by 2s.\nThis effect can occur once every 10s.",
+      "level": 1
+    },
+    {
+      "name": "Sitting Hound: Steady as a Clock",
+      "unlock": "Constellation Lv. 2",
+      "description": "While General's Glory is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction.\nThis effect can occur once every 0.1s. Max extension is 3s.",
+      "level": 2
+    },
+    {
+      "name": "Mauling Hound: Fierce as Fire",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Inuzaka All-Round Defense by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Lapping Hound: Warm as Water",
+      "unlock": "Constellation Lv. 4",
+      "description": "When General's Glory is in the \"Impregnable\" or \"Crunch\" states, it will also heal active characters within its AoE by 50% of Gorou's own DEF every 1.5s.",
+      "level": 4
+    },
+    {
+      "name": "Striking Hound: Thunderous Force",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Juuga: Forward Unto Victory by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Valiant Hound: Mountainous Fealty",
+      "unlock": "Constellation Lv. 6",
+      "description": "For 12s after using Inuzaka All-Round Defense or Juuga: Forward Unto Victory, increases the CRIT DMG of all nearby party members' Geo DMG based on the buff level of the skill's field at the time of use:\n- \"Standing Firm\": +10%\n- \"Impregnable\": +20%\n- \"Crunch\": +40%\nThis effect cannot stack and will take reference from the last instance of the effect that is triggered.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "BOW"
+}

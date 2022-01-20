@@ -1,0 +1,92 @@
+{
+  "name": "Xiao",
+  "title": "Gardien Yaksha",
+  "vision": "Anemo",
+  "weapon": "Lance",
+  "gender": "Homme",
+  "nation": "Liyue",
+  "affiliation": "Adeptes de Liyue",
+  "rarity": 5,
+  "constellation": "Alatus Nemeseos",
+  "birthday": "0000-04-17",
+  "description": "Un des Adeptes de Liyue, aussi connu sous le nom de « Dompteur de démons » et « Général des Yakshas ».",
+  "skillTalents": [
+    {
+      "name": "Coup de tourbillon",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 6 coups de lance.\nAttaque chargée\nConsomme de l'endurance pour exécuter une attaque ascendante.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.\nXiao ne subit pas de DGT lorsqu'il exécute une attaque plongeante.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Cycle du vent lemniscatique",
+      "unlock": "Compétence élémentaire",
+      "description": "Xiao se précipite vers l'avant, infligeant des DGT Anémo aux ennemis sur sa route.\nFonctionne aussi dans les airs.\nXiao commence avec 2 charges.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Fléau du mal",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Xiao revêt le Masque du Yaksha, qui, il y a bien longtemps, fit trembler dieux et démons.\nMasque du Yaksha\n- Améliore considérablement la capacité de saut de Xiao.\n- Augmente la portée et les DGT d'attaque.\n- Les DGT d'attaque sont convertis en DGT Anémo ne pouvant pas être enchantés.\nCet effet consomme des PV de façon continue.\nL'état prend fin lorsque Xiao quitte le champ de bataille.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Transcendance : Contrôleur de gravité",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors de l'escalade.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques."
+    },
+    {
+      "name": "Dompteur de démons : Conquérant du mal",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Xiao inflige 5 % de DGT supplémentaires tant que Fléau du mal est actif. Un cumul de 5 % de DGT supplémentaires est ensuite appliqué toutes les 3 s tant que dure la compétence.\nCumul max : 25 % de DGT supplémentaires.",
+      "level": 1
+    },
+    {
+      "name": "Dissolution d'éon : Chute des cieux",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Cycle du vent lemniscatique inflige 15 % de DGT en plus lorsqu'il est relancé dans les 7 s.\nCet effet dure 7 s et peut être cumulé 3 fois au maximum. Le délai est réinitialisé à chaque nouveau cumul.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Dissolution d'éon : Destructeur de mondes",
+      "unlock": "Constellation Niv. 1",
+      "description": "Confère une charge supplémentaire pour Cycle du vent lemniscatique.",
+      "level": 1
+    },
+    {
+      "name": "Annihilation d'éon : Fleur du kaléidoscope",
+      "unlock": "Constellation Niv. 2",
+      "description": "La recharge d'énergie de Xiao augmente de 25 % lorsqu'il fait partie de l'équipe mais n'est pas déployé.",
+      "level": 2
+    },
+    {
+      "name": "Dompteur de démons : Déité de la colère",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Cycle du vent lemniscatique +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Transcendance : Extinction de la souffrance",
+      "unlock": "Constellation Niv. 4",
+      "description": "Xiao bénéficie d'un bonus de DÉF de 100 % quand ses PV sont inférieurs à 50 %.",
+      "level": 4
+    },
+    {
+      "name": "Évolution d'éon : Origine de l'ignorance",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Fléau du mal +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Dompteur de démons : Gardien Yaksha",
+      "unlock": "Constellation Niv. 6",
+      "description": "Lorsque Fléau du mal est actif, les attaques plongeantes touchant au moins 2 ennemis confèrent immédiatement une charge de Cycle du vent lemniscatique supplémentaire, qui peut être activée dans la seconde qui suit, même s'il n'est pas entièrement rechargé.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ANEMO",
+  "weapon_type": "POLEARM"
+}

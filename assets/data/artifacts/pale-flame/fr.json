@@ -1,0 +1,6 @@
+{
+  "name": "Flamme blême",
+  "max_rarity": 5,
+  "2-piece_bonus": "Augmente les DGT physiques de 25 %.",
+  "4-piece_bonus": "Lorsqu'une compétence élémentaire touche un ennemi, l'ATQ augmente de 9 % pendant 7 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Une fois 2 cumuls atteints, l'effet du set de 2 pièces augmente de 100 %."
+}

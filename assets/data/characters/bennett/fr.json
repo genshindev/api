@@ -1,0 +1,92 @@
+{
+  "name": "Bennett",
+  "title": "Prince de la guigne",
+  "vision": "Pyro",
+  "weapon": "Épée",
+  "gender": "Homme",
+  "nation": "Mondstadt",
+  "affiliation": "Guilde des aventuriers",
+  "rarity": 4,
+  "constellation": "Rota Calamitas",
+  "birthday": "0000-03-01",
+  "description": "Un jeune aventurier originaire de Mondstadt. Sa gentillesse n'a d'égale que sa guigne.",
+  "skillTalents": [
+    {
+      "name": "Épée chanceuse",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 coups d'épée.\nAttaque chargée\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Surpassion",
+      "unlock": "Compétence élémentaire",
+      "description": "Bennett concentre l'élément Pyro et sa passion pour l'aventure sur son épée. Différentes choses se produisent selon le niveau de passion atteint...\nAppui simple\nBennett exécute un coup rapide de sa lame enflammée, infligeant des DGT Pyro aux ennemis en face.\nAppui long\nBennett effectue une charge qui donne des résultats différents selon le niveau de charge.\n- Niveau 1 : Bennett exécute une seconde attaque, qui inflige des DGT Pyro et projette les ennemis en l'air.\nNiveau 2 : Une troisième attaque complète l'enchaînement ; celle-ci inflige d'importants DGT Pyro. L'attaque se termine par une explosion, qui projette simultanément Bennett et les ennemis dans les airs.\nBennett ne subit pas de DGT lorsqu'il est projeté.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Merveilleux voyage",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Bennett exécute une attaque sautée qui inflige des DGT Pyro et génère un champ vertueux.\nChamp vertueux\n- Les personnages se trouvant dans le champ et ayant moins de 70 % de PV sont soignés d'une quantité de PV proportionnelle aux PV max de Bennett.\n- Les personnages se trouvant dans le champ et dont les PV sont supérieurs à 70 % obtiennent un bonus d'ATQ proportionnel à l'ATQ de base de Bennett.\n- Le champ vertueux applique l'élément Pyro à tous les personnages qui s'y trouvent.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "R.A.S.",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Mondstadt."
+    },
+    {
+      "name": "Renouveau de la passion",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Réduit le TdR de Surpassion de 20 %.",
+      "level": 1
+    },
+    {
+      "name": "Enthousiasme intrépide",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Dans le champ de Merveilleux voyage, Surpassion bénéficie des effets suivants :\n- TdR réduit de 50 %.\n- ne projette pas Bennett en l'air en niveau 2 de charge.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Perspective de voyage",
+      "unlock": "Constellation Niv. 1",
+      "description": "Le bonus d'ATQ conféré par Merveilleux voyage n'est plus soumis à la restriction de PV, et augmente numériquement l'ATQ de base de Bennett de 20 %.",
+      "level": 1
+    },
+    {
+      "name": "Brise-désespoir",
+      "unlock": "Constellation Niv. 2",
+      "description": "La recharge d'énergie de Bennett augmente de 30 % lorsque ses PV sont inférieurs à 70 %.",
+      "level": 2
+    },
+    {
+      "name": "Passion ardente",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Surpassion +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Enthousiasme éternel",
+      "unlock": "Constellation Niv. 4",
+      "description": "L'utilisation d'une attaque normale lors de l'exécution de la deuxième attaque du niveau 1 de charge de Surpassion permet d'effectuer une attaque supplémentaire.\nCelle-ci inflige 135 % des DGT de la deuxième attaque.",
+      "level": 4
+    },
+    {
+      "name": "Ouverture d'âme",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Merveilleux voyage +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Feu et courage",
+      "unlock": "Constellation Niv. 6",
+      "description": "Le champ de Merveilleux voyage confère à tous les personnages de l'équipe déployés et maniant une épée à une ou deux mains ou une arme d'hast qui s'y trouvent un bonus de DGT Pyro de 15 %, ainsi qu'un enchantement Pyro.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "SWORD"
+}

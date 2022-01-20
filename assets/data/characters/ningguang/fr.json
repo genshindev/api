@@ -1,0 +1,102 @@
+{
+  "name": "Ningguang",
+  "title": "Megrez de l'éclipse",
+  "vision": "Geo",
+  "weapon": "Catalyseur",
+  "gender": "Femme",
+  "nation": "Liyue",
+  "affiliation": "Sept Étoiles de Liyue",
+  "rarity": 4,
+  "constellation": "Opus Aequilibrium",
+  "birthday": "0000-08-26",
+  "description": "La Megrez des Sept Étoiles de Liyue. Peu de personnes peuvent se vanter d'être aussi riches à travers Teyvat.",
+  "skillTalents": [
+    {
+      "name": "Géo-dispersion",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nTire des gemmes qui infligent des DGT Géo.\nNingguang obtient un Jade d'étoile à chaque fois qu'une gemme touche un ennemi.\nAttaque chargée\nTire une gemme géante qui inflige des DGT Géo.\nSi Ningguang a obtenu des Jades d'étoile, l'attaque chargée les tire tous au même moment, infligeant des DGT supplémentaires.\nAttaque plongeante\nPlonge depuis les airs en concentrant ses pouvoirs Géo, infligeant des DGT aux ennemis en chemin et des DGT Géo de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Paravent d'astrolabe",
+      "unlock": "Compétence élémentaire",
+      "description": "Ningguang puise dans son opulence pour créer un paravent d'or et d'obsidienne infligeant des DGT Géo de zone.\nParavent d'astrolabe\n- Bloque les projectiles ennemis.\n- Les PV du paravent sont proportionnels aux PV max de Ningguang.\nLe paravent d'astrolabe est une construction Géo qui peut bloquer certaines attaques mais ne peut pas être escaladée. Il ne peut exister qu'un seul paravent à la fois.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Éclatement des étoiles",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Ningguang fait tournoyer plusieurs jades précieux à tête chercheuse autour d'elle, qu'elle relâche tous en même temps, infligeant ainsi d'importants DGT Géo.\nSi le paravent d'astrolabe est actif lorsque cette attaque est exécutée, il l'accompagne de tirs de jade supplémentaires.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Corne d'abondance",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Affiche la localisation des filons de minerai utilisables en forge proches sur la carte."
+    },
+    {
+      "name": "Plan de reprise",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "L'attaque chargée de Ningguang ne consomme pas d'endurance tant que celle-ci possède des Jades d'étoile.",
+      "level": 1
+    },
+    {
+      "name": "Réserve stratégique",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Confère pendant 10 s un bonus de DGT Géo de 12 % aux personnages qui traversent le Paravent d'astrolabe.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Fragments perforants",
+      "unlock": "Constellation Niv. 1",
+      "description": "Les attaques normales qui touchent infligent des DGT de zone.",
+      "level": 1
+    },
+    {
+      "name": "Effet de choc",
+      "unlock": "Constellation Niv. 2",
+      "description": "Le TdR de Paravent d'astrolabe est annulé lorsque ce dernier est brisé.\nCet effet peut être déclenché une fois toutes les 6 s.",
+      "level": 2
+    },
+    {
+      "name": "Alignement des étoiles",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Éclatement des étoiles +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Exquis soit le Jade, éclatant de toutes parts",
+      "unlock": "Constellation Niv. 4",
+      "description": "Paravent d'astrolabe augmente les RÉS élémentaires des personnages à proximité de 10 %.",
+      "level": 4
+    },
+    {
+      "name": "Invincible soit le Paravent d'astrolabe",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Paravent d'astrolabe +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Grandeur soit les Sept Étoiles",
+      "unlock": "Constellation Niv. 6",
+      "description": "L'activation d'Éclatement des étoiles confère 7 Jades d'étoile à Ningguang.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "CATALYST",
+  "outfits": [
+    {
+      "type": "Formel",
+      "name": "Robe de soirée d'orchidées",
+      "description": "Tenue formelle de Ningguang. La longue jupe bleue épouse ses formes élégantes et les ailes de papillons à ses chevilles ajoutent une touche aérienne.",
+      "rarity": 4,
+      "price": 1680,
+      "image": "outfit-orchids-evening-gown"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Shenhe",
+  "title": "Lonesome Transcendence",
+  "vision": "Cryo",
+  "weapon": "Polearm",
+  "gender": "Female",
+  "nation": "Liyue",
+  "affiliation": "Liyue Harbor",
+  "rarity": 5,
+  "constellation": "Crista Doloris",
+  "birthday": "0000-03-10",
+  "description": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
+  "skillTalents": [
+    {
+      "name": "Dawnstar Piercer",
+      "unlock": "Normal attack",
+      "description": "Normal Attack\nPerforms up to five consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Spring Spirit Summoning",
+      "unlock": "Elemental skill",
+      "description": "The frosted dew, silvery and dense, shall exorcise all demons.\nGrants all nearby party members the Icy Quill effect and deals Cryo DMG in different ways based on whether it is {LAYOUT_MOBILE#tapped}{LAYOUT_PC#pressed}{LAYOUT_PS#pressed} or held.\nPress\nRushes forward together with a Talisman Spirit, dealing Cryo DMG to opponents along the path.\nHold\nCommands the Talisman Spirit to deal AoE Cryo DMG.\nIcy Quill\nWhen Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts deal Cryo DMG to opponents, the DMG dealt is increased based on Shenhe's current ATK.\nThe Icy Quill's effects will be cleared once its duration ends or after being triggered a certain number of times. When held rather than {LAYOUT_MOBILE#tapped}{LAYOUT_PC#pressed}{LAYOUT_PS#pressed}, the Icy Quill's effect lasts longer and can be triggered more times.\nWhen one Cryo DMG instance strikes multiple opponents, the effect is triggered multiple times based on the number of opponents hit. The number of times the effect is triggered is calculated independently for each party member with the Icy Quill.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Divine Maiden's Deliverance",
+      "unlock": "Elemental burst",
+      "description": "Unleashes the power of the Talisman Spirit, allowing it to roam free in this plane, dealing AoE Cryo DMG.\nThe Talisman Spirit then creates a field that decreases the Cryo RES and Physical RES of opponents within it. It also deals periodic Cryo DMG to opponents within the field.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Precise Comings and Goings",
+      "unlock": "Unlocked Automatically",
+      "description": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours."
+    },
+    {
+      "name": "Deific Embrace",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "An active character within the field created by Divine Maiden's Deliverance gains 15% Cryo DMG Bonus.",
+      "level": 1
+    },
+    {
+      "name": "Spirit Communion Seal",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "After Shenhe uses Spring Spirit Summoning, she will grant all nearby party members the following effects:\n- Press: Elemental Skill and Elemental Burst DMG increased by 15% for 10s.\n- Hold: Normal, Charged, and Plunging Attack DMG increased by 15% for 15s.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Clarity of Heart",
+      "unlock": "Constellation Lv. 1",
+      "description": "Spring Spirit Summoning can be used 1 more time.",
+      "level": 1
+    },
+    {
+      "name": "Centered Spirit",
+      "unlock": "Constellation Lv. 2",
+      "description": "Divine Maiden's Deliverance lasts for 6 seconds longer. Active characters within the skill's field deals 15% increased Cryo CRIT DMG.",
+      "level": 2
+    },
+    {
+      "name": "Seclusion",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Spring Spirit Summoning by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Insight",
+      "unlock": "Constellation Lv. 4",
+      "description": "When characters under the effect of Icy Quill applied by Shenhe trigger its DMG Bonus effects, Shenhe will gain a Skyfrost Mantra stack:\n- When Shenhe uses Spring Spirit Summoning, she will consume all stacks of Skyfrost Mantra, increasing the DMG of that Spring Spirit Summoning by 5% for each stack consumed.\n- Max 50 stacks. Stacks last for 60s.",
+      "level": 4
+    },
+    {
+      "name": "Divine Attainment",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Divine Maiden's Deliverance by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Mystical Abandon",
+      "unlock": "Constellation Lv. 6",
+      "description": "When characters trigger Icy Quill's effects using Normal and Charged Attack DMG, it does not count toward the Trigger Quota.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "POLEARM"
+}

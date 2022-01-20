@@ -1,0 +1,84 @@
+{
+  "name": "Traveler",
+  "vision": "Electro",
+  "weapon": "Épée",
+  "nation": "Étranger",
+  "affiliation": "N'est affilié à aucune nation",
+  "rarity": 5,
+  "constellation": "Viatrix",
+  "birthday": "0000-01-00",
+  "description": "{M#Un voyageur}{F#Une voyageuse} venant d'un autre monde qui a été {M#séparé}{F#séparée} de {M#sa sœur}{F#son frère}. {M#Il}{F#Elle} débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de {M#la}{F#le} retrouver.",
+  "skillTalents": [
+    {
+      "name": "Tonnerre venu d'ailleurs",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 coups d'épée.\nAttaque chargée\nConsomme de l'endurance pour exécuter deux coups d'épée rapides.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Lame d'éclair",
+      "unlock": "Compétence élémentaire",
+      "description": "Libère trois ombres de foudre rapides, qui infligent des DGT Électro aux ennemis, et laissent une amulette d'abondance lorsqu'elles touchent un ennemi.\nJusqu'à 2 amulettes d'abondance peuvent être ainsi générées. Réutiliser la compétence annule les amulettes d'abondance générées.\nAmulettes d'abondance\nLorsqu'un personnage s'approche d'une amulette d'abondance, il l'absorbe et obtient les effets suivants :\nSon énergie élémentaire se régénère ;\nSa recharge d'énergie élémentaire augmente.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Tonnerre hurlant",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Vous invoquez la protection de la foudre, qui repousse les ennemis proches et leur inflige des DGT Électro.\nVoile de foudre\nLes attaques chargées ou normales du personnage déployé font pleuvoir la Foudre majestueuse lorsqu'elles touchent, qui inflige des DGT Électro.\nLorsque la Foudre majestueuse touche un ennemi, elle fait récupérer de l'énergie élémentaire à ce personnage.\nJusqu'à 1 Foudre majestueuse peut être déclenchée toutes les 0,5 s.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Éclair soudain",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Réduit de 1,5 s le TdR de Lame d'éclair lorsqu'un autre personnage proche absorbe l'amulette d'abondance générée par Lame d'éclair."
+    },
+    {
+      "name": "Tonnerre retentissant",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Confère un bonus supplémentaire de recharge d'énergie à l'amulette d'abondance générée par Lame d'éclair équivalant à 10 % de la recharge d'énergie {M#du voyageur}{F#de la voyageuse}.",
+      "level": 1
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Orage de récolte printanière",
+      "unlock": "Constellation Niv. 1",
+      "description": "Augmente le nombre d'amulettes d'abondance pouvant être générées avec Lame d'éclair à 3.",
+      "level": 1
+    },
+    {
+      "name": "Véhémence pourpre",
+      "unlock": "Constellation Niv. 2",
+      "description": "Réduit de 15 % pendant 8 s la RÉS Électro des ennemis ayant été touchés par la Foudre majestueuse de Tonnerre hurlant.",
+      "level": 2
+    },
+    {
+      "name": "Grondement lointain",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Tonnerre hurlant +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Cumulonimbus imprévisible",
+      "unlock": "Constellation Niv. 4",
+      "description": "Si l'énergie élémentaire d'un personnage obtenant une amulette d'abondance générée par Lame d'éclair est inférieure à 35 %, l'énergie restaurée par l'amulette d'abondance augmente de 100 %.",
+      "level": 4
+    },
+    {
+      "name": "Clameurs de la nature",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Lame d'éclair +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Secousse céleste",
+      "unlock": "Constellation Niv. 6",
+      "description": "Toutes les 2 Foudres majestueuses déclenchées par Tonnerre hurlant, la Foudre majestueuse suivante inflige 200 % de ses DGT d'origine et le personnage actuel récupère 1 pt d'énergie élémentaire supplémentaire.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "SWORD"
+}

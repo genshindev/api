@@ -119,14 +119,14 @@
       {
         "name": "Arataki Ichiban",
         "unlock": "Unlocked at Ascension 1",
-        "description": "When Arataki Itto uses consecutive Arataki Kesagiri, he obtains the following effects:\n • Each slash increases the ATK SPD of the next slash by 10%. Max ATK SPD increase is 30%.\n • Increases his resistance to interruption.\nThese effects will be cleared once he stops performing consecutive slashes.",
+        "description": "When Arataki Itto uses consecutive Arataki Kesagiri, he obtains the following effects:\n - Each slash increases the ATK SPD of the next slash by 10%. Max ATK SPD increase is 30%.\n - Increases his resistance to interruption.\nThese effects will be cleared once he stops performing consecutive slashes.",
         "level": 1
       },
       {
         "name": "Bloodline of the Crimson Oni",
         "unlock": "Unlocked at Ascension 4",
         "description": "Arataki Kesagiri DMG is increased by 35% of Arataki Itto's DEF.",
-        "level": 1
+        "level": 4
       }
     ],
     "constellations": [

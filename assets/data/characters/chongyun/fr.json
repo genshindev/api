@@ -1,0 +1,92 @@
+{
+  "name": "Chongyun",
+  "title": "Corps de glace et cœur de feu",
+  "vision": "Cryo",
+  "weapon": "Claymore",
+  "gender": "Homme",
+  "nation": "Liyue",
+  "affiliation": "Port de Liyue",
+  "rarity": 4,
+  "constellation": "Nubis Caesor",
+  "birthday": "0000-09-07",
+  "description": "Le jeune héritier d'une célèbre famille d'exorcistes, qui s'efforce de contrôler l'énergie qui l'habite.",
+  "skillTalents": [
+    {
+      "name": "Fléau des démons",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 4 coups d'épée.\nAttaque chargée\nExécute une succession d'attaques tournoyantes contre les ennemis proches ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Lame de l'esprit : Givre superposé",
+      "unlock": "Compétence élémentaire",
+      "description": "Chongyun abat violemment sa longue épée sur le sol, provoquant une explosion de glace qui inflige des DGT Cryo aux ennemis en face dans une zone circulaire.\nAprès un court délai, les courants d'air froids de l'explosion se condensent en un champ de givre. Les DGT des attaques normales et chargées des personnages qui s'y trouvent et qui manient l'épée longue, à une main, ou une arme d'hast obtiennent un enchantement Cryo.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Lame de l'esprit : Chute d'étoiles",
+      "unlock": "Déchaînement élémentaire",
+      "description": "D'un geste rapide, Chongyun invoque en l'air 3 lames éthérées qui foncent au sol après un court délai.\nL'impact inflige des DGT Cryo de zone et projette les ennemis en l'air.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Périple alyzéen",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Liyue."
+    },
+    {
+      "name": "Respiration stable",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Dans le champ de Lame de l'esprit : Givre superposé, la VIT d'attaque des attaques normales des personnages maniant une épée à une ou deux mains ou une arme d'hast augmente de 8 %.",
+      "level": 1
+    },
+    {
+      "name": "Lame du chasseur de glace",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Une lame apparaît à la fin du champ de Lame de l'esprit : Givre superposé ; elle inflige des DGT Cryo de zone équivalant à 100 % des DGT de Lame de l'esprit : Givre superposé aux ennemis proches. La RÉS Cryo des ennemis touchés est réduite de 10 % pendant 8 s.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Glace déchaînée",
+      "unlock": "Constellation Niv. 1",
+      "description": "Le dernier coup d'attaque normale libère 3 lames de glace vers l'avant ; chacune inflige une quantité de DGT Cryo équivalant à 50 % de l'ATQ de Chongyun.",
+      "level": 1
+    },
+    {
+      "name": "Révolution astrale",
+      "unlock": "Constellation Niv. 2",
+      "description": "Lancer une compétence ou un déchaînement élémentaires dans le champ de Lame de l'esprit : Givre superposé réduit leur TdR de 15 %.",
+      "level": 2
+    },
+    {
+      "name": "Étincellement des nuages",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Lame de l'esprit : Chute d'étoiles +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Cieux givrés",
+      "unlock": "Constellation Niv. 4",
+      "description": "Chongyun récupère 1 pt d'énergie à chaque fois qu'il touche un ennemi affecté par Cryo.\nCet effet peut être déclenché toutes les 2 s.",
+      "level": 4
+    },
+    {
+      "name": "La Voie",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Lame de l'esprit : Givre superposé +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Rassemblement des Quatres lames",
+      "unlock": "Constellation Niv. 6",
+      "description": "Lame de l'esprit : Chute d'étoiles inflige 15 % de DGT supplémentaires aux ennemis dont les PV sont inférieurs à ceux de Chongyun.\nDe plus, une lame supplémentaire est générée à l'activation de la compétence.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "CLAYMORE"
+}

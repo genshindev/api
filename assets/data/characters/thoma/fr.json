@@ -1,0 +1,92 @@
+{
+  "name": "Thomas",
+  "title": "Protecteur venu de loin",
+  "vision": "Pyro",
+  "weapon": "Lance",
+  "gender": "Homme",
+  "nation": "Mondstadt",
+  "affiliation": "Commission culturelle",
+  "rarity": 4,
+  "constellation": "Rubeum Scutum",
+  "birthday": "0000-01-09",
+  "description": "L'employé de maison du Clan Kamisato. Un « négociateur » bien connu à Inazuma.",
+  "skillTalents": [
+    {
+      "name": "Lance célère",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 4 coups de lance.\nAttaque chargée\nConsomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Bénédiction flamboyante",
+      "unlock": "Compétence élémentaire",
+      "description": "Thomas utilise la pointe de sa lance comme point d'appui pour canaliser les flammes et effectuer un coup de pied qui inflige des DGT Pyro de zone et libère une barrière défensive brûlante. Au moment où elle se déclenche, la barrière applique l'élément Pyro à Thomas.\nL'absorption de DGT de la barrière est fonction des PV max de Thomas.\nLa barrière brûlante possède les caractéristiques suivantes :\n- Elle absorbe les DGT Pyro avec 250 % d'efficacité.\n- L'absorption de DGT restante d'une barrière brûlante existante se cumulera si une autre barrière brûlante est obtenue en même temps, tandis que sa durée sera actualisée.\nL'absorption maximale de DGT de la barrière ne dépassera pas un certain pourcentage des PV max de Thomas.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "O-yoroi écarlate",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Thomas fait tournoyer sa lance, tranchant ses ennemis avec des flammes rugissantes qui infligent des DGT Pyro de zone et se transforment en un o-yoroi embrasé.\nO-yoroi embrasé\nL'attaque normale d'un personnage déployé affecté par un o-yoroi embrasé déclenchera un effondrement ardent qui inflige des DGT Pyro de zone et crée une barrière brûlante.\nUn effondrement ardent peut être déclenché une fois toutes les secondes.\nUne barrière brûlante créée de cette manière est identique à celle créée grâce à la compétence élémentaire « Bénédiction flamboyante » de Thomas, à l'exception de la quantité de DGT qu'elle peut absorber.\n- Elle absorbe les DGT Pyro avec 250 % d'efficacité.\n- L'absorption de DGT restante d'une barrière brûlante existante se cumulera si une autre barrière brûlante est obtenue en même temps, tandis que sa durée sera actualisée.\nL'absorption maximale de DGT de la barrière ne dépassera pas un certain pourcentage des PV max de Thomas.\nSi Thomas est vaincu, les effets de l'o-yoroi embrasé se dissiperont.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Passion pêche",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Lorsque {M#le voyageur}{F#la voyageuse} réussit une pêche à Inazuma, l'aide de Thomas accorde 20 % de chances d'obtenir le double de prises."
+    },
+    {
+      "name": "Superposition d'armures",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Lorsque le personnage déployé obtient ou actualise une barrière brûlante, la force de son bouclier augmente de 5 % pendant 6 s.\nCet effet peut être déclenché une fois toutes les 0,3 s et cumulé jusqu'à 5 fois.",
+      "level": 1
+    },
+    {
+      "name": "Assaut enflammé",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Les DGT infligés par l'effondrement ardent d'O-yoroi écarlate augmentent d'une valeur équivalant à 2,2 % des PV max de Thomas.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Devoir de camarade",
+      "unlock": "Constellation Niv. 1",
+      "description": "Lorsqu'un personnage protégé par la barrière brûlante de Thomas subit une attaque (Thomas excepté), les TdR de Bénédiction flamboyante et d'O-yoroi écarlate de Thomas diminuent de 3 s.\nCet effet peut être déclenché une fois toutes les 20 s.",
+      "level": 1
+    },
+    {
+      "name": "Compétences de subordonné",
+      "unlock": "Constellation Niv. 2",
+      "description": "Prolonge la durée d'O-yoroi écarlate de 3 s.",
+      "level": 2
+    },
+    {
+      "name": "Résolution à toute épreuve",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Bénédiction flamboyante +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Planification à long terme",
+      "unlock": "Constellation Niv. 4",
+      "description": "Après avoir utilisé O-yoroi écarlate, Thomas récupère 15 pts d'énergie élémentaire.",
+      "level": 4
+    },
+    {
+      "name": "Feu incontrôlable",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude O-yoroi écarlate +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Cœur brûlant",
+      "unlock": "Constellation Niv. 6",
+      "description": "Lorsqu'une barrière brûlante est obtenue ou actualisée, les DGT des attaques normales, chargées et plongeantes de tous les personnages de l'équipe augmentent de 15 % pendant 6 s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "POLEARM"
+}

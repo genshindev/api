@@ -1,0 +1,92 @@
+{
+  "name": "Qiqi",
+  "title": "Renaissance gelée",
+  "vision": "Cryo",
+  "weapon": "Épée",
+  "gender": "Femme",
+  "nation": "Liyue",
+  "affiliation": "Cottage Bubu",
+  "rarity": 5,
+  "constellation": "Pristina Nola",
+  "birthday": "0000-03-03",
+  "description": "Qiqi est une jeune apprentie du Cottage Bubu, en charge notamment de la récolte des herbes médicinales. C'est également un zombie au teint blafard et aux mots comptés.",
+  "skillTalents": [
+    {
+      "name": "Escrime ancienne des nuages",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 coups d'épée.\nAttaque chargée\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Arcane d'Adepte : Héraut de givre",
+      "unlock": "Compétence élémentaire",
+      "description": "Utilise un talisman infusé de glace et de sang pour invoquer un Héraut de givre, infligeant des DGT Cryo aux ennemis à proximité.\nHéraut de givre\n- Les attaques normales et chargées de Qiqi restaurent les PV de vos personnages ainsi que des alliés proches lorsqu'elles touchent. La quantité de PV restaurée est proportionnelle à l'ATQ de Qiqi.\n- Régénère les PV du personnage déployé à intervalles réguliers.\n- Le héraut suit le personnage déployé et inflige des DGT Cryo aux ennemis sur sa route.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Arcane d'Adepte : Talisman sacré",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Qiqi libère le pouvoir d'Adepte scellé en elle et marque les ennemis d'un talisman qui leur inflige des DGT Cryo.\nTalisman\nLes personnages récupèrent des PV équivalant aux DGT subis par les ennemis marqués.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Souvenir d'une vie lointaine",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Affiche l'emplacement des produits de Liyue sur la mini-carte."
+    },
+    {
+      "name": "Survie en milieu hostile",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Lorsqu'un personnage sous l'effet d'Arcane d'Adepte : Héraut de givre déclenche une réaction élémentaire, il gagne un bonus de soins reçus de 20 % pendant 8 s.",
+      "level": 1
+    },
+    {
+      "name": "Ouverture des arcanes",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Les attaques normales et chargées de Qiqi ont 50 % de chances de marquer l'ennemi touché d'un talisman pendant 6 s. Cet effet peut être déclenché une fois toutes les 30 s.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Ascèse du givre",
+      "unlock": "Constellation Niv. 1",
+      "description": "Qiqi récupère 2 pts d'énergie élémentaire à chaque fois que son Héraut de givre touche un ennemi marqué par un talisman.",
+      "level": 1
+    },
+    {
+      "name": "Gelé jusqu'à l'os",
+      "unlock": "Constellation Niv. 2",
+      "description": "Les attaques normales et chargées de Qiqi infligent 15 % de DGT supplémentaires contre les ennemis affectés par Cryo.",
+      "level": 2
+    },
+    {
+      "name": "Louange vers le ciel",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Arcane d'Adepte : Talisman sacré +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Répression divine",
+      "unlock": "Constellation Niv. 4",
+      "description": "L'ATQ des cibles marquées par un talisman est réduite de 20 %.",
+      "level": 4
+    },
+    {
+      "name": "Éclosion du lotus rouge",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Arcane d'Adepte : Héraut de givre +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Symbole de la renaissance",
+      "unlock": "Constellation Niv. 6",
+      "description": "L'activation d'Arcane d'Adepte : Talisman sacré réanime tous les personnages de l'équipe à proximité et restaure 50 % de leurs PV.\nCet effet peut être déclenché une fois toutes les 15 min.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "SWORD"
+}

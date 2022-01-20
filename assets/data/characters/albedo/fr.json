@@ -1,0 +1,92 @@
+{
+  "name": "Albedo",
+  "title": "Kreideprinz",
+  "vision": "Géo",
+  "weapon": "Épée",
+  "gender": "Homme",
+  "nation": "Mondstadt",
+  "affiliation": "Ordre de Favonius",
+  "rarity": 5,
+  "constellation": "Princeps Cretaceus",
+  "birthday": "0000-09-13",
+  "description": "Génie connu sous le surnom de « Kreideprinz », Albedo est l'alchimiste en chef et le capitaine des enquêteurs de l'Ordre de Favonius.",
+  "skillTalents": [
+    {
+      "name": "Escrime de Favonius - Blanche",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 coups d'épée.\nAttaque chargée\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\nAttaque plongeantek\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Genèse : Aura solaire",
+      "unlock": "Compétence élémentaire",
+      "description": "Génère une Aura solaire, infligeant des DGT Géo de zone.\nAura solaire\n- Un Germe éphémère est créé lorsque les ennemis se trouvant dans la zone subissent des dégâts, infligeant des DGT Géo de zone proportionnels à la DÉF d'Albedo.\n- Un Germe éphémère peut être généré toutes les 2 s.\n- Lorsqu'un personnage rejoint le centre de l'Aura solaire, l'énergie Géo présente se concentre pour générer un podium ascendant lui permettant de dominer le champ de bataille. Il ne peut exister qu'un seul podium à la fois.\n- L'Aura solaire est considérée comme une construction Géo.\nAppui long\nAjuste la zone où la compétence sera lancée.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Transformation : Reflux Géo",
+      "unlock": "Déchaînement élémentaire",
+      "description": "L'énergie Géo contenue dans le sol explose en émergeant sous les ordres d'Albedo, infligeant des DGT Géo de zone devant lui.\nLorsqu'une Aura solaire générée par Albedo est présente sur le champ de bataille, 7 Germes fatals sont générés, qui fleurissent en explosant, infligeant des DGT Géo de zone.\nLes DGT d'explosion et les DGT des Germes fatals ne génèrent pas de Germes éphémères.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Menace calcaire",
+      "unlock": "Dévérouillé à la phase 1",
+      "description": "Les Germes éphémères générés par Genèse : Aura solaire infligent 25 % de DGT supplémentaires aux ennemis dont les PV sont inférieurs à 50 %.",
+      "level": 1
+    },
+    {
+      "name": "Sagesse en bouteille",
+      "unlock": "Dévérouillé à la phase 4",
+      "description": "L'activation de Transformation : Reflux Géo confère à tous les personnages de l'équipe à proximité un bonus de 125 pts de maîtrise élémentaire pendant 10 s.",
+      "level": 4
+    },
+    {
+      "name": "Découverte de génie",
+      "unlock": "Dévérouillé automatiquement",
+      "description": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'élévation d'arme."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Fleur d'Éden",
+      "unlock": "Constellation Niv. 1",
+      "description": "Albedo récupère 1,2 pts d'énergie élémentaire lorsqu'un Germe éphémère généré par Genèse : Aura solaire éclot.",
+      "level": 1
+    },
+    {
+      "name": "Éon de l'achèvement",
+      "unlock": "Constellation Niv. 2",
+      "description": "Genèse : Aura solaire confère pendant 30 s l'effet Jugement fatal à Albedo lorsque des Germes éphémères sont générés :\n- Tous les cumuls de Jugement dernier sont consommés lors du lancement de Transformation : Reflux Géo, conférant aux Germes fatals et aux DGT d'explosion de cette aptitude un bonus de DGT proportionnel au nombre de cumuls.\n- Chaque cumul de Jugement dernier confère un bonus de DGT équivalant à 30 % de la DÉF d'Albedo.\n- Cet effet peut être cumulé 4 fois maximum.",
+      "level": 2
+    },
+    {
+      "name": "Fleur solaire",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Genèse : Aura solaire +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Chute divine",
+      "unlock": "Constellation Niv. 4",
+      "description": "Les personnages déployés se trouvant dans la zone de l'Aura solaire infligent 30 % de DGT d'attaque plongeante supplémentaires.",
+      "level": 4
+    },
+    {
+      "name": "Flux antique",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Transformation : Reflux Géo +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Pureté de la terre",
+      "unlock": "Constellation Niv. 6",
+      "description": "Les personnages déployés se trouvant dans la zone de l'Aura solaire infligent 17 % de DGT supplémentaires lorsqu'ils sont sous la protection d'un bouclier généré par une Cristallisation.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "SWORD"
+}

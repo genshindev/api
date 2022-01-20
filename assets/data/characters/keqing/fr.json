@@ -1,0 +1,102 @@
+{
+  "name": "Keqing",
+  "title": "Ardeur du tonnerre",
+  "vision": "Electro",
+  "weapon": "Épée",
+  "gender": "Femme",
+  "nation": "Liyue",
+  "affiliation": "Sept Étoiles de Liyue",
+  "rarity": 5,
+  "constellation": "Trulla Cementarii",
+  "birthday": "0000-11-20",
+  "description": "L'Alioth, l'une des Sept Étoiles de Liyue. L'Alioth critique à mots couverts l'idée que Liyue suive à la lettre la parole du Seigneur de la Roche, mais ce dernier apprécie justement ce genre de personnes.",
+  "skillTalents": [
+    {
+      "name": "Escrime des nuages",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 coups d'épée.\nAttaque chargée\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Retour des étoiles",
+      "unlock": "Compétence élémentaire",
+      "description": "Keqing lance une Lame de foudre qui attaque ses ennemis avec la puissance des cieux.\nLorsqu'une Lame de foudre touche sa cible, elle inflige des DGT Électro de zone et laisse une marque à l'endroit visé.\nAppui long\nAjuste la zone où la compétence sera lancée.\nLes Lames de foudre peuvent aussi être suspendues dans les airs ; activez à nouveau la compétence Retour des étoiles pour permettre à Keqing de s'y téléporter.\nLame de foudre\nLorsque la marque est active, Keqing peut utiliser à nouveau Retour des étoiles pour se téléporter ou lancer une attaque chargée et la marque disparaîtra avec les effets suivant selon le cas :\n- Réactivation de Retour des étoiles : Keqing se téléporte à l'emplacement de la marque et exécute une entaille qui inflige des DGT Électro de zone. Keqing passe à travers tous les obstacles topographiques lorsqu'elle se téléporte.\n- Attaque chargée : une série de coups de tonnerre tranchants s'abat à l'emplacement de la marque, infligeant des DGT Électro de zone.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Promenade céleste",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Keqing fait appel à la puissance de l'éclair, et inflige des DGT Électro de zone.\nSe fondant ensuite dans l'ombre de son épée, elle libère une série de coups tranchants rapides, infligeant aux ennemis proches des DGT Électro. Le coup final inflige d'importants DGT Électro de zone.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Agencement des terres",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Liyue."
+    },
+    {
+      "name": "Pénitence retentissante",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Keqing obtient pendant 5 s un enchantement Électro lorsqu'une Lame de foudre est active et que Retour des Étoiles est lancé à nouveau.",
+      "level": 1
+    },
+    {
+      "name": "Trésor de l'Alioth",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Keqing obtient pendant 8 s un bonus de taux CRIT et de recharge d'énergie de 15 % lorsqu'elle libère Promenade céleste.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Force foudroyante",
+      "unlock": "Constellation Niv. 1",
+      "description": "Lorsque Keqing libère de nouveau Retour des étoiles lorsqu'une Lame de foudre est active, elle inflige des DGT Électro de zone équivalant à 50 % de son ATQ aux endroits où elle disparaît puis réapparaît.",
+      "level": 1
+    },
+    {
+      "name": "Taxation sévère",
+      "unlock": "Constellation Niv. 2",
+      "description": "Les attaques normales et chargées de Keqing touchant un ennemi affecté par l'élément Électro ont 50 % de chances de générer une particule élémentaire.\nCet effet peut être déclenché une fois toutes les 5 s.",
+      "level": 2
+    },
+    {
+      "name": "Formation anticipée",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Promenade céleste +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Syntonie",
+      "unlock": "Constellation Niv. 4",
+      "description": "Lorsque Keqing déclenche une réaction liée à l'élément Électro, son ATQ augmente de 25 % pendant 10 s.",
+      "level": 4
+    },
+    {
+      "name": "Lueur mouvante",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Retour des étoiles +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Étoile tenace",
+      "unlock": "Constellation Niv. 6",
+      "description": "Les attaques normales, attaques chargées, compétences élémentaires et déchaînements élémentaires de Keqing lui confèrent un bonus de 6 % de DGT Électro pendant 8 s. Les effets déclenchés sont différents selon le type d'attaque.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "SWORD",
+  "outfits": [
+    {
+      "type": "Formel",
+      "name": "Splendeur opulente",
+      "description": "Tenue formelle de Keqing. Dans la splendeur du Festival des lanternes, des fils ont été tissés pendant des jours de labeur pour assembler cette tenue du soir pleine de légèreté et d'élégance.",
+      "rarity": 4,
+      "price": 1680,
+      "image": "outfit-opulent-splendor"
+    }
+  ]
+}
