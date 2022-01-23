@@ -1,0 +1,92 @@
+{
+  "name": "Tartaglia",
+  "title": "Jeune Sire",
+  "vision": "Hydro",
+  "weapon": "Arc",
+  "gender": "Homme",
+  "nation": "Snezhnaya",
+  "affiliation": "Fatui",
+  "rarity": 5,
+  "constellation": "Monoceros Caeli",
+  "birthday": "0000-07-20",
+  "description": "Le 11e Exécuteur des Fatui, appelé « Tartaglia ». Il s'est fait connaître pour avoir gagné des milliers de combats.",
+  "skillTalents": [
+    {
+      "name": "Taille du torrent",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 6 tirs consécutifs.\nAttaque chargée\nEffectue un tir visé plus précis et infligeant davantage de DGT.\nLors de la visée, la flèche se charge en élément Hydro, infligeant des DGT Hydro quand elle est complètement chargée et qu'elle touche ; elle inflige également aux ennemis touchés l'effet Contre-courant.\nContre-courant\nLes ennemis affectés par cet effet subissent l'un des types de DGT Hydro de zone suivants lorsque Tartaglia attaque ; les DGT infligés par ces effets comptent comme les DGT d'une attaque normale.\n- Contre-courant : Flash : Les tirs visés complètement chargés touchant les ennemis affectés par Contre-courant infligent des DGT de zone consécutifs. Contre-courant : Flash peut être déclenché une fois toutes les 0,7 s.\n- Contre-courant : Éclat : Vaincre un ennemi affecté par Contre-courant provoque une onde qui inflige l'effet Contre-courant aux ennemis proches.\nAttaque plongeante\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.\nImpossible d'utiliser l'attaque plongeante lors de l'activation de Posture du démon : Marée déchaînée (état de mêlée).",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Posture du démon : Marée déchaînée",
+      "unlock": "Compétence élémentaire",
+      "description": "Tartaglia invoque des armes qui exploitent la puissance de l'eau pure et infligent des DGT Hydro aux ennemis proches ; Tartaglia entre en état de mêlée.\nEn état de mêlée, les attaques normales et chargées de Tartaglia sont converties en DGT Hydro ne pouvant pas être enchantés, et changent de la manière suivante :\nAttaque normale\nEnchaîne jusqu'à 6 entailles Hydro consécutives.\nAttaque chargée\nExécute une frappe croisée rapide et inflige des DGT Hydro ; cette attaque consomme de l'endurance.\nContre-courant : Entaille\nLes attaques de mêlée appliquent à nouveau l'effet Contre-courant lorsqu'elles touchent un ennemi affecté par Contre-courant. Ceci inflige des DGT Hydro de zone. Les DGT infligés par Contre-courant : Entaille sont considérés comme étant des DGT de compétence élémentaire. Contre-courant : Entaille peut être déclenché une fois toutes les 1,5 s.\nLa compétence prend fin après 30 s, ou lorsque vous appuyez dessus à nouveau. Tartaglia repasse alors en état de distance ; le TdR de la compétence est réinitialisé, et dure plus longtemps si l'état de mêlée a perduré.\nL'état de mêlée ne peut excéder 30 s. Au bout de cette durée, Tartaglia repasse automatiquement à l'état de distance.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Ravage : Oblitération",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Tartaglia effectue différentes attaques selon l'état dans lequel il se trouve :\nÉtat à distance : Éclair de balle maléfique\nTire rapidement devant lui une flèche gorgée de magie Hydro, infligeant des DGT Hydro de zone ainsi que l'effet Contre-courant aux ennemis en face.\nRestaure une partie de l'énergie élémentaire à la fin de l'attaque.\nÉtat de mêlée : Lumière d'élimination\nExécute une large entaille circulaire, qui inflige d'importants DGT Hydro à tous les ennemis proches et peut générer l'effet Torrent.\nContre-courant : Torrent\nLorsqu'elle touche un ennemi affecté par Contre-courant, Lumière d'élimination consomme cet effet et inflige des DGT Hydro de zone. Les DGT infligés par Contre-courant : Torrent sont considérés comme étant des DGT de déchaînement élémentaire.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Maîtrise de l'armement",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Augmente le niveau des attaques normales des personnages de votre équipe de 1."
+    },
+    {
+      "name": "Fin infinie",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Prolonge la durée de l'effet Contre-courant de 8 s.",
+      "level": 1
+    },
+    {
+      "name": "Épée hydromorphe",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Les ennemis subissant des coups CRIT lors d'attaques normales et chargées sont aussi affectés par l'effet Contre-courant tant que l'état de mêlée de Posture du démon : Marée déchaînée est actif.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Posture du démon : Vague au calme",
+      "unlock": "Constellation Niv. 1",
+      "description": "Réduit le TdR de Posture du démon : Marée déchaînée de 20 %.",
+      "level": 1
+    },
+    {
+      "name": "Posture du démon : Courant souterrain",
+      "unlock": "Constellation Niv. 2",
+      "description": "Vaincre un ennemi affecté par Contre-courant restaure 4 pts d'énergie élémentaire à Tartaglia.",
+      "level": 2
+    },
+    {
+      "name": "Chaos de l'Abîme : Vortex d'agitation",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Posture du démon : Marée déchaînée +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Chaos de l'Abîme : Fleur de l'eau condensée",
+      "unlock": "Constellation Niv. 4",
+      "description": "Lorsque Tartaglia est dans l'état de mêlée de Posture du démon : Marée déchaînée, un Contre-courant : Entaille est déclenché contre les ennemis affectés par l'effet Contre-courant toutes les 4 s ; sinon, il déclenche un Contre-courant : Flash.\nLes Contre-courant : Entaille et Contre-courant : Flash déclenchés par cette constellation ne sont pas influencés par les intervalles de déclenchement de ces deux effets Contre-courant, et n'affectent pas leur propre intervalle de déclenchement.",
+      "level": 4
+    },
+    {
+      "name": "Ravage : Lame sans forme",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Ravage : Oblitération +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Ravage : Annihilation",
+      "unlock": "Constellation Niv. 6",
+      "description": "En état de mêlée, l'activation de Ravage : Oblitération supprime le TdR de Posture du démon : Marée déchaînée.\nCet effet se produit après le retour à l'état de distance.",
+      "level": 6
+    }
+  ],
+  "vision_key": "HYDRO",
+  "weapon_type": "BOW"
+}

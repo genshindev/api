@@ -1,7 +1,9 @@
 {
   "name": "Yun Jin",
+  "title": "Stage Lucida",
   "vision": "Geo",
   "weapon": "Polearm",
+  "gender": "Female",
   "nation": "Liyue",
   "affiliation": "Yun-Han Opera Troupe",
   "rarity": 4,
@@ -137,7 +139,7 @@
       "level": 1
     },
     {
-      "name": "Myriad Mise-En-Scène",
+      "name": "Myriad Mise-En-ScÃ¨ne",
       "unlock": "Constellation Lv. 2",
       "description": "After Cliffbreaker's Banner is unleashed, all nearby party members' Normal Attack DMG is increased by 15% for 12s.",
       "level": 2
@@ -145,7 +147,7 @@
     {
       "name": "Seafaring General",
       "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Cliffbreaker's Banner by 3. Maximum upgrade level is 15.",
+      "description": "Increases the Level of Cliffbreaker's Banner by 3.\nMaximum upgrade level is 15.",
       "level": 3
     },
     {
@@ -157,7 +159,7 @@
     {
       "name": "Famed Throughout the Land",
       "unlock": "Constellation Lv. 5",
-      "description": "Increases the Level of Opening Flourish by 3. Maximum upgrade level is 15.",
+      "description": "Increases the Level of Opening Flourish by 3.\nMaximum upgrade level is 15.",
       "level": 5
     },
     {
@@ -170,4 +172,3 @@
   "vision_key": "GEO",
   "weapon_type": "POLEARM"
 }
-  

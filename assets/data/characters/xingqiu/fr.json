@@ -1,0 +1,92 @@
+{
+  "name": "Xingqiu",
+  "title": "Jeune galant",
+  "vision": "Hydro",
+  "weapon": "Épée",
+  "gender": "Homme",
+  "nation": "Liyue",
+  "affiliation": "Guilde des marchands de Feiyun",
+  "rarity": 4,
+  "constellation": "Fabulae Textile",
+  "birthday": "0000-10-09",
+  "description": "Un jeune homme intègre et serviable, que l'on voit souvent dans les librairies. Il porte une longue épée, et poursuit un idéal de justice.",
+  "skillTalents": [
+    {
+      "name": "Style Guhua",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 coups d'épée.\nAttaque chargée\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Épée Guhua : Pluie battante",
+      "unlock": "Compétence élémentaire",
+      "description": "Lance une succession de 2 coups d'épée qui infligent des DGT Hydro aux ennemis en face. Dans le même temps, le personnage déployé s'entoure du nombre maximum d'épées de pluie.\nLes épées de pluie ont les propriétés suivantes :\n- Les épées se brisent lorsque Xingqiu subit des DGT et ce faisant réduisent les DGT subis.\n- Augmentent la RÉS à l'interruption du personnage.\n20 % du bonus de DGT Hydro de Xingqiu est converti en réduction de DGT supplémentaire par les épées de pluie.\nJusqu'à 24 % de réduction de DGT supplémentaire peut être obtenue de cette manière.\nXingqiu commence avec 3 épées de pluie maximum.\nApplique l'état Trempé à Xingqiu lors du lancement.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Épée Guhua : Pluie et arc-en-ciel",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Xingqiu fait appel à un déluge d'épées et combat avec une lame arc-en-ciel ; il s'entoure de plus du nombre maximum d'épées de pluie.\nLame arc-en-ciel\n- Les attaques normales infligées par votre personnage déployé libèrent un déluge d'épées et infligent des DGT Hydro.\n- Le nombre d'épées de pluie ne diminue pas.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Illumination",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "25 % de chances de récupérer des ressources lors de la synthèse de matériaux d'amélioration d'aptitude."
+    },
+    {
+      "name": "Clé d'invocation d'eau",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Lorsque une épée de pluie est brisée par des attaques ou se termine, elle restaure les PV du personnage déployé d'une quantité de PV équivalant à 6 % des PV max de Xingqiu.",
+      "level": 1
+    },
+    {
+      "name": "Lames et gouttes de pluie",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Confère un bonus de DGT Hydro de 20 % à Xingqiu.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Parfum persistant",
+      "unlock": "Constellation Niv. 1",
+      "description": "Augmente le nombre max d'épées de pluie de 1.",
+      "level": 1
+    },
+    {
+      "name": "Arc-en-ciel sur le ciel d'azur",
+      "unlock": "Constellation Niv. 2",
+      "description": "Prolonge la durée d'Épée Guhua : Pluie et arc-en-ciel de 3 s.\nDe plus, les épées de pluie réduisent la RÉS Hydro des ennemis qu'elles touchent de 15 % pendant 4 s.",
+      "level": 2
+    },
+    {
+      "name": "Tisseuse de vers",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Épée Guhua - Pluie et arc-en-ciel +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Conquérant du dragon",
+      "unlock": "Constellation Niv. 4",
+      "description": "Pendant la durée d'Épée Guhua : Pluie et arc-en-ciel, les DGT infligés par l'Épée Guhua : Pluie battante augmentent de 50 %.",
+      "level": 4
+    },
+    {
+      "name": "Embrassement de pluie",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Épée Guhua : Pluie battante +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Rassemblement d'articles",
+      "unlock": "Constellation Niv. 6",
+      "description": "Les DGT du déluge d'épées d'Épée Guhua : Pluie et arc-en-ciel augmentent considérablement tous les 2 pluies d'épées ; Xingqiu récupère de plus 3 pts d'énergie élémentaire.",
+      "level": 6
+    }
+  ],
+  "vision_key": "HYDRO",
+  "weapon_type": "SWORD"
+}

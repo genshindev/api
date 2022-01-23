@@ -1,0 +1,97 @@
+{
+  "name": "Mona",
+  "title": "Réflexion astrale",
+  "vision": "Hydro",
+  "weapon": "Catalyseur",
+  "gender": "Femme",
+  "nation": "Mondstadt",
+  "affiliation": "Cité de Mondstadt",
+  "rarity": 5,
+  "constellation": "Astrolabos",
+  "birthday": "0000-08-31",
+  "description": "Jeune astromancienne mystérieuse, Mona se surnomme elle-même « la grande astromancienne Mona », et fait preuve d'une force singulière et d'une érudition hors-norme qui ne désavouent pas cette appellation.",
+  "skillTalents": [
+    {
+      "name": "Ondes du destin",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 4 attaques d'eau qui infligent des DGT Hydro.\nAttaque chargée\nConsomme de l'endurance pour infliger des DGT Hydro de zone après un court délai.\nAttaque plongeante\nPlonge depuis les airs en concentrant ses pouvoirs Hydro, infligeant des DGT aux ennemis en chemin et des DGT Hydro de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Mirage aqueux",
+      "unlock": "Compétence élémentaire",
+      "description": "Mona invoque un mirage du destin créé à partir de projections aqueuses.\nMirage\nLe mirage a les effets suivants :\n- Nargue les ennemis proches et attire leur attention ;\n- Inflige des DGT Hydro continus aux ennemis proches.\n- Lorsque le mirage prend fin, il explose et inflige des DGT Hydro de zone.\nAppui long\nMona utilise la puissance de l'eau pour se propulser rapidement en arrière et invoque un mirage du destin.\nIl ne peut exister qu'un seul mirage à la fois.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Voie divine",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Mona invoque des vagues chatoyantes pour créer un reflet du ciel étoilé, infligeant l'état Bulle nocturne aux ennemis dans un large rayon.\nBulle nocturne\nEmprisonne les ennemis, et les trempe. Les ennemis les plus faibles sont immobilisés.\nLorsqu'un ennemi emprisonné subit des DGT, il subit également les effets suivants :\n- Un présage est appliqué à l'ennemi, qui subit alors une augmentation de DGT, y compris de l'attaque l'ayant provoqué ;\n- L'effet Bulle nocturne disparaît, et inflige des DGT Hydro supplémentaires.\nPrésage\nLe présage augmente les DGT subis par l'ennemi tant qu'il est actif.",
+      "type": "ELEMENTAL_BURST"
+    },
+    {
+      "name": "Vicissitude",
+      "unlock": "Click droit",
+      "description": "Remplace le sprint\nMona se transforme en un courant d'eau, consommant de l'endurance pour se déplacer aussi vite qu'un torrent.\nDans l'état Vicissitude, Mona peut se déplacer rapidement sur l'eau.\nÀ la fin de l'état, Mona trempe les ennemis proches lorsqu'elle réapparaît."
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Leurre du fatum",
+      "unlock": "Dévérouillé en phase 1",
+      "description": "Entrer dans l'état Vicissitude invoque automatiquement un mirage après 2 s en cas de présence d'ennemis proches.\nLe mirage ainsi invoqué dure 2 s, et ses DGT d'explosion sont équivalents à 50 % des DGT de Mirage aqueux.",
+      "level": 1
+    },
+    {
+      "name": "Que le destin décide",
+      "unlock": "Dévérouillé en phase 4",
+      "description": "Confère à Mona un bonus de DGT Hydro équivalant à 20 % de sa recharge d'énergie.",
+      "level": 4
+    },
+    {
+      "name": "Principes d'astromancie",
+      "unlock": "Dévérouillé automatiquement",
+      "description": "Lorsque vous fabriquez un matériau d'élévation d'arme, il y a 25 % de chances qu'une partie des matières premières vous soit rendue."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Prophétie immersive",
+      "unlock": "Constellation Niv. 1",
+      "description": "Les effets des réactions liées à l'élément Hydro sont renforcés pendant 8 s lorsque l'attaque de vos personnages dans l'équipe touche un ennemi marqué par un présage :\n- Les DGT d'Électrocution, d'Évaporation, de Dispersion Hydro augmentent de 15 %.\n- La durée de Gel augmente de 15 %.",
+      "level": 1
+    },
+    {
+      "name": "Chaîne lunaire",
+      "unlock": "Constellation Niv. 2",
+      "description": "Les attaques normales ont 20 % de chances d'être suivies par une attaquée chargée.\nCet effet peut être déclenché une fois toutes les 5 s.",
+      "level": 2
+    },
+    {
+      "name": "Révolution éternelle",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Voie divine +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Prophétie de la fin",
+      "unlock": "Constellation Niv. 4",
+      "description": "Augmente le taux CRIT de 15 % lorsque vos personnages dans l'équipe attaquent un ennemi marqué par un présage.",
+      "level": 4
+    },
+    {
+      "name": "Un tour du destin",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Mirage aqueux +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Rhétorique de l'adversité",
+      "unlock": "Constellation Niv. 6",
+      "description": "Dans l'état Vicissitude, Mona obtient un bonus de 60 % DGT pour sa prochaine attaque chargée à chaque seconde passée à se déplacer.\nCet effet peut être cumulé 3 fois maximum (bonus de 180 %) et dure 8 s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "HYDRO",
+  "weapon_type": "CATALYST"
+}

@@ -1,83 +1,77 @@
 {
   "tail-of-boreas": {
     "id": "tail-of-boreas",
-    "name": "Tail of Boreas",
+    "name": "Queue de Borée",
     "characters": ["qiqi", "venti", "xingqiu", "traveler-geo"]
   },
   "ring-of-boreas": {
     "id": "ring-of-boreas",
-    "name": "Ring of Boreas",
+    "name": "Vertèbre de Borée",
     "characters": ["barbara", "keqing", "klee", "mona"]
   },
   "spirit-locket-of-boreas": {
     "id": "spirit-locket-of-boreas",
-    "name": "Spirit Locket of Boreas",
+    "name": "Esprit de Borée",
     "characters": ["fischl", "kaeya", "ningguang", "sucrose"]
   },
   "dvalin's-plume": {
     "id": "dvalin's-plume",
-    "name": "Dvalin's Plume",
+    "name": "Plume de Stormterror",
     "characters": ["bennett", "diluc", "jean"]
   },
   "dvalin's-claw": {
     "id": "dvalin's-claw",
-    "name": "Dvalin's Claw",
+    "name": "Griffe de Stormterror",
     "characters": ["lisa", "noelle", "razor", "xiangling"]
   },
   "dvalin's-sigh": {
     "id": "dvalin's-sigh",
-    "name": "Dvalin's Sigh",
-    "characters": [
-      "amber",
-      "beidou",
-      "chongyun",
-      "traveler-anemo",
-      "traveler-geo"
-    ]
+    "name": "Souffle de Stormterror",
+    "characters": ["amber", "beidou", "chongyun", "traveler-anemo", "traveler-geo"]
   },
   "tusk-of-monoceros-caeli": {
     "id": "tusk-of-monoceros-caeli",
-    "name": "Tusk of Monoceros Caeli",
+    "name": "Corne de Monoceros Caeli",
     "characters": ["albedo", "xinyan", "zhongli"]
   },
   "shard-of-a-foul-legacy": {
     "id": "shard-of-a-foul-legacy",
-    "name": "Shard of a Foul Legacy",
+    "name": "Fragment du démon",
     "characters": ["diona", "hu-tao", "tartaglia"]
   },
   "shadow-of-the-warrior": {
     "id": "shadow-of-the-warrior",
-    "name": "Shadow of the Warrior",
+    "name": "Ombre du guerrier",
     "characters": ["ganyu", "rosaria", "xiao"]
   },
   "bloodjade-branch": {
     "id": "bloodjade-branch",
-    "name": "Bloodjade Branch",
+    "name": "Branche de jade cramoisi",
     "characters": ["ayaka", "yanfei"]
   },
   "dragon-lord's-crown": {
     "id": "dragon-lord's-crown",
-    "name": "Dragon Lord's Crown",
+    "name": "Couronne du roi dragon",
     "characters": ["eula", "yoimiya", "traveler-electro"]
   },
   "gilded-scale": {
     "id": "gilded-scale",
-    "name": "Gilded Scale",
+    "name": "Écaille dorée",
     "characters": ["kazuha", "sayu"]
   },
   "molten-moment": {
     "id": "moltent-moment",
-    "name": "Molten Moment",
+    "name": "Moment en fusion",
     "characters": ["raiden", "aloy", "gorou"]
   },
   "hellfire-butterfly": {
     "id": "hellfire-butterfly",
-    "name": "Hellfire Butterfly",
+    "name": "Papillon infernal",
     "characters": ["kokomi", "thoma", "shenhe"]
   },
   "ashen-heart": {
     "id": "ashen-heart",
-    "name": "Ashen Heart",
+    "name": "Cœur de cendre",
     "characters": ["sara", "arataki-itto", "yun-jin"]
   }
 }

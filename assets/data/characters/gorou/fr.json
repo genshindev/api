@@ -1,0 +1,92 @@
+{
+  "name": "Gorou",
+  "title": "Guerrier canin",
+  "vision": "Geo",
+  "weapon": "Arc",
+  "gender": "Homme",
+  "nation": "Inazuma",
+  "affiliation": "Île de Watatsumi",
+  "rarity": 4,
+  "constellation": "Canis Bellatoris",
+  "birthday": "0000-05-18",
+  "description": "Le grand général des forces de l'Île de Watatsumi, en qui ses subordonnés ont profondément confiance.",
+  "skillTalents": [
+    {
+      "name": "Empenne aux crocs acérés",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 4 tirs consécutifs.\nAttaque chargée\nEffectue un tir visé plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge de cristaux de pierre, infligeant des DGT Géo quand elle est complètement chargée.\nAttaque plongeante\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Défense intégrale d'Inuzaka",
+      "unlock": "Compétence élémentaire",
+      "description": "Inflige des DGT Géo de zone et érige une bannière de général.\nBannière de général\nAccorde les effets suivants aux personnages déployés dans la zone d'effet en fonction de la quantité de personnages de type Géo dans l'équipe au moment de l'utilisation :\n- Avoir 1 personnage Géo accorde un effet de pied ferme : bonus de DÉF.\n- Avoir 2 personnages Géo accorde un effet d'imprenabilité : effet précédent + bonus de RÉS à l'interruption.\n- Avoir 3 personnages Géo accorde un effet de fracas : effets précédents + bonus de DGT Géo.\nGorou ne peut générer qu'une bannière de général à la fois, et les personnages ne peuvent bénéficier des effets que d'une seule bannière de général à la fois. Lorsque le personnage quitte la zone, les effets continuent pendant 2 s.\nAppui long\nAjuste la zone où la compétence sera lancée.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Crocs bestiaux : Vers la victoire",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Affichant sa bravoure de général, Gorou inflige des DGT Géo de zone et crée un champ de prestige de général pour enhardir ses compagnons.\nPrestige de général\nLes caractéristiques suivantes s'appliquent :\n- Ce champ possède des effets identiques à ceux de la bannière de général créée par la compétence élémentaire « Défense intégrale d'Inuzaka », accordant des bonus aux personnages déployés dans la zone d'effet en fonction du nombre de personnages de type Géo dans l'équipe. Le champ se déplace en suivant le personnage déployé.\n- Déclenche un effondrement cristallin toutes les 1,5 s qui inflige des DGT Géo de zone à 1 ennemi dans la zone d'effet.\n- Attire 1 fragment élémentaire créé par une réaction de Cristallisation dans la zone d'effet vers l'emplacement du personnage déployé toutes les 1,5 s.\nSi une bannière de général créée par Gorou est présente lors de l'utilisation, elle sera détruite. De plus, si Gorou utilise sa compétence élémentaire « Défense intégrale d'Inuzaka » alors qu'un prestige de général est actif, il ne crée pas de bannière de général.\nSi Gorou est vaincu, les effets du prestige de général sont annulés.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Chien renifleur",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Affiche l'emplacement des produits d'Inazuma sur la mini-carte."
+    },
+    {
+      "name": "Nonchalance du vent et de la pluie",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Pendant 12 s après Crocs bestiaux : Vers la victoire, la DÉF de tous les personnages de l'équipe à proximité augmente de 25 %.",
+      "level": 1
+    },
+    {
+      "name": "Faveur rendue",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Les DGT des attaques suivantes de Gorou augmentent en fonction de sa DÉF :\n- Les DGT de compétence de Défense intégrale d'Inuzaka augmentent à hauteur de 156 % de sa DÉF.\n- Les DGT de compétence et les DGT de l'effondrement cristallin de Crocs bestiaux : Vers la victoire augmentent à hauteur de 15,6 % de sa DÉF.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Vivacité canine : Célérité du vent",
+      "unlock": "Constellation Niv. 1",
+      "description": "Lorsqu'un personnage déployé (autre que Gorou) dans la zone d'effet de la bannière de général ou du champ de prestige de général créés par Gorou inflige des DGT Géo à un ennemi, le TdR de Défense intégrale d'Inuzaka de Gorou diminue de 2 s.\nCet effet peut être déclenché une fois toutes les 10 s.",
+      "level": 1
+    },
+    {
+      "name": "Repos canin : Aplomb du temps",
+      "unlock": "Constellation Niv. 2",
+      "description": "Lorsqu'un personnage déployé à proximité obtient un fragment élémentaire généré par une réaction de Cristallisation alors qu'un prestige de général est actif, la durée du prestige de général de Gorou augmente de 1 s.\nCet effet peut être déclenché une fois toutes les 0,1 s, et sa durée peut être prolongée de 3 s max de cette manière.",
+      "level": 2
+    },
+    {
+      "name": "Griffe canine : Frénésie du feu",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Défense intégrale d'Inuzaka +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Léchouille canine : Bonté de l'eau",
+      "unlock": "Constellation Niv. 4",
+      "description": "Lorsque le prestige de général est en état d'imprenabilité ou de fracas, il restaure également les PV du personnage déployé dans la zone d'effet toutes les 1,5 s d'une valeur équivalant à 50 % de la DÉF de Gorou.",
+      "level": 4
+    },
+    {
+      "name": "Frappe canine : Élan du tonnerre",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Crocs bestiaux : Vers la victoire +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Vaillance canine : Fidélité de la terre",
+      "unlock": "Constellation Niv. 6",
+      "description": "Pendant 12 s après Défense intégrale d'Inuzaka ou Crocs bestiaux : Vers la victoire, les DGT CRIT des DGT Géo de tous les personnages de l'équipe à proximité augmentent en fonction du niveau du champ au moment de l'utilisation de la compétence :\n- Pied ferme : +10 %.\n- Imprenabilité : +20 %.\n- Fracas : +40 %.\nCet effet ne se cumule pas, et la dernière augmentation déclenchée sera la référence pour l'effet.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "BOW"
+}

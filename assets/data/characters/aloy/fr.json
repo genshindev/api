@@ -1,0 +1,92 @@
+{
+  "name": "Aloy",
+  "title": "Salvatrice d'un autre monde",
+  "vision": "Cryo",
+  "weapon": "Arc",
+  "gender": "Femme",
+  "nation": "Inconnue",
+  "affiliation": "Héroïne vagabonde",
+  "rarity": 5,
+  "constellation": "Nora Fortis",
+  "birthday": "0000-04-04",
+  "description": "Autrefois une paria, maintenant une chasseuse d'une acuité sans précédent. Toujours prête à utiliser son arc pour la bonne cause.",
+  "skillTalents": [
+    {
+      "name": "Tir rapide",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 4 tirs consécutifs.\nAttaque chargée\nEffectue un tir visé plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge en élément Cryo, infligeant d'importants DGT Cryo quand elle est complètement chargée.\nAttaque plongeante\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Frozen Wilds",
+      "unlock": "Compétence élémentaire",
+      "description": "Aloy lance une bombe à gel qui explose à l'impact dans la direction ciblée, infligeant des DGT Cryo. Après avoir explosé, la bombe à gel se divise en de nombreuses petites bombes glacées qui explosent au contact des ennemis ou après un court délai, infligeant des DGT Cryo.\nLorsqu'une bombe à gel ou une petite bombe glacée touche un ennemi, l'ATQ de ce dernier est réduite et Aloy obtient 1 charge de bobine.\nUne charge de bobine peut être obtenue toutes les 0,1 s max.\nBobine\n- Chaque charge augmente les DGT des attaques normales d'Aloy ;\n- Avec 4 charges de bobine, Aloy consomme toutes les charges de bobine pour entrer dans un état de Glace précipitée, ce qui augmente davantage les DGT infligés par ses attaques normales et les convertit en DGT Cryo.\nQuand Aloy est en état de Glace précipitée, elle ne peut pas recevoir de nouvelles charges de bobine.\nLes effets de la bobine seront annulés après 30 s si Aloy quitte le combat.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Prophéties de l'aube",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Aloy lance une batterie Cryo dans la direction ciblée, puis la fait exploser avec une flèche, infligeant des DGT Cryo de zone.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Surcharge offensive",
+      "unlock": "Dévérouillé en phase 1",
+      "description": "Lorsqu'Aloy est sous l'effet d'une bobine de Frozen Wilds, son ATQ augmente de 16 %, tandis que celle des personnages de l'équipe à proximité augmente de 8 %. Cet effet dure 10 s.",
+      "level": 1
+    },
+    {
+      "name": "Frappe puissante",
+      "unlock": "Dévérouillé en phase 4",
+      "description": "Lorsqu'Aloy est dans l'état de Glace précipitée accordé par Frozen Wilds, son bonus de DGT Cryo augmente de 3,5 % toutes les secondes. Son bonus de DGT Cryo peut augmenter de cette manière jusqu'à 35 %.",
+      "level": 4
+    },
+    {
+      "name": "Doucement mais sûrement",
+      "unlock": "Dévérouillé automatiquement",
+      "description": "Quand Aloy fait partie de l'équipe, vos personnages n'effraient pas les petits animaux en s'approchant, et peuvent ainsi obtenir de la volaille, de la viande crue et de la viande congelée."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Étoile d'un autre monde (1)",
+      "unlock": "Constellation Niv. 1",
+      "description": "Le moment d'éclairer le coin du ciel nocturne de cette personne n'est pas encore venu.",
+      "level": 1
+    },
+    {
+      "name": "Étoile d'un autre monde (2)",
+      "unlock": "Constellation Niv. 2",
+      "description": "Le moment d'éclairer le coin du ciel nocturne de cette personne n'est pas encore venu.",
+      "level": 2
+    },
+    {
+      "name": "Étoile d'un autre monde (3)",
+      "unlock": "Constellation Niv. 3",
+      "description": "Le moment d'éclairer le coin du ciel nocturne de cette personne n'est pas encore venu.",
+      "level": 3
+    },
+    {
+      "name": "Étoile d'un autre monde (4)",
+      "unlock": "Constellation Niv. 4",
+      "description": "Le moment d'éclairer le coin du ciel nocturne de cette personne n'est pas encore venu.",
+      "level": 4
+    },
+    {
+      "name": "Étoile d'un autre monde (5)",
+      "unlock": "Constellation Niv. 5",
+      "description": "Le moment d'éclairer le coin du ciel nocturne de cette personne n'est pas encore venu.",
+      "level": 5
+    },
+    {
+      "name": "Étoile d'un autre monde (6)",
+      "unlock": "Constellation Niv. 6",
+      "description": "Le moment d'éclairer le coin du ciel nocturne de cette personne n'est pas encore venu.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "BOW"
+}

@@ -56,7 +56,7 @@
     {
       "name": "Niwabi Fire-Dance",
       "unlock": "Elemental Skill",
-      "description": "Yoimiya waves a sparkler and causes a ring of saltpeter to surround her.\nNiwabi Enshou: During this time, arrows fired by Yoimiya's Normal Attack will be Blazing Arrows, and their DMG will be increased and converted to Pyro DMG. during this time, Normal Attack: Firework Flare-Up will not generate Kindling Arrows at Charge Level 2.\nThis effect will deactivate when Yoimiya leaves the field.",
+      "description": "Yoimiya waves a sparkler and causes a ring of saltpeter to surround her.\nNiwabi Enshou: During this time, arrows fired by Yoimiya's Normal Attack will be Blazing Arrows, and their DMG will be increased and converted to Pyro DMG. during this time, Firework Flare-Up will not generate Kindling Arrows at Charge Level 2.\nThis effect will deactivate when Yoimiya leaves the field.",
       "upgrades": [
         {
           "name": "Blazing Arrow DMG",
