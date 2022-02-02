@@ -120,7 +120,7 @@
     },
     {
       "name": "True to Oneself",
-      "unlock": "Unlocked at Ascension 2",
+      "unlock": "Unlocked at Ascension 1",
       "description": "Using Opening Flourish at the precise moment when Yun Jin is attacked will unleash its Level 2 Charged (Hold) form.",
       "level": 1
     },
@@ -128,7 +128,7 @@
       "name": "Breaking Conventions",
       "unlock": "Unlocked at Ascension 4",
       "description": "The Normal Attack DMG Bonus granted by Flying Cloud Flag Formation is further increased by 2.5%/5%/7.5%/11.5% of Yun Jin's DEF when the party contains characters of 1/2/3/4 Elemental Types, respectively.",
-      "level": 1
+      "level": 4
     }
   ],
   "constellations": [
