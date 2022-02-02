@@ -1,0 +1,164 @@
+{
+  "name": "Yoimiya",
+  "vision": "Pyro",
+  "weapon": "Bogen",
+  "nation": "Inazuma",
+  "affiliation": "Naganoharas Feuerwerksartikel",
+  "rarity": 5,
+  "constellation": "Carassius Auratus",
+  "birthday": "0000-06-21",
+  "description": "Besitzerin von \"Naganoharas Feuerwerksartikel\" und bekannt als die Königin des Sommerfests. Sie ist eine gelernte Handwerkerin, die die Wünsche der Menschen mit Feuerwerkskörpern ausdrückt.",
+  "skillTalents": [
+    {
+      "name": "Aufbrausendes Feuerwerk",
+      "unlock": "Standardangriff",
+      "description": "Standardangriff:\nFührt bis zu 5 Pfeilschüsse hintereinander aus.\n\nHeftiger Schlag\nFührt einen gezielten Schuss mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert die Flammen während des Zielens an der Pfeilspitze und verursacht je nach Länge des Aufladens unterschiedliche Effekte:\n - Phase 1: Schießt einen brennenden Pfeil ab und verursacht Pyro-Schaden.\n - Phase 2: Erschafft je nach Länge des Aufladens bis zu 3 Prandpfeile, die zusammen mit diesem gezielten Schuss abgefeuert werden. Brandpfeile suchen automatisch nach Gegnern in der Nähe und verursachen bei Treffern Pyro-Schaden.\n\nAngriff aus dem Fall\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "upgrades": [
+        {
+          "name": "SCH Phase 1",
+          "value": "35.64% + 35.64%"
+        },
+        {
+          "name": "SCH Phase 2",
+          "value": "68.38%"
+        },
+        {
+          "name": "SCH Phase 3",
+          "value": "88.89%"
+        },
+        {
+          "name": "SCH Phase 4",
+          "value": "46.42% + 46.42%"
+        },
+        {
+          "name": "SCH Phase 5",
+          "value": "105.86%"
+        },
+        {
+          "name": "Gezielte Schüsse",
+          "value": "43.86%"
+        },
+        {
+          "name": "Voll aufgeladene gezielte Schüsse",
+          "value": "124%"
+        },
+        {
+          "name": "SCH beim Fallen",
+          "value": "56.8%"
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger / großer Höhe",
+          "value": "114% / 142%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Niwabi-Feuertanz",
+      "unlock": "Elementarangriff",
+      "description": "Ein Stapelring umkreist Yoimiya im Tanz eines duftenden Feuerwerks.\n\nNiwabi Enshou\nEntzündet die während der Wirkungsdauer von Yoimiya mit ihrem Standardangriff abgeschossenen Pfeile, wandelt den damit verursachten Schaden in Pyro-Schaden um und erhöht den mit Standardangriffen verursachten Schaden. Verhindert, dass während der Wirkungsdauer bei Phase 2 von \"Standardangriff: Aufbrausendes Feuerwerk\" Brandpfeile erschaffen werden.",
+      "upgrades": [
+        {
+          "name": "SCH entzündeter Pfeile",
+          "value": "137.91%"
+        },
+        {
+          "name": "Dauer",
+          "value": "10s"
+        },
+        {
+          "name": "Abklingzeit",
+          "value": "18s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Ryuukin-Steinbrech",
+      "unlock": "Spezialangriff",
+      "description": "Yoimiya springt mit dem \"Ryuukin-Steinbrech\", den sie selbst geschaffen hat, in die Luft, feuert brennende Pfeile voller Überraschungen nach vorn, verursacht Pyro-Flächenschaden und fügt einem der damit getroffenen Gegner \"Ryuukin-Lohe\" zu.\n\nRyuukin-Lohe\nLöst beim Treffen von Tyuukin-Lohe betroffener Gegner mit Standardangriffen, heftigen Schlägen, Angriffen aus dem Fall, Elementarfähigkeiten und Spezailfähigkeiten von allen Truppenmitgliedern außer Yoimiya selbst eine Explosion aus, die Pyro-Flächenschaden verursacht.\nWird ein von Ryuukin-Lohe betroffener Gegner während der Wirkungsdauer des Effekts besiegt, springt der Effekt mitsamt der verbleibenden Wirkungsdauer auf einen anderen Gegner in der Nähe über.\n\n2s Abklingzeit für Explosionen durch Ryuukin-Lohe. Beendet den Effekt von Ryuukin-Lohe, der durch Yoimiya selbst ausgelöst wurde, wenn Yoimiya besiegt wird.",
+      "upgrades": [
+        {
+          "name": "Fähigkeits-SCH",
+          "value": "127.2%"
+        },
+        {
+          "name": "Explosions-SCH der Ryuukin-Lohe",
+          "value": "122%"
+        },
+        {
+          "name": "Dauer",
+          "value": "10s"
+        },
+        {
+          "name": "Abklingzeit",
+          "value": "15s"
+        },
+        {
+          "name": "Elementarenergie",
+          "value": "60"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Unruhestifter",
+      "unlock": "Ab Figurenaufstiegsstufe 1 freigeschaltet",
+      "description": "Erhöht bei Treffern mit Yoimiyas Standardangriffen während der Wirkungsdauer von Niwabi-Feuertanz Yoimiyas Pyro-Schaden um 2%. Hält 3s, 10-fach stapelbar.",
+      "level": 1
+    },
+    {
+      "name": "Sommerhitze",
+      "unlock": "Ab Figurenaufstiegsstufe 4 freigeschaltet",
+      "description": "Erhöht nach Anwendung von Ryuukin-Steinbrech den ANG aller Truppenmitglieder in der Nähe außer Yoimiya selbst 15s lang um 10%.\nErhöht den ANG für jede Stapelung des passiven Talents \"Unruhestifter\" zum Zeitpunkt der Anwendung von Ryuukin-Steinbrech durch Yoimiya selbst zusätzlich um 1%.",
+      "level": 4
+    },
+    {
+      "name": "Entzündliche Abstimmung",
+      "unlock": "Automatisch freigeschaltet",
+      "description": "Erhält beim Herstellen von Verzierungen, Zierrat und Landschaftsdekorationen mit einer Wahrscheinlichkeit von 100% einen Teil der verbrauchten Materialien zurück."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Ryuukin in Rot",
+      "unlock": "Sternbild Stufe 1",
+      "description": "Verlängert die Wirkungsdauer der Ryuukin-Lohe von Ryuukin-Steinbrech um 4s.\nErhöht beim Besiegen von Yoimiyas eigener Ryuukin-Lohe betroffener Gegner Während der Wirkungsdauer der Ryuukin-Lohe Yoimiyas ANG 20s lang um 20%.",
+      "level": 1
+    },
+    {
+      "name": "Feuernder Umzug",
+      "unlock": "Sternbild Stufe 2",
+      "description": "Erhöht beim Verursachen von KT mit Yoimiyas Pyro-Schaden Yoimiyas Pyro-Schaden 6s lang um 25%.\nDer Effekt bleibt auch bestehen, wenn Yoimiya ausgewechselt wird.",
+      "level": 2
+    },
+    {
+      "name": "Unruhiges Flackern",
+      "unlock": "Sternbild Stufe 3",
+      "description": "Erhöht die Stufe der Fähigkeit Niwabi-Feuertanz um 3.\nHöchststufe 15.",
+      "level": 3
+    },
+    {
+      "name": "Versierte Pyrotechnik",
+      "unlock": "Sternbild Stufe 4",
+      "description": "Verkürzt beim Explodieren der von Yoimiya selbst erschaffenen Ryuukin-Lohe die Abklingzeit von Niwabi-Feuertanz um 1.2s.",
+      "level": 4
+    },
+    {
+      "name": "Sommerlicher Festabend",
+      "unlock": "Sternbild Stufe 5",
+      "description": "Erhöht die Stufe der Fähigkeit Ryuukin-Steinbrech um 3.\nHöchststufe 15.",
+      "level": 5
+    },
+    {
+      "name": "Naganohara-Meteorstrom",
+      "unlock": "Sternbild Stufe 6",
+      "description": "Schließt bei aktiver Anwendung von Yoimiyas Standardangriffen während der Wirkungsdauer von Niwabi-Feuertanz mit einer Wahrscheinlichkeit von 50% einen zusätzlichen entzündeten Pfeil ab und verursacht damit 60% des eigentlichen Schadens. Dieser Schaden gilt als Standardangriffsschaden.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "BOW"
+}

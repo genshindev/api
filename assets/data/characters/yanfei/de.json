@@ -1,0 +1,164 @@
+{
+  "name": "Yanfei",
+  "vision": "Pyro",
+  "weapon": "Katalysator",
+  "nation": "Liyue",
+  "affiliation": "Liyue",
+  "rarity": 4,
+  "constellation": "Bestia Iustitia",
+  "birthday": "0000-07-28",
+  "description": "Eine sehr bekannte Rechtsberaterin in Liyue und ein gescheites Mädchen mit dem Blut einer göttlichen Bestie in ihren Adern.",
+  "skillTalents": [
+    {
+      "name": "Flammendes Siegel",
+      "unlock": "Standardangriff",
+      "description": "Standardangriff\nSchießt mehrere Feuerbälle nacheinander ab und verursacht bis zu dreimal Pyro-Schaden.\nJeder Treffer gibt Yanfei ein flammendes Siegel. Kann anfänglich bis zu drei flammende Siegel besitzen. Bei jedem Auslösen wird die Dauer der vorhandenen flammenden Siegel aktualisiert.\nJedes flammende Siegel verringert Yanfeis Ausdauerverbrauch und verschwindet, wenn sie ausgewechselt wird.\nVerbraucht Ausdauer sowie nach kurzem Aufladen alle flammenden Siegel und verursacht vor sich Pyro-Flächenschaden.\nVerstärkt basierend auf der Anzahl der verbrauchten flammenden Siegel die Reichweite und den Schaden des heftigen Schlags.\n\nAngriff aus dem Fall\nKonzentriert die Kraft des Feuers, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Pyro-Flächenschaden.",
+      "upgrades": [
+        {
+          "name": "SCH Phase 1",
+          "value": "58.3%"
+        },
+        {
+          "name": "SCH Phase 2",
+          "value": "52.1%"
+        },
+        {
+          "name": "SCH Phase 3",
+          "value": "76%"
+        },
+        {
+          "name": "SCH heftiger Schläge",
+          "value": "98.2% / 115.6% / 132.9% / 150.2% / 167.6%"
+        },
+        {
+          "name": "Ausdauerverbrauch heftiger Schläge",
+          "value": "50"
+        },
+        {
+          "name": "Verringerung des Ausdauerverbrauchs für flammende Siegel",
+          "value": "15%"
+        },
+        {
+          "name": "Dauer der flammenden Siegel",
+          "value": "10"
+        },
+        {
+          "name": "SCH beim Fallen",
+          "value": "56.8%"
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger / großer Höhe",
+          "value": "113.6% / 141.9%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Pakt des Feuers",
+      "unlock": "Elementarangriff",
+      "description": "Beschwört lodernde Flammen und verursacht Pyro-Flächenschaden.\nBekommt beim Treffen von Gegnern die Höchstzahl an flammenden Siegeln.",
+      "upgrades": [
+        {
+          "name": "Fähigkeits-SCH",
+          "value": "169.6%"
+        },
+        {
+          "name": "Abklingzeit",
+          "value": "9s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Pakt des flammenden Infernos",
+      "unlock": "Spezialangriff",
+      "description": "Beschwört Flammen des Infernos, greift Gegner in der Umgebung an und verursacht Pyro-Flächenschaden. Gibt dabei Yanfei die Höchstzahl an flammenden Siegeln und den Effekt Sengende Hitze.\n\nSengende Hitze\nLöst folgende Effekte aus:\n - Gibt Yanfei in gleichen zeitlichen Abständen je ein flammendes Siegel.\n - Erhöht den Schaden heftiger Schläge.\nEndet, wenn Yanfei ausgewechselt wird.",
+      "upgrades": [
+        {
+          "name": "Fähigkeits-SCH",
+          "value": "182%"
+        },
+        {
+          "name": "Intervall der flammenden Siegel",
+          "value": "1s"
+        },
+        {
+          "name": "SCH-Bonus für heftige Schläge",
+          "value": "33%"
+        },
+        {
+          "name": "Dauer",
+          "value": "15s"
+        },
+        {
+          "name": "Abklingzeit",
+          "value": "20s"
+        },
+        {
+          "name": "Elementarenergie",
+          "value": "80"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Koppelungsklausel",
+      "unlock": "Ab Figurenaufstiegsstufe 1 freigeschaltet",
+      "description": "Erhöht mit jedem verbrauchten flammenden Siegel durch heftige Schläge den Pyro-Schadensbonus 6 s lang um 5 %. Falls die Figur innerhalb der Wirkungsdauer des Effekts nochmals heftige Schläge anwendet, wird der vorige Effekt zuerst entfernt.",
+      "level": 1
+    },
+    {
+      "name": "Wachsame Argusaugen",
+      "unlock": "Ab Figurenaufstiegsstufe 4 freigeschaltet",
+      "description": "Verursacht einmal zusätzlichen Pyro-Flächenschaden in Höhe von 80 % ANG, wenn Yanfeis heftige Schläge KT bei Gegnern verursachen. Der Flächenschaden wird als Schaden von heftigen Schlägen betrachtet.",
+      "level": 4
+    },
+    {
+      "name": "Gelehrsamkeit",
+      "unlock": "Automatisch freigeschaltet",
+      "description": "Zeigt alle Besonderheiten Liyues in der Nähe auf der Minikarte an."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Rechthaberei",
+      "unlock": "Sternbild Stufe 1",
+      "description": "Erhöht mit jedem flammenden Siegel Yanfeis Unterbrechungs-WDS beim Aufladen, wenn sie einen heftigen Schlag ausführt, und verringert den Ausdauerverbrauch bei dem heftigen Schlag.",
+      "level": 1
+    },
+    {
+      "name": "Endgültige Auslegung vorbehalten",
+      "unlock": "Sternbild Stufe 2",
+      "description": "Erhöht die KT bei Yanfeis heftigen Schlägen gegenüber Gegnern mit weniger als 50% LP um 20%.",
+      "level": 2
+    },
+    {
+      "name": "Siegel in lodernder Flamme",
+      "unlock": "Sternbild Stufe 3",
+      "description": "Erhöht die Stufe der Fähigkeit Pakt des Feuers um 3.\nHöchststufe 15.",
+      "level": 3
+    },
+    {
+      "name": "Eiserner Pakt",
+      "unlock": "Sternbild Stufe 4",
+      "description": "Effekte bei Anwendung von Pakt des flammenden Infernos:\nErstellt einen Schutzschild, der Schaden in Höhe von 45% der max. LP abhält, hält 15s.\nHält bei Pyro-Schaden 250% ab.",
+      "level": 4
+    },
+    {
+      "name": "Eidesstattliche Versicherung",
+      "unlock": "Sternbild Stufe 5",
+      "description": "Erhöht die Stufe der Fähigkeit Pakt des flammenden Infernos um 3.\nHöchststufe 15.",
+      "level": 5
+    },
+    {
+      "name": "Extraklausel",
+      "unlock": "Sternbild Stufe 6",
+      "description": "Erhöht die Höchstmenge an flammenden Siegeln um 1.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "CATALYST"
+}
