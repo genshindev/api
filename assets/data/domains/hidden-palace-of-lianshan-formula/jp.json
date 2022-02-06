@@ -1,0 +1,756 @@
+{
+    "name": "震雷連山密宮",
+    "type": "煉武",
+    "description": "言い伝えによると、謎の運動により、山腹の中に無限の雷が発生するようになり、秘境の前にいると、魂を呼ぶ雷鳴が聞こえるらしい",
+    "location": "Mingyun Village, Qiongji Estuary, Liyue",
+    "nation": "Liyue",
+    "requirements": [
+      {
+        "level": 1,
+        "adventureRank": 16,
+        "recommendedLevel": 15,
+        "leyLineDisorder": [
+          "一定周期でキャラに「嗜欲の雷」を付与する：付着された雷元素が消えるまで、持続的に元素エネルギーが減少する"
+        ]
+      },
+      {
+        "level": 2,
+        "adventureRank": 21,
+        "recommendedLevel": 36,
+        "leyLineDisorder": [
+          "一定周期でキャラに「嗜欲の雷」を付与する：付着された雷元素が消えるまで、持続的に元素エネルギーが減少する"
+        ]
+      },
+      {
+        "level": 3,
+        "adventureRank": 30,
+        "recommendedLevel": 59,
+        "leyLineDisorder": [
+          "一定周期でキャラに「嗜欲の雷」を付与する：付着された雷元素が消えるまで、持続的に元素エネルギーが減少する",
+          "落雷がランダムに落下し、 雷元素ダメージを与え、キャラクターの元素エネルギーをゼロにする。 落雷は一定確率で雷光珠を生成する。"
+        ]
+      },
+      {
+        "level": 4,
+        "adventureRank": 40,
+        "recommendedLevel": 80,
+        "leyLineDisorder": [
+          "一定周期でキャラに「嗜欲の雷」を付与する：付着された雷元素が消えるまで、持続的に元素エネルギーが減少する",
+          "落雷がランダムに落下し、 雷元素ダメージを与え、キャラクターの元素エネルギーをゼロにする。 落雷は一定確率で雷光珠を生成する。"
+        ]
+      }
+    ],
+    "recommendedElements": ["氷", "炎"],
+    "rewards": [
+      {
+        "day": "月曜",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "孤雲寒林の光砂",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "孤雲寒林の光砂",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の輝岩",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "孤雲寒林の光砂",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の輝岩",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の聖骸",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "孤雲寒林の光砂",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の輝岩",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "孤雲寒林の聖骸",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の神体",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "火曜",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "霧海雲問の鉛丹",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "霧海雲問の鉛丹",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の水銀",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "霧海雲問の鉛丹",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の水銀",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の金丹",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "霧海雲問の鉛丹",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の水銀",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "霧海雲問の金丹",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の転還",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "水曜",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "漆黑の隕鉄の一粒",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "漆黑の隕鉄の一粒",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一片",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "漆黑の隕鉄の一粒",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一片",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一角",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "漆黑の隕鉄の一粒",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一片",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "漆黑の隕鉄の一角",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の塊",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "木曜",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "孤雲寒林の光砂",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "孤雲寒林の光砂",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の輝岩",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "孤雲寒林の光砂",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の輝岩",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の聖骸",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "孤雲寒林の光砂",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の輝岩",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "孤雲寒林の聖骸",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の神体",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "金曜",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "霧海雲問の鉛丹",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "霧海雲問の鉛丹",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の水銀",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "霧海雲問の鉛丹",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の水銀",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の金丹",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "霧海雲問の鉛丹",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の水銀",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "霧海雲問の金丹",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の転還",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "土曜",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "漆黑の隕鉄の一粒",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "漆黑の隕鉄の一粒",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一片",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "漆黑の隕鉄の一粒",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一片",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一角",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "漆黑の隕鉄の一粒",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一片",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "漆黑の隕鉄の一角",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の塊",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "日曜",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "孤雲寒林の光砂",
+                "drop_min": 4,
+                "drop_max": 6
+              },
+              {
+                "name": "霧海雲問の鉛丹",
+                "drop_min": 4,
+                "drop_max": 6
+              },
+              {
+                "name": "漆黑の隕鉄の一粒",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "孤雲寒林の光砂",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の輝岩",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の鉛丹",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の水銀",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一粒",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一片",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "孤雲寒林の光砂",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の輝岩",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の聖骸",
+                "drop_min": 0,
+                "drop_max": 2
+              },
+              {
+                "name": "霧海雲問の鉛丹",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の水銀",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の金丹",
+                "drop_min": 0,
+                "drop_max": 2
+              },
+              {
+                "name": "漆黑の隕鉄の一粒",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一片",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一角",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "孤雲寒林の光砂",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の輝岩",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "孤雲寒林の聖骸",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "孤雲寒林の神体",
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "霧海雲問の鉛丹",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の水銀",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "霧海雲問の金丹",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "霧海雲問の転還",
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "漆黑の隕鉄の一粒",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の一片",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "漆黑の隕鉄の一角",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "漆黑の隕鉄の塊",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
