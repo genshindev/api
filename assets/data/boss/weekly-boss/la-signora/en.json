@@ -1,0 +1,43 @@
+{
+    "name": "La Signora",
+    "description": "Signora, the Eighth of the Fatui Harbingers.\nUnlike other Fatui who use the authority granted by Delusions, her Delusion is meant to shackle a flame that will devour everything. As opposed to a weapon used to kill, it might be more fitting to consider this a tool of imprisonment.\nAnd it was the embers of that flame, which had accumulated over many long years, that would break through the frosty seal of the Delusion and apply a warped rouge upon her.\n\nThe crimson dawn was reflected in her pupils, and at last, she unfolded her flaming wings and flew towards the light.\n\"But that light is not the dawn, dear Rosalyne. That is a sea of flame that will consume everything.\"\nA voice spoke to her amidst the light.\n\nYet it mattered not, for she knew in her heart that the flames had devoured her long ago.",
+    "drops": [
+        {
+            "name": "Molten Moment",
+            "rarity": 5,
+            "source": "Lv. 70+ Signora Challenge Reward"
+        },
+        {
+            "name": "Hellfire Butterfly",
+            "rarity": 5,
+            "source": "Lv. 70+ Signora Challenge Reward"
+        },
+        {
+            "name": "Hellfire Butterfly",
+            "rarity": 5,
+            "source": "Lv. 70+ Signora Challenge Reward"
+        }
+    ],
+    "artifacts": [
+        {
+            "name": "Berserker",
+            "max_rarity": 4
+        },
+        {
+            "name": "Instructor",
+            "max_rarity": 4
+        },
+        {
+            "name": "The Exile",
+            "max_rarity": 4
+        },
+        {
+            "name": "Gladiator's Finale",
+            "max_rarity": 5
+        },
+        {
+            "name": "Wanderer's Troupe",
+            "max_rarity": 5
+        }
+    ]
+}
