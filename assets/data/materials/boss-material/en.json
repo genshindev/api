@@ -1,37 +1,77 @@
 {
-  "anemo": {
-    "id": "hurricane-seed",
+  "hurricane-seed": {
     "name": "Hurricane Seed",
-    "source": "Anemo Hypostasis"
+    "source": "Anemo Hypostasis",
+    "characters": ["jean", "sucrose", "venti"]
   },
-  "cryo": {
-    "id": "hoarfrost-core",
+  "hoarfrost-core": {
     "name": "Hoarfrost Core",
-    "source": "Cryo Regisvine"
+    "source": "Cryo Regisvine",
+    "characters": ["chongyun", "diona", "ganyu", "kaeya", "qiqi", "rosaria"]
   },
-  "electro": {
-    "id": "lightning-prism",
+  "lightning-prism": {
     "name": "Lightning Prism",
-    "source": "Electro Hypostasis"
+    "source": "Electro Hypostasis",
+    "characters": ["beidou", "fischl", "keqing", "lisa", "razor"]
   },
-  "geo": {
-    "id": "basalt-pillar",
+  "basalt-pillar": {
     "name": "Basalt Pillar",
-    "source": "Geo Hypostasis"
+    "source": "Geo Hypostasis",
+    "characters": ["albedo", "ningguang", "noelle", "zhongli"]
   },
-  "hydro": {
-    "id": "cleansing-heart",
+  "cleansing-heart": {
     "name": "Cleansing Heart",
-    "source": "Oceanid"
+    "source": "Oceanid",
+    "characters": ["barbara", "mona", "tartaglia", "xingqiu"]
   },
-  "pyro": {
-    "id": "everflame-seed",
+  "everflame-seed": {
     "name": "Everflame Seed",
-    "source": "Pyro Regisvine"
+    "source": "Pyro Regisvine",
+    "characters": ["amber", "bennett", "diluc", "klee", "xiangling", "Xinyan"]
   },
-  "multiple": {
-    "id": "juvenile-jade",
+  "juvenile-jade": {
     "name": "Juvenile Jade",
-    "source": "Primo Geovishap"
+    "source": "Primo Geovishap",
+    "characters": ["hu-tao", "xiao", "yanfei"]
+  },
+  "crystalline-bloom": {
+    "name": "Crystalline Bloom",
+    "source": "Cryo Hypostasis",
+    "characters": ["aloy", "eula"]
+  },
+  "marionette-core": {
+    "name": "Marionette Core",
+    "source": "Maguu Kenki",
+    "characters": ["kazuha", "sayu"]
+  },
+  "perpetual-heart": {
+    "name": "Perpetual Heart",
+    "source": "Perpetual Mechanical Array",
+    "characters": ["gorou", "ayaka"]
+  },
+  "smoldering-pearl": {
+    "name": "Smoldering Pearl",
+    "source": "Pyro Hypostasis",
+    "characters": ["thoma", "yoimiya"]
+  },
+  "dew-of-repudiation": {
+    "name": "Dew of Repudiation",
+    "source": "Hydro Hypostasis",
+    "characters": ["kokomi"]
+  },
+  "storm-beads": {
+    "name": "Storm Beads",
+    "source": "Thunder Manifestation",
+    "characters": ["sara", "raiden"]
+  },
+  "riftborn-regalia": {
+    "name": "Riftborn Regalia",
+    "source": "Golden Wolflord",
+    "characters": ["arataki-itto", "yun-jin"]
+  },
+  "dragonheir-s-false-fin": {
+    "name": "Dragonheir's False Fin",
+    "source": "Coral Defenders",
+    "characters": ["shenhe", "yae-miko"]
   }
 }

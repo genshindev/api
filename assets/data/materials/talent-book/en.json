@@ -1,14 +1,14 @@
 {
   "freedom": {
     "characters": [
+      "aloy",
       "amber",
       "barbara",
       "diona",
       "klee",
       "sucrose",
       "tartaglia",
-      "traveler-anemo",
-      "traveler-geo"
+      "traveler-anemo"
     ],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "forsaken-rift",
@@ -34,12 +34,11 @@
     "characters": [
       "bennett",
       "diluc",
+      "eula",
       "jean",
       "mona",
       "noelle",
-      "razor",
-      "traveler-anemo",
-      "traveler-geo"
+      "razor"
     ],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "forsaken-rift",
@@ -62,16 +61,7 @@
     ]
   },
   "ballad": {
-    "characters": [
-      "albedo",
-      "fischl",
-      "kaeya",
-      "lisa",
-      "rosaria",
-      "venti",
-      "traveler-anemo",
-      "traveler-geo"
-    ],
+    "characters": ["albedo", "fischl", "kaeya", "lisa", "rosaria", "venti"],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "forsaken-rift",
     "items": [
@@ -93,7 +83,7 @@
     ]
   },
   "prosperity": {
-    "characters": ["keqing", "ningguang", "qiqi", "xiao", "traveler-geo"],
+    "characters": ["keqing", "ningguang", "qiqi", "traveler-geo", "xiao"],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "taishan-mansion",
     "items": [
@@ -115,7 +105,14 @@
     ]
   },
   "diligence": {
-    "characters": ["chongyun", "ganyu", "hu-tao", "xiangling", "traveler-geo"],
+    "characters": [
+      "chongyun",
+      "ganyu",
+      "hu-tao",
+      "kazuha",
+      "xiangling",
+      "yun-jin"
+    ],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "taishan-mansion",
     "items": [
@@ -137,7 +134,7 @@
     ]
   },
   "gold": {
-    "characters": ["beidou", "xingqiu", "xinyan", "zhongli", "traveler-geo"],
+    "characters": ["beidou", "xingqiu", "xinyan", "yanfei", "zhongli"],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "taishan-mansion",
     "items": [
@@ -154,6 +151,72 @@
       {
         "id": "philosophies-of-gold",
         "name": "Philosophies of Gold",
+        "rarity": 4
+      }
+    ]
+  },
+  "transience": {
+    "characters": ["kokomi", "thoma", "traveler-electro", "yoimiya"],
+    "availability": ["Monday", "Thursday", "Sunday"],
+    "source": "violet-court",
+    "items": [
+      {
+        "id": "teachings-of-transience",
+        "name": "Teachings of Transience",
+        "rarity": 2
+      },
+      {
+        "id": "guide-to-transience",
+        "name": "Guide to Transience",
+        "rarity": 3
+      },
+      {
+        "id": "philosophies-of-transience",
+        "name": "Philosophies of Transience",
+        "rarity": 4
+      }
+    ]
+  },
+  "elegance": {
+    "characters": ["arataki-itto", "ayaka", "sara"],
+    "availability": ["Tuesday", "Friday", "Sunday"],
+    "source": "violet-court",
+    "items": [
+      {
+        "id": "teachings-of-elegance",
+        "name": "Teachings of Elegance",
+        "rarity": 2
+      },
+      {
+        "id": "guide-to-elegance",
+        "name": "Guide to Elegance",
+        "rarity": 3
+      },
+      {
+        "id": "philosophies-of-elegance",
+        "name": "Philosophies of Elegance",
+        "rarity": 4
+      }
+    ]
+  },
+  "light": {
+    "characters": ["gorou", "raiden", "sayu", "yae-miko"],
+    "availability": ["Wednesday", "Saturday", "Sunday"],
+    "source": "violet-court",
+    "items": [
+      {
+        "id": "teachings-of-light",
+        "name": "Teachings of Light",
+        "rarity": 2
+      },
+      {
+        "id": "guide-to-light",
+        "name": "Guide to Light",
+        "rarity": 3
+      },
+      {
+        "id": "philosophies-of-light",
+        "name": "Philosophies of Light",
         "rarity": 4
       }
     ]
