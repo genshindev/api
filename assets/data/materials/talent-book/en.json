@@ -8,7 +8,8 @@
       "klee",
       "sucrose",
       "tartaglia",
-      "traveler-anemo"
+      "traveler-anemo",
+      "traveler-geo"
     ],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "forsaken-rift",
@@ -38,7 +39,9 @@
       "jean",
       "mona",
       "noelle",
-      "razor"
+      "razor",
+      "traveler-anemo",
+      "traveler-geo"
     ],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "forsaken-rift",
@@ -61,7 +64,16 @@
     ]
   },
   "ballad": {
-    "characters": ["albedo", "fischl", "kaeya", "lisa", "rosaria", "venti"],
+    "characters": [
+      "albedo",
+      "fischl",
+      "kaeya",
+      "lisa",
+      "rosaria",
+      "venti",
+      "traveler-anemo",
+      "traveler-geo"
+    ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "forsaken-rift",
     "items": [
@@ -110,6 +122,7 @@
       "ganyu",
       "hu-tao",
       "kazuha",
+      "traveler-geo",
       "xiangling",
       "yun-jin"
     ],
@@ -134,7 +147,7 @@
     ]
   },
   "gold": {
-    "characters": ["beidou", "xingqiu", "xinyan", "yanfei", "zhongli"],
+    "characters": ["beidou", "traveler-geo", "xingqiu", "xinyan", "yanfei", "zhongli"],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "taishan-mansion",
     "items": [
@@ -178,7 +191,7 @@
     ]
   },
   "elegance": {
-    "characters": ["arataki-itto", "ayaka", "sara"],
+    "characters": ["arataki-itto", "ayaka", "sara", "traveler-electro"],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "violet-court",
     "items": [
@@ -200,7 +213,7 @@
     ]
   },
   "light": {
-    "characters": ["gorou", "raiden", "sayu", "yae-miko"],
+    "characters": ["gorou", "raiden", "sayu", "traveler-electro", "yae-miko"],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "violet-court",
     "items": [
