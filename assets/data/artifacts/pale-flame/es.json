@@ -1,0 +1,6 @@
+{
+  "name": "Llamas Albinas",
+  "max_rarity": 5,
+  "2-piece_bonus": "Daño Físico +25%.",
+  "4-piece_bonus": "Cuando una Habilidad Elemental golpea al enemigo, el ATQ de todos los miembros del equipo cercanos aumenta 9% durante 7 s. Este efecto puede acumularse hasta 2 veces y puede ser activado cada 0.3 s. Cuando se llega a aplicar 2 veces, el efecto del conjunto de 2 piezas aumenta un 100%."
+}

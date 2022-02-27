@@ -1,0 +1,6 @@
+{
+    "name": "Milagro",
+    "max_rarity": 4,
+    "2-piece_bonus": "Todas las Resistencias Elementales aumentan un 20%",
+    "4-piece_bonus": "El Daño Elemental recibido incrementa la Resistencia Elemental correspondiente un 30% por 10s. Sólo puede ocurrir una vez cada 10s."
+}

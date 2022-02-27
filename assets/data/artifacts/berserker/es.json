@@ -1,0 +1,6 @@
+{
+  "name": "Berserker",
+  "max_rarity": 4,
+  "2-piece_bonus": "Prob. CRIT +12%.",
+  "4-piece_bonus": "Cuando la Vida es inferior al 70%, aumenta la Prob. CRIT en un 24%."
+}

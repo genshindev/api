@@ -1,0 +1,6 @@
+{
+    "name": "Médica Itinerante",
+    "max_rarity": 3,
+    "2-piece_bonus": "Curación recibida +20%",
+    "4-piece_bonus": "Al lanzar una Habilidad Definitiva, restaura 20% de Vida."
+}

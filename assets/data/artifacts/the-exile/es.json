@@ -1,0 +1,6 @@
+{
+  "name": "Exiliado",
+  "max_rarity": 4,
+  "2-piece_bonus": "Recarga de Energía +20%.",
+  "4-piece_bonus": "Al usar la Habilidad Elemental, todos los miembros del equipo (a excepción de tu personaje en uso) recuperan 2 pts. de Energía Elemental cada 2 s durante 6s. Este efecto no puede acumularse."
+}

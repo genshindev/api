@@ -1,0 +1,6 @@
+{
+  "name": "Caballería Sanguinaria",
+  "max_rarity": 5,
+  "2-piece_bonus": "Daño Fisico +25%.",
+  "4-piece_bonus": "Derrotar a enemigo hace que no consumas Aguante al lanzar n Ataque Cargado, y que el daño de Ataque Cargado aumenta en un 50% durante durante 10 s."
+}
