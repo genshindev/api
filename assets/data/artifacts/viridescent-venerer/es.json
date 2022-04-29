@@ -1,0 +1,6 @@
+{
+    "name": "Sombra Verde Esmeralda",
+    "max_rarity": 5,
+    "2-piece_bonus": "Bono de Daño Anemo +15%",
+    "4-piece_bonus": "Aumenta el daño de Torbellino en un 60%. Dependiendo del tipo elemental que tenga, disminuye la RES Elemental correspondiente del enemigo en un 40% durante 10 s."
+}

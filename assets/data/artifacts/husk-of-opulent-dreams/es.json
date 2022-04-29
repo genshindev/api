@@ -1,0 +1,6 @@
+{
+  "name": "Cáscara de Sueños Opulentos",
+  "max_rarity": 5,
+  "2-piece_bonus": "DEF +30%.",
+  "4-piece_bonus": "El personaje que equipe este conjunto de artefactos obtendrpa el efecto de 'curiosidad' en las siguientes circunstancias al golpear a un enemigo con un ataque Geo, obtiene una carga, lo cual solo puede ocurrir una vez cada 0.3 s, mientras está en tu equipo pero no en combate, obtiene una carga cada 3 s. Este efecto puede acumularse hasta 4 veces, y cada carga aumenta en un 6% la DEF y otorga un 6% de bono de Daño Geo. Si el personaje no obtiene una carga de curiosidad en 6s, perderá una acumulación."
+}
