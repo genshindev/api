@@ -6,5 +6,6 @@
   "subStat": "CRIT DMG",
   "passiveName": "Archer's Message",
   "passiveDesc": "Aimed Shot hits on weak spots deal an additional 100/125/150/175/200% ATK DMG as CRIT DMG. Can only occur once every 10s.",
-  "location": "Chest"
+  "location": "Chest",
+  "ascensionMaterial": "elixir"
 }

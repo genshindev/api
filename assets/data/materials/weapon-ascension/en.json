@@ -4,20 +4,25 @@
       "apprentice's-notes",
       "aquila-favonia",
       "cool-steel",
+      "cinnabar-spindle",
       "dull-blade",
       "favonius-codex",
       "favonius-sword",
       "ferrous-shadow",
       "magic-guide",
+      "mitternachts-waltz",
       "pocket-grimoire",
       "raven-bow",
       "royal-grimoire",
       "royal-longsword",
       "silver-sword",
       "snow-tombed-starsilver",
+      "song-of-broken-pines",
+      "the-alley-flash",
       "the-bell",
       "the-stringless",
       "the-viridescent-hunt"
+      
     ],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "cecilia-garden",
@@ -46,10 +51,11 @@
   },
   "boreal": {
     "weapons": [
-      "alley-hunter",
       "bloodtainted-greatsword",
       "deathmatch",
+      "dodoco-tales",
       "dragonspine-spear",
+      "elegy-for-the-end",
       "harbinger-of-dawn",
       "hunter's-bow",
       "old-merc's-pal",
@@ -96,11 +102,14 @@
   },
   "dandelion": {
     "weapons": [
-      "amos'-bow",
+      "alley-hunter",
+      "amos'-bow",      
       "beginner's-protector",
       "favonius-greatsword",
       "favonius-lance",
       "favonius-warbow",
+      "festering-desire",
+      "freedom-sworn",
       "frostbearer",
       "iron-point",
       "lost-prayer-to-the-sacred-winds",
@@ -113,6 +122,7 @@
       "skyward-spine",
       "traveler's-handy-sword",
       "white-iron-greatsword",
+      "wineindblume-ode",
       "wolf's-gravestone"
     ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
@@ -149,6 +159,7 @@
       "dark-iron-sword",
       "emerald-orb",
       "lion's-roar",
+      "lithic-blade",
       "primordial-jade-winged-spear",
       "rust",
       "slingshot",
@@ -184,14 +195,16 @@
   },
   "elixir": {
     "weapons": [
+      "blackcliff-pole",
       "blackcliff-slasher",
+      "calamity-queller",
       "debate-club",
       "dragon's-bane",
-      "dragonspine-spear",
       "eye-of-perception",
       "fillet-blade",
       "halberd",
       "messenger",
+      "primordial-jade-cutter",
       "prototype-amber",
       "prototype-crescent",
       "prototype-rancour",
@@ -230,6 +243,8 @@
       "black-tassel",
       "compound-bow",
       "iron-sting",
+      "lithic-spear",
+      "luxurious-sea-lord",
       "mappa-mare",
       "memory-of-dust",
       "prototype-archaic",
@@ -237,7 +252,8 @@
       "serpent-spine",
       "skyrider-greatsword",
       "skyrider-sword",
-      "vortex-vanquisher"
+      "staff-of-homa",
+      "vortex-vanquisher" 
     ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "hidden-palace-of-lianshan",
@@ -260,6 +276,109 @@
       {
         "id": "chunk-of-aerosiderite",
         "name": "Chunk of Aerosiderite",
+        "rarity": 5
+      }
+    ]
+  },
+  "distantant-sea":{
+    "weapons":[
+      "akuoumaru",
+      "amenoma-kageuchi",
+      "eberlasting-moonglow",
+      "hakushin-ring",
+      "mistsplitter-reforged",
+      "oathsworn-eye"
+    ],
+    "availability": ["Monday", "Thursday", "Sunday"],
+    "source": "court-of-flowing-sand",
+    "items":[
+      {
+        "id": "coral-branch-of-a-distant-sea",
+        "name": "Coral Branch of a Distant Sea",
+        "rarity": 2
+      },
+      {
+        "id": "jeweled-branch-of-a-distant-sea",
+        "name": "Jeweled Branch of a Distant Sea",
+        "rarity": 3
+      },
+      {
+        "id": "jade-branch-of-a-distant-sea",
+        "name": "Jade Branch of a Distant Sea",
+        "rarity": 4
+      },
+      {
+        "id": "golden-branch-of-a-distant-sea",
+        "name": "Golden Branch of a Distant Sea",
+        "rarity": 5
+      }
+    ]
+  },
+  "narukami":{
+    "weapons":[
+      "hamayumi",
+      "haran-geppaku-futsu",
+      "katsuragikiri-nagamasa",
+      "mouun's-moon",
+      "predator",
+      "redhorn-stonethresher",
+      "thundering-pulse"
+    ],
+    "availability": ["Tuesday", "Friday", "Sunday"],
+    "source": "court-of-flowing-sand",
+    "items":[
+      {
+        "id": "narukami's-wisdom",
+        "name": "Narukami's Wisdom",
+        "rarity": 2
+      },
+      {
+        "id": "narukami's-joy",
+        "name": "Narukami's Joy",
+        "rarity": 3
+      },
+      {
+        "id": "narukami's-affection",
+        "name": "Narukami's Affection",
+        "rarity": 4
+      },
+      {
+        "id": "narukami's-valor",
+        "name": "Narukami's Valor",
+        "rarity": 5
+      }
+    ]
+  },
+  "mask":{
+    "weapons":[
+      "the-catch",
+      "engulfing-lightning",
+      "kagura's-verity",
+      "kitain-cross-spear",
+      "polar-star",
+      "wavebreaker's-fin"
+    ],
+    "availability": ["Wednesday", "Saturday", "Sunday"],
+    "source": "court-of-flowing-sand",
+    "items":[
+      {
+        "id": "mask-of-the-wicked-lieutenant",
+        "name": "Mask of the Wicked Lieutenant",
+        "rarity": 2
+      },
+      {
+        "id": "mask-of-the-tiger's-bite",
+        "name": "Mask of the Tiger's Bite",
+        "rarity": 3
+      },
+      {
+        "id": "mask-of-the-one-horned",
+        "name": "Mask of the One-Horned",
+        "rarity": 4
+      },
+      {
+        "id": "mask-of-the-kijin",
+        "name": "Mask of the Kijin",
         "rarity": 5
       }
     ]

@@ -6,5 +6,6 @@
   "subStat": "Energy Recharge",
   "passiveName": "Wind in the Square",
   "passiveDesc": "For every character in the party who hails from Mondstadt, the character who equips this weapon gains 8/10/12/14/16% ATK increase and 3/3.5/4/4.5/5% Movement SPD increase.",
-  "location": "Gacha"
+  "location": "Gacha",
+  "ascensionMaterial": "boreal"
 }

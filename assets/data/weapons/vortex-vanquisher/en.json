@@ -6,5 +6,6 @@
   "subStat": "ATK",
   "passiveName": "Rainbow-Piercing Stinger",
   "passiveDesc": "Normal Attack hits have a 20% chance of causing the next Charged Attack performed in the following 10s to deal 40% increased DMG.",
-  "location": "Gacha"
+  "location": "Gacha",
+  "ascensionMaterial": "aerosiderite"
 }

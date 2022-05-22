@@ -6,5 +6,6 @@
   "subStat": "CRIT Rate",
   "passiveName": "Itinerant Hero",
   "passiveDesc": "Continuosly sprinting for at least 1s increases ATK by 28% for 6s. This effect cannot stack.",
-  "location": "Gacha"
+  "location": "Gacha",
+  "ascensionMaterial": "decarabian"
 }

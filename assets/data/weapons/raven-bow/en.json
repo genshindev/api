@@ -6,5 +6,6 @@
   "subStat": "Elemental Mastery",
   "passiveName": "Bane of Flame and Water",
   "passiveDesc": "Increases DMG against enemies affected by Hydro or Pyro by 12/15/18/21/24%.",
-  "location": "Gacha"
+  "location": "Gacha",
+  "ascensionMaterial": "decarabian"
 }
