@@ -1,0 +1,10 @@
+{
+  "name": "生徒ノート",
+  "type": "Catalyst",
+  "rarity": 1,
+  "baseAttack": 23,
+  "subStat": "-",
+  "passiveName": "-",
+  "passiveDesc": "-",
+  "location": "宝箱"
+}

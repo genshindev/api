@@ -1,0 +1,92 @@
+{
+  "name": "Diona",
+  "title": "Cocktail façon Queue de Chat",
+  "vision": "Cryo",
+  "weapon": "Arc",
+  "gender": "Femme",
+  "nation": "Mondstadt",
+  "affiliation": "La Queue de Chat",
+  "rarity": 4,
+  "constellation": "Feles",
+  "birthday": "0000-01-18",
+  "description": "Une jeune fille au sang pas tout à fait humain. Elle travaille comme barmaid à La Queue de Chat où elle est très appréciée.",
+  "skillTalents": [
+    {
+      "name": "Archerie de chasse",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 tirs consécutifs.\nAttaque chargée\nEffectue un tir visé plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge en élément Cryo, infligeant de considérables DGT Cryo quand elle est complètement chargée.\nAttaque plongeante\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Griffes Cryo",
+      "unlock": "Compétence élémentaire",
+      "description": "Libère des griffes de chat Cryo qui infligent des DGT Cryo, et génèrent un bouclier lorsqu'elles touchent.\nLe bouclier peut absorber une quantité de DGT proportionnelle aux PV max de Diona, et sa durée dépend du nombre de cibles touchées.\nAppui simple\nExécute rapidement deux attaques consécutives de Griffes Cryo.\nAppui long\nBat rapidement en retraite, et libère 5 Griffes Cryo.\nLe bouclier généré lors d'un appui long obtient un bonus de 75 % d'absorption de DGT.\nLe bouclier est efficace à 250 % contre les DGT Cryo, et applique l'élément Cryo au personnage déployé pendant un court instant lorsque le bouclier est généré.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Cuvée spéciale",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Diona lance un cocktail gelé de sa fabrication, infligeant des DGT Cryo de zone, et génère un champ de vapeur d'alcool.\nChamp de vapeur d'alcool\n- Inflige aux ennemis présents dans la zone des DGT Cryo continus.\n- Restaure les PV des personnages présents dans la zone.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Apéritif offert",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat de soins parfait."
+    },
+    {
+      "name": "Menu secret de La Queue de Chat",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Augmente de 10 % la VIT de déplacement des personnages sous la protection du bouclier généré par les Griffes Cryo. Leur consommation d'endurance est de plus réduite de 10 %.",
+      "level": 1
+    },
+    {
+      "name": "Joyeuse ébriété",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Les ennemis entrant dans le champ de vapeur d'alcool de Cuvée Spéciale voient leur ATQ baisser de 10 % pendant 15 s.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Cocktail maison",
+      "unlock": "Constellation Niv. 1",
+      "description": "Diona récupère 15 pts d'énergie élémentaire à la fin de Cuvée spéciale.",
+      "level": 1
+    },
+    {
+      "name": "On the rocks",
+      "unlock": "Constellation Niv. 2",
+      "description": "Les DGT infligés par Griffes Cryo augmentent de 15 %, et le bouclier absorbe 15 % de DGT en plus.\nDe plus, lorsque la compétence touche, elle confère aux personnages déployés à proximité un bouclier pendant 5 s, dont le pouvoir absorbant équivaut à la moitié de celui de Griffes Cryo.",
+      "level": 2
+    },
+    {
+      "name": "Un dernier pour la route",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Cuvée spéciale +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Mixologie",
+      "unlock": "Constellation Niv. 4",
+      "description": "Le temps de charge du tir visé de Diona est réduit de 60 % lorsqu'elle se trouve dans le champ de vapeur d'alcool de Cuvée spéciale.",
+      "level": 4
+    },
+    {
+      "name": "Un double avec glaçons",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Griffes Cryo +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Dernière tournée",
+      "unlock": "Constellation Niv. 6",
+      "description": "Les personnages se trouvant dans le champ d'alcool de Cuvée spéciale bénéficient des effets suivants selon les PV qu'il leur reste :\n- Bonus de 30 % de soins reçus si les PV sont inférieurs ou égaux à 50 %.\n- Maîtrise élémentaire augmentée de 200 si les PV sont supérieurs à 50 %.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "BOW"
+}

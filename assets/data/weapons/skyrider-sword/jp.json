@@ -1,0 +1,10 @@
+{
+  "name": "飛天御剣",
+  "type": "Sword",
+  "rarity": 3,
+  "baseAttack": 38,
+  "subStat": "元素チャージ効率",
+  "passiveName": "決心",
+  "passiveDesc": "元素爆発を発動した後、攻撃力と移動速度+12%、継続時間15秒。",
+  "location": "祈願"
+}

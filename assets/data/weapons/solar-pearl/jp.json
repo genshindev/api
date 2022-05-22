@@ -1,0 +1,10 @@
+{
+  "name": "匣中日月",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "会心率",
+  "passiveName": "日月の輝き",
+  "passiveDesc": "通常攻撃が命中した後、6秒間元素スキルと元素爆発のダメージ+20%。元素スキルまたは元素爆発が命中した後、6秒間通常攻撃のダメージ+20%。",
+  "location": "天空紀行"
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Diluc",
+  "title": "Ombre de l'Aurore",
+  "vision": "Pyro",
+  "weapon": "Claymore",
+  "gender": "Homme",
+  "nation": "Mondstadt",
+  "affiliation": "Domaine de l'Aurore",
+  "rarity": 5,
+  "constellation": "Noctua",
+  "birthday": "0000-04-30",
+  "description": "Un jeune noble possédant la plupart des entreprises du vin de Mondstadt ; nul ne saurait sous-estimer sa richesse, sa réputation et ses capacités.",
+  "skillTalents": [
+    {
+      "name": "Épée trempée",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 4 coups d'épée.\nAttaque chargée\nExécute une succession d'entailles aussi rapides que tranchantes ; cette attaque consomme de l'endurance sur la durée.\nL'attaque chargée se termine sur un coup puissant.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Assaut brûlant",
+      "unlock": "Compétence élémentaire",
+      "description": "Diluc fait tournoyer sa lourde épée vers l'avant, infligeant des DGT Pyro.\nCette attaque peut être enchaînée 3 fois de suite.\nElle entre en TdR si l'enchaînement n'est pas assez rapide.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Aurore",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Diluc érupte en une explosion de flammes qui repoussent les ennemis et leur infligent des DGT Pyro. Les flammes convergent ensuite sur son arme, pour renaître en un phénix qui inflige d'importants DGT Pyro et repousse les ennemis sur sa route. Le phénix explose lorsqu'il atteint sa destination et inflige d'importants DGT Pyro de zone.\nLes flammes confèrent à l'arme de Diluc un enchantement Pyro.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Légende de l'aurore",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Lorsque vous forgez une épée à deux mains, 15 % du minerai utilisé vous sera rendu."
+    },
+    {
+      "name": "Impitoyable",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Les attaques chargées de Diluc consomment 50 % d'endurance en moins, et durent 3 s de plus.",
+      "level": 1
+    },
+    {
+      "name": "Bénédiction du phénix",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Prolonge l'enchantement Pyro d'Aurore de 4 s. Diluc inflige 20 % de DGT Pyro supplémentaires pendant la durée de cet effet.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Conviction",
+      "unlock": "Constellation Niv. 1",
+      "description": "Diluc inflige 15 % de DGT supplémentaires aux ennemis dont les PV sont supérieurs à 50 %.",
+      "level": 1
+    },
+    {
+      "name": "Chaleur des cendres",
+      "unlock": "Constellation Niv. 2",
+      "description": "L'ATQ de Diluc augmente de 10 % et sa VIT d'attaque de 5 % pendant 10 s lorsqu'il subit des DGT.\n3 cumuls max. Cet effet peut être déclenché une fois toutes les 1,5 s.",
+      "level": 2
+    },
+    {
+      "name": "Feu et acier",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Assaut brûlant +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Flamme courante",
+      "unlock": "Constellation Niv. 4",
+      "description": "Exécuter Assaut brûlant en rythme augmente considérablement les DGT infligés.\n2 s après le lancement d'Assaut brûlant, les DGT du prochain Assaut brûlant sont augmentés de 40 % pendant 2 s.",
+      "level": 4
+    },
+    {
+      "name": "Phénix, Messager de l'Aube",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Aurore +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "L'épée des flammes brise-nuit",
+      "unlock": "Constellation Niv. 6",
+      "description": "Confère aux 2 attaques normales suivant dans les 6 s le lancement d'Assaut brûlant un bonus de 30 % de DGT et de VIT d'attaque.\nDe plus, Assaut brûlant n'interrompt plus les enchaînements d'attaques normales.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "CLAYMORE"
+}

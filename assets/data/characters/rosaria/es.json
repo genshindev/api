@@ -1,0 +1,90 @@
+{
+  "name": "Rosaria",
+  "vision": "Cryo",
+  "weapon": "Lanza",
+  "nation": "Mondstadt",
+  "affiliation": "Iglesia de Favonius",
+  "rarity": 4,
+  "constellation": "Spinea Corona",
+  "birthday": "0000-01-24",
+  "description": "Una monja que, aparte de por su ropa, nadie diría que pertenece al clero, Su frialdad hacia todo la hace extremadamente incisiva y siempre actúa en solitario.",
+  "skillTalents": [
+    {
+      "name": "Lanza eclesiástica",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 5 ataques rápidos con lanza.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para lanzarse al frente, infligiendo daño a los enemigos en el camino.\nAtaque Descendente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Confesión impronunciable",
+      "unlock": "Habilidad Elemental",
+      "description": "Rosaria se desplaza rápidamente hasta detrás de su objetivo, clavándole su lanza y realizando un tajo que inflige Daño Cryo.\nNo es posible ponerse hasta detrás de enemigos de gran tamaño con este movimiento.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Extremaunción",
+      "unlock": "Habilidad Definitiva",
+      "description": "Esta es la ceremonia de rezo dirigida exclusivamente por Rosaria. Tras empujar con su arma a los enemigos a su alrededor, concentra un frío extremo en su lanza helada para golpear el suelo e infligir Daño Cryo.\nMientras esté activa, la lanza helada emitirá intermitentemente un aire helado que inflige Daño Cryo a los enemigos cercanos.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Regina probatorum",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Cuando Rosaria ataca por la espalda a un objetivo con Confesión impronunciable, su Prob. CRIT aumenta en un 12% durante 5 s.",
+      "level": 1
+    },
+    {
+      "name": "Oscuridad expiatoria",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Al usar Extremaunción, la Prob. CRIT de todos los miembros del equipo (a excepción de Rosaria) aumenta durante 10 s en un 15% de la Prob. CRIT de Rosaria.\nEl aumento de Prob. CRIT conseguido de esta manera no podrá ser superior al 15%.",
+      "level": 4
+    },
+    {
+      "name": "Travesía nocturna",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "La Vel. Movimiento de todos los miembros de tu equipo aumenta en un 10% por la noche (de 18:00 a 06:00).\nEste efecto no se activará en Dominios, Dominios de la cruzada y la Espiral del Abismo, y no se puede acumular con otros talentos pasivos que tengan los mismos efectos."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Guía de los pecadores",
+      "unlock": "Constelación Nivel 1",
+      "description": "Cuando Rosaria asesta un golpe CRIT, su Vel. de Ataque y el daño de su Ataque Normal aumentan en un 10% durante 4 s.",
+      "level": 1
+    },
+    {
+      "name": "Tierra de los herejes",
+      "unlock": "Constelación Nivel 2",
+      "description": "Aumenta en 4 s la duración de la lanza helada creada mediante Extremaunción.",
+      "level": 2
+    },
+    {
+      "name": "Sacramento de la penitencia",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Confesión impronunciable +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Consagración del sufrimiento",
+      "unlock": "Constelación Nivel 4",
+      "description": "Al asestar un golpe CRIT con Confesión impronunciable, Rosaria recupera 5 pts. de Energía Elemental.\nEste efecto solo puede activarse 1 vez con cada Confesión impronunciable.",
+      "level": 4
+    },
+    {
+      "name": "Oración final",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Extremaunción +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Juicio divino",
+      "unlock": "Constelación Nivel 6",
+      "description": "Atacar a un enemigo con Extremaunción reduce su RES Física en un 20% durante 10 s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "POLEARM"
+}

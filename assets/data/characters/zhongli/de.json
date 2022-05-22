@@ -1,0 +1,90 @@
+{
+  "name": "Zhongli",
+  "vision": "Geo",
+  "weapon": "Stangenwaffe",
+  "nation": "Liyue",
+  "affiliation": "Liyue Harbor",
+  "rarity": 5,
+  "constellation": "Lapis Dei",
+  "birthday": "0000-12-31",
+  "description": "Ein geheimnisvoller Gast beim Bestattungsunternehmen Wangsheng, der eine unglaubliche Menge Wissen angehäuft hat.",
+  "skillTalents": [
+    {
+      "name": "Steinhagel",
+      "unlock": "Standardangriff",
+      "description": "Standardangriff\nFührt bis zu 6 Lanzenstiche hintereinander aus.\nHeftiger Schlag\nVerbraucht eine gewisse Menge Ausdauer, läuft geschwind nach vorn und lässt steinerne Lanzen von Anfang bis Ende auf die Bahn der Bewegung fallen.\nAngriff aus dem Fall\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verusrsacht beim Aufkommen Flächenschaden.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Dominus Lapidis",
+      "unlock": "Elementarangriff",
+      "description": "Drücken\nKonzentriert die überall auf der Erde vorhandene Geo-Kraft zu einem Hügelkamm\n\nGedrückt halten\nLässt Geo-Objekte in der Nähe explodieren und verursacht folgende Effekte:\n - Erstellt, solange die Höchstmenge nicht erreicht ist, einen Hügelkamm.\n - Erstellt einen Jadeblock, der Schaden basierend auf Zhonglis max. LP abhält.\n - Verursacht Geo-Flächenschaden.\n - Verbraucht bei Anwesenheit von Zielen mit Geo-Kraft die Geo-Kraft von bis zu zwei dieser Ziele. Dieser Effekt verursacht keinen Schaden.\n\nHügelkamm\nVerursacht beim Entstehen Geo-Flächenschaden.\nVerursacht während der Wirkungsdauer eine Schwingung in Einklang mit anderen Geo-Objekten in der Umgebung, die Gegnern in der Umgebung Geo-Schaden zufügt.\nDer Hügelkamm gilt als Geo-Objekt, blockiert Angriffe und kann erklommen werden.\nStandardmäßig kann zu einem Zeitpunkt nur ein von Zhongli selbst erstellter Hügelkamm existieren.\n\nJadeblock-Schild\nHält bei elementarem sowie physischen Schaden 150% ab. Verringert den WDS gegen alle Elemente sowie den physischen WDS von Gegnern in der Nähe von Jadeblöcken geschützter Figuren mit geringer Reichweite um 20%, nicht stapelbar.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Einstürzender Himmel",
+      "unlock": "Spezialangriff",
+      "description": "Ein riesiger Meteorit fällt aus dem Himmel und fügt den Gegnern im Wirkungsbereich des Einschlags enormen Geo-Schaden sowie Versteinert zu.\nVersteinert\nGegner im Zustand Versteinert können sich nicht bewegen.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Wellenartige Ausbreitung",
+      "unlock": "Ab Figurenaufstiegsstufe 1 freigeschaltet",
+      "description": "Löst den Effekt beständige Wand aus, wenn ein Jadeblock Schaden erleidet:\n - Erhöht die Schildeffizienz der Figuren im Schutz eines Jadeblocks um 5%.\n - 5-fach stapelbar, hält bis zum Verschwinden des Jadeblocks.",
+      "level": 1
+    },
+    {
+      "name": "Dominance of Earth",
+      "unlock": "Ab Figurenaufstiegsstufe 4 freigeschaltet",
+      "description": "Erhöht den mit den folgenden Angriffen von Zhongli verursachten Schaden basierend auf seinen max. LP:\n - Erhöht den Schaden von Standardangriffen heftigen Schlägen und Angriffen aus dem Fall um 1,39% der max. LP.\n - Erhöht den Schaden des Hügelkamms von Dominus Lapidis, den des Einklangs und den beim Gedrückthalten um 1,9% der max. LO.\n - Erhöht den Schaden von Einstürzender Himmel um 33% der max. LP.",
+      "level": 4
+    },
+    {
+      "name": "Verhängnis der Kristalle",
+      "unlock": "Automatisch freigeschaltet",
+      "description": "Gibt beim Schmieden von Stangenwaffen 15% des verbrauchten Erzes zurück."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Skelett der Erde",
+      "unlock": "Sternbild Stufe 1",
+      "description": "Bis zu 2 Hügelkämme von Dominus Lapidis können gleichzeitig existieren.",
+      "level": 1
+    },
+    {
+      "name": "Heimat der Jade",
+      "unlock": "Sternbild Stufe 2",
+      "description": "Einstürzender Himmel gibt aktuellen Figuren in der Nähe des Sturzes einen Jadeblock zum Schutz.",
+      "level": 2
+    },
+    {
+      "name": "Funkelnd und doch dunkel",
+      "unlock": "Sternbild Stufe 3",
+      "description": "Erhöht die Stufe der Fähigkeit Dominus Lapidis um 3.\nHöchststufe 15.",
+      "level": 3
+    },
+    {
+      "name": "Gebrochen und doch hart",
+      "unlock": "Sternbild Stufe 4",
+      "description": "Vergrößert den Wirkungsbereich von Einstürzender Himmel um 20%.\nVerlängert den Effekt der Versteinerung von Einstürzender Himmel um 2s.",
+      "level": 4
+    },
+    {
+      "name": "Verkündung der Ordnung",
+      "unlock": "Sternbild Stufe 5",
+      "description": "Erhöht die Stufe der Fähigkeit Einstürzender Himmel um 3.\nHöchststufe 15.",
+      "level": 5
+    },
+    {
+      "name": "Geschenk des Bodens",
+      "unlock": "Sternbild Stufe 6",
+      "description": "Stellt der aktuellen Figur LÜ in Höhe von 40% des Schadens wieder her, wenn der Jadeblock Schaden erleidet.\nDie bei jeder Heilung wiederhergestellten LP können 8% der max. LP der Figur nicht übersteigen.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "POLEARM"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Yanfei",
+  "vision": "Pyro",
+  "weapon": "Catalizador",
+  "nation": "Liyue",
+  "affiliation": "Liyue",
+  "rarity": 4,
+  "constellation": "Bestia Iustitia",
+  "birthday": "0000-07-28",
+  "description": "Una reconocida asesora legal que vive en Liyue. Esta joven tan perspicaz tiene parte de sangre de bestia iluminada.",
+  "skillTalents": [
+    {
+      "name": "Sello ígneo",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nLanza bolas de fuego que infligen hasta tres golpes de Daño Pyro. Al golpear a un enemigo, Yanfei obtiene un sello escarlata.\nInicialmente se puede tener un máximo de 3 sellos escarlatas y, cada vez que este efecto se active, la duración de los sellos que posea Yanfei en ese momento se reiniciará. Cada sello reducirá el Coste de Aguante de Yanfei, pero desaparecerán cuando ella se retire del combate.\n\nAtaque Cargado:\nGasta Aguante para, tras un corto tiempo de canalización, consumir todos los sellos escarlatas e infligir Daño Pyro en el AdE a todos los enemigos frente a Yanfei.\nEl AdE y el daño de este Ataque Cargado aumentará según la cantidad de sellos que se consuman.\n\nAtaque Descendente:\nAl acumular poder Pyro, se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño Pyro en el AdE en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Trato cerrado",
+      "unlock": "Habilidad Elemental",
+      "description": "Invoca unas llamas ardientes que infligen Daño Pyro en el AdE.\nAl golpear con ellas a sus enemigos, Yanfei obtiene el máximo de sellos escarlatas.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Contrato vinculante",
+      "unlock": "Habilidad Definitiva",
+      "description": "Conjura unas explosivas e intensas llamas que lanza a los enemigos cercanos, infligienod Daño Pyro en el AdE y otorgando a Yanfei el máximo de sellos escarlatas, así como el efecto de resplandor.\n\nResplandor: Tiene los siguientes efectos:\nOtorga a Yanfei un sello escarlata cada cierto intervalo de tiempo.\nAumenta el daño infligido con Ataque Cargado.\n\nResplandor se disipará cuando Yanfei se retire del combate o sea derrotada.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Términos asociados",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Cuando Yanfei consume sellos escarlatas mediante un Ataque Cargado, su Bono de Daño Pyro aumenta en un 5% durante 6 s por cada sello consumido. Si mientras dura este efecto vuelve a realizarse un Ataque Cargado, el efecto anterior se eliminará.",
+      "level": 1
+    },
+    {
+      "name": "Ojos justicieros",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Cuando Yanfei asesta un golpe crítico contra un enemigo con su Ataque Cargado, inflige adicionalmente Daño Pyro en el AdE equivalente al 80% de su ATQ. Este daño se considera daño de Ataque Cargado.",
+      "level": 4
+    },
+    {
+      "name": "Conocimiento enciclopédico",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Muestra la ubicación de los objetos típicos de Liyue cercanos en el minimapa."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Insisto, Señoría",
+      "unlock": "Constelación Nivel 1",
+      "description": "La RES a interrupción de Yanfei mientras canaliza un Ataque Cargado aumenta por cada sello escarlata que posea. Además, el Coste de Aguante de dicho Ataque Cargado se reduce en un 10% adicional por cada sello.",
+      "level": 1
+    },
+    {
+      "name": "Derecho de interpretación final",
+      "unlock": "Constelación Nivel 2",
+      "description": "Aumenta en un 20% la Prob. CRIT del Ataque Cargado de Yanfei contra los enemigos con menos de un 50% de Vida.",
+      "level": 2
+    },
+    {
+      "name": "Sello pírico del samadhi",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Trato cerrado +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Absolución",
+      "unlock": "Constelación Nivel 4",
+      "description": "Al utilizar Contrato vinculante, se crea un escudo que dura 15 s y que absorbe daño en una cantidad equivalente al 45% de la Vida Máx. de Yanfei.\nEl escudo tiene un 250% de eficiencia de absorción de Daño Pyro.",
+      "level": 4
+    },
+    {
+      "name": "Declaración jurada",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Contrato vinculante +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Cláusula adicional",
+      "unlock": "Constelación Nivel 6",
+      "description": "Aumenta en 1 la cantidad máxima de sellos escarlatas que puede llevar Yanfei.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "CATALYST"
+}

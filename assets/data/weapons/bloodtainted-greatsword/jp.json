@@ -1,0 +1,10 @@
+{
+  "name": "龍血を浴びた剣",
+  "type": "Claymore",
+  "rarity": 3,
+  "baseAttack": 38,
+  "subStat": "元素熟知",
+  "passiveName": "炎と雷の破滅",
+  "passiveDesc": "炎元素または雷元素の影響を受けた敵に対するダメージ+12%。",
+  "location": "祈願"
+}

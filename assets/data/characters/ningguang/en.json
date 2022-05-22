@@ -140,5 +140,15 @@
     }
   ],
   "vision_key": "GEO",
-  "weapon_type": "CATALYST"
+  "weapon_type": "CATALYST",
+  "outfits": [
+    {
+      "type": "Formal",
+      "name": "Orchid's Evening Gown",
+      "description": "Ningguang's formal wear. The long cyan skirt traces her elegant curves, and the butterfly wings at her ankles lend the outfit a touch of light grace.",
+      "rarity": 4,
+      "price": 1680,
+      "image": "outfit-orchids-evening-gown"
+    }
+  ]
 }

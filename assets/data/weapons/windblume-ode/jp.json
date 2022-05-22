@@ -1,0 +1,10 @@
+{
+  "name": "風花の頌歌",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "元素熟知",
+  "passiveName": "風花の願い",
+  "passiveDesc": "元素スキルを発動した後、風の花の悠久なる願いの加護を獲得し、攻撃力+16%、持続時間6秒。",
+  "location": "イベント「風花の招待」"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Noelle",
+  "vision": "Geo",
+  "weapon": "Mandoble",
+  "nation": "Monstadt",
+  "affiliation": "Caballeros de Favonius",
+  "rarity": 4,
+  "constellation": "Parma Cordis",
+  "birthday": "0000-03-21",
+  "description": "La criada de confianza de los Caballeros de Favonius. Sueña con convertirse algún día en una de ellos.",
+  "skillTalents": [
+    {
+      "name": "Técnica de espada Favonius - Criada",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 4 tajos rápidos.\nAtaque Cargado:\nSigue consumiendo Aguante para realizar golpes de espada giratorios contra los enemigos cercanos. Al final del Ataque Cargado, realizará un golpe de espada más poderoso.\nAtaque descendiente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Guardiana del corazón",
+      "unlock": "Habilidad Elemental",
+      "description": "Invoca una armadura de roca la cual inflige Daño Geo en los oponentes alrededor y absorbe el daño. El Daño absorbido aumenta en proporción a la DEF de Noelle. El Escudo tiene los siguientes efectos:\nCuando los Ataques Normales y Ataques Cargados de Noelle golpean un objetivo, hay una posibilidad de regenerar Vida a todos los miembros del equipo.\n\nPosee un 250% de eficiencia de absorción contra Daño Geo. La cantidad de Vida curada es proporcional a la DEF de Noelle.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Hora de limpiar",
+      "unlock": "Habilidad Elemental",
+      "description": "Al reunir el poder de la roca alrededor de su arma, Noelle golpea a los enemigos que la rodean dentro de un AdE de gran tamaño e inflige Daño Geo. Después, Noelle obtiene los siguientes efectos:\nAtaque con mayor AdE.\nConvierte el Daño de ataque en Daño Geo.\nEl incremento del ATQ es proporcional a su DEF.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "De todo corazón",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Cuando Noelle está fuera de escena, si la Vida del personaje activo es inferior al 30%, ocurrirán automáticamente los siguientes efectos: El personaje recibirá inmediatamente un escudo que absorbe el daño equivalente al 400% de DEF de Noelle. Este escudo puede durar hasta 20 s y se puede activar una vez cada 60 s.",
+      "level": 1
+    },
+    {
+      "name": "Pulcra y eficaz",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Cuando Noelle inflige daño a los enemigos con ATQ Normal o Cargado, el TdE de Guardiana del corazón se reducirá 1 s cada 4 golpes. Infligir daño a varios enemigos al mismo tiempo se considera un solo movimiento de ataque.",
+      "level": 4
+    },
+    {
+      "name": "Dedicación de la criada",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Cuando se logra un \"Perfecto\" en un plato con efectos de defensa, hay un 12% de posibilidades de obtener el doble de cantidad del producto."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Yo te cubro",
+      "unlock": "Constelación Nivel 1",
+      "description": "Al atacar estando al mismo tiempo bajo los efectos de Hora de limpiar y Guardiana del corazón, la probabilidad de restaurar Vida de Guardiana del corazón será del 100%.",
+      "level": 1
+    },
+    {
+      "name": "Torbellino de la criada",
+      "unlock": "Constelación Nivel 2",
+      "description": "Reduce en un 20% el coste de Aguante del Ataque Cargado de Noelle, y aumenta en un 15% el daño infligido con dicho ataque.",
+      "level": 2
+    },
+    {
+      "name": "Sin un rasguño",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Guardiana del corazón +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Limpieza obligada",
+      "unlock": "Constelación Nivel 4",
+      "description": "Cuando termina la duración de Guardiana del corazón o el escudo se rompe debido al daño, inflige un 400% de Daño Geo a los enemigos cercanos.",
+      "level": 4
+    },
+    {
+      "name": "Experta en limpieza",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Hora de limpiar +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Debe quedar impoluto",
+      "unlock": "Constelación Nivel 6",
+      "description": "Hora de limpiar aumenta el ATQ de Noelle en un 50% adicional de su DEF.\nAdemás, mientras dure la habilidad, su duración se extenderá en 1 s por cada enemigo derrotado (máx. 10 s).",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "CLAYMORE"
+}

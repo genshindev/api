@@ -1,0 +1,10 @@
+{
+  "name": "金珀·試作",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "HP",
+  "passiveName": "炊金",
+  "passiveDesc": "元素爆発を発動した後の6秒間、2秒毎に元素エネルギーを4回復し、チーム全員のHPを2秒毎に4%回復する。",
+  "location": "鍛造"
+}

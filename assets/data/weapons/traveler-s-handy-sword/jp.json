@@ -1,0 +1,10 @@
+{
+  "name": "旅道の剣",
+  "type": "Sword",
+  "rarity": 3,
+  "baseAttack": 40,
+  "subStat": "防御力",
+  "passiveName": "旅路",
+  "passiveDesc": "元素オーブまたは元素粒子を獲得した時、HPを1%回復する。",
+  "location": "宝箱"
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Beidou",
+  "title": "Reine des mers sans couronne",
+  "vision": "Electro",
+  "weapon": "Claymore",
+  "gender": "Femme",
+  "nation": "Liyue",
+  "affiliation": "Flotte du Crux",
+  "rarity": 4,
+  "constellation": "Victor Mare",
+  "birthday": "0000-02-14",
+  "description": "Capitaine de la Flotte du Crux, une femme de tête franche et directe.",
+  "skillTalents": [
+    {
+      "name": "Conquête des mers",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 coups d'épée.\nAttaque chargée\nExécute une succession d'entailles aussi rapides que tranchantes ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Invocation des marées",
+      "unlock": "Compétence élémentaire",
+      "description": "N'ayez crainte. Que quelqu'un ose s'en prendre à Beidou ou aux siens, et sa lame et le tonnerre lui feront payer au centuple.\nAppui simple\nBeidou concentre le pouvoir de la foudre sur son épée, et exécute un coup violent qui inflige aux ennemis en face des DGT Électro.\nAppui long\nBeidou brandit son arme, qu'elle utilise comme bouclier. La quantité de DGT absorbés est proportionnelle aux PV max de Beidou.\nLorsque vous relâchez la compétence ou que celle-ci prend fin, Beidou brandit sa longue épée et effectue une contre-attaque libérant toute l'énergie accumulée, infligeant des DGT Électro.\nLes DGT infligés augmentent en fonction du nombre d'attaques subies par Beidou pendant la durée de la compétence. Le bonus de DGT maximum est atteint lorsque l'effet est déclenché deux fois.\nLe bouclier a les propriétés suivantes :\n- A 250 % d'efficacité contre les DGT Électro.\n- Applique l'élément Électro à Beidou à l'activation.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Brisure d'orage",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Se remémorant son combat contre Haishan, la bête géante, Beidou fait appel à la même force destructrice, et crée un bouclier de foudre qui inflige des DGT Électro aux ennemis à proximité.\nBouclier de foudre\n- Les attaques normales et chargées, lorsqu'elles touchent, libèrent une décharge électrique qui se propage d'ennemi en ennemi et inflige des DGT Électro.\n- Augmente la RÉS à l'interruption du personnage et réduit les DGT subis.\nAu maximum, une décharge par seconde peut être libérée.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Braveuse de marée",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors de la nage.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques."
+    },
+    {
+      "name": "Châtiment",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "La contre-attaque d'Invocation des marées inflige le maximum de DGT lorsqu'elle est exécutée juste après une attaque.",
+      "level": 1
+    },
+    {
+      "name": "Tempête de coups de tonnerre",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Invocation des marées confère pendant 10 s les effets suivants lorsque cette aptitude est exécutée avec le maximum de bonus de DGT :\n- Les attaques normales et chargées infligent 15 % de DGT supplémentaires.\n- La VIT des attaques normales et chargées augmente de 15 %.\n- Réduit considérablement le temps de préparation des attaques chargées.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Fléau des monstres marins",
+      "unlock": "Constellation Niv. 1",
+      "description": "L'activation de Brisure d'orage confère les effets suivants :\nGénère un bouclier qui absorbe une quantité de DGT équivalant à 16 % des PV max et dure 15 s.\nLe bouclier est efficace à 250 % contre les DGT Électro.",
+      "level": 1
+    },
+    {
+      "name": "Sur la mer turbulente, le tonnerre gronde",
+      "unlock": "Constellation Niv. 2",
+      "description": "Les décharges de Brisure d'orage se propagent à 2 ennemis supplémentaires.",
+      "level": 2
+    },
+    {
+      "name": "Invocateur de tonnerre",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Invocation des marées +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Vengeance étonnante",
+      "unlock": "Constellation Niv. 4",
+      "description": "Après avoir subi une attaque, les attaques normales de Beidou infligent 20 % de DGT Électro supplémentaires pendant 10 s.",
+      "level": 4
+    },
+    {
+      "name": "Marcheur de marée écarlate",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Brisure d'orage +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Chancre du mal",
+      "unlock": "Constellation Niv. 6",
+      "description": "La RÉS Électro des ennemis proches est réduite de 15 % tant que Brisure d'orage est actif.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "CLAYMORE"
+}

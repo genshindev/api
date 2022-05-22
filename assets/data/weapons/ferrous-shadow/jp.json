@@ -1,0 +1,10 @@
+{
+  "name": "鉄影段平",
+  "type": "Claymore",
+  "rarity": 3,
+  "baseAttack": 39,
+  "subStat": "HP",
+  "passiveName": "不屈",
+  "passiveDesc": "HPが70%以下になると、重撃は中断されにくくなり、更に重撃ダメージ+30%。",
+  "location": "祈願"
+}

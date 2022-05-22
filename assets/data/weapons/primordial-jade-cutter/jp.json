@@ -1,0 +1,10 @@
+{
+  "name": "磐岩結緑",
+  "type": "Sword",
+  "rarity": 5,
+  "baseAttack": 44,
+  "subStat": "会心率",
+  "passiveName": "護国の無垢なる心",
+  "passiveDesc": "HP上限+20%。また、キャラクターのHP上限の1.2%分、攻撃力がアップする。",
+  "location": "祈願"
+}

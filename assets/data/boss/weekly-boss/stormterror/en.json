@@ -1,0 +1,43 @@
+{
+    "name": "Stormterror",
+    "description": "One of The Four Winds of Mondstadt: Dvalin, the Dragon of the East.\nWith the passages of long years and amid boudless darkness, even the purest gem will become dulled by dust, and even the noble dragon might be corrupted and cankered by hatred.\nBut never forget that dust can be wiped away, and the power of doubt and poison can be shattered.\n\n\"Fly freely in the sky.\n\"Just like you did in those days when we met, when I walked upon this land and sang the songs of the wind,\n\"And you soared on high, looking down on the world from above.\n\"Today, the sky is no longer swept by wind and snow. The green grass grows all over the earth, and it is beautiful.\n\"If you could walk on the earth and listen to the songs of shepherds and the scattered sound of the wind chimes in the distance, if you could have tasted wine as sweet as honey, you could understand.\n\"How wonderful it would have been if you were as I, witnessing your noble, beautiful form as you soared through the blue sky.\n\"Then you would know that this sky and this earth are both things worth fighting for.\"",
+    "drops": [
+        {
+            "name": "Dvalin's Plume",
+            "rarity": 5,
+            "source": "Lv. 70+ Stormterror Challenge Reward"
+        },
+        {
+            "name": "Dvalin's Claw",
+            "rarity": 5,
+            "source": "Lv. 70+ Stormterror Challenge Reward"
+        },
+        {
+            "name": "Spirit Locket of Boreas",
+            "rarity": 5,
+            "source": "Lv. 70+ Stormterror Challenge Reward"
+        }
+    ],
+    "artifacts": [
+        {
+            "name": "Berserker",
+            "max_rarity": 4
+        },
+        {
+            "name": "Instructor",
+            "max_rarity": 4
+        },
+        {
+            "name": "The Exile",
+            "max_rarity": 4
+        },
+        {
+            "name": "Gladiator's Finale",
+            "max_rarity": 5
+        },
+        {
+            "name": "Wanderer's Troupe",
+            "max_rarity": 5
+        }
+    ]
+}

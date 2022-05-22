@@ -1,0 +1,10 @@
+{
+  "name": "ドドコの物語",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 41,
+  "subStat": "攻撃力",
+  "passiveName": "ドドベンチャー！",
+  "passiveDesc": "通常攻撃が敵に命中した後の6秒間、重撃ダメージ+16%。重撃が敵に命中した後の6秒間、攻撃力+8%。",
+  "location": "イベント「真夏！島？大冒険！」"
+}

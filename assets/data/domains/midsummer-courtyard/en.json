@@ -1,1 +1,238 @@
-{}
+{
+    "name": "Midsummer Courtyard",
+    "type": "Blessing",
+    "description": "With the fall of the ancient lost civilization, the once prosperous and magnificent Sommernachtgarten was also buried underground, leaving only its ancient trees and stones to remember its past glory.",
+    "location": "Starsnatch Cliff, Starfell Valley, Mondstadt",
+    "nation": "Mondstadt",
+    "requirements": [
+      {
+        "level": 1,
+        "adventureRank": 22,
+        "recommendedLevel": 34,
+        "leyLineDisorder": [
+          "When Melt is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies."
+        ]
+      },
+      {
+        "level": 2,
+        "adventureRank": 25,
+        "recommendedLevel": 47,
+        "leyLineDisorder": [
+          "When Overloaded is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Superconduct is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ]
+      },
+      {
+        "level": 3,
+        "adventureRank": 30,
+        "recommendedLevel": 59,
+        "leyLineDisorder": [
+          "When Melt is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Superconduct is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ]
+      },
+      {
+        "level": 4,
+        "adventureRank": 35,
+        "recommendedLevel": 69,
+        "leyLineDisorder": [
+          "When Vaporize is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Electro-Charged is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ]
+      },
+      {
+        "level": 5,
+        "adventureRank": 40,
+        "recommendedLevel": 80,
+        "leyLineDisorder": [
+          "When Melt is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Superconduct is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ]
+      },
+      {
+        "level": 6,
+        "adventureRank": 45,
+        "recommendedLevel": 90,
+        "leyLineDisorder": [
+          "When Overloaded is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Superconduct is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ]
+      }
+    ],
+    "recommendedElements": ["Pyro"],
+    "rewards": [
+      {
+        "day": "always",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1525,
+            "drops": [
+              {
+                "name": "Adventurer",
+                "rarity": "2/3",
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Resolution of Sojourner",
+                "rarity": 3,
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1700,
+            "drops": [
+              {
+                "name": "Adventurer",
+                "rarity": "2/3",
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Resolution of Sojourner",
+                "rarity": 3,
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "Adventurer",
+                "rarity": 3,
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Resolution of Sojourner",
+                "rarity": "3/4",
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Thundering Fury",
+                "rarity": 4,
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Thunder­soother",
+                "rarity": 4,
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2025,
+            "items": [
+              {
+                "name": "Adventurer",
+                "rarity": 3,
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Resolution of Sojourner",
+                "rarity": "3/4",
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Thundering Fury",
+                "rarity": 4,
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Thunder­soother",
+                "rarity": 4,
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          },
+          {
+            "level": 5,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "Adventurer",
+                "rarity": 3,
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Resolution of Sojourner",
+                "rarity": "3/4",
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Thundering Fury",
+                "rarity": "4/5",
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Thunder­soother",
+                "rarity": "4/5",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          },
+          {
+            "level": 6,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "Adventurer",
+                "rarity": 3,
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Resolution of Sojourner",
+                "rarity": "3/4",
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Thundering Fury",
+                "rarity": "4/5",
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Thunder­soother",
+                "rarity": "4/5",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

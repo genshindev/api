@@ -1,0 +1,6 @@
+{
+  "name": "Corazón del guardián",
+  "max_rarity": 4,
+  "2-piece_bonus": "DEF +30%.",
+  "4-piece_bonus": "Por cada miembro de tu equipo con un tipo elemental distinto, La RES Elemental del personaje que lleve este conjunto aumenta en un 30% contra dicho elemento."
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Azhdaha",
+    "description": "An enormous dragon as ancient as the mountains themselves. In an age that has all but faded from memory, he stood shoulder to shoulder with one who ruled over a harbor of stone. But in the end, the two came into conflict, and the dragon was banished to a dark place deep underground.\nOver the long years of his imprisonment, his power has slowly dissipated. He has also become disfigured from the various kinds of erosion he has been subjected to.\nThe faint rattling of this dragon lord's shackles and his deep, angry growl echo through the bowels of the mountains like memories of a bygone era.",
+    "drops": [
+        {
+            "name": "Dragon Lord's Crown",
+            "rarity": 5,
+            "source": "Lv. 70+ Azhdaha Challenge Reward"
+        },
+        {
+            "name": "Bloodjade Branch",
+            "rarity": 5,
+            "source": "Lv. 70+ Azhdaha Challenge Reward"
+        },
+        {
+            "name": "Gilded Scale",
+            "rarity": 5,
+            "source": "Lv. 70+ Azhdaha Challenge Reward"
+        }
+    ],
+    "artifacts": [
+        {
+            "name": "Berserker",
+            "max_rarity": 4
+        },
+        {
+            "name": "Instructor",
+            "max_rarity": 4
+        },
+        {
+            "name": "The Exile",
+            "max_rarity": 4
+        },
+        {
+            "name": "Gladiator's Finale",
+            "max_rarity": 5
+        },
+        {
+            "name": "Wanderer's Troupe",
+            "max_rarity": 5
+        }
+    ]
+}

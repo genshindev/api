@@ -1,0 +1,164 @@
+{
+  "name": "Xingqiu",
+  "vision": "Hydro",
+  "weapon": "Einhänder",
+  "nation": "Liyue",
+  "affiliation": "Händlergilde Feiyun",
+  "rarity": 4,
+  "constellation": "Fabulae Textile",
+  "birthday": "0000-10-09",
+  "description": "Ein junger Mann, der häufig in der Nähe von Bücherständen gesehen werden kann. In der Hand trägt er ein Langschwert, in seiner Brust ein Herz für die Schwachen.",
+  "skillTalents": [
+    {
+      "name": "Guhua-Stil",
+      "unlock": "Standardangriff",
+      "description": "Standardangriff\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\nHeftiger Schlag\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\nAngriff aus dem Fall\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "upgrades": [
+        {
+          "name": "SCH Phase 1",
+          "value": "46.6%"
+        },
+        {
+          "name": "SCH Phase 2",
+          "value": "47.6%"
+        },
+        {
+          "name": "SCH Phase 3",
+          "value": "28.6% + 28.6%"
+        },
+        {
+          "name": "SCH Phase 4",
+          "value": "56%"
+        },
+        {
+          "name": "SCH Phase 5",
+          "value": "35.9% + 35.9%"
+        },
+        {
+          "name": "SCH heftiger Schläge",
+          "value": "47.3% + 56.2%"
+        },
+        {
+          "name": "Ausdauerverbrauch heftiger Schläge",
+          "value": "20"
+        },
+        {
+          "name": "SCH beim Fallen",
+          "value": "63.9%"
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger / großer Höhe",
+          "value": "128% / 160%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Guhua-Schwert – Wolkenbruch",
+      "unlock": "Elementarangriff",
+      "description": "Greift zweimal mit dem Schwert an und fügt gegenüberstehenden Gegnern Hydro-Schaden zu. Erstellt die Höchstzahl an Regenschwertern, die die aktuelle eigene Figur umkreisen.\nMerkmale:\n - Wird bei Erleiden von Schaden zerstört und verringert den erlittenen Schaden.\n - Erhöht den Unterbrechungs-WDS der Figur.\n20% von Xingqius Hydro-SCH-Bonus werden zusätzlich zu Schadensminderung der Regenschwerter umgewandelt.\nBis zu 24% zusätzliche Schadensminderung auf diese Weise möglich.\nAnfänglich bis zu 3 Regenschwerter möglich.\nVerleiht der Figur bei Anwendung den Zustand Nass .",
+      "upgrades": [
+        {
+          "name": "Fähigkeits-SCH",
+          "value": "168% + 191%"
+        },
+        {
+          "name": "SCH-Minderungsrate",
+          "value": "20%"
+        },
+        {
+          "name": "Dauer",
+          "value": "15s"
+        },
+        {
+          "name": "Abklingzeit",
+          "value": "21s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Guhua-Schwert – Regen und Bogen",
+      "unlock": "Spezialangriff",
+      "description": "Wendet \"Regenbogentechnik\" an, um mit Illusionsschwertern zu kämpfen, und erstellt die Höchstzahl an Regenschwertern.\n\nRegenbogentechnik\n - Standardangriffe der aktuellen eigenen Figur lösen aufeinanderfolgende Schwertregenangriffe aus, die Hydro-Schaden verursachen.\n - Die Anzahl der Regenschwerter bleibt unverändert auf der höchsten Anzahl.",
+      "upgrades": [
+        {
+          "name": "Schwertregen-SCH",
+          "value": "54.3%"
+        },
+        {
+          "name": "Dauer",
+          "value": "15s"
+        },
+        {
+          "name": "Abklingzeit",
+          "value": "20s"
+        },
+        {
+          "name": "Elementarenergie",
+          "value": "80"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Hydropathic",
+      "unlock": "Ab Figurenaufstiegsstufe 1 freigeschaltet",
+      "description": "Stellt der aktuellen Figur bei Zerstörung eines Regenschwerts durch einen Angriff oder nach Ablauf der Wirkungsdauer LP in Höhe von 6% der max. LP von Xingqiu wieder her.",
+      "level": 1
+    },
+    {
+      "name": "Realistischer Schreibstil",
+      "unlock": "Ab Figurenaufstiegsstufe 4 freigeschaltet",
+      "description": "Erhöht Xingqius Hydro-Schaden um 20%.",
+      "level": 4
+    },
+    {
+      "name": "Gedankenblitz",
+      "unlock": "Automatisch freigeschaltet",
+      "description": "Gibt beim Zusammensetzen von Material für Figurentalente mit einer Wahrscheinlichkeit von 25% einen Teil der Materialien zurück."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Nachgeschmack",
+      "unlock": "Sternbild Stufe 1",
+      "description": "Erhöht die Höchstmenge an Regenschwertern um 1.",
+      "level": 1
+    },
+    {
+      "name": "Klarer Himmel",
+      "unlock": "Sternbild Stufe 2",
+      "description": "Verlängert die Dauer von Guhua-Schwert – Regen und Bogen um 3s.\nVerringert außerdem den Hydro-WDS von mit Schwertregen angegriffenen Gegnern 4s lang um 15%.",
+      "level": 2
+    },
+    {
+      "name": "Reimemacher",
+      "unlock": "Sternbild Stufe 3",
+      "description": "Erhöht die Stufe der Fähigkeit Guhua-Schwert – Regen und Bogen um 3.\nHöchststufe 15.",
+      "level": 3
+    },
+    {
+      "name": "Vernichter des Bösen",
+      "unlock": "Sternbild Stufe 4",
+      "description": "Erhöht den mit Guhua-Schwert – Wolkenbruch verursachten Schaden während der Wirkungsdauer von Guhua-Schwert – Regen und Bogen um 50%.",
+      "level": 4
+    },
+    {
+      "name": "Tanz im Regen",
+      "unlock": "Sternbild Stufe 5",
+      "description": "Erhöht die Stufe der Fähigkeit Guhua-Schwert – Wolkenbruchn um 3.\nHöchststufe 15.",
+      "level": 5
+    },
+    {
+      "name": "Gesammelte Werke",
+      "unlock": "Sternbild Stufe 6",
+      "description": "Verstärkt jeden dritten Schwertregenangriff von Guhua-Schwert – Regen und Bogen enorm und stellt Xingqiu bei einem Treffer damit 3 Punkte Elementarenergie wieder her.",
+      "level": 6
+    }
+  ],
+  "vision_key": "HYDRO",
+  "weapon_type": "SWORD"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "鉾槍",
+  "type": "Polearm",
+  "rarity": 3,
+  "baseAttack": 40,
+  "subStat": "攻撃力",
+  "passiveName": "過重",
+  "passiveDesc": "通常攻撃が命中した敵1体に攻撃力の160%の追加ダメージを与える。10秒毎に1回のみ発動可能。",
+  "location": "宝箱等"
+}

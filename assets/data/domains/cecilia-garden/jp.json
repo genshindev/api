@@ -1,0 +1,753 @@
+{
+  "name": "セシリアの苗床",
+  "type": "煉武",
+  "description": "星空に近い崖のみに生長するセシリアの花も、数年前からここの温室で育てられるようになった。かつてセシリアの花と共にあった文明は徹底的に失われ、白玉のような花の海も消えていった。",
+  "location": "奔狼領, 蒼風の高地, モンド",
+  "nation": "モンド",
+  "requirements": [
+    {
+      "level": 1,
+      "adventureRank": 16,
+      "recommendedLevel": 15,
+      "leyLineDisorder": [
+        "一定周期でキャラに「停滯の水」を付与する：付着された水元素が消えるまで、スキルのクールタイムが大幅に延長する"
+      ]
+    },
+    {
+      "level": 2,
+      "adventureRank": 21,
+      "recommendedLevel": 36,
+      "leyLineDisorder": [
+        "一定周期でキャラに「停滯の水」を付与する：付着された水元素が消えるまで、スキルのクールタイムが大幅に延長する"
+      ]
+    },
+    {
+      "level": 3,
+      "adventureRank": 30,
+      "recommendedLevel": 59,
+      "leyLineDisorder": [
+        "一定周期でキャラに「停滯の水」を付与する：付着された水元素が消えるまで、スキルのクールタイムが大幅に延長する"
+      ]
+    },
+    {
+      "level": 4,
+      "adventureRank": 40,
+      "recommendedLevel": 80,
+      "leyLineDisorder": [
+        "一定周期でキャラに「停滯の水」を付与する：付着された水元素が消えるまで、スキルのクールタイムが大幅に延長する"
+      ]
+    }
+  ],
+  "recommendedElements": ["雷", "氷", "炎"],
+  "rewards": [
+    {
+      "day": "月曜",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "高塔の王の瓦",
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "高塔の王の瓦",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の殘壁",
+              "drop_min": 1,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "高塔の王の瓦",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の殘壁",
+              "drop_min": 1,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の断片",
+              "drop_min": 0,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "高塔の王の瓦",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の殘壁",
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "高塔の王の断片",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の砕けた夢",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "火曜",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "凜風奔狼の乳歯",
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "凜風奔狼の乳歯",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の砕歯",
+              "drop_min": 1,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "凜風奔狼の乳歯",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の砕歯",
+              "drop_min": 1,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の断歯",
+              "drop_min": 0,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "凜風奔狼の乳歯",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の砕歯",
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "凜風奔狼の断歯",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の郷愁",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "水曜",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "獅牙戦士の枷",
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "獅牙戦士の枷",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の鎖",
+              "drop_min": 1,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "獅牙戦士の枷",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の鎖",
+              "drop_min": 1,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の手錠",
+              "drop_min": 0,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "獅牙戦士の枷",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の鎖",
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "獅牙戦士の手錠",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の理想",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "木曜",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "高塔の王の瓦",
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "高塔の王の瓦",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の殘壁",
+              "drop_min": 1,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "高塔の王の瓦",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の殘壁",
+              "drop_min": 1,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の断片",
+              "drop_min": 0,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "高塔の王の瓦",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の殘壁",
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "高塔の王の断片",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の砕けた夢",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "金曜",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "凜風奔狼の乳歯",
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "凜風奔狼の乳歯",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の砕歯",
+              "drop_min": 1,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "凜風奔狼の乳歯",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の砕歯",
+              "drop_min": 1,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の断歯",
+              "drop_min": 0,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "凜風奔狼の乳歯",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の砕歯",
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "凜風奔狼の断歯",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の郷愁",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "土曜",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "獅牙戦士の枷",
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "獅牙戦士の枷",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の鎖",
+              "drop_min": 1,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "獅牙戦士の枷",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の鎖",
+              "drop_min": 1,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の手錠",
+              "drop_min": 0,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "獅牙戦士の枷",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の鎖",
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "獅牙戦士の手錠",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の理想",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "日曜",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "高塔の王の瓦",
+              "drop_min": 4,
+              "drop_max": 6
+            },
+            {
+              "name": "凜風奔狼の乳歯",
+              "drop_min": 4,
+              "drop_max": 6
+            },
+            {
+              "name": "獅牙戦士の枷",
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "高塔の王の瓦",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の殘壁",
+              "drop_min": 1,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の乳歯",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の砕歯",
+              "drop_min": 1,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の枷",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の鎖",
+              "drop_min": 1,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "高塔の王の瓦",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の殘壁",
+              "drop_min": 1,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の断片",
+              "drop_min": 0,
+              "drop_max": 2
+            },
+            {
+              "name": "凜風奔狼の乳歯",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の砕歯",
+              "drop_min": 1,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の断歯",
+              "drop_min": 0,
+              "drop_max": 2
+            },
+            {
+              "name": "獅牙戦士の枷",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の鎖",
+              "drop_min": 1,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の手錠",
+              "drop_min": 0,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "高塔の王の瓦",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の殘壁",
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "高塔の王の断片",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "高塔の王の砕けた夢",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "凜風奔狼の乳歯",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の砕歯",
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "凜風奔狼の断歯",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "凜風奔狼の郷愁",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "獅牙戦士の枷",
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の鎖",
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "獅牙戦士の手錠",
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "獅牙戦士の理想",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

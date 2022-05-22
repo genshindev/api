@@ -1,0 +1,10 @@
+{
+  "name": "弓蔵",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "攻撃力",
+  "passiveName": "速射の弓",
+  "passiveDesc": "通常攻撃のダメージ+40%、重撃のダメージ-10%。",
+  "location": "祈願"
+}

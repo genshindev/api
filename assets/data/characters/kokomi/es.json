@@ -1,0 +1,95 @@
+{
+  "name": "Sangonomiya Kokomi",
+  "vision": "Hydro",
+  "weapon": "Catalizador",
+  "nation": "Inazuma",
+  "affiliation": "Isla Watatsumi",
+  "rarity": 5,
+  "constellation": "Dracaena Somnolenta",
+  "birthday": "0000-02-22",
+  "description": "La Sacerdotisa Divina y quien controla todos los asuntos de la Isla Watatsumi",
+  "skillTalents": [
+    {
+      "name": "La forma del agua",
+      "unlock": "Ataque Normal",
+      "description": "Ataque normal:\nRealiza hasta 3 ataques con forma de pez nadador que infligen Daño Hydro.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para infligir Daño Hydro en el AdE después de un corto tiempo de lanzamiento.\nAtaque Descendente:\nConcentra el poder Hydro y desciende hacia el suelo, dañando a todos los enemigos cercanos e infligiendo Daño Hydro en el AdE en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Juramento de la medusa",
+      "unlock": "Habilidad Elemental",
+      "description": "Invoca una medusa de agua que cura a los compañeros. Al usar esta habilidad, se aplica el estado de Mojado sobre Sangonomiya Kokomi.\n\nMedusa:\nCada cierto tiempo, la medusa inflige Daño Hydro en el AdE contra los enemigos de alrededor y regenera Vida para los personajes en uso cercanos en proporción a la Vida Máx. de Sangonomiya Kokomi.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Encarnación de las nereidas",
+      "unlock": "Habilidad Elemental",
+      "description": "Hace descender el poder de Watatsumi para infligir Daño Hydro contra los enemigos cercanos y cubrirse con un manto ceremonial hecho con las aguas de Sangonomiya.\n\nManto ceremonial:\nAumenta tanto el daño del Ataque Normal y Cargado de Sangonomiya Kokomi como el que inflige la medusa en proporción a su Vida Máx.\nAl golpear a un enemigo con un Ataque Normal o Cargado, regenera Vida para todos los miembros del equipo cercanos en función de la Vida Máx. de Kokomi.\nAumenta la RES a interrupción de Sangonomiya Kokomi y le permite moverse sobre el agua.\n\nEstos efectos desaparecerán cuando Kokomi sea retirada de combate.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Bendición de Tamanooya",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Si ya hay en combate una medusa invocada por Sangonomiya Kokomi, al realizar Encarnación de las nereidas se reiniciará la duración de la medusa.",
+      "level": 1
+    },
+    {
+      "name": "Canto de la perla",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Mientras está bajo los efecto del manto ceremonial de Encarnación de las nereidas, el aumento de daño del Ataque Normal y Cargado de Sangonomiya Kokomi en proporción a su Vida Máx. aumenta aún más en una cantidad equivalente al 15% de su Bono de Curación.",
+      "level": 4
+    },
+    {
+      "name": "Princesa de Watatsumi",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Disminuye en un 20% el Coste de Aguante al andar de todos los miembros de tu equipo. No se puede acumular con otros talentos pasivos que tengan los mismos efectos."
+    },
+    {
+      "name": "Estrategia infalible",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Aumenta en un 25% el Bono de Curación de Sangonomiya Kokomi, pero reduce su Prob. CRIT en un 100%."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Los límites del agua",
+      "unlock": "Constelación Nivel 1",
+      "description": "Mientras está bajo los efectos de Encarnación de las nereidas, el último golpe del Ataque Normal de Sangonomiya Kokomi liberará un pez nadador adicional que inflige una cantidad de Daño Hydro equivalente al 30% de la Vida Máx. de Kokomi.\nEste daño no se considera daño de Ataque Normal.",
+      "level": 1
+    },
+    {
+      "name": "Oleaje de nubes",
+      "unlock": "Constelación Nivel 2",
+      "description": "Sangonomiya Kokomi obtiene los siguientes aumentos de curación para los personajes con un 50% de Vida o menos a través de las siguientes formas:\nAumenta la curación de la medusa de Juramento de la medusa en una cantidad adicional en proporción al 4.5% de la Vida Máx. de Kokomi.\nAumenta la curación de los Ataques Normales y cargados realizados bajo los efectos de Encarnación de las nereidas en una cantidad adicional en proporción al 0.6% de la Vida Máx. de Kokomi",
+      "level": 2
+    },
+    {
+      "name": "Luna del océano",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Encarnación de las nereidas +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Observadora de las aguas",
+      "unlock": "Constelación Nivel 4",
+      "description": "Mientras está bajo los efectos del manto ceremonial de Encarnación de las nereidas, la Vel. de Ataque Normal de Sangonomiya Kokomi aumenta en un 10% y recupera 0.8 pts. de Energía Elemental cada vez que golpea a un enemigo con un Ataque Normal.\n Este efecto solo puede ocurrir una vez cada 0.2 s.",
+      "level": 4
+    },
+    {
+      "name": "Convergencia hacia los mares",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Juramento de la medusa +3. Puede ser aumentado hasta Niv.15.",
+      "level": 5
+    },
+    {
+      "name": "Corazón del coral",
+      "unlock": "Constelación Nivel 6",
+      "description": "Mientras está bajo los efectos del manto ceremonial de Encarnación de las nereidas, cuando Sangonomiya Kokomi realiza un Ataque Normal o Cargado que tiene efectos curativos con el fin de curar a un personaje con un 80% o más de Vida, obtiene un 40% de Bono de Daño Hydro durante 4 segundos.",
+      "level": 6
+    }
+  ],
+  "vision_key": "HYDRO",
+  "weapon_type": "CATALYST"
+}

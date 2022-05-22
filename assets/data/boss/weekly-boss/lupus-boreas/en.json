@@ -1,0 +1,43 @@
+{
+    "name": "Lupus Boreas",
+    "description": "The noblest and greatest of souls, who watches over the lupical of Wolvendom.\nWhen the wolfpack is imperiled, it will emerge in the form of a wolf and show forth its fangs and claws.\n\nThe wolves of Wolvendom are frightening phantoms to the people of Mondstadt:\nA blurred shape flashing through the forest, a chilling howl in the indeterminate distance, the creeping sense of eyes constantly nailed on their backs...\nHumans rarely have the oppotunity to lock their eyes with a wolf, for this is the law Lupus Boreas laid down for its race.",
+    "drops": [
+        {
+            "name": "Tail of Boreas",
+            "rarity": 5,
+            "source": "Lv. 70+ Wolf of the North Challenge Reward"
+        },
+        {
+            "name": "Ring of Boreas",
+            "rarity": 5,
+            "source": "Lv. 70+ Wolf of the North Challenge Reward"
+        },
+        {
+            "name": "Spirit Locket of Boreas",
+            "rarity": 5,
+            "source": "Lv. 70+ Wolf of the North Challenge Reward"
+        }
+    ],
+    "artifacts": [
+        {
+            "name": "Berserker",
+            "max_rarity": 4
+        },
+        {
+            "name": "Instructor",
+            "max_rarity": 4
+        },
+        {
+            "name": "The Exile",
+            "max_rarity": 4
+        },
+        {
+            "name": "Gladiator's Finale",
+            "max_rarity": 5
+        },
+        {
+            "name": "Wanderer's Troupe",
+            "max_rarity": 5
+        }
+    ]
+}

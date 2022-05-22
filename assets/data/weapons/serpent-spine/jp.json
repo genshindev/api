@@ -1,0 +1,10 @@
+{
+  "name": "螭龍の剣",
+  "type": "Claymore",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "会心率",
+  "passiveName": "波乗り",
+  "passiveDesc": "フィールドにいる時、4秒毎に、与えるダメージ+6%、被ダメージ+3%。最大5重まで、退場後もリセットされず、攻撃を受けると効果数-1。",
+  "location": "天空紀行"
+}

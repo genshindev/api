@@ -1,0 +1,90 @@
+{
+  "name": "Bárbara",
+  "vision": "Hydro",
+  "weapon": "Catalizador",
+  "nation": "Mondstadt",
+  "affiliation": "Iglesia de Favonius",
+  "rarity": 4,
+  "constellation": "Cratus",
+  "birthday": "0000-07-05",
+  "description": "Todos los habitantes de Mondstadt adoran a Bárbara. Ella vió por primera vez la palabra \"ídolo\" en una revista.",
+  "skillTalents": [
+    {
+      "name": "Murmullo del agua",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 4 ataques de salpicaduras de agua que infligen Daño Hydro.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para inflgir Daño Hydro de Área después de un corto lanzamiento.\nAtaque descendiente:\nEl poder Hydro se concentra y desciende hacia el suelo, dañando a todos los enemigos en su camino. A su vez, inflige Daño de Área Hydro.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Que empiece el concierto ♪",
+      "unlock": "Habilidad Elemental",
+      "description": "Invoca gotas de agua que se asemejan a notas musicales que forman círculos melódicos. Estas infligen Daño Hydro a los enemigos alrededor y los afecta con el estado Mojado.\n\nCírculos melódicos:\nLos Ataques Normales de Bárbara curan a todos los miembros del grupo y a los personajes aliados cercanos una cierta cantidad de Vida, que aumenta con la Vida Máx. de Bárbara.\nSu Ataque Cargado puede generar 4 veces la cantidad de curación.\nRegenera una cierta cantidad de Vida del personaje actual a intervalos regulares.\nAplica el estado Mojado al personaje y a los enemigos que entren en contacto con él.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Milagro brillante ♪",
+      "unlock": "Habilidad Definitiva",
+      "description": "Cura una cantidad considerable de Vida a las fuerzas aliadas y a todos los personajes del equipo. La curación aumenta en proporción a la Vida Máx. de Bárbara.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Momento de gloria",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Reduce el Coste de Aguante del personaje en un 12% cuando está dentro de los círculos melódicos de Que empiece el concierto ♪.",
+      "level": 1
+    },
+    {
+      "name": "Bis",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Cuando el personaje recoja un Orbe o una Partícula Elemental, extienede la duración de los círculos metódicos de Que empiece el concierto ♪ en 1 s. Puede extenderse un máximo de 5 s de esta forma.",
+      "level": 4
+    },
+    {
+      "name": "Con todo mi corazón",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Cuando se logra un \"Perfecto\" en un plato con efectos reconstituyentes, hay un 12% de posibilidades de obtener el doble de cantidad del producto."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Canción de júbilo",
+      "unlock": "Constelación Nivel 1",
+      "description": "Bárbara regenera 1 pt. de Energía Elemental cada 10 s.",
+      "level": 1
+    },
+    {
+      "name": "Explosión de vitalidad",
+      "unlock": "Constelación Nivel 2",
+      "description": "Reduce en un 15% el TdE de Que empiece el concierto ♪.\nMientras esté activa la habilidad, el personaje en uso obtiene un 15% de Bono de Daño Hydro.",
+      "level": 2
+    },
+    {
+      "name": "Estrella del Mañana",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Milagro brillante ♪ +3.\nPuede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "El esfuerzo será mi magia",
+      "unlock": "Constelación Nivel 4",
+      "description": "Bárbara regenera 1 pt. de Energía Elemental por cada enemigo que golpee con su Ataque Cargado.\nSolo se puede regenerar un máximo de 5 pts. de Energía por Ataque Cargado.",
+      "level": 4
+    },
+    {
+      "name": "Vínculo de inocencia",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Que empiece el concierto ♪ +3.\nPuede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Dedicándote Todo",
+      "unlock": "Constelación Nivel 6",
+      "description": "Si un miembro de tu equipo ha sido derrotado cuando Bárbara está en tu equipo pero no en combate:\nEl personaje revive automáticamente.\nSu vida se restaura en un 100%.\nEste efecto solo puede ocurrir una vez cada 15 min.",
+      "level": 6
+    }
+  ],
+  "vision_key": "HYDRO",
+  "weapon_type": "CATALYST"
+}

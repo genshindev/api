@@ -1,0 +1,92 @@
+{
+  "name": "Fischl",
+  "title": "Princesse du châtiment !",
+  "vision": "Electro",
+  "weapon": "Arc",
+  "gender": "Femme",
+  "nation": "Mondstadt",
+  "affiliation": "Guilde des aventuriers",
+  "rarity": 4,
+  "constellation": "Corvus",
+  "birthday": "0000-05-27",
+  "description": "Une fille mystérieuse qui se fait appeler « la Princesse du châtiment ». Elle est toujours accompagnée de son fidèle corbeau, Oz.",
+  "skillTalents": [
+    {
+      "name": "Flèche de culpabilité",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 tirs consécutifs.\nAttaque chargée\nEffectue un tir visé plus précis et infligeant davantage de DGT.\nLors de la visée, les ténébreux esprits de la nuit convergent sur la flèche. Celle-ci se charge en élément Électro, infligeant de considérables DGT Électro quand elle est complètement chargée.\nAttaque plongeante\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Ailes de surveillance nocturne",
+      "unlock": "Compétence élémentaire",
+      "description": "Fischl invoque son fidèle Oz à ses côtés. Le corbeau d'ombre et de tonnerre descend sur ce monde, infligeant des DGT Électro dans une petite zone lors de son invocation.\nOz tire de façon continue des balles électrifiées sur les ennemis proches tant qu'il est actif.\nAppui long\nAjuste la zone où la compétence sera lancée ; appuyez à nouveau lorsque Oz est actif pour le faire revenir.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Incarnation de la nuit",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Répondant à l'appel de Fischl, Oz vient protéger sa maîtresse de ses ailes tel un voile nocturne.\nPendant la durée de la compétence :\n- Fischl prend la forme d'Oz, ce qui lui permet d'augmenter sa VIT de déplacement.\n- Les ennemis sur sa route sont frappés par la foudre et subissent des DGT Électro. Chaque ennemi ne peut être frappé qu'une fois.\nLorsque l'effet prend fin, Oz reste pour combattre les ennemis de sa maîtresse. Si Oz est déjà présent sur le terrain avant l'utilisation de cette compétence, son temps de présence sera remis à zéro.\nRestaure une partie de l'énergie élémentaire de Fischl une fois terminé.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Jardin secret",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Mondstadt."
+    },
+    {
+      "name": "Corbeau maléfique",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Oz libère sur les ennemis proches la foudre du jugement lorsque Fischl le touche d'une flèche complètement chargée, leur infligeant des DGT Électro de zone équivalant à 152,7 % des DGT du tir.",
+      "level": 1
+    },
+    {
+      "name": "Foudre divine",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Lorsque votre personnage déployé déclenche une réaction liée à l'élément Électro en la présence d'Oz, l'ennemi est frappé par la foudre du jugement divin, et subit des DGT Électro équivalant à 80 % de l'ATQ de Fischl.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Œil du corbeau obscur",
+      "unlock": "Constellation Niv. 1",
+      "description": "Oz garde toujours un œil de corbeau sur Fischl, même quand il ne l'accompagne pas au combat : les attaques normales de Fischl infligent un bonus de DGT équivalant à 22 % de l'ATQ.",
+      "level": 1
+    },
+    {
+      "name": "Plume de jugement",
+      "unlock": "Constellation Niv. 2",
+      "description": "Ailes de surveillance nocturne inflige un bonus de DGT équivalant à 200 % de l'ATQ ; la zone d'effet augmente de 50 %.",
+      "level": 2
+    },
+    {
+      "name": "Ailes noires de l'Abîme",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Ailes de surveillance nocturne +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Les fantasmes de la princesse",
+      "unlock": "Constellation Niv. 4",
+      "description": "Incarnation de la nuit inflige un bonus de DGT Électro équivalant à 222 % de l'ATQ aux ennemis proches.\nFischl récupère 20 % de PV à la fin de la compétence.",
+      "level": 4
+    },
+    {
+      "name": "Apocalypse de la nuit",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Incarnation de la nuit +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Oiseau de la nuit éternelle",
+      "unlock": "Constellation Niv. 6",
+      "description": "Prolonge la durée d'Oz de 2 s. De plus, Oz attaque aux côtés de votre personnage déployé, infligeant des DGT Électro équivalant à 30 % de l'ATQ de Fischl.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "BOW"
+}

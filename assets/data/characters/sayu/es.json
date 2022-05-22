@@ -1,0 +1,90 @@
+{
+  "name": "Sayu",
+  "vision": "Anemo",
+  "weapon": "Mandoble",
+  "nation": "Inazuma",
+  "affiliation": "Los Ocelos",
+  "rarity": 4,
+  "constellation": "Nyctereutes Minor",
+  "birthday": "0000-10-19",
+  "description": "Una ninja pertenciente a Los Ocelos. Muy bajita y siempre con aspecto de no haber dormido lo suficiente.",
+  "skillTalents": [
+    {
+      "name": "Sable ninja de Los Ocelos",
+      "unlock": "Ataque Normal",
+      "description": "Ataque normal:\nEjecuta hasta 4 golpes consecutivos.\nAtaque Cargado:\nConsume Aguante de manera constante para realizar golpes de espada giratorios contra los enemigos cercanos. Al final del Ataque Cargado, realizará un golpe de espada más poderoso.\nAtaque Descendente:\n Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Técnica \"¡Yujuuu!\": Colisión de viento",
+      "unlock": "Habilidad Elemental",
+      "description": "La técnica ninja especial \"¡Yujuuu!\" es una técnica veloz como el rayo para rodar por todo el campo de batalla. Se transforma en una rápida rueda de viento que inflige Daño Anemo al chocar contra los enemigos. AL terminar la duración, ejecuta una tornadopatada que inflige Daño Anemo en el AdE.\nPulsar una vez: Se transforma en una rueda de viento para rodar una pequeña distancia y ejecutar una tornadopatada.\nMantener pulsado: Se transforma en una rueda de viento para rodar continuamente y aumentar la RES a interrupción de Sayu. Mientras está en este estado, Sayu puede controlar la dirección en la que rueda y puede liberar la habilidad nuevamente. Al dejar de pulsar, terminará su duración y ejecutará una tornadopatada más poderosa que la de pulsar una vez. Si se mantiene pulsada esta habilidad, podrá ocurrir un cambio elemental. La rueda de viento tiene una duración máxima de 10 segundos y, al finalizar, la habilidad entrará en TdE. Cuanto más tiempo esté transformada en la rueda de viento, más largo será dicho TdE.\nCambio elemental: Si Sayu entra en contacto con Hydro/Pyro/Cryo/Electro estando en estado de rueda de viento, dicha rueda como la tornadopatada infligirán un bono de Daño Elemental adicional de ese tipo. El cambio elemental solo puede ocurrir una vez durante la habilidad.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Técnica \"¡Yujuuu!\": Frenesí tejón",
+      "unlock": "Habilidad Definitiva",
+      "description": "La otra técnica ninja especial \"¡Yujuuu!\" sirve para crear un ayudante que trabaje por Sayu. Inflige daño Anemo contra los enemigos alrededor, recupera Vida para todos los personajes cercanos del equipo en una cantidad proporcional al ATQ de Sayu e invoca un tejón daruma.\n\nTejón daruma: Realiza alguna de las siguientes acciones dependiendo de la situación de su etorno:\nSi la Vida de todos los personajes cercanos es superior al 70%, el tejón daruma atacará a un enemigo cercano, infligiendo Daño Anemo.\nSi en las cercanías hay personajes con una Vida igual o inferior al 70%, curará al personaje con el menor porcentaje de Vida. La cantidad regenerada será proporcional al ATQ de Sayu. Si no hay ningún enemigo cerca, curará a los personajes incluso aunque su Vida esté por encima del 70%.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "¡Déjame en paz!",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Cuando Sayu causa una reacción de Torbellino mientras está en combate, todos los miembros de tu equipo y los aliados cercanos recuperan 300 puntos de Vida, además de 1.2 puntos de Vida adicionales por cada punto de Maestria Elemental de Sayu. Este efecto solo puede ocurrir una vez cada 2 segundos.",
+      "level": 1
+    },
+    {
+      "name": "¡Sayu no trabaja!",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "El tejón daruma invocado con Técnica \"¡Yujuuu!\": Frenesí tejón obtiene los siguientes efectos:\nAl curar a un personaje, los demás personajes cercanos a él y que estén en combate recuperan una cantidad de Vida equivalente al 20% de la recuperada por el primer personaje.\nAumenta el AdE del ataque ejecutado por el tejón daruma contra los enemigos.",
+      "level": 4
+    },
+    {
+      "name": "Técnica \"¡Yujuuu!\": Secreto del sigilo",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Cuando Sayu está en el equipo, tus personajes no asustarán a los cristalópteros u otras criaturas. Puedes consultar cuáles son estas criaturas en Archivo - Seres vivos - Fauna - Otros"
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Técnica multitarea",
+      "unlock": "Constelación Nivel 1",
+      "description": "Las acciones del tejón daruma invocado con Técnica \"¡Yujuuu!\": Frenesí tejón ya no están limitadas por la Vida de los personajes, si no que atacarán a los enemigos cercanos y, al mismo tiempo, curará a los miembros del equipo.",
+      "level": 1
+    },
+    {
+      "name": "¡Fuera de mi camino!",
+      "unlock": "Constelación Nivel 2",
+      "description": "Técnica \"¡Yujuuu!\": Colisión de viento obtiene los siguientes efectos:\nAumentar en un 3.3% el daño de la tornadopatada al pulsar una vez.\nAl mentener pulsado para transformarse en una rueda de viento, el daño de la siguiente tornadopatada aumenta en un 3.3% cada 0.5 segundos. El daño máximo de la tornado patada alcanzado de esta manera solo podrá ser del 66%.",
+      "level": 2
+    },
+    {
+      "name": "Déjaselo al tejón",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de la habilidad de Técnica \"¡Yujuuu!\": Frenesí tejón+3. Puede ser aumentado hasta Nivel 15.",
+      "level": 3
+    },
+    {
+      "name": "Holgazanería innovadora",
+      "unlock": "Constelación Nivel 4",
+      "description": "Cuando Sayu causa una reacción de Torbellino, recupera 1.2 puntos de Energía Elemental. Esto puede ocurrir una vez cada 2 segundos.",
+      "level": 4
+    },
+    {
+      "name": "La velocidad es lo primero",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de la habilidad de Técnica \"¡Yujuuu!\": Colisión de viento +3. Puede ser aumentado hasta Nivel 15.",
+      "level": 5
+    },
+    {
+      "name": "Cinco minutos más...",
+      "unlock": "Constelación Nivel 6",
+      "description": "El ATQ y la curación del tejón daruma invocado por Sayu mediante Técnica \"¡Yujuuu!\": Frenesí tejón aumenta en propoción a su Maestria Elemental. Cada punto de Maestría Elemental de Sayu podruce los siguientes efectos:\nEl daño infligido por tejón daruma aumenta en un 0.2% adicional del ATQ. Solo se puede infligir un máximo de 400% de daño adicional de esta manera.\nAumenta en 3 puntos la cantidad de Vida que cura el tejón. Solo se puede curar un máximo de 6000 puntos de Vida de esta manera",
+      "level": 6
+    }
+  ],
+  "vision_key": "ANEMO",
+  "weapon_type": "CLAYMORE"
+}

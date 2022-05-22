@@ -1,0 +1,90 @@
+{
+  "name": "Eula",
+  "vision": "Cryo",
+  "weapon": "Mandoble",
+  "nation": "Mondstadt",
+  "affiliation": "Caballeros de Favonius",
+  "rarity": 5,
+  "constellation": "Aphros Delos",
+  "birthday": "0000-10-25",
+  "description": "La Caballera de la Marea, procedente de una familia con un gran linaje y Capitana del Equipo de Reconocimiento de los Caballeros de Favonius. Aunque es descendiente de la antigua aristocracia, se unió a los Caballeros de Favonius, sus archienemigos, algo que sigue siendo un gran enigma para todo Mondstadt hasta el día de hoy.",
+  "skillTalents": [
+    {
+      "name": "Técnica de espada Favonius - Nobleza",
+      "unlock": "Ataque Normal",
+      "description": "Ataque normal:\nEjecuta hasta 5 golpes consecutivos con su espada.\nAtaque Cargado:\nConsume Aguante de manera constante para realizar golpes de espada continuos.Cuando termina el Ataque Cargado, hará un golpe aún más poderoso.\nAtaque Descendente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Vórtice helado",
+      "unlock": "Habilidad Elemental",
+      "description": "Un hielo estremecedor y una diestra danza con la espada.\nPulsar una vez:\nRealiza un rápido tajo que inflige Daño Cryo.Al golpear a un enemigo, Eula obtiene una carga del efecto corazón impasible, el cual puede acumularse un máximo de 2 veces y obtenerse solo 1 vez cada 0.3 s.\nCorazón impasible:\nAumenta la RES a interrupción y la DEF de Eula.\nMantener pulsado:\nConsume todas las cargas de corazón impasible y realiza un tajo de espada hacia delante, infligiendo Daño Cryo en el AdE a todos los enemigos frente a Eula. Al consumirse este efecto, la RES Física y la RES Cryo de los enemigos cercanos se reducirá.Cada carga de corazón impasible consumida se convertirá en una crioespada de vacío que inflige Daño Cryo a los enemigos cercanos.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Fulgor glacial",
+      "unlock": "Habilidad Definitiva",
+      "description": "Blande ferozmente su gran espada para infligir Daño Cryo a los enemigos alrededor y crear una espada luminosa que sigue a Eula durante un máximo de 7 s.\nMientras dure, la espada luminosa aumentará la RES a interrupción de Eula e irá acumulando energía cuando inflija daño a los enemigos con sus propios Ataques Normales, su Habilidad Elemental o su Habilidad Definitiva. Solo se puede acumular una carga de energía cada 0.1 s.\nAl terminar su duración, la espada descenderá y estallará violentamente, infligiendo Daño Físico a los enemigos alrededor.\nEste daño aumentará en función de las cargas de energía acumuladas en la espada.\nCuando Eula se retire del combate, la espada luminosa estallará inmediatamente.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Escarcha turbulenta",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Si, al mantener pulsado Vórtice helado, se consumen de una vez las 2 cargas de corazón impasible, se creará un fragmento de espada luminosa que estallará inmediatamente, infligiendo Daño Físico en una cantidad equivalente al 50% del daño básico de la espada luminosa de Fulgor glacial.",
+      "level": 1
+    },
+    {
+      "name": "Ansia de guerra",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Usar Fulgor glacial reinicia el TdE de Vórtice helado y otorga a Eula una carga de corazón impasible.",
+      "level": 4
+    },
+    {
+      "name": "Introspección aristocrática",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Al crear materiales de talento de personaje, hay una probabilidad del 10% de recibir el doble."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Ilusión de la marea",
+      "unlock": "Constelación Nivel 1",
+      "description": "Tras consumir las cargas de corazón impasible de Vórtice helado, Eula obtiene un 30% de Bono de Daño Físico durante 6 s.\nCada vez que se consuma una carga de corazón impasible, este efecto se prolongará durante 6 s más hasta un máximo de 18 s.",
+      "level": 1
+    },
+    {
+      "name": "Hija del mar",
+      "unlock": "Constelación Nivel 2",
+      "description": "Reduce el TdE de mantener pulsado Vórtice helado hasta ser el mismo que el de pulsar una vez.",
+      "level": 2
+    },
+    {
+      "name": "Sangre Lawrence",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Fulgor glacial +3.\nPuede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Obstinación de los plebeyos",
+      "unlock": "Constelación Nivel 4",
+      "description": "Aumenta en un 25% el daño que inflige la espada luminosa contra los enemigos con menos de un 50% de Vida.",
+      "level": 4
+    },
+    {
+      "name": "Virtud de caballera",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Vórtice helado +3.\nPuede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Deber aristocrático",
+      "unlock": "Constelación Nivel 6",
+      "description": "Otorga inmediatamente 5 cargas de energía a la espada luminosa creada mediante Fulgor glacial. Además, al usar Ataques Normales, la Habilidad Elemental o la Habilidad Definitiva para acumular cargas, hay una probabilidad del 50% de que la espada luminosa obtenga una carga adicional.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "CLAYMORE"
+}

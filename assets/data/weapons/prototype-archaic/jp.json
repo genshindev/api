@@ -1,0 +1,10 @@
+{
+  "name": "古華·試作",
+  "type": "Claymore",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "攻撃力",
+  "passiveName": "粉砕",
+  "passiveDesc": "通常攻撃と重撃が命中する時、50%の確率で狭範囲の敵に攻撃力の240%の追加ダメージを与える。15秒毎に1回のみ発動可能。",
+  "location": "鍛造"
+}

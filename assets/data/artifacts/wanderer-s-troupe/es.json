@@ -1,0 +1,6 @@
+{
+    "name": "Orquesta del Errante",
+    "max_rarity": 5,
+    "2-piece_bonus": "Maestría Elemental +80",
+    "4-piece_bonus": "Aumenta el daño del ataque cargado un 35% si el personaje usa un catalizador o arco"
+}

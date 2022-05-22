@@ -1,0 +1,10 @@
+{
+  "name": "旧貴族長剣",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "攻撃力",
+  "passiveName": "集中",
+  "passiveDesc": "攻撃が敵にダメージを与えた時、会心率+8%、最大5重まで。攻撃会心発生時、効果がクリアされる。",
+  "location": "スターライト交換"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "シャープシューターの誓い",
+  "type": "Bow",
+  "rarity": 3,
+  "baseAttack": 39,
+  "subStat": "会心ダメージ",
+  "passiveName": "精密射撃",
+  "passiveDesc": "弱点に対するダメージ+24%。",
+  "location": "祈願"
+}

@@ -1,0 +1,93 @@
+{
+    "name": "Arataki Itto",
+    "title": "Héros de Hanamizaka",
+    "vision": "Géo",
+    "weapon": "Claymore",
+    "gender": "Homme",
+    "nation": "Inazuma",
+    "affiliation": "Gang Arataki",
+    "rarity": 5,
+    "constellation": "Taurus Iracundus",
+    "birthday": "0000-06-01",
+    "description": "Le premier et plus grand chef du gang Arataki, célèbre dans tout Hanamizaka, à la Cité d'Inazuma... Hein, quoi ? Jamais entendu parler d'eux ? Sérieux ?",
+    "skillTalents": [
+      {
+        "name": "Légende de la baston",
+        "unlock": "Attaque normale",
+        "description": "Attaque normale\nEnchaîne jusqu'à 4 coups d'épée.\nLorsque son 2e et 4e coup touchent un ennemi, Itto gagne respectivement 1 et 2 cumuls de Mégaforce superlative.\nItto peut détenir un maximum de 5 cumuls de Mégaforce superlative, et chaque fois que cet effet se déclenche, la durée des cumuls en sa possession est réinitialisée.\nDe plus, l'enchaînement d'attaques normales d'Itto ne sera pas réinitialisé pendant une courte période après Zetsugi anti-démon : Catapultage d'akaushi ou l'initiation d'un sprint.\nAttaque chargée\nLorsque vous maintenez appuyé pour lancer une attaque chargée tout en possédant des cumuls de Mégaforce superlative, vous pouvez effectuer des kesa giri d'Arataki sans consommer d'endurance. Chaque kesa giri consommera à la place un cumul de Mégaforce superlative. Lorsque le dernier cumul de Mégaforce est consommé, Itto libère une attaque finale très puissante.\nSi aucun cumul de Mégaforce superlative n'est disponible, Itto consommera de l'endurance pour effectuer une simple entaille de Saichimonji.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+        "type": "NORMAL_ATTACK"
+      },
+      {
+        "name": "Zetsugi anti-démon : Catapultage d'akaushi",
+        "unlock": "Compétence élémentaire",
+        "description": "Projette Ushi, le jeune taureau akaushi et membre auxiliaire du gang Arataki, pour infliger des DGT Géo ! Lorsqu'Ushi touche un ennemi, il accorde à Arataki Itto 1 cumul de Mégaforce superlative.\nUshi reste ensuite sur le terrain et apporte son aide des façons suivantes :\n- Il nargue les ennemis proches et attire leur attention.\n- Il hérite d'un pourcentage des PV max d'Arataki Itto.\n- Lorsqu'il subit des DGT, il accorde à Arataki Itto 1 cumul de Mégaforce superlative. Un cumul peut être obtenu une fois toutes les 2 s de cette manière.\n- Si ses PV sont épuisés ou si la durée arrive à terme, il s'enfuit tout en accordant à Arataki Itto 1 cumul de Mégaforce superlative.\nAppui long\nAjuste la direction du jet.\nUshi est considéré comme une construction Géo, et Arataki Itto ne peut générer qu'un seul Ushi à la fois.",
+        "type": "ELEMENTAL_SKILL"
+      },
+      {
+        "name": "Roi oni maléfique : Avènement d'Itto",
+        "unlock": "Déchaînement élémentaire",
+        "description": "Il est temps de montrer la puissance du gang Arataki ! Itto laisse émerger son Roi oni courroucé intérieur pendant un certain temps, utilisant son kanabo de Roi oni au combat.\nLes caractéristiques suivantes s'appliquent :\n- Les attaques normales, chargées et plongeantes sont imprégnées de DGT Géo ne pouvant pas être enchantés.\n- La VIT d'attaque des attaques normales d'Itto augmente, et son ATQ sera augmentée en fonction de sa DÉF.\n- Lorsque le 1er ou 3e coup de son attaque normale touche un ennemi, Arataki Itto obtient 1 cumul de Mégaforce superlative.\n- Les RÉS élémentaires et physique d'Arataki Itto diminuent de 20 %.\nLes effets du Roi oni courroucé prennent fin lorsqu'Arataki Itto quitte le champ de bataille.",
+        "type": "ELEMENTAL_BURST"
+      }
+    ],
+    "passiveTalents": [
+      {
+        "name": "Castor au rapport",
+        "unlock": "Dévérouillé automatiquement",
+        "description": "When a party member uses attacks to obtain wood from a tree, they have a 25% chance to get an additional log of wood."
+      },
+      {
+        "name": "Arataki au top",
+        "unlock": "Dévérouillé en phase 1",
+        "description": "Lorsqu'Arataki Itto effectue une série de kesa giri d'Arataki, il obtient les effets suivants :\n- Chaque frappe augmente la VIT d'attaque de la prochaine de 10 %. La VIT d'attaque peut être augmentée de 30 % max de cette manière.\n- Sa RÉS à l'interruption augmente.\nCes effets prennent fin lorsqu'Arataki Itto arrête d'utiliser cette série d'attaques.",
+        "level": 1
+      },
+      {
+        "name": "Lignée de l'Oni cramoisi",
+        "unlock": "Dévérouillé en phase 4",
+        "description": "Les DGT infligés par les kesa giri d'Arataki augmentent d'une valeur équivalant à 35 % de la DÉF d'Arataki Itto.",
+        "level": 4
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Du calme et on écoute !",
+        "unlock": "Constellation Niv. 1",
+        "description": "Après avoir utilisé Roi oni maléfique : Avènement d'Itto, Arataki Itto gagne 2 cumuls de Mégaforce superlative. Après 1 s, Itto gagne 1 cumul de Mégaforce superlative toutes les 0,5 s pendant 1,5 s.",
+        "level": 1
+      },
+      {
+        "name": "Baston générale !",
+        "unlock": "Constellation Niv. 2",
+        "description": "Après avoir utilisé Roi oni maléfique : Avènement d'Itto, chaque personnage de l'équipe de type Géo permet de diminuer le TdR de cette aptitude de 1,5 s et de restaurer l'énergie élémentaire d'Arataki Itto de 6 pts.\nLe TdR peut être diminué d'un maximum de 4,5 s et l'énergie élémentaire peut être restaurée d'un maximum de 18 pts de cette manière.",
+        "level": 2
+      },
+      {
+        "name": "Le taureau par les cornes !",
+        "unlock": "Constellation Niv. 3",
+        "description": "Niveau d'aptitude Zetsugi anti-démon : Catapultage d'akaushi +3.\nNiveau max : 15",
+        "level": 3
+      },
+      {
+        "name": "Au pain sec et à l'eau !",
+        "unlock": "Constellation Niv. 4",
+        "description": "Lorsque l'état de Roi oni courroucé accordé par Roi oni maléfique : Avènement d'Itto prend fin, la DÉF et l'ATQ de tous les personnages de l'équipe à proximité augmentent de 20 % pendant 10 s.",
+        "level": 4
+      },
+      {
+        "name": "Une décennie de renommée à Hanamizaka",
+        "unlock": "Constellation Niv. 5",
+        "description": "Niveau d'aptitude Roi oni maléfique : Avènement d'Itto +3.\nNiveau max : 15",
+        "level": 5
+      },
+      {
+        "name": "Arataki Itto, présent !",
+        "unlock": "Constellation Niv. 6",
+        "description": "Les DGT CRIT des attaques chargées d'Arataki Itto augmentent de 70 %. De plus, lorsqu'il utilise une série de kesa giri d'Arataki, il a 50 % de chances de ne pas consommer de Mégaforce superlative.",
+        "level": 6
+      }
+    ],
+    "vision_key": "GEO",
+    "weapon_type": "CLAYMORE"
+  }
+  

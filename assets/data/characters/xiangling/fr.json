@@ -1,0 +1,92 @@
+{
+  "name": "Xiangling",
+  "title": "Cordon-bleu du peuple",
+  "vision": "Pyro",
+  "weapon": "Lance",
+  "gender": "Femme",
+  "nation": "Liyue",
+  "affiliation": "Restaurant Wanmin",
+  "rarity": 4,
+  "constellation": "Ladle",
+  "birthday": "0000-11-02",
+  "description": "Une célèbre cheffe cuisinière originaire de Liyue, connue pour ses plats épicés.",
+  "skillTalents": [
+    {
+      "name": "Cuisine-fu",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 coups de lance.\nAttaque chargée\nConsomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Attaque Gooba",
+      "unlock": "Compétence élémentaire",
+      "description": "Xiangling invoque le panda Gooba. Tant que Gooba est actif, il crache du feu sur les ennemis, leur infligeant des DGT Pyro de zone.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Pyrotation",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Démontrant à nouveau sa maîtrise du feu et des armes, Xiangling libère une tornade de feu qui tournoie autour d'elle.\nLa tornade suit le personnage tant qu'elle est active, infligeant des DGT Pyro aux ennemis sur sa route.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Cheffe cuisinière",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat parfait qui renforce l'ATQ."
+    },
+    {
+      "name": "Feux croisés",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Augmente la portée des crachats de feu de Gooba de 20 %.",
+      "level": 1
+    },
+    {
+      "name": "Attention, ça pique",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "À la fin d'Attaque Gooba, le gentil petit Gooba laisse un piment à son emplacement avant de disparaître. Ce piment confère un bonus de 10 % d'ATQ pendant 10 s à celui qui le ramasse.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Croustillant à l'extérieur, tendre à l'intérieur",
+      "unlock": "Constellation Niv. 1",
+      "description": "La RÉS Pyro des ennemis touchés par Gooba est réduite de 15 % pendant 6 s.",
+      "level": 1
+    },
+    {
+      "name": "L'huile sur le feu",
+      "unlock": "Constellation Niv. 2",
+      "description": "Le dernier coup d'attaque normale inflige pendant 2 s un effet d'implosion aux ennemis. Au bout de ce délai, ils explosent, infligeant des DGT Pyro de zone équivalant à 75 % de l'ATQ.",
+      "level": 2
+    },
+    {
+      "name": "Sauté profond",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Pyrotation +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Douce cuisine",
+      "unlock": "Constellation Niv. 4",
+      "description": "Prolonge la durée de Pyrotation de 40 %.",
+      "level": 4
+    },
+    {
+      "name": "Colère de Gooba",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Attaque Gooba +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Pyrotation condensée",
+      "unlock": "Constellation Niv. 6",
+      "description": "Les DGT Pyro de tous les personnages de l'équipe augmentent de 15 % tant que Pyrotation est active.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "POLEARM"
+}

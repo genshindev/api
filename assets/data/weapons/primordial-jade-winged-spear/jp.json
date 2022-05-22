@@ -1,0 +1,10 @@
+{
+  "name": "和璞鳶",
+  "type": "Polearm",
+  "rarity": 5,
+  "baseAttack": 48,
+  "subStat": "会心率",
+  "passiveName": "正義を貫く鳶の槍",
+  "passiveDesc": "敵に命中した時、自身の攻撃力+3.2%、継続時間6秒、最大7重まで。0.3秒に1回のみ発動できる。7重まで発動すると与えるダメージ+12%。",
+  "location": "祈願"
+}

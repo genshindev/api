@@ -1,0 +1,90 @@
+{
+  "name": "Xingchiu",
+  "vision": "Hydro",
+  "weapon": "Espada Ligera",
+  "nation": "Liyue",
+  "affiliation": "Gremio de Comerciantes de Feiyun",
+  "rarity": 4,
+  "constellation": "Fabulae Textile",
+  "birthday": "0000-10-09",
+  "description": "Un joven con una espada larga al que puede verse frecuentemente en las librerías. Tiene un corazón de oro y anhela la justicia y la igualdad para todos.",
+  "skillTalents": [
+    {
+      "name": "Técnica de espada Guhua",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza 5 ataques rápidos.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\nAtaque descendiente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Espada Guhua: Lluvia torrencial mortal",
+      "unlock": "Habilidad Elemental",
+      "description": "Xingchiu realiza golpes gemelos con su espada, infligiendo Daño Hydro. Al mismo tiempo, esta habilidad crea la cantidad máxima de Espadas de lluvia, que orbitarán alrededor del personaje. Las Espadas de lluvia tienen las siguientes propiedades:\nCuando el personaje recibe Daño, una Espada de lluvia se romperá, reduciendo la cantidad de Daño recibido.\nAumenta la RES a interrupción del personaje.\n\n20% del Bono de Daño Hydro de Xingchiu se convertirá en reducción de Daño adicional para las Espadas de lluvia.\nLa cantidad máxima de reducción de Daño que se puede obtener de esta manera es del 24%.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Espada Guhua: Sable de lluvia",
+      "unlock": "Habilidad Elemental",
+      "description": "Activa la Espada arcoíris y lucha con una lluvia de espadas fantasma, a la vez que crea el número máximo de Espadas de lluvia.\nEspada arcoíris:\nLos ataques Normales desencadenarán ataques de espada de lluvia consecutivos que infligen Daño Hydro.\nSe mantendrá el número máximo de Espadas de lluvia durante el efecto de la habilidad.\n\nEstos efectos se trasladan a otros personajes.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Secretos del agua",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Cuando Espadas de lluvia se interrumpe o termina su duración, el personaje actual recibe el 6% de la Vida Máx. de Xingchiu.",
+      "level": 1
+    },
+    {
+      "name": "Cuchillas a cántaros",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Xingchiu recibe un Bono de Daño Hydro de 20%.",
+      "level": 4
+    },
+    {
+      "name": "Destello repentino",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Al fabricar Materiales de talento del personaje, hay un 25% de probabilidad de recuperar los materiales usados."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Lluvia sobre mojado",
+      "unlock": "Constelación Nivel 1",
+      "description": "Aumenta en 1 la cantidad máxima de espadas de lluvia.",
+      "level": 1
+    },
+    {
+      "name": "Arcoíris brillante",
+      "unlock": "Constelación Nivel 2",
+      "description": "Extiende la duración de Espada Guhua: Sable de lluvia en 3 s y reduce en un 15% la RES Hydro de los enemigos golpeados por la lluvia de espadas durante 4 s.",
+      "level": 2
+    },
+    {
+      "name": "Tejedor de versos",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Espada Guhua: Sable de lluvia +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Pacificador del mal",
+      "unlock": "Constelación Nivel 4",
+      "description": "A lo largo de la duración de Espada Guhua: Sable de lluvia, el daño infligido por Espada Guhua: Lluvia torrencial mortal aumenta en un 50%.",
+      "level": 4
+    },
+    {
+      "name": "Baile bajo la lluvia",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Espada Guhua: Lluvia torrencial mortal +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Colección de poesía",
+      "unlock": "Constelación Nivel 6",
+      "description": "Con cada 2 ataques de lluvia de espadas de Espada Guhua: Sable de lluvia, el daño de la siguiente lluvia de espadas aumentará considerablemente. Además, Xingchiu recupera 3 pts. de Energía Elemental cada vez que ataca a sus enemigos con una lluvia de espadas.",
+      "level": 6
+    }
+  ],
+  "vision_key": "HYDRO",
+  "weapon_type": "SWORD"
+}

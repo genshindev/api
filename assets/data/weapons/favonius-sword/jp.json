@@ -1,0 +1,10 @@
+{
+  "name": "西風剣",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 41,
+  "subStat": "元素チャージ効率",
+  "passiveName": "追い風が吹く",
+  "passiveDesc": "会心攻撃をした時、60%の確率で少量の元素粒子を生成し、元素エネルギーを6回復する。12秒毎に1回のみ発動可能。",
+  "location": "祈願"
+}

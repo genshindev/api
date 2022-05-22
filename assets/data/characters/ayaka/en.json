@@ -1,180 +1,179 @@
 {
-    "name": "Kamisato Ayaka",
-    "vision": "Cryo",
-    "weapon": "Sword",
-    "nation": "Inazuma",
-    "affiliation": "Yashiro Commission",
-    "rarity": 5,
-    "constellation": "Grus Nivis",
-    "birthday": "0000-09-28",
-    "description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
-    "skillTalents": [
-      {
-        "name": "Kamisato Art - Kabuki",
-        "unlock": "Normal Attack",
-        "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash a flurry of sword ki.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
-        "upgrades": [
-          {
-            "name": "1-Hit DMG",
-            "value": "45.7%"
-          },
-          {
-            "name": "2-Hit DMG",
-            "value": "48.7%"
-          },
-          {
-            "name": "3-Hit DMG",
-            "value": "62.6%"
-          },
-          {
-            "name": "4-Hit DMG",
-            "value": "22.6% x 3"
-          },
-          {
-            "name": "5-Hit DMG",
-            "value": "78.2%"
-          },
-          {
-            "name": "Charged Attack DMG",
-            "value": "55.1% x 3"
-          },
-          {
-            "name": "Charged Attack Stamina Cost",
-            "value": "20"
-          },
-          {
-            "name": "Plunge DMG",
-            "value": "64%"
-          },
-          {
-            "name": "Low / High Plunge DMG",
-            "value": "128% / 160%"
-          }
-        ],
-        "type": "NORMAL_ATTACK"
-      },
-      {
-        "name": "Kamisato Art: Hyouka",
-        "unlock": "Elemental Skill",
-        "description": "Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.",
-        "upgrades": [
-          {
-            "name": "Skill DMG",
-            "value": "239%"
-          },
-          {
-            "name": "CD",
-            "value": "10s"
-          }
-        ],
-        "type": "ELEMENTAL_SKILL"
-      },
-      {
-        "name": "Kamisato Art: Soumetsu",
-        "unlock": "Elemental Burst",
-        "description": "Summons forth a snowstorm with flawless poise, unleasing a Frostflake Seki no To that moves forward continously.\nFrostflake Seki no To\nA storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing Cryo DMG.\nThe snowstorm explodes after its duration ends, dealing AoE Cryo DMG.",
-        "upgrades": [
-          {
-            "name": "Cutting DMG",
-            "value": "112%"
-          },
-          {
-            "name": "Bloom DMG",
-            "value": "168%"
-          },
-          {
-            "name": "Duration",
-            "value": "5s"
-          },
-          {
-            "name": "CD",
-            "value": "20s"
-          },
-          {
-            "name": "Energy Cost",
-            "value": "80"
-          }
-        ],
-        "type": "ELEMENTAL_BURST"
-      },
-      {
-        "name": "Kamisato Art: Senho",
-        "unlock": "Right Click",
-        "description": "Alternate Spirit\nAyaka consumes Stamina and cloaks herself in a frozen fog that moves with her.\n\nIn Senho form, she moves swiftly upon water.\nWhen she reappears, the following effects occur:\nAyaka unleashes frigid energy to apply Cryo on nearby opponents.\nColdness condenses around Ayaka's blade, infusing her attacks with Cryo for a brief period.",
-        "upgrades": [
-          {
-            "name": "Activation Stamina Consumption",
-            "value": "10"
-          },
-          {
-            "name": "Stamina Drain",
-            "value": "15/s"
-          },
-          {
-            "name": "Infusion Duration",
-            "value": "5s"
-          }
-        ]
-      }
-    ],
-    "passiveTalents": [
-      {
-        "name": "Amatsumi Kunitsumi Sanctification",
-        "unlock": "Unlocked at Ascension 1",
-        "description": "After using Kamisato Art: Hyouka, Kamisato Ayaka's Normal and Charged attacks deal 30% increased DMG for 6s.",
-        "level": 1
-      },
-      {
-        "name": "Kanten Senmyou Blessing",
-        "unlock": "Unlocked at Ascension 4",
-        "description": "When the Cryo application at the end of Kamisato Art: Senho hits an opponent, Kamisato Ayaka gains the following effects:\nRestores 10 Stamina\nGains 18% Cryo DMG Bonus for 10s.",
-        "level": 4
-      },
-      {
-        "name": "Fruits of Shinsa",
-        "unlock": "Unlocked Automatically",
-        "description": "When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product."
-      }
-    ],
-    "constellations": [
-      {
-        "name": "Snowswept Sakura",
-        "unlock": "Constellation Lv. 1",
-        "description": "When Kamisato Ayaka's Normal or Charged Attacks deal Cryo DMG to opponents, it has a 50% chance of decreasing the CD of Kamisato Art: Hyouka by 0.3s. This effect can occur once every 0.1s.",
-        "level": 1
-      },
-      {
-        "name": "Blizzard Blade Seki no To",
-        "unlock": "Constellation Lv. 2",
-        "description": "When casting Kamisato Art: Soumetsu, unleashes 2 smaller additional Frostflake Seki no To, each dealing 20% of the original storm's DMG.",
-        "level": 2
-      },
-      {
-        "name": "Frostbloom Kamifubuki",
-        "unlock": "Constellation Lv. 3",
-        "description": "Increases the Level of Kamisato Art: Soumetsu by 3.\nMaximum upgrade level is 15.",
-        "level": 3
-      },
-      {
-        "name": "Ebb and Flow",
-        "unlock": "Constellation Lv. 4",
-        "description": "Opponents damaged by Kamisato Art: Soumetsu's Frostflake Seki no To will have their DEF decreased by 30% for 6s.",
-        "level": 4
-      },
-      {
-        "name": "Blossom Cloud Irutsuki",
-        "unlock": "Constellation Lv. 5",
-        "description": "Increases the Level of Kamisato Art: Hyouka by 3.\nMaximum upgrade level is 15.",
-        "level": 5
-      },
-      {
-        "name": "Dance of Suigetsu",
-        "unlock": "Constellation Lv. 6",
-        "description": "Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG by 298%. This buff will be cleared 0.5s after Ayaka's Charged ATK hits an opponent, after which the timer for this ability will restart.  ",
-        "level": 6
-      }
-    ],
-    "vision_key": "CRYO",
-    "weapon_type": "SWORD"
-  }
-  
+  "name": "Kamisato Ayaka",
+  "vision": "Cryo",
+  "weapon": "Sword",
+  "nation": "Inazuma",
+  "affiliation": "Yashiro Commission",
+  "rarity": 5,
+  "constellation": "Grus Nivis",
+  "birthday": "0000-09-28",
+  "description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
+  "skillTalents": [
+    {
+      "name": "Kamisato Art - Kabuki",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash a flurry of sword ki.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "45.7%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "48.7%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "62.6%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "22.6% x 3"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "78.2%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "55.1% x 3"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "64%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "128% / 160%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Kamisato Art: Hyouka",
+      "unlock": "Elemental Skill",
+      "description": "Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "239%"
+        },
+        {
+          "name": "CD",
+          "value": "10s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Kamisato Art: Soumetsu",
+      "unlock": "Elemental Burst",
+      "description": "Summons forth a snowstorm with flawless poise, unleasing a Frostflake Seki no To that moves forward continously.\nFrostflake Seki no To\nA storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing Cryo DMG.\nThe snowstorm explodes after its duration ends, dealing AoE Cryo DMG.",
+      "upgrades": [
+        {
+          "name": "Cutting DMG",
+          "value": "112%"
+        },
+        {
+          "name": "Bloom DMG",
+          "value": "168%"
+        },
+        {
+          "name": "Duration",
+          "value": "5s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    },
+    {
+      "name": "Kamisato Art: Senho",
+      "unlock": "Right Click",
+      "description": "Alternate Spirit\nAyaka consumes Stamina and cloaks herself in a frozen fog that moves with her.\n\nIn Senho form, she moves swiftly upon water.\nWhen she reappears, the following effects occur:\nAyaka unleashes frigid energy to apply Cryo on nearby opponents.\nColdness condenses around Ayaka's blade, infusing her attacks with Cryo for a brief period.",
+      "upgrades": [
+        {
+          "name": "Activation Stamina Consumption",
+          "value": "10"
+        },
+        {
+          "name": "Stamina Drain",
+          "value": "15/s"
+        },
+        {
+          "name": "Infusion Duration",
+          "value": "5s"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Amatsumi Kunitsumi Sanctification",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "After using Kamisato Art: Hyouka, Kamisato Ayaka's Normal and Charged attacks deal 30% increased DMG for 6s.",
+      "level": 1
+    },
+    {
+      "name": "Kanten Senmyou Blessing",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "When the Cryo application at the end of Kamisato Art: Senho hits an opponent, Kamisato Ayaka gains the following effects:\nRestores 10 Stamina\nGains 18% Cryo DMG Bonus for 10s.",
+      "level": 4
+    },
+    {
+      "name": "Fruits of Shinsa",
+      "unlock": "Unlocked Automatically",
+      "description": "When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Snowswept Sakura",
+      "unlock": "Constellation Lv. 1",
+      "description": "When Kamisato Ayaka's Normal or Charged Attacks deal Cryo DMG to opponents, it has a 50% chance of decreasing the CD of Kamisato Art: Hyouka by 0.3s. This effect can occur once every 0.1s.",
+      "level": 1
+    },
+    {
+      "name": "Blizzard Blade Seki no To",
+      "unlock": "Constellation Lv. 2",
+      "description": "When casting Kamisato Art: Soumetsu, unleashes 2 smaller additional Frostflake Seki no To, each dealing 20% of the original storm's DMG.",
+      "level": 2
+    },
+    {
+      "name": "Frostbloom Kamifubuki",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Kamisato Art: Soumetsu by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Ebb and Flow",
+      "unlock": "Constellation Lv. 4",
+      "description": "Opponents damaged by Kamisato Art: Soumetsu's Frostflake Seki no To will have their DEF decreased by 30% for 6s.",
+      "level": 4
+    },
+    {
+      "name": "Blossom Cloud Irutsuki",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Kamisato Art: Hyouka by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Dance of Suigetsu",
+      "unlock": "Constellation Lv. 6",
+      "description": "Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG by 298%. This buff will be cleared 0.5s after Ayaka's Charged ATK hits an opponent, after which the timer for this ability will restart.  ",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "SWORD"
+}

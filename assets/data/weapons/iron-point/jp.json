@@ -1,0 +1,10 @@
+{
+  "name": "鉄尖槍",
+  "type": "Polearm",
+  "rarity": 2,
+  "baseAttack": 33,
+  "subStat": "-",
+  "passiveName": "-",
+  "passiveDesc": "-",
+  "location": "宝箱"
+}

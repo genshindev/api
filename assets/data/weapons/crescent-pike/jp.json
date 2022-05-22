@@ -1,0 +1,10 @@
+{
+  "name": "流月の針",
+  "type": "Polearm",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "物理ダメージ",
+  "passiveName": "注入の針",
+  "passiveDesc": "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の20%の追加ダメージを与える。",
+  "location": "鍛造"
+}

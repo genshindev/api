@@ -1,0 +1,10 @@
+{
+  "name": "龍殺しの英傑譚",
+  "type": "Catalyst",
+  "rarity": 3,
+  "baseAttack": 39,
+  "subStat": "HP",
+  "passiveName": "伝承",
+  "passiveDesc": "キャラを切り替えると、次に登場するキャラの攻撃力+24%、継続時間10秒。20秒に1回のみ発動可能。",
+  "location": "祈願"
+}

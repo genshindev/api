@@ -1,0 +1,10 @@
+{
+  "name": "雨裁",
+  "type": "Claymore",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "元素熟知",
+  "passiveName": "水と雷の破滅",
+  "passiveDesc": "水元素または雷元素の影響を受けた敵に対するダメージ+20%。",
+  "location": "祈願"
+}

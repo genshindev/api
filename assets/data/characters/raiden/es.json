@@ -1,0 +1,90 @@
+{
+  "name": "Shogun Raiden",
+  "vision": "Electro",
+  "weapon": "Lanza",
+  "nation": "Inazuma",
+  "affiliation": "Ciudad de Inazuma",
+  "rarity": 5,
+  "constellation": "Imperatrix Umbrosa",
+  "birthday": "0000-06-26",
+  "description": "Su Excelencia, la todopoderosa Narukami, quien le prometió al pueblo de Inazuma la inmutable eternidad.",
+  "skillTalents": [
+    {
+      "name": "Estilo Genryuu",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nEjecuta hasta 5 golpes consecutivos con su lanza.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para realizar un ataque hacia arriba.\nAtaque descendiente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento de impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Trascendencia: Presagio maligno",
+      "unlock": "Habilidad Elemental",
+      "description": "La Shogun Raiden libera un fragmento de su eutimia para infligir Daño Electro contra los enemigos de alrededor y otorgar a todos los personajes del equipo cercanos el efecto de \"Ojo del castigo atronador\".\n\nOjo del castigo atronador\nCuando los ataques de los personajes que obtengan este efecto inflijan daño a un enemigo, el ojo liberará un ataque coordinado que inflige Daño Electro en el AdE en la ubicación de ese enemigo.\nMientras un personaje esté bajo los efectos de ojo del castigo atronador, el daño que inflige con su Habilidad Definitiva aumenta en proporción a la Energía Elemental consumida para realizar dicha habilidad.\n\nComo máximo, el ojo del castigo atronador solo podrá ejecutar un ataque coordinado cada 0.9 s por equipo.\nEl daño infligido con el ataque coordinado por personajes que no son de tu equipo será de un 20% del daño original.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Técnica secreta: Verdad onírica",
+      "unlock": "Habilidad Definitiva",
+      "description": "Reúne las infinitas verdades y consume su ambición infinita para ejecutar un corte onírico que extermina todas las maldiciones del mundo, infligiendo Daño Electro en el AdE y pasando al estado de \"mente onírica\" durante cierto periodo de tiempo. El daño infligido con corte onírico y con los ataques de mente onírica dependerá de las cargas de rueda de la ambición consumidas cuando esta habilidad sea utilizada.\n\nMente onírica\nEn este estado, la Shogun Raiden ataca con su tachi, y sus Ataques Normales, Cargados y Descendentes infligen Daño Electro, el cual no puede sustituirse imbuyéndose de otro elemento.\nAl golpear a un enemigo con estos ataques, todos los personajes del equipo cercanos regeneran Energía Elemental. Esta regeneración puede ocurrir una vez por segundo y activarse un máximo de 5 veces mientras mente onírica está activa.\nEn este estado, la RES a interrupción de la Shogun Raiden aumenta, y se vuelve inmune al daño recibido por la reacción de Electrocargado.\nDurante el estado de mente onírica, el daño infligido por los Ataques Normales, Cargados y Descendentes de la Shogun Raiden se considera daño de Habilidad Definitiva.\nEl efecto de mente onírica desaparece cuando la Shogun Raiden abandona el campo de batalla.\n\nRueda de la ambición\nCuando un personaje cercano del equipo (a excepción de la Shogun Raiden) realiza una Habilidad Definitiva, la Shogun Raiden acumula ambición en proporción a la cantidad de Energia Elemental que ese personaje para realizar su Habilidad Definitiva. Solo se puede acumular un máximo de 60 cargas de ambición.\nLas cargas de ambición acumuladas para la rueda de la ambición se perderán 300 segundos después de que la Shogun Raiden se retire de combate.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Aspiración infinita",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Los orbes o partículas elementales obtenidas por los personajes cercanos del equipo otorgan 2 cargas de ambición a rueda de la ambición.\nEste efecto solo puede ocurrir una vez cada 3 segundos.",
+      "level": 1
+    },
+    {
+      "name": "La iluminada",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Si la Shogun Raiden tiene más de un 100% de Recarga de Energía, por cada 1% adicional obtiene los siguientes efectos:\nAumenta en un 0.6% adicional la regeneración Elemental otorgada por mente onírica.\nAumenta en un 0.4% adicional su Bono de Daño Electro.",
+      "level": 4
+    },
+    {
+      "name": "La protectora",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Reduce en un 50% el Mora necesario para ascender espadas ligeras y lanzas."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Inscripción ominosa",
+      "unlock": "Constelación Nivel 1",
+      "description": "Rueda de la ambición acumula cargas de ambición más rápidamente. Las cargas acumuladas con la Habilidad Definitiva de los personajes de tipo elemental Electro aumentan en un 80%, y las de los personajes del resto de los tipos elementales aumentan en un 20%.",
+      "level": 1
+    },
+    {
+      "name": "Asoladora del acero",
+      "unlock": "Constelación Nivel 2",
+      "description": "Tanto el corte onírico de Técnica secreta: Verdad onírica como los ataques realizados por la Shogun Raiden bajo el estado de mente onírica ignoran el 60% de la DEF de los enemigos.",
+      "level": 2
+    },
+    {
+      "name": "Reflejo del pasado",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Técnica secreta: Verdad onírica +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Ofrenda de la eternidad",
+      "unlock": "Constelación Nivel 4",
+      "description": "Al terminar la duración de mente onírica activada mediante Técnica secreta: Verdad onírica, el ATQ de todos los miembros del equipo cercanos (a excepción de la Shogun Raiden) aumenta en un 30% durante 10 s.",
+      "level": 4
+    },
+    {
+      "name": "Descenso de la Shogun",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Trascendencia: Presagio maligno +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Portadora de deseos",
+      "unlock": "Constelación Nivel 6",
+      "description": "Cuando la Shogun Raiden está bajo los efectos de mente onírica activados mediante Técnica secreta: Verdad onírica, los ataques que realice ella y que se consideren daño de Habilidad Definitiva reducen en 1 s el TdE de la Habilidad Definitiva de todos los miembros del equipo cercanos (a excepción de la Shogun Raiden).\nEste efecto solo puede ocurrir una vez cada 1 s y activarse un máximo de 5 veces mientras dure este estado.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "POLEARM"
+}

@@ -49,5 +49,35 @@
     "id": "shadow-of-the-warrior",
     "name": "Shadow of the Warrior",
     "characters": ["ganyu", "rosaria", "xiao"]
+  },
+  "bloodjade-branch": {
+    "id": "bloodjade-branch",
+    "name": "Bloodjade Branch",
+    "characters": ["ayaka", "yanfei"]
+  },
+  "dragon-lord's-crown": {
+    "id": "dragon-lord's-crown",
+    "name": "Dragon Lord's Crown",
+    "characters": ["eula", "yoimiya", "traveler-electro"]
+  },
+  "gilded-scale": {
+    "id": "gilded-scale",
+    "name": "Gilded Scale",
+    "characters": ["kazuha", "sayu"]
+  },
+  "molten-moment": {
+    "id": "moltent-moment",
+    "name": "Molten Moment",
+    "characters": ["raiden", "aloy", "gorou"]
+  },
+  "hellfire-butterfly": {
+    "id": "hellfire-butterfly",
+    "name": "Hellfire Butterfly",
+    "characters": ["kokomi", "thoma", "shenhe"]
+  },
+  "ashen-heart": {
+    "id": "ashen-heart",
+    "name": "Ashen Heart",
+    "characters": ["sara", "arataki-itto", "yun-jin"]
   }
 }

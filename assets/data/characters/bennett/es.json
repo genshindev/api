@@ -1,0 +1,90 @@
+{
+  "name": "Bennet",
+  "vision": "Pyro",
+  "weapon": "Espada Ligera",
+  "nation": "Mondstadt",
+  "affiliation": "Gremio de Aventureros",
+  "rarity": 4,
+  "constellation": "Rota Calamitas",
+  "birthday": "0000-02-29",
+  "description": "El chico aventurero de Mondstadt. Su naturaleza amable no va acorde con su mala suerte.",
+  "skillTalents": [
+    {
+      "name": "Espada de la suerte",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 5 ataques rápidos.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\nAtaque descendiente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Sobrecarga de pasión",
+      "unlock": "Habilidad Elemental",
+      "description": "Bennett concentra el espíritu aventurero y la energía Pyro en su espada. Dependiendo del tiempo de carga, se producen diferentes efectos.\nUn clic: Realiza un rápido y ardiente movimiento con su espada, infligiendo Daño Pyro.\nMantener pulsado: Dependiendo de la duración, lanza una habilidad distinta basada en en nivel de carga.\nNivel 1: Golpea dos veces, infligiendo Daño Pyro y lanzando a los enemigos por los aires.\nNivel 2: Lanza 3 ataques consecutivos que infligen una cantidad significativa de Daño Pyro. El último ataque causa una explosión que lanza tanto a los enemigos como a Bennett por los aires. Sin embargo, Bennett no resulta herido por esta explosión.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Aventura maravillosa",
+      "unlock": "Habilidad Definitiva",
+      "description": "Bennett salta hacia el enemigo y ataca, infligiendo Daño Pyro y creando un círculo de apoyo moral.\n\nCírculo de apoyo moral:\nSi la Vida de un personaje dentro del círculo es igual o inferior al 70%, su vida se regenerará continuamente.\nSi al vida de un personaje dentro del círculo es mayor a 70%, obtendrán un Bono de ATQ igual a un porcentaje del ATQ Básico de Bennett.\nLos personajes dentro del círculo obtendrán el efecto Pyro.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Resurgimiento de la pasión",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Reduce el TdE de Sobrecarga de pasión en 20%.",
+      "level": 1
+    },
+    {
+      "name": "Fervor intrépido",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Dentro del área de Aventura maravillosa, Sobrecarga de pasión tiene los siguientes efectos:\nSu TdE se reduce en un 50%.\nBennett no será lanzado por los aires con la Carga 2.",
+      "level": 4
+    },
+    {
+      "name": "Supuestamente seguro",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Reduce en un 25% el tiempo necesario para completar una expedición en Mondstadt."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Visión de aventura",
+      "unlock": "Constelación Nivel 1",
+      "description": "El aumento de ATQ de Aventura maravillosa ya no se ve restringido por la cantidad de Vida, y aumenta en un 20% adicional en proporción al ATQ Básico de Bennett.",
+      "level": 1
+    },
+    {
+      "name": "Huida desesperada",
+      "unlock": "Constelación Nivel 2",
+      "description": "Aumenta la Recarga de Energía de Bennett en un 30% cuando su Vida es inferior al 70%.",
+      "level": 2
+    },
+    {
+      "name": "Pasión ardiente",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Sobrecarga de pasión +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Calidez inagotable",
+      "unlock": "Constelación Nivel 4",
+      "description": "Usar un Ataque Normal al ejecutar el segundo ataque de Sobrecarga de pasión: Carga 1 permite realizar un ataque adicional.\nEste ataque adicional es equivalente al 135% del daño del segundo ataque.",
+      "level": 4
+    },
+    {
+      "name": "Explorador verdadero",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Aventura maravillosa +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Fuego y coraje",
+      "unlock": "Constelación Nivel 6",
+      "description": "Si los personajes en uso utilizan espada ligera, mandoble o lanza y se encuentran en el AdE de Aventura maravillosa, dichos personajes obtendrán un 15% de Bono de Daño Pyro. Además, serán imbuidos del elemento Pyro.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "SWORD"
+}

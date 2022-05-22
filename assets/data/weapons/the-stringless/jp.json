@@ -1,0 +1,10 @@
+{
+  "name": "絶弦",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "元素熟知",
+  "passiveName": "矢なしの詩",
+  "passiveDesc": "元素スキルと元素爆発のダメージ+24%。",
+  "location": "祈願"
+}

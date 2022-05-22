@@ -1,0 +1,90 @@
+{
+  "name": "Klee",
+  "vision": "Pyro",
+  "weapon": "Catalizador",
+  "nation": "Mondstadt",
+  "affiliation": "Caballeros de Favonius",
+  "rarity": 5,
+  "constellation": "Trifolium",
+  "birthday": "0000-07-27",
+  "description": "Una visitante frecuente de los calabozos de los Caballeros de Favonius, la maestra de explosiones de Mondstadt. La llaman \"el Sol Fugitivo\".",
+  "skillTalents": [
+    {
+      "name": "¡Buuum!",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 3 ataques explosivos que infligen Daño Pyro.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para infligir Daño Pyro en el AdE después de un corto tiempo de lanzamiento.\nAtaque descendiente:\nAl acumular poder Pyro, Klee se lanza hacia el suelo desde el aire, dañando a todos los enemigos en su camino. A su vez, inflige Daño Pyro en el AdE.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Bomba saltarina",
+      "unlock": "Habilidad Elemental",
+      "description": "¡La Bomba saltarina es un montón de diversión!\nArroja una Bomba saltarina poderosa que puede rebotar hasta tres veces. Cada vez que rebota genera una explosión con Daño Pyro en el AdE.\nDespués de rebotar tres veces, se dividirá en varias Trampas cazabobos. Al tocar al enemigo, las ráfagas explotarán, causando Daño Pyro en el AdE.\nPuede ser usado 2 veces consecutivas.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Chispas explosivas",
+      "unlock": "Habilidad Definitiva",
+      "description": "¡Klee a la carga! Mientras dure la Habilidad, no para de invocar Chispas explosivas que hacen daño a los enemigos cercanos, infligiendo Daño Pyro en el AdE.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Regalo explosivo",
+      "unlock": "Desbloqueado en la Ascenciónn 1",
+      "description": "Cuando Bomba saltarina inflige daño junto con un ATQ Normal, hay un 50% de posibilidades de que Klee obtenga una Flor explosiva.\nEl siguiente ATQ Cargado consumirá esta Flor explosiva sin consumir Aguante. El daño infligido aumentará en un 50%.",
+      "level": 1
+    },
+    {
+      "name": "Estallido incesante",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Después de asestar un golpe CRIT. con el Ataque Cargado, todos los miembros del equipo reciben 2 pts. de Energía Elemental.",
+      "level": 4
+    },
+    {
+      "name": "Todos mis tesoros",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Muestra la ubicación de las especialidades de Mondstadt cercanas en el Mini-mapa."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Explosión en cadena",
+      "unlock": "Constelación Nivel 1",
+      "description": "Al atacar o usar una habilidad, hay una probabilidad de invocar chispas que atacan al enemigo, las cuales infligen daño equivalente a 120% del daño de Chispas explosivas.",
+      "level": 1
+    },
+    {
+      "name": "Fragmentos de metralla",
+      "unlock": "Constelación Nivel 2",
+      "description": "Las minas de Bomba saltarina reducen la DEF de los enemigos en un 23% durante 10 s.",
+      "level": 2
+    },
+    {
+      "name": "Mezcla especial de Klee",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Bomba saltarina +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "¡Bomba va!",
+      "unlock": "Constelación Nivel 4",
+      "description": "Si Klee se retira de combate mientras la habilidad Chispas explosivas está activa, creará una explosión que inflige un 555% de Daño Pyro en el AdE.",
+      "level": 4
+    },
+    {
+      "name": "Estrella de los bombardeos",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Chispas explosivas +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "¡Klee a la carga!",
+      "unlock": "Constelación Nivel 6",
+      "description": "Mientras las Chispas explosivas estén activas, Klee hará que todos los miembros del equipo (sin incluir al personaje en uso) recuperen 3 pts. de Energía Elemental cada 3 s.\nDespués de activar Chispas explosivas, todos los miembros del equipo reciben un 10% de Bono de Daño Pyro durante 25 s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "CATALYST"
+}

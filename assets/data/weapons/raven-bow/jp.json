@@ -1,0 +1,10 @@
+{
+  "name": "鴉羽の弓",
+  "type": "Bow",
+  "rarity": 3,
+  "baseAttack": 40,
+  "subStat": "元素熟知",
+  "passiveName": "炎と水の破滅",
+  "passiveDesc": "水元素または炎元素の影響を受けた敵に対するダメージ+12%。",
+  "location": "祈願"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Diluc",
+  "vision": "Pyro",
+  "weapon": "Mandoble",
+  "nation": "Mondstadt",
+  "affiliation": "Viñedo del amanecer",
+  "rarity": 5,
+  "constellation": "Noctua",
+  "birthday": "0000-04-30",
+  "description": "El magnate del imperio vinícola de Mondstadt, inigualable en todos los sentidos.",
+  "skillTalents": [
+    {
+      "name": "Espada templada",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 4 tajos rápidos.\nAtaque Cargado:\nSigue consumiendo Aguante para realizar golpes de espada continuos. Cuando termina el Ataque Cargado, hará un movimiento final de dos cortes con fuerza añadida.\nAtaque descendiente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Filo ardiente",
+      "unlock": "Habilidad Elemental",
+      "description": "Da un golpe de espada hacia enfrente que inflige Daño Pyro. Esta habilidad puede utilizarse 3 vecesconsecutivas. Entra en TdE si no se activa después de un periodo corto.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Amanecer",
+      "unlock": "Habilidad Definitiva",
+      "description": "Unas llamas emergen de la espada de Diluc, las cuales derriban a los enemigos cercanos e infligen Daño Pyro. Las llamas convergen en la espada, invocando un fénix que vuela hacia adelante e infligiendo daño Pyro a todos los enemigos en su camino. El fénix explota al llegar a su destino, infligiendo una cantidad significativa de daño Pyro en el AdE. Las llamas que quedan en el arma de Diluc la imbuyen del Elemento Pyro.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Implacable",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Reduce el Coste de Aguante del Ataque Cargado de Diluc en 50%, y la duración del Ataque Cargado aumenta en 3s.",
+      "level": 1
+    },
+    {
+      "name": "Bendición del fénix",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "El Encantamiento Pyro proporcionado por Amanecer se extiende 4s más. Además, Diluc gana un 20% de Bono de Daño Pyro durante la duración de este efecto.",
+      "level": 4
+    },
+    {
+      "name": "Tradición del Caballero del Amanecer",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Recupera el 15% de los minerales utilizados en la fabricación de espadas Mandoble."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Condena",
+      "unlock": "Constelación Nivel 1",
+      "description": "Aumenta el daño de Diluc en un 15% contra enemigos con más del 50% de Vida.",
+      "level": 1
+    },
+    {
+      "name": "Ardor incesante",
+      "unlock": "Constelación Nivel 2",
+      "description": "Cuando Diluc recibe daño, su ATQ aumenta en un 10% y su Vel. de Ataque aumenta en un 5% durante 10 s.\nPuede acumularse un máximo de 3 veces, y solo puede ocurrir una vez cada 1.5 s.",
+      "level": 2
+    },
+    {
+      "name": "Fuego y acero",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Filo ardiente +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Flujo llameante",
+      "unlock": "Constelación Nivel 4",
+      "description": "Realizar Filo ardiente siguiendo la secuencia de ataques aumenta considerablemente el daño infligido.\n2 s después de utilizar Filo ardiente, aumenta el daño del siguiente Filo ardiente en un 40% durante 2 s.",
+      "level": 4
+    },
+    {
+      "name": "Fénix, heraldo del amanecer",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Amanecer +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Espada llameante, némesis de la oscuridad",
+      "unlock": "Constelación Nivel 6",
+      "description": "Después de lanzar Filo ardiente, aumenta en un 30% el daño y la Vel. de Ataque Normal de los siguientes 2 ataques durante 6 s.\nAdemás, Filo ardiente no interrumpirá la secuencia de Ataques Normales.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "CLAYMORE"
+}

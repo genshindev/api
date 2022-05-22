@@ -1,0 +1,102 @@
+{
+  "name": "Barbara",
+  "title": "Star de la chanson",
+  "vision": "Hydro",
+  "weapon": "Catalyseur",
+  "gender": "Femme",
+  "nation": "Mondstadt",
+  "affiliation": "Église de Favonius",
+  "rarity": 4,
+  "constellation": "Crater",
+  "birthday": "0000-07-05",
+  "description": "Barbara est adulée de tous à Mondstadt. Pourtant, c'est dans un magazine qu'elle a découvert le terme « idole ».",
+  "skillTalents": [
+    {
+      "name": "Murmure de l'eau",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 4 attaques d'eau qui infligent des DGT Hydro.\nAttaque chargée\nConsomme de l'endurance pour infliger des DGT Hydro de zone après un court délai.\nAttaque plongeante\nPlonge depuis les airs en concentrant ses pouvoirs Hydro, infligeant des DGT aux ennemis en chemin et des DGT Hydro de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "C'est parti pour le show ♪",
+      "unlock": "Compétence élémentaire",
+      "description": "Invoque des gouttelettes dansantes qui forment un cercle de mélodie infligeant des DGT Hydro et trempant les ennemis proches.\nCercle de mélodie\n- Les attaques normales de Barbara restaurent les PV de vos personnages dans l'équipe ainsi que de tous les alliés proches lorsqu'elles touchent. La quantité de PV restaurés est proportionnelle aux PV max de Barbara.\n- L'effet des soins est multiplié par 4 avec les attaques chargées.\n- Régénère les PV de votre personnage déployé à intervalles réguliers.\n- Barbara trempe les personnages et les ennemis avec qui elle entre en contact.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Miracle brillant ♪",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Restaure considérablement les PV des alliés et de vos personnages dans l'équipe ; la quantité de PV restaurés est proportionnelle aux PV max de Barbara.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Splendide saison",
+      "unlock": "Dévérouillé en phase 1",
+      "description": "Les personnages situés dans le cercle de mélodie de C'est parti pour le show ♪ consomment 12 % d'endurance en moins.",
+      "level": 1
+    },
+    {
+      "name": "Bis repetita",
+      "unlock": "Dévérouillé en phase 4",
+      "description": "Chaque orbe ou particule élémentaire obtenu(e) par votre personnage déployé prolonge le cercle de mélodie de C'est parti pour le show ♪ de 1 s.\nDurée max : 5 s.",
+      "level": 4
+    },
+    {
+      "name": "De tout mon cœur ♪",
+      "unlock": "Dévérouillé automatiquement",
+      "description": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat de soins parfait."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Joyeuse ballade",
+      "unlock": "Constellation Niv. 1",
+      "description": "Barbara récupère 1 pt d'énergie élémentaire toutes les 10 s.",
+      "level": 1
+    },
+    {
+      "name": "Éclat de vitalité",
+      "unlock": "Constellation Niv. 2",
+      "description": "Réduit le TdR de C'est parti pour le show ♪ de 15 %.\nConfère un bonus de 15 % aux DGT Hydro pour le personnage déployé tant que la compétence est active.",
+      "level": 2
+    },
+    {
+      "name": "Étoile du lendemain",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Miracle brillant ♪ +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "L'effort est la meilleure des magies",
+      "unlock": "Constellation Niv. 4",
+      "description": "À chaque ennemi touché par une attaque chargée, Barbara récupère 1 pt d'énergie élémentaire.\n5 pts d'énergie maximum peuvent être régénérés après chaque attaque chargée.",
+      "level": 4
+    },
+    {
+      "name": "Lien innocent",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude C'est parti pour le show ♪ +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Toujours le meilleur pour vous",
+      "unlock": "Constellation Niv. 6",
+      "description": "Si Barbara fait partie de l'équipe mais n'est pas déployée, et qu'un de vos personnages dans l'équipe est vaincu :\n- Barbara le réanime immédiatement.\n- Les PV de ce personnage sont restaurés à 100 %.\nCet effet peut être déclenché une fois toutes les 15 min.",
+      "level": 6
+    }
+  ],
+  "vision_key": "HYDRO",
+  "weapon_type": "CATALYST",
+  "outfits": [
+    {
+      "type": "Été",
+      "name": "Été radieux",
+      "description": "Tenue de plage de Barbara. La jolie mini-jupe déborde de vitalité estivale et porte la fraîcheur de l'océan.",
+      "rarity": 4,
+      "price": 1680,
+      "image": "outfit-summertime-sparkle"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Xinyan",
+  "vision": "Pyro",
+  "weapon": "Zweihänder",
+  "nation": "Liyue",
+  "affiliation": "Liyue",
+  "rarity": 4,
+  "constellation": "Fila Ignium",
+  "birthday": "0000-10-16",
+  "description": "Das Mädchen mit dem stürmischsten Musikgeschmack in ganz Liyue. Mit ihrer Musik und ihrem leidenschaftlichen Gesang lehnt sie sich gegen die vorgefassten Meinungen auf.",
+  "skillTalents": [
+    {
+      "name": "Tanz der Flammen",
+      "unlock": "Standardangriff",
+      "description": "Standardangriff\nFührt bis zu 4 Schwünge mit dem Schwert hintereinander aus.\nnHeftiger Schlag\nVerbraucht fortlaufend Ausdauer, wirbelt das Großschwert und greift Gegner in der Umgebung an.\nSchwingt das Schwert am Ende mit besonders großer Wucht.\nnAngriff aus dem Fall\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Schlag in die Saiten",
+      "unlock": "Elementarangriff",
+      "description": "Xinyan streicht ihr Instrument, fügt Gegnern in der Umgebung Pyro-Schaden zu und erschafft aus der Leidenschaft ihrer Zuschauer einen Schild.\nDie Schildstärke hängt von Xinyans VTD und der Anzahl getroffener Gegner ab.\n - Kein bis ein getroffener Gegner: Schild Stufe 1 - Einstimmen.\n - Zwei getroffene Gegner: Schild Stufe 2 - Aufdrehen.\n - Drei oder mehr getroffene Gegner: Schild Stufe 3 - Abfeiern. Hält Schaden ab und fügt Gegnern in der Umgebung stoßweise Pyro-Schaden zu.\nMerkmale des Schildes:\n - Verleiht Xinyan beim Auslösen das Pyro-Attribut.\n - Hält bei Pyro-Schaden 250 % ab.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Refrain der Rebellion",
+      "unlock": "Spezialangriff",
+      "description": "Spielt harte Töne und erschafft Schallwellen, die Gegner zurückstoßen und Gegner in der Umgebung physischen Schaden zufügen, um Euphorie in der Menge auszulösen.\nBricht in Flammen aus, weil die Darbietung einfach zu heiß ist, und fügt Gegnern in der Umgebung fortlaufend Pyro-Schaden zu.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "\"Es geht auch ohne Publikum ...\"",
+      "unlock": "Ab Figurenaufstiegsstufe 1 freigeschaltet",
+      "description": "Verringert die für den Schild von Schlag in die Saiten benötigte Trefferzahl:\n - Schild Stufe 2 – Aufdrehen: Ein getroffener Gegner.\n - Schild Stufe 3 – Abfeiern: Zwei oder mehr getroffene Gegner.",
+      "level": 1
+    },
+    {
+      "name": "\"...Now That's Rock 'N' Roll!\"",
+      "unlock": "Ab Figurenaufstiegsstufe 4 freigeschaltet",
+      "description": "Erhöht den von Figuren im Schutz eines Schilds von Schlag in die Saiten verursachten physischen Schaden um 15 %.",
+      "level": 4
+    },
+    {
+      "name": "Rezept für Rock 'n' Roll",
+      "unlock": "Automatisch freigeschaltet",
+      "description": "Stellt bei der perfekten Zubereitung eines Gerichts mit defensiver Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Tödliche Beschleunigung",
+      "unlock": "Sternbild Stufe 1",
+      "description": "Erhöht die Angriffs-GSW von Standardangriffen und heftigen Schlägen nach kritischen Treffern von Xinyan 5 s lang um 12 %.\n5 s Abklingzeit.",
+      "level": 1
+    },
+    {
+      "name": "Explosive Stimmung",
+      "unlock": "Sternbild Stufe 2",
+      "description": "Erhöht die KT von mit Refrain der Rebellion verursachtem physischen Schaden um 100 % und erstellt beim Auslösen Schild Stufe 3 – Abfeiern.",
+      "level": 2
+    },
+    {
+      "name": "Doppelgriff",
+      "unlock": "Sternbild Stufe 3",
+      "description": "Erhöht die Stufe der Fähigkeit Schlag in die Saiten um 3.\nHöchststufe 15.",
+      "level": 3
+    },
+    {
+      "name": "Ansteckender Rhythmus",
+      "unlock": "Sternbild Stufe 4",
+      "description": "Der Schwungschaden von Schlag in die Saiten verringert den physischen WDS von Gegnern 12 s lang um 15 %.",
+      "level": 4
+    },
+    {
+      "name": "Euphorisches Publikum",
+      "unlock": "Sternbild Stufe 5",
+      "description": "Erhöht die Stufe der Fähigkeit Refrain der Rebellion um 3.\nHöchststufe 15.",
+      "level": 5
+    },
+    {
+      "name": "Tanz in der Hölle",
+      "unlock": "Sternbild Stufe 6",
+      "description": "Verringert den Ausdauerverbrauch von Xinyan bei heftigen Schlägen um 30 % und erhöht bei heftigen Schlägen den ANG um 50 % VTD.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "CLAYMORE"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Lisa",
+  "vision": "Electro",
+  "weapon": "Catalizador",
+  "nation": "Mondstadt",
+  "affiliation": "Caballeros de Favonius",
+  "rarity": 4,
+  "constellation": "Tempus Fugit",
+  "birthday": "0000-06-09",
+  "description": "La perezosa pero sabia bibliotecaria de los Caballeros de Favonius. En realidad, fue considerada por la Academia de Sumeru como su graduada más sobresaliente en los últimos dos siglos.",
+  "skillTalents": [
+    {
+      "name": "Toque de relámpago",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 4 ataques relámpago que infligen Daño Electro.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para infligir Daño Electro de Área después de un corto tiempo de lanzamiento.\nAtaque descendiente:\nEl poder Electro se concentra y desciende hacia el suelo, dañando a todos los enemigos en su camino. A su vez, inflige Daño de Área Electro.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Arco violeta",
+      "unlock": "Habilidad Elemental",
+      "description": "Canaliza el poder del rayo para eliminar las cosas molestas.\nUn clic: Lanza un Orbe del rayo con destino a la Tierra. En el momento del impacto, inflige Daño Electro y acumula una pila de estado conductor (Máx. 3 pilas) a los enemigos en una área pequeña.\nMantener pulsado: Después de un largo tiempo de lanzamiento, llama a la luz de los cielos, infligiendo una gran cantidad de Daño Electro a los enemigos cercanos. Inflige grandes cantidades de daño extra a los enemigos basado en el número de pilas conductoras acumuladas sobre ellos, y elimina el efecto de Conductor.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Rayo de la rosa",
+      "unlock": "Habilidad Definitiva",
+      "description": "Invoca una Rosa devastadora que libera un inmenso poder de relámpago y golpea a los oponentes cercanos mientras inflige Daño Electro. Durante su efecto, Rosa devastadora chispea periódicamente relámpagos para atacar a los oponentes cercanos infligiendo Daño Electro.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Réplica eléctrica",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Al hacer un ATQ cargado, Arco violeta aplica Conductor sobre los enemigos.",
+      "level": 1
+    },
+    {
+      "name": "Campo de electricidad estática",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Rayo de la rosa reduce la DEF del enemigo en un 15% durante 10 s.",
+      "level": 4
+    },
+    {
+      "name": "Conocimientos farmacéuticos",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Al fabricar una Poción, hay un 20% de probabilidad de recuperar los materiales usados."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Circuito Infinito",
+      "unlock": "Constelación Nivel 1",
+      "description": "Al mantener pulsado Arco violeta, Lisa recupera 2 pts. de Energía Elemental por cada enemigo golpeado.\nSolo se puede regenerar un máximo de 10 pts. de energía de esta manera.",
+      "level": 1
+    },
+    {
+      "name": "Campo Electromagnético",
+      "unlock": "Constelación Nivel 2",
+      "description": "Al mantener pulsado, Arco violeta tiene los siguientes efectos:\nAumenta en un 25% la DEF.\nAumenta la RES a interrupción de Lisa.",
+      "level": 2
+    },
+    {
+      "name": "Trueno Resonante",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Rayo de la rosa +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Erupción de Plasma",
+      "unlock": "Constelación Nivel 4",
+      "description": "Aumenta el número de rayos lanzados por Rayo de la rosa de 1 a 3.",
+      "level": 4
+    },
+    {
+      "name": "Electrocución",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Arco violeta +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Bruja Palpitante",
+      "unlock": "Constelación Nivel 6",
+      "description": "Al cambiar a Lisa, los enemigos cercanos acumulan 3 cargas de conducción de Arco violeta.\nEste efecto puede ocurrir una vez cada 5 s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "CATALYST"
+}

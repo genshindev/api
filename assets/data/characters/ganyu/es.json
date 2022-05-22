@@ -1,0 +1,90 @@
+{
+  "name": "Ganyu",
+  "vision": "Cryo",
+  "weapon": "Arco",
+  "nation": "Liyue",
+  "affiliation": "Pabellón Yuehai",
+  "rarity": 5,
+  "constellation": "Sinae Unicornis",
+  "birthday": "0000-12-02",
+  "description": "La secretaria del Pabellón Yuehai. La sangre de las bestias iluminadas Chilin fluye por sus venas",
+  "skillTalents": [
+    {
+      "name": "Técnica de tiro Liutian",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nEjecuta hasta 6 disparos consecutivos.\nAtaque Cargado:\nEjecuta un Disparo Preciso. Mientras apunta, un aura helada se acumulará en la punta de la flecha antes de que esta sea disparada. Sus efectos serán distintos dependiendo de cuánto tiempo se ha cargado:\nCarga 1: Dispara una flecha congelada que inflige Daño Cryo.\nCarga 2: Dispara una flecha helada que inflige Daño Cryo. Al golpear a su objetivo, la flecha estallará, creando una explosión de escarcha e infligiendo Daño Cryo en el AdE.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Senda de Chilin",
+      "unlock": "Habilidad Elemental",
+      "description": "Ganyu da un salto atrás para dejar un loto de hielo, evitando toda impureza e inflingiendo Daño Cryo en el AdE.\nEl loto de hielo provoca continuamente a los enemigos que lo rodean, atrayéndolos para que lo ataquen. La resistencia del loto es proporcional a la Vida Max. de Ganyu. Explota cuando es destruido o una vez terminada su duración, infligiendo Daño Cryo en el AdE.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Diluvio celestial",
+      "unlock": "Habilidad Definitiva",
+      "description": "Fusiona nieve y escarcha en la atmósfera para invocar una perla de hielo sagrada que exorciza el mal.\nMientras dure la habilidad, la perla hará llover continuamente fragmentos de hielo que golpean a los enemigos dentro de un AdE e infligen Daño Cryo.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Corazón indiviso",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Tras lanzar una flecha helada, aumenta en un 20% la Prob.CRIT de la siguiente flecha helada y de la explosión de escarcha causada por ella durante 5 s.",
+      "level": 1
+    },
+    {
+      "name": "Armonía entre el Cielo y la Tierra",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Los personajes del equipo dentro del área de Diluvio celestial obtienen un 20% de Bono de Daño Cryo.",
+      "level": 4
+    },
+    {
+      "name": "Arco de repuesto",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Recupera el 15% de los minerales utilizados en la fabricación de arcos."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Bebedora de rocío",
+      "unlock": "Constelación Nivel 1",
+      "description": "Reduce en un 15% la RES Cryo de los enemigos golpeados por una flecha helada de Carga 2 o una explosión de escarcha durante 6 s. Además, al golpear a un enemigo, Ganyu recupera 2 pts. de Energía Elemental. Este efecto solo puede activarse una vez por cada flecha helada de carga 2, independientemente de que tanto dicha flecha helada como la explosión de escarcha golpeen al enemigo.",
+      "level": 1
+    },
+    {
+      "name": "La auspiciosa",
+      "unlock": "Constelación Nivel 2",
+      "description": "Aumenta en 1 las cargas de Senda de Chilin.",
+      "level": 2
+    },
+    {
+      "name": "Jinete de las nubes",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Diluvio celestial +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Viaje al Oeste",
+      "unlock": "Constelación Nivel 4",
+      "description": "Los enemigos une estén en el AdE de Diluvio celestial reciben daño adicional. Este efecto se fortalece con el tiempo.\nEl daño comienza con un 5% adicional, y aumenta en un 5% cada 3 s hasta un máximo de un 25%. Este efecto persiste durante 3 s después de que el enémigo se aleje del AdE de la habilidad.",
+      "level": 4
+    },
+    {
+      "name": "La misericordiosa",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Senda de Chilin +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "La clemente",
+      "unlock": "Constelación Nivel 6",
+      "description": "Utilizar Senda de Chilin hace que durante 30 s no se requiera cargar la siguiente flecha helada.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "BOW"
+}

@@ -1,0 +1,164 @@
+{
+  "name": "Yae Miko",
+  "vision": "Electro",
+  "weapon": "Catalyst",
+  "nation": "Inazuma",
+  "affiliation": "Grand Narukami Shrine",
+  "rarity": 5,
+  "constellation": "Divina Vulpes",
+  "birthday": "0000-06-27",
+  "description": "Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
+  "skillTalents": [
+    {
+      "name": "Spiritfox Sin-Eater",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nSummons forth kitsune spirits, initiating a maximum of 3 attacks that deal Electro DMG\nCharged Attack\nConsumes a certain amount of Stamina to deal AoE Electro DMG after a short casting time.\nPlunging Attack\nPlunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals AoE Electro DMG upon impact with the ground.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "39.7%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "38.5%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "56.9%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "142.9%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.8%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "114% / 142%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Yakan Evocation: Sesshou Sakura",
+      "unlock": "Elemental Skill",
+      "description": "To Yae, such dull tasks as can be accomplished by driving spirits out need not be done personally.\nMoves swiftly, leaving a Sesshou Sakura behind.\nSesshou Sakura Has the following properties:\nPeriodically strikes one nearby opponent with lightning, dealing Electro DMG.\nWhen there are other Sesshou Sakura nearby, their level will increase, boosting the DMG dealt by these lightning strikes.\nThis skill has three charges.\n A maximum of 3 Sesshou Sakura can exist simultaneously. The initial level of each Sesshou Sakura is 1, and the initial highest level each sakura can reach is 3. If a new Sesshou Sakura is created too close to an existing one, the existing one will be destroyed.",
+      "upgrades": [
+        {
+          "name": "Level 1 DMG",
+          "value": "61%"
+        },
+        {
+          "name": "Level 2 DMG",
+          "value": "76%"
+        },
+        {
+        "name": "Level 3 DMG",
+        "value": "95%"
+        },
+        {
+          "name": "Level 4 DMG",
+          "value": "119%"
+        },
+        {
+          "name": "Duration",
+          "value": "14s"
+        },
+        {
+          "name": "CD",
+          "value": "4s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Great Secret Art: Tenko Kenshin",
+      "unlock": "Elemental Burst",
+      "description": "Legends of 'kitsunetsuki,' or the manifestation of a kitsune's might, are common in Inazuma's folktales. One that particularly captures the imagination is that of the Sky Kitsune, said to cause lightning to fall down upon the foes of the Grand Narukami Shrine. Summons a lightning strike, dealing AoE Electro DMG.  When she uses this skill, Yae Miko will unseal nearby Sesshou Sakura, destroying their outer forms and transforming them into Tenko Thunderbolts that descend from the skies, dealing AoE Electro DMG. Each Sesshou Sakura destroyed in this way will create one Tenko Thunderbolt.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "260%"
+        },
+        {
+          "name": "Tenko Thunderbolt DMG",
+          "value": "334%"
+        },
+        {
+          "name": "CD",
+          "value": "22s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "90"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "The Shrine's Sacred Shade",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "When casting Great Secret Art: Tenko Kenshin, each Sesshou Sakura destroyed resets the cooldown for 1 charge of Yakan Evocation: Sesshou Sakura.",
+      "level": 1
+    },
+    {
+      "name": "Enlightened Blessing",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "Every point of Elemental Mastery Yae Miko possesses will increase Sesshou Sakura DMG by 0.15%.",
+      "level": 4
+    },
+    {
+      "name": "Meditations of a Yako",
+      "unlock": "Unlocked Automatically",
+      "description": "Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Yakan Offering",
+      "unlock": "Constellation Lv. 1",
+      "description": "Each time Great Secret Art: Tenko Kenshin activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself.",
+      "level": 1
+    },
+    {
+      "name": "Fox's Mooncall",
+      "unlock": "Constellation Lv. 2",
+      "description": "Sesshou Sakura start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%.",
+      "level": 2
+    },
+    {
+      "name": "The Seven Glamours",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Yakan Evocation: Sesshou Sakura by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Sakura Channeling",
+      "unlock": "Constellation Lv. 4",
+      "description": "When Sesshou Sakura lightning hits opponents, the Electro DMG Bonus of all nearby party members is increased by 20% for 5s.",
+      "level": 4
+    },
+    {
+      "name": "Mischevious Teasing",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Great Secret Art: Tenko Kenshin by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Forbidden Art: Daisesshou",
+      "unlock": "Constellation Lv. 6",
+      "description": "The Sesshou Sakura's attacks will ignore 60% of the opponents' DEF.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "CATALYST"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "白纓槍",
+  "type": "Polearm",
+  "rarity": 3,
+  "baseAttack": 39,
+  "subStat": "会心率",
+  "passiveName": "鋭利",
+  "passiveDesc": "通常攻撃のダメージ+24%。",
+  "location": "宝箱"
+}

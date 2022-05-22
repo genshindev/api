@@ -1,0 +1,92 @@
+{
+  "name": "Kujou Sara",
+  "title": "Kaburaya de plume de corvidé",
+  "vision": "Electro",
+  "weapon": "Arc",
+  "gender": "Femme",
+  "nation": "Inazuma",
+  "affiliation": "Commission administrative",
+  "rarity": 4,
+  "constellation": "Flabellum",
+  "birthday": "0000-07-14",
+  "description": "Une générale de la Commission administrative. Audacieuse, décisive et habile au combat.",
+  "skillTalents": [
+    {
+      "name": "Archerie tengu",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 tirs consécutifs.\nAttaque chargée\nEffectue un tir visé plus précis infligeant davantage de DGT.\nLors de la visée, des éclairs crépitants s'accumulent sur le carreau de la flèche. Une flèche complètement chargée inflige des DGT Électro.\nSous l'effet de la Protection corvidée, une flèche complètement chargée laisse une plume de corbeau à l'emplacement atteint.\nAttaque plongeante\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Tempestrier tengu",
+      "unlock": "Compétence élémentaire",
+      "description": "Recule à la vitesse d'un Tengu et invoque la protection des corbeaux.\nBénéficie de la Protection corvidée pendant 18 s, un effet qui est consommé lorsque Sara tire une flèche complètement chargée et laisse une plume de corbeau à l'emplacement atteint par la flèche.\nLa plume de corbeau déclenche Tengu Juurai : Embuscade après un court moment, infligeant des DGT Électro aux ennemis proches, et accordant au personnage déployé à portée un bonus d'ATQ en fonction de l'ATQ de base de Sara.\nLes bonus d'ATQ des différents Tengu Juurai ne se cumulent pas, et leur effet et durée sont déterminés par le dernier Tengu Juurai actif.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Soumission : Chemin de lumière",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Dépose un Tengu Juurai : Brise-titan à l'emplacement de l'ennemi, infligeant des DGT Électro de zone. Puis ce Tengu Juurai : Brise-titan se divise en 4 Tengu Juurai : Tempête de pierres consécutifs, infligeant des DGT Électro de zone.\nTengu Juurai : Brise-titan et Tengu Juurai : Tempête de pierres permettent au personnage déployé à portée de recevoir le même bonus d'ATQ que lors de la compétence élémentaire, Tempestrier tengu.\nLes bonus d'ATQ des différents Tengu Juurai ne se cumulent pas, et leur effet et durée sont déterminés par le dernier Tengu Juurai actif.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Arpentage des terres",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Inazuma."
+    },
+    {
+      "name": "Volonté immuable",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Sous l'effet de la Protection corvidée de Tempestrier tengu, la durée de charge du tir visé est réduite de 60 %.",
+      "level": 1
+    },
+    {
+      "name": "Décorum",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Lorsque Tengu Juurai : Embuscade touche un ennemi, Sara restaure 1,2 pts d'énergie élémentaire à tous les personnages de l'équipe tous les 100 % de recharge d'énergie dont elle dispose. Cet effet peut être déclenché une fois toutes les 3 s.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Œil de corbeau",
+      "unlock": "Constellation Niv. 1",
+      "description": "Lorsque Tengu Juurai accorde aux personnages des bonus d'ATQ ou touche des ennemis, le TdR de Tempestrier tengu est réduit de 1 s.\nCet effet peut être déclenché une fois toutes les 3 s.",
+      "level": 1
+    },
+    {
+      "name": "Ailes sombres",
+      "unlock": "Constellation Niv. 2",
+      "description": "Lorsque Sara libère Tempestrier tengu, elle laisse une plume de corbeau plus faible à son emplacement d'origine, cette dernière infligeant 30 % des DGT d'origine.",
+      "level": 2
+    },
+    {
+      "name": "Conflit intérieur",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Soumission : Chemin de lumière +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Preuve concluante",
+      "unlock": "Constellation Niv. 4",
+      "description": "Le nombre de Tengu Juurai : Tempête de pierres déclenchés par Soumission : Chemin de lumière passe à 6.",
+      "level": 4
+    },
+    {
+      "name": "Anathémien",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Tempestrier tengu +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Péché d'orgueil",
+      "unlock": "Constellation Niv. 6",
+      "description": "Les personnages bénéficiant d'une augmentation d'ATQ accordée par Tengu Juurai voient les DGT CRIT de leurs DGT Électro augmenter de 60 %.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "BOW"
+}

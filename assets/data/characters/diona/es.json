@@ -1,0 +1,90 @@
+{
+  "name": "Diona",
+  "vision": "Cryo",
+  "weapon": "Arco",
+  "nation": "Mondstadt",
+  "affiliation": "Taberna Cola de Gato",
+  "rarity": 4,
+  "constellation": "Feles",
+  "birthday": "0000-01-18",
+  "description": "Una joven cuya sangre no es humana por completo. Es la popular cantinera de la Taberna Cola de Gato.",
+  "skillTalents": [
+    {
+      "name": "Puntería de cazador",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 5 disparos consecutivos con arco.\nAtaque Cargado:\nDispara un Disparo Preciso que inflige mayor daño. Al apuntar, crea una escarcha que acumula Frío en la punta de la flecha, infligiendo Daño Cryo al liberarlo.\nAtaque descendiente:\nDispara una lluvia de flechas desde el aire y desciende rápidamente, causando daño a distancia al impactar en el suelo.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Zarpazo helado",
+      "unlock": "Habilidad Elemental",
+      "description": "Dispara unas garras heladas, infligiendo Daño Cryo a los enemigos y creando un escudo es proporcional a la Vida Máx. De Diona, y su duración depende del número de garras que golpeen a su objetivo.\nPresionar una vez Dispara 2 veloces garras heladas.\nMantener presionado Retrocede rápidamente y dispara 5 garras heladas. Además, genera un escudo que gana un 75% de bono de absorción de Daño.\nEste escudo tiene un 250% de bono de absorción de Daño Cryo sobre el personaje actual.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Cóctel Asesino",
+      "unlock": "Habilidad Definitiva",
+      "description": "Lanza un cóctel helado especial que inflige Daño Cryo en el adE y crea una Bruma embriagadora en un área.\nBruma embriagadora\nInflige Daño Cryo continuo a los enemigos que están en el área.\nLa Vida de los personajes que están en el área se regenera continuamente.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Menú secreto de Cola de Gato",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Aumenta en un 10% la Vel. Movimiento y reduce en un 10% el Coste de Aguante de los personajes bajo la protección del escudo creado por Zarpazo Helado.",
+      "level": 1
+    },
+    {
+      "name": "Diversión de los borrachos",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Disminuye en un 10% el ATQ infligido por los enemigos que entran en el área de Cóctel asesino durante 15 s.",
+      "level": 4
+    },
+    {
+      "name": "Refrigerio gratis",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Cuando se logra un \"Perfecto\" en un plato con efectos reconstituyentes, hay un 12% de posibilidades de obtener el doble de cantidad del producto."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Cóctel de la casa",
+      "unlock": "Constelación Nivel 1",
+      "description": "Cuando termina el efecto de Cóctel asesino, Diona recupera 15 pts. de Energía Elemental.",
+      "level": 1
+    },
+    {
+      "name": "Ronroneo Glacial",
+      "unlock": "Constelación Nivel 2",
+      "description": "Aumenta en un 15% el daño de Zarpazo helado y en un 15% la absorción de daño del escudo.\nAdemás, al golpear a un enemigo, crea para el resto de personajes cercanos un escudo que absorbe hasta un 50% del daño de Zarpazo helado durante 5 s.",
+      "level": 2
+    },
+    {
+      "name": "¿O-otra copa más?",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Cóctel asesino +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Asesina de la industria del vino",
+      "unlock": "Constelación Nivel 4",
+      "description": "Dentro del área de Cóctel asesino, el tiempo de carga de Disparo Preciso de Diona se reduce en un 60%.",
+      "level": 4
+    },
+    {
+      "name": "¡Doble de hielo!",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Zarpazo helado +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Hora de cerrar",
+      "unlock": "Constelación Nivel 6",
+      "description": "Los personajes que estén dentro del área de Cóctel asesino obtienen uno de los siguientes efectos dependiendo de su Vida:\nSi su Vida es igual o inferior al 50%, aumenta su Bono de Curación recibida en un 30%.\nSi su vida es superior al 50%, aumenta la Maestría Elemental en 200 pts.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "BOW"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "匣中龍吟",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "攻撃力",
+  "passiveName": "炎と雷の破滅",
+  "passiveDesc": "炎元素または雷元素の影響を受けた敵に対するダメージ+20%。",
+  "location": "祈願"
+}

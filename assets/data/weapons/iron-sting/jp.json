@@ -1,0 +1,10 @@
+{
+  "name": "鉄蜂の刺し",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "元素熟知",
+  "passiveName": "注入の棘",
+  "passiveDesc": "元素ダメージを与えた後の6秒間、キャラクターの与えるダメージ+6%、最大2重まで。1秒毎に1回のみ発動可能。",
+  "location": "鍛造"
+}

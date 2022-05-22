@@ -1,0 +1,172 @@
+{
+  "name": "Venti",
+  "vision": "Anemo",
+  "weapon": "Arco",
+  "nation": "Mondstadt",
+  "affiliation": "Mondstadt",
+  "rarity": 5,
+  "constellation": "Carmen Dei",
+  "birthday": "0000-06-16",
+  "description": "Uno de los muchos bardos de Mondstadt que deambula libremente por las calles y callejones de la ciudad",
+  "skillTalents": [
+    {
+      "name": "Puntería divina",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 6 disparos consecutivos con arco.\nAtaque Cargado:\nDispara un Tiro preciso que inflige mayor daño. Al apuntar, se acumularán vientos favorables en la punta de flecha. Una flecha con fuerza del viento totalmente cargada infligirá Daño Anemo.\nAtaque descendiente:\nDispara una lluvia de flechas desde el aire y desciende rápidamente, causando daño a distancia al impactar en el suelo.",
+      "upgrades": [
+        {
+          "name": "Daño de 1er golpe",
+          "value": "20.4% + 20.4%"
+        },
+        {
+          "name": "Daño de 2º golpe",
+          "value": "44.4%"
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "value": "52.4%"
+        },
+        {
+          "name": "Daño de 4º golpe",
+          "value": "26.1% + 26.1%"
+        },
+        {
+          "name": "Daño de 5º golpe",
+          "value": "50.7%"
+        },
+        {
+          "name": "Daño de 6º golpe",
+          "value": "71%"
+        },
+        {
+          "name": "Disparo preciso",
+          "value": "43.9%"
+        },
+        {
+          "name": "Disparo preciso (carga completa)",
+          "value": "124%"
+        },
+        {
+          "name": "Daño de Caída",
+          "value": "56.8%"
+        },
+        {
+          "name": "Daño de impacto de caida baja / alta",
+          "value": "114% / 142%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Sonata celestial",
+      "unlock": "Habilidad Elemental",
+      "description": "¡Oh viento sobre el que vuelan todos los himnos y cantos, lleva a estos caminantes de la tierra hacia los cielos!\nPulsar una vez Invoca un campo de viento en la ubicación del enemigo, infligiendo Daño Anemo de Área y lanzando a los enemigos por el aire.\nMantener pulsado Invoca un campo de viento aún más grande con Venti como epicentro, infligiendo Daño Anemo de Área y lanzando a los enemigos afectados al aire. Después de soltar esta habilidad, Venti cabalga el viento en el aire.",
+      "upgrades": [
+        {
+          "name": "Daño al pulsar una vez",
+          "value": "276%"
+        },
+        {
+          "name": "TdE al pulsar una vez",
+          "value": "6s"
+        },
+        {
+          "name": "Daño de mantener pulsado",
+          "value": "380%"
+        },
+        {
+          "name": "TdE de mantener pulsado",
+          "value": "15s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Gran Oda del Viento",
+      "unlock": "Habilidad Elemental",
+      "description": "Dispara una flecha hecha de innumerables vientos fusionados, creando un enorme Ojo de la Tormenta que absorbe objetos y enemigos a su paso e inflige Daño Anemo.\nCambio elemental Si el Ojo de la tormenta entra en contacto con Hydro/Pyro/Cryo/Electro, inflige Daño elemental adicional de ese tipo. El cambio elemental solo puede ocurrir una vez por uso.",
+      "upgrades": [
+        {
+          "name": "Daño continuo",
+          "value": "47%"
+        },
+        {
+          "name": "Daño Elemental adicional",
+          "value": "23.5%"
+        },
+        {
+          "name": "Duracion",
+          "value": "8s"
+        },
+        {
+          "name": "TdE",
+          "value": "15s"
+        },
+        {
+          "name": "Energía Elemental",
+          "value": "60"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Abraza los vientos",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Mantener pulsado la Sonata celestial genera corrientes de viento ascendentes con una duración de 20 s.",
+      "level": 1
+    },
+    {
+      "name": "Ojo del huracán",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Después de que termine el efecto de Gran Oda del Viento, Venti restaurará 15 puntos de Energía Elemental.\nSi ocurre un cambio elemental, también restaurará 15 pts. de Energía Elemental a todos los personajes con los elementos correspondientes.",
+      "level": 4
+    },
+    {
+      "name": "Jinete del viento",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Disminuye el consumo de Aguante al planear en un 20%."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Vendaval feroz",
+      "unlock": "Constelación Nivel 1",
+      "description": "Dispara 2 flechas adicionales por cada Tiro preciso, infligiendo cada uno 33% del Daño de la flecha original.",
+      "level": 1
+    },
+    {
+      "name": "Brisa de reminiscencia",
+      "unlock": "Constelación Nivel 2",
+      "description": "Sonata celestial reduce la RES Anemo del enemigo en un 12% durante 10 s. Los enemigos lanzados al aire por Sonata celestial sufren una reducción adicional del 12% de RES Anemo y de RES física.",
+      "level": 2
+    },
+    {
+      "name": "Oda a los Mil Vientos",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Gran Oda del Viento +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Huracán de la libertad",
+      "unlock": "Constelación Nivel 4",
+      "description": "Venti obtiene un 25% de Bono de Daño Anemo durante 10 s tras recoger un Orbe Elemental o una Partícula Elemental.",
+      "level": 4
+    },
+    {
+      "name": "Concierto celestial",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Sonata celestial +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Tormenta de desafío",
+      "unlock": "Constelación Nivel 6",
+      "description": "Gran Oda del Viento reduce la RES Anemo del enemigo en un 20%. Si ocurriera un cambio elemental durante Gran Oda del Viento, la RES Elemental del nuevo atributo se reducirá un 20%.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ANEMO",
+  "weapon_type": "BOW"
+}

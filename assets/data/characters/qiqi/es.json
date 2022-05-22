@@ -1,0 +1,90 @@
+{
+  "name": "Qiqi",
+  "vision": "Cryo",
+  "weapon": "Espada Ligera",
+  "nation": "Liyue",
+  "affiliation": "Farmacia Bubu",
+  "rarity": 5,
+  "constellation": "Pristina Nola",
+  "birthday": "0000-03-03",
+  "description": "Una aprendiz y recolectora de hierbas en la Farmacia Bubu. Una zombi con una tez blanca como el hueso, de pocas palabras y emociones.",
+  "skillTalents": [
+    {
+      "name": "Técnica de espada antigua",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 5 ataques rápidos.\nAtaque Cargado:\nConsume cierta cantidad de Aguante para lanzarse al frente, infligiendo daño a los enemigos en el camino.\nAtaque descendiente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Magia Adeptus: Heraldo de la escarcha",
+      "unlock": "Habilidad Elemental",
+      "description": "Usando el Talismán de sangre helada, Qiqi invoca al Heraldo de la escarcha, infligiendo Daño Cryo a todos los enemigos cercanos.\n\nHeraldo de la escarcha:\nCuando Qiqi golpea a un objetivo con sus Ataques Normales o Cargados, regenera Vida para todos los miembros del equipo y todos los personajes aliados cercanos. La cantidad de Vida regenerada dependerá del ATQ de Qiqi.\nRegenera una cierta cantidad de Vida del personaje actual a intervalos regulares.\nSigue al personaje actual para infligir Daño Cryo a todos los enemigos que se encuentre a su paso.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Magia Adeptus: Preservadora de la fortuna",
+      "unlock": "Habilidad Definitiva",
+      "description": "Qiqi libera el poder Adeptus sellado dentro de su cuerpo, marcando a los enemigos cercanos con un Talismán de conservación de la fortuna que inflige Daño Cryo.\nTalismán de conservación de la fortuna: Cuando los enemigos marcados con el Talismán reciben Daño, el personaje que infligió el daño regenera Vida.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Elixir de vida",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Cuando un personaje bajo el efecto de Arte de Adeptus: Heraldo de la escarcha activa una Reacción Elemental, aumenta su Bono de Curación recibida en un 20% durante 8 s.",
+      "level": 1
+    },
+    {
+      "name": "Un vistazo al arcano",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Cuando Qiqi golpea a enemigos con Ataque Normal o Ataque Cargado, tiene un 50% de posibilidad de ponerles un Talismán de conservación de la fortuna durante 6 s. Este efecto solo puede activarse una vez cada 30 s.",
+      "level": 4
+    },
+    {
+      "name": "Recuerdos de una vida pasada",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Muestra la ubicación de las especialidades de Liyue cercanas en el Mini-mapa."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Ascetismo de la escarcha",
+      "unlock": "Constelación Nivel 1",
+      "description": "Qiqi regenera 2 pts. de Energía Elemental cuando el Heraldo de la escarcha golpea a un enemigo marcado por un talismán de conservación de la fortuna.",
+      "level": 1
+    },
+    {
+      "name": "Frío Polar",
+      "unlock": "Constelación Nivel 2",
+      "description": "El daño del Ataque Normal y Cargado de Qiqi aumenta en un 15% contra enemigos afectados por Cryo.",
+      "level": 2
+    },
+    {
+      "name": "Mandato celestial",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Magia Adeptus: Preservadora de la fortuna +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Supresión Divina",
+      "unlock": "Constelación Nivel 4",
+      "description": "Reduce en un 20% el ATQ de los objetivos marcados por el talismán de conservación de la fortuna.",
+      "level": 4
+    },
+    {
+      "name": "Flor de Loto Carmesí",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Magia Adeptus: Heraldo de la escarcha +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Rito de la resurrección",
+      "unlock": "Constelación Nivel 6",
+      "description": "Al lanzar la habilidad Magia Adeptus: Preservadora de la fortuna, revive a todos los miembros del equipo cercanos que han sido derrotados y regenera un 50% de su Vida.\nSolo puede ocurrir una vez cada 15 min.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "SWORD"
+}

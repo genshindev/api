@@ -1,0 +1,10 @@
+{
+  "name": "リカーブボウ",
+  "type": "Bow",
+  "rarity": 3,
+  "baseAttack": 38,
+  "subStat": "HP",
+  "passiveName": "刈り取る",
+  "passiveDesc": "敵を倒したとき、HPを8%回復する。",
+  "location": "宝箱"
+}

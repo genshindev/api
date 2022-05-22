@@ -6,7 +6,7 @@
       "name": "Melt",
       "elements": ["Pyro"],
       "description": "When Cryo meets Pyro, Melt occurs. The effects of Cryo and Pyro will dissipate when Melt occurs.\nMelt itself does not inflict DMG. However, the Pyro or Cryo attack that triggers Melt deals increased DMG."
-    }, 
+    },
     {
       "name": "Frozen",
       "elements": ["Hydro"],

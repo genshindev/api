@@ -1,0 +1,92 @@
+{
+  "name": "Rosalia",
+  "title": "Rogue bienfaisance",
+  "vision": "Cryo",
+  "weapon": "Lance",
+  "gender": "Femme",
+  "nation": "Mondstadt",
+  "affiliation": "Église de Favonius",
+  "rarity": 4,
+  "constellation": "Spinea Corona",
+  "birthday": "0000-01-24",
+  "description": "Une religieuse qui n'en a que l'apparence. Ses paroles sont acérées et son comportement, froid. Elle agit toujours seule.",
+  "skillTalents": [
+    {
+      "name": "Lance expiatoire",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 coups de lance.\nAttaque chargée\nConsomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Confession des péchés",
+      "unlock": "Compétence élémentaire",
+      "description": "Rosalia se déplace rapidement derrière sa cible qu'elle transperce et tranche de sa lance, infligeant des DGT Cryo.\nCe mouvement ne fonctionne pas avec les ennemis trop grands.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Sacrement mortel",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Rosalia officie pour une prière pas comme les autres. Après avoir exécuté une attaque circulaire balayant les ennemis à proximité, Rosalia invoque une lance de glace qui frappe le sol. Les deux actions infligent des DGT Cryo.\nTant que la lance de glace est active, elle émet de façon intermittente des ondes de froid, qui infligent des DGT Cryo aux ennemis à proximité.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Balade nocturne",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "Augmente la VIT de déplacement des personnages de votre équipe pendant la nuit (18 h 00 - 06 h 00) de 10 %.\nCet effet ne s'applique ni dans les donjons, ni dans les Donjons de la conquête, ni dans les Profondeurs spiralées, et ne peut être cumulé avec d'autres aptitudes passives aux effets identiques."
+    },
+    {
+      "name": "Confession forcée",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Le taux CRIT de Rosalia augmente de 12 % pendant 5 s lorsqu'elle frappe un ennemi de dos avec Confession des péchés.",
+      "level": 1
+    },
+    {
+      "name": "Samaritain de l'ombre",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Exécuter Sacrement mortel confère à tous les personnages de l'équipe proches (hormis Rosalia) un bonus de taux CRIT équivalant à 15 % du taux CRIT de Rosalia pendant 10 s.\nLe bonus de taux CRIT ainsi obtenu ne peut pas excéder 15 %.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Guide du pécheur",
+      "unlock": "Constellation Niv. 1",
+      "description": "Lorsque les attaques de Rosalia infligent un coup CRIT, sa VIT d'attaque et les DGT des attaques normales augmentent de 10 % pendant 4 s.",
+      "level": 1
+    },
+    {
+      "name": "Terre sacrée",
+      "unlock": "Constellation Niv. 2",
+      "description": "Prolonge la durée de la lance de glace de Sacrement mortel de 4 s.",
+      "level": 2
+    },
+    {
+      "name": "Rite de confession",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Confession des péchés +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Souffrance bénie",
+      "unlock": "Constellation Niv. 4",
+      "description": "Rosalia récupère 5 pts d'énergie élémentaire lorsque Confession des péchés inflige un coup CRIT.\nCet effet ne peut être déclenché qu'une fois par Confession des péchés.",
+      "level": 4
+    },
+    {
+      "name": "Prière agonisante",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Sacrement mortel +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Châtiment divin",
+      "unlock": "Constellation Niv. 6",
+      "description": "Les attaques de Sacrement mortel réduisent la RÉS physique des ennemis de 20 % pendant 10 s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "POLEARM"
+}

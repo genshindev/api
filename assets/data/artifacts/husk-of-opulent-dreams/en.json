@@ -1,0 +1,6 @@
+{
+  "name": "Husk of Opulent Dreams",
+  "max_rarity": 5,
+  "2-piece_bonus": "DEF +30%",
+  "4-piece_bonus": "A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost."
+}

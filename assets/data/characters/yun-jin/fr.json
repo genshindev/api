@@ -1,0 +1,92 @@
+{
+  "name": "Yun Jin",
+  "title": "Nova de scène",
+  "vision": "Geo",
+  "weapon": "Lance",
+  "gender": "Femme",
+  "nation": "Liyue",
+  "affiliation": "Troupe d'opéra Yun-Han",
+  "rarity": 4,
+  "constellation": "Opera Grandis",
+  "birthday": "0000-05-21",
+  "description": "Une talentueuse chanteuse d'opéra et une dramaturge très célèbre à Liyue. Son style unique, doux et élégant, lui ressemble beaucoup.",
+  "skillTalents": [
+    {
+      "name": "Caresse des nuages",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 5 coups de lance.\nAttaque chargée\nConsomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Épanouissement ouvert",
+      "unlock": "Compétence élémentaire",
+      "description": "Bien que maître Yun ne fasse que jouer la comédie lors de ses combats sur scène, ses talents avec une lance sont bien réels.\nAppui simple\nBrandit sa lance pour caresser les nuages, infligeant des DGT Géo.\nAppui long\nAdopte la posture de l'épanouissement ouvert pour se charger, formant ainsi un bouclier. L'absorption de DGT du bouclier est fonction des PV max de Yun Jin, et il est efficace à 150 % contre les DGT élémentaires et physiques. Le bouclier dure jusqu'à ce qu'elle finisse de libérer sa compétence élémentaire.\nLorsque vous relâchez la compétence, que la durée prend fin ou que le bouclier est détruit, Yun Jin libère l'énergie stockée sous forme d'attaque, infligeant des DGT Géo.\nEn fonction du temps passé à charger, une attaque de 1e ou 2e charge sera déclenchée.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Bannière de rupture des falaises",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Inflige des DGT Géo de zone et accorde une formation de bannière de nuagerie à tous les personnages de l'équipe à proximité.\nFormation de bannière de nuagerie\nLorsque le personnage inflige des DGT d'attaque normale à un ennemi, les DGT infligés augmentent en fonction de la DÉF actuelle de Yun Jin.\nLes effets de la formation de bannière de nuagerie disparaissent à la fin de sa durée ou après avoir activé un certain nombre de cumuls.\nLorsqu'une attaque normale touche plusieurs ennemis en même temps, les cumuls sont consommés selon le nombre d'ennemis touchés. Les cumuls de formation de bannière de nuagerie sont calculés indépendamment pour tous les personnages de l'équipe.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Nutrition optimisée",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat parfait qui a des effets sur l'exploration."
+    },
+    {
+      "name": "Fidèle à soi-même",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Lorsque Yun Jin utilise Épanouissement ouvert au moment exact où elle est attaquée, elle déclenche sa 2e charge.",
+      "level": 1
+    },
+    {
+      "name": "Rejet des conventions",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Lorsque l'équipe comprend des personnages de 1/2/3/4 types élémentaires, le bonus de DGT d'attaque normale accordé par une formation de bannière de nuagerie augmente davantage d'une valeur équivalant à 2,5 %/5 %/7,5 %/11,5 % de la DÉF de Yun Jin.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Galop vaudevillesque",
+      "unlock": "Constellation Niv. 1",
+      "description": "Réduit le TdR d'Épanouissement ouvert de 18 %.",
+      "level": 1
+    },
+    {
+      "name": "Myriade d'accessoires",
+      "unlock": "Constellation Niv. 2",
+      "description": "Après avoir utilisé Bannière de rupture des falaises, les DGT des attaques normales de tous les personnages de l'équipe à proximité augmentent de 15 % pendant 12 s.",
+      "level": 2
+    },
+    {
+      "name": "Drapeau maritime",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Bannière de rupture des falaises +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Le tranchant d'une fleur",
+      "unlock": "Constellation Niv. 4",
+      "description": "Lorsque Yun Jin déclenche une réaction de Cristallisation, sa DÉF augmente de 20 % pendant 12 s.",
+      "level": 4
+    },
+    {
+      "name": "Célébrité à travers les terres",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Épanouissement ouvert +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Harmonie esthétique",
+      "unlock": "Constellation Niv. 6",
+      "description": "Lorsqu'un personnage est affecté par une formation de bannière de nuagerie, la VIT d'attaque de ses attaques normales augmente de 12 %.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "POLEARM"
+}

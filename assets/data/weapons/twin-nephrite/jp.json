@@ -1,0 +1,10 @@
+{
+  "name": "特級の宝玉",
+  "type": "Catalyst",
+  "rarity": 3,
+  "baseAttack": 40,
+  "subStat": "会心率",
+  "passiveName": "襲撃戦術",
+  "passiveDesc": "敵を倒した後15秒間、移動速度と攻撃力+12%。",
+  "location": "宝箱等"
+}

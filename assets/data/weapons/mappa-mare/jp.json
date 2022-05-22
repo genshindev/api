@@ -1,0 +1,10 @@
+{
+  "name": "万国諸海の図譜",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "元素熟知",
+  "passiveName": "注入の巻",
+  "passiveDesc": "元素反応を起こした後、元素ダメージ+8%、継続時間10秒、最大2重まで。",
+  "location": "鍛造"
+}

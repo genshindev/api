@@ -1,0 +1,90 @@
+{
+  "name": "Ninguang",
+  "vision": "Geo",
+  "weapon": "Catalizador",
+  "nation": "Liyue",
+  "affiliation": "Siete Estrellas de Liyue",
+  "rarity": 4,
+  "constellation": "Opus Aequilibrium",
+  "birthday": "0000-08-26",
+  "description": "Ninguang, conocida como el \"Equilibrio Celestial\", es miembro de las \"Siete Estrellas de Liyue\". Su riqueza es insuperable en todo Teyvat.",
+  "skillTalents": [
+    {
+      "name": "Lanzamiento centelleante",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nDispara gemas que infligen Daño Geo. Al golpear, eso le otorga a Ninguang un jade estelar.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para disparar una gema gigante que inflige Daño Geo. Si Ninguang tiene algún jade estelar, lanzar un Ataque Cargado también disparará el jade estelar contra el enemigo, causando Daño adicional.\nAtaque descendiente:\nAl acumular poder Geo, Ninguang se lanza hacia el suelo desde el aire, dañando a todos los enemigos en su camino. Inflige Daño Geo en el AdE en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Pantalla de jade",
+      "unlock": "Habilidad Elemental",
+      "description": "Ninguang crea una Pantalla de jade de oro y obsidiana de gran opulencia, infligiendo Daño Geo en el AdE.\nPantalla de jade\nBloquea los proyectiles enemigos.\nLa duración de la pantalla es proporcional a la Vida Máx de Ninguang.\nLa Pantalla de jade se considera una creación Geo y puede ser usada para bloquear ciertos ataques, pero no se puede escalar. Solo puede existir una Pantalla de jade a la vez.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Devastaestrellas",
+      "unlock": "Habilidad Definitiva",
+      "description": "Ninguang reúne piedras preciosas a su alrededor y las destruye a la vez, repartiéndolas entre todos los enemigos cercanos e infligiendo Daño Geo masivo.\nSi Devastaestrellas se lanza cuando una Pantalla de jade está cerca, la Pantalla de jade disparará proyectiles de gemas adicionales al mismo tiempo.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Plan B",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Cuando está en posesión de jades estelares, el Ataque Cargado de Ninguang no consume Aguante.",
+      "level": 1
+    },
+    {
+      "name": "Reserva estratégica",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Los personajes que pasen a través de la Pantalla de jade obtienen un 12% de Bono de Daño Geo por 10 s.",
+      "level": 4
+    },
+    {
+      "name": "Registro de tesoros maravillosos",
+      "unlock": "Unlocked Automatically",
+      "description": "Muestra la ubicación de los minerales cercanos en el Mini-mapa (hierro, hierro blanco, cristal, cristal mágico y argento estelar)."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Fragmentos perforadores",
+      "unlock": "Constelación Nivel 1",
+      "description": "Los Ataques Normales infligen daño de área.",
+      "level": 1
+    },
+    {
+      "name": "Efecto choque",
+      "unlock": "Constelación Nivel 2",
+      "description": "Al desintegrarse la Pantalla de jade, se elimina el TdE. Solo puede ocurrir una vez cada 6 segundos.",
+      "level": 2
+    },
+    {
+      "name": "Su Majestad, el Equilibrio Celestial",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Devastaestrellas +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Excelente sea el jade, que eclipsa todo a sus pies",
+      "unlock": "Constelación Nivel 4",
+      "description": "Pantalla de jade aumenta la RES elemental de los personajes cercanos en un 10%.",
+      "level": 4
+    },
+    {
+      "name": "Invencible sea la pantalla de jade",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Pantalla de jade +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Grandiosas sean las Siete Estrellas",
+      "unlock": "Constelación Nivel 6",
+      "description": "Al lanzar Devastaestrellas, Ninguang obtiene 7 jades estelares.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "CATALYST"
+}

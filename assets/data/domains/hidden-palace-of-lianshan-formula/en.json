@@ -1,1 +1,756 @@
-{}
+{
+    "name": "Hidden Palace of Lianshan Formula",
+    "type": "Forgery",
+    "description": "The operation of the Lianshan Formula created endless thunderstorms within the bowels of the mountain. It is said that the rumbling sounds of thunder that one hears outside the domain's gates call out to curious souls.",
+    "location": "Mingyun Village, Qiongji Estuary, Liyue",
+    "nation": "Liyue",
+    "requirements": [
+      {
+        "level": 1,
+        "adventureRank": 16,
+        "recommendedLevel": 15,
+        "leyLineDisorder": [
+          "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed."
+        ]
+      },
+      {
+        "level": 2,
+        "adventureRank": 21,
+        "recommendedLevel": 36,
+        "leyLineDisorder": [
+          "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed."
+        ]
+      },
+      {
+        "level": 3,
+        "adventureRank": 30,
+        "recommendedLevel": 59,
+        "leyLineDisorder": [
+          "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed.",
+          "Lightning bolts will periodically fall from above, dealing Electro DMG and completely draining the hit character's Energy. Lightning bolts may leave balls of lightning."
+        ]
+      },
+      {
+        "level": 4,
+        "adventureRank": 40,
+        "recommendedLevel": 80,
+        "leyLineDisorder": [
+            "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed.",
+            "Lightning bolts will periodically fall from above, dealing Electro DMG and completely draining the hit character's Energy. Lightning bolts may leave balls of lightning."
+        ]
+      }
+    ],
+    "recommendedElements": ["Cryo", "Pyro"],
+    "rewards": [
+      {
+        "day": "mon",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "Luminous Sands from Guyun",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "Luminous Sands from Guyun",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Lustrous Stone from Guyun",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "Luminous Sands from Guyun",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Lustrous Stone from Guyun",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "Relic from Guyun",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "Luminous Sands from Guyun",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Lustrous Stone from Guyun",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "Relic from Guyun",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Divine Body from Guyun",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "tue",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "Mist Veiled Lead Elixir",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "Mist Veiled Lead Elixir",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Mercury Elixir",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "Mist Veiled Lead Elixir",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Mercury Elixir",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Gold Elixir",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "Mist Veiled Lead Elixir",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Mercury Elixir",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "Mist Veiled Gold Elixir",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Primo Elixir",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "wed",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "Grain of Aerosiderite",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "Grain of Aerosiderite",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Piece of Aerosiderite",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "Grain of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Piece of Aerosiderite",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "Bit of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "Grain of Aerosiderite",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Piece of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "Bit of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Chunk of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "thu",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "Luminous Sands from Guyun",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "Luminous Sands from Guyun",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Lustrous Stone from Guyun",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "Luminous Sands from Guyun",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Lustrous Stone from Guyun",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "Relic from Guyun",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "Luminous Sands from Guyun",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Lustrous Stone from Guyun",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "Relic from Guyun",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Divine Body from Guyun",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "fri",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "Mist Veiled Lead Elixir",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "Mist Veiled Lead Elixir",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Mercury Elixir",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "Mist Veiled Lead Elixir",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Mercury Elixir",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Gold Elixir",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "Mist Veiled Lead Elixir",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Mercury Elixir",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "Mist Veiled Gold Elixir",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Primo Elixir",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "sat",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "Grain of Aerosiderite",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "Grain of Aerosiderite",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Piece of Aerosiderite",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "Grain of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Piece of Aerosiderite",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "Bit of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "Grain of Aerosiderite",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Piece of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "Bit of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Chunk of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "sun",
+        "details": [
+          {
+            "level": 1,
+            "adventureExperience": 100,
+            "companionshipExperience": 10,
+            "mora": 1125,
+            "drops": [
+              {
+                "name": "Luminous Sands from Guyun",
+                "drop_min": 4,
+                "drop_max": 6
+              },
+              {
+                "name": "Mist Veiled Lead Elixir",
+                "drop_min": 4,
+                "drop_max": 6
+              },
+              {
+                "name": "Grain of Aerosiderite",
+                "drop_min": 4,
+                "drop_max": 6
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1550,
+            "drops": [
+              {
+                "name": "Luminous Sands from Guyun",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Lustrous Stone from Guyun",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Lead Elixir",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Mercury Elixir",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "Grain of Aerosiderite",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Piece of Aerosiderite",
+                "drop_min": 1,
+                "drop_max": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "adventureExperience": 100,
+            "companionshipExperience": 15,
+            "mora": 1850,
+            "drops": [
+              {
+                "name": "Luminous Sands from Guyun",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Lustrous Stone from Guyun",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "Relic from Guyun",
+                "drop_min": 0,
+                "drop_max": 2
+              },
+              {
+                "name": "Mist Veiled Lead Elixir",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Mercury Elixir",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Gold Elixir",
+                "drop_min": 0,
+                "drop_max": 2
+              },
+              {
+                "name": "Grain of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Piece of Aerosiderite",
+                "drop_min": 1,
+                "drop_max": 3
+              },
+              {
+                "name": "Bit of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 2
+              }
+            ]
+          },
+          {
+            "level": 4,
+            "adventureExperience": 100,
+            "companionshipExperience": 20,
+            "mora": 2200,
+            "items": [
+              {
+                "name": "Luminous Sands from Guyun",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Lustrous Stone from Guyun",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "Relic from Guyun",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Divine Body from Guyun",
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Mist Veiled Lead Elixir",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Mercury Elixir",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "Mist Veiled Gold Elixir",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Mist Veiled Primo Elixir",
+                "drop_min": 0,
+                "drop_max": 1
+              },
+              {
+                "name": "Grain of Aerosiderite",
+                "drop_min": 2,
+                "drop_max": 3
+              },
+              {
+                "name": "Piece of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 4
+              },
+              {
+                "name": "Bit of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 3
+              },
+              {
+                "name": "Chunk of Aerosiderite",
+                "drop_min": 0,
+                "drop_max": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

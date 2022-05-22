@@ -1,0 +1,95 @@
+{
+  "name": "Mona",
+  "vision": "Hydro",
+  "weapon": "Catalizador",
+  "nation": "Monstadt",
+  "affiliation": "Monstadt",
+  "rarity": 5,
+  "constellation": "Astrolabos",
+  "birthday": "0000-08-31",
+  "description": "Una misteriosa y joven astróloga que se hace llamar \"Astróloga Mona Megistus\". Está convencida de que posee las habilidades para estar a la altura del título. Erudita y orgullosa.",
+  "skillTalents": [
+    {
+      "name": "Destino revelado",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 4 salpicaduras de agua que infligen Daño Hydro.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para inflgir Daño Hydro en el AdE después de un corto tiempo de lanzamiento.\nAtaque Descendiente:\nConcentra el poder Hydro y desciende hacia el suelo, dañando a todos los enemigos cercanos e infligiendo Daño Hydro en el AdE en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Espejismo del agua",
+      "unlock": "Habilidad Elemental",
+      "description": "Invoca unos chorrosde agua para crear una ilusión del destino. La Ilusión tiene las siguientes características:\nProvoca a los enemigos cercanos, atrayendo la atención de sus ataques.\nInflige intermitentemete Daño Hydro a los enemigos cercanos.\n\nAl terminar su efecto, la ilusión explota e inflige Daño Hydro en el AdE.\n\nMantener pulsado: Utiliza una corriente de agua para impulsarse hacia atrás rápidamente y conjurar una Ilusión.\nSolo puede existir una Ilusión creada por Espejismo del agua a la vez.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Torrente ilusorio",
+      "unlock": "Esprintar alternativo",
+      "description": "Reemplaza a Esprintar:\nMona se oculta bajo un flujo de agua, consumiendo su Aguante para moverse rápidamente. Cuando está bajo el efecto del Torrente ilusorio, Mona puede moverse a gran velocidad sobre el agua. Al reaparecer, aplica el estado Mojado sobre los enemigos cercanos."
+    },
+    {
+      "name": "Órbita divina",
+      "unlock": "Habilidad Definitiva",
+      "description": "Mona invoca unas olas cristalinas para crear un reflejo del cielo estrellado, aplicando el estado de burbuja ilusoria sobre los enemigos en una gran AdE.\nBurbuja ilusoria: Invoca una burbuja estrellada que envuelve a sus enemigos, aplicando el efecto de Mojado sobre ellos. La burbuja inmoviliza a los enemigos más débiles, los cuales, no podrán moverse. Cuando un enemigo que está bajo los efectos de la burbuja ilusoria recibe daño, se producen los siguientes efectos:\nColoca un presagio sobre el enemigo, lo que otorga un bono de daño y también aumenta el daño del ataque que los causa.\nElimina la burbuja ilusoria infligiendo Daño Hydro adicional.\n\nPresagio: Mientras dura la habilidad, aumenta el daño que reciben los enemigos.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "¡Atrápame si puedes!",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Tras haber usado Torrente ilusorio durante 2 s, si hay algún enemigo cerca, Mona creará automáticamente un fantasma. Un fantasma creado de esta manera durará 2 s, y su daño de explosión será igual al 50% del daño de Espejismo del agua.",
+      "level": 1
+    },
+    {
+      "name": "¡Que el destino decida!",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Mona obtiene un Bono de Daño Hydro de Mona adicional equivalente al 20% de su Recarga de Energía.",
+      "level": 4
+    },
+    {
+      "name": "Principio de astrología",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Al fabricar materiales de ascensión de arma, hay una probabilidad del 25% de recuperar los materiales usados."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Profecía de sumersión",
+      "unlock": "Constelación Nivel 1",
+      "description": "Cuando un personaje de tu equipo ataca a un enemigo afectado por un presagio, los efectos de las Reacciones Elementales con Hydro se potencian durante 8 s:\nAumenta en un 15% el daño de Electrocargado, Vaporización y Torbellino Hydro.\nAumenta en un 15% la duración de Congelado en enemigos.",
+      "level": 1
+    },
+    {
+      "name": "Cadena lunar",
+      "unlock": "Constelación Nivel 2",
+      "description": "Al golpear con un Ataque Normal, hay un 20% de probabilidad de que vaya seguido automáticamente por un Ataque Cargado.\nEste efecto solo puede ocurrir una vez cada 5 s.",
+      "level": 2
+    },
+    {
+      "name": "Revolución incesante",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Órbita divina +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Profecía del fin",
+      "unlock": "Constelación Nivel 4",
+      "description": "Cuando cualquier miembro del equipo ataca a un enemigo afectado por un presagio, la Prob. CRIT de ese personaje aumenta en un 15%.",
+      "level": 4
+    },
+    {
+      "name": "Burla del destino",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Espejismo del agua +3.\nPuede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Retórica de la calamidad",
+      "unlock": "Constelación Nivel 6",
+      "description": "Al entrar en Torrente ilusorio, Mona obtiene un aumento del 60% de daño en su próximo Ataque Cargado por cada segundo que se mueve.\nEl máximo bono de daño que se puede alcanzar es del 180%. Este efecto solo puede durar un máximo de 8 s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "HYDRO",
+  "weapon_type": "CATALYST"
+}

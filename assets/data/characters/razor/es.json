@@ -1,0 +1,90 @@
+{
+  "name": "Razor",
+  "vision": "Electro",
+  "weapon": "Mandoble",
+  "nation": "Mondstadt",
+  "affiliation": "Reino de Lobos",
+  "rarity": 4,
+  "constellation": "Lupus Minor",
+  "birthday": "0000-09-09",
+  "description": "Un niño que vive entre los lobos en el Reino de Lobos de Mondstadt, lejos de la civilización. Es ágil como un relámpago.",
+  "skillTalents": [
+    {
+      "name": "Colmillo de acero",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 4 tajos rápidos.\nAtaque Cargado:\nSigue consumiendo Aguante para realizar golpes de espada giratorios contra los enemigos cercanos. Al final del Ataque Cargado, realizará un golpe de espada más poderoso.\nAtaque descendiente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Garra y trueno",
+      "unlock": "Habilidad Elemental",
+      "description": "Caza su presa usando las técnicas que le enseñó su maestro y su Lupical.\nPulsar una vez Mueve la Garra del lobo del trueno, infligiendo Daño Electro a los enemigos frente a Razor. Al golpear a un enemigo, Razor ganará una Insignia Electro, que aumentará su Recarga de Energía. Razor puede tener hasta 3 Insignias Electro simultáneamente. Ganar una nueva Insignia Electro refrescará su duración.\nMantener pulsado Reúne energía eléctrica para desatar una tormenta de rayos sobre una pequeña área, infligiendo una gran cantidad de Daño Electro, y elimina todas las Insignias Electro de Razor. Cada Insignia Electro eliminada de esta manera se convertirá en Energía Elemental de Razor.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Colmillo de relámpago",
+      "unlock": "Habilidad Elemental",
+      "description": "Invoca al Lobo interior, infligiendo Daño Electro a todos los oponentes cercanos. Esto elimina todas las Insignias Electro de Razor, que se convertirán en energía elemental.\nEl Lobo interior luchará junto a Razor mientras dure la habilidad.\n\nLobo interior\nGolpea junto con los Ataques Normales de Razor, infligiendo Daño Electro.\nAumenta la Vel. ATQ de Razor y su RES Electro.\nHace que Razor sea inmune al Daño infligido por el estado Electrocargado.\nDesactiva los ataques cargados de Razor.\nAumenta la RES a interrupción de Razor.\n\nEstos efectos terminan cuando Razor abandona el campo de batalla. Al hacerlo, obtendrá de vuelta 10 pts. de Energía de acuerdo con la duración restante de la habilidad.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Despertar",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Reduce el TdE en Garra y trueno un 18%.\nAl lanzar Colmillo de relámpago reiniciará automáticamente el TdE de Garra y trueno.",
+      "level": 1
+    },
+    {
+      "name": "Hambre",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Cuando la Energía Elemental de Razor es inferior al 50%, la Recarga de Energía aumenta un 30%.",
+      "level": 4
+    },
+    {
+      "name": "Velocidad de lobo",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Disminuye el consumo de Aguante de todos los miembros del equipo al esprintar en un 20%."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Naturaleza del Lobo",
+      "unlock": "Constelación Nivel 1",
+      "description": "Recoger un orbe o partícula elemental aumenta el Daño de Razor en un 10% durante 8 s.",
+      "level": 1
+    },
+    {
+      "name": "Supresión",
+      "unlock": "Constelación Nivel 2",
+      "description": "La Prob. CRIT de Razor aumenta en un 10% contra enemigos con menos del 30% de Vida.",
+      "level": 2
+    },
+    {
+      "name": "Compañía del Alma",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Colmillo relámpago +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Mordisco",
+      "unlock": "Constelación Nivel 4",
+      "description": "Al pulsar una vez Garra y trueno, reduce la DEF de los enemigos golpeados en un 15% durante 7 s.",
+      "level": 4
+    },
+    {
+      "name": "Garras afiladas",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Garra y trueno +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Lupus Fulguris",
+      "unlock": "Constelación Nivel 6",
+      "description": "La espada de Razor se carga de electricidad cada 10 s, lo que hace que su próximo Ataque Normal libere un rayo que inflige un 100% del ATQ como Daño Electro.\nCuando no está bajo los efectos de Colmillo relámpago, cada rayo añade 1 insignia Electro a Garra y trueno.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "CLAYMORE"
+}

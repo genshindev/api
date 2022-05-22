@@ -1,0 +1,92 @@
+{
+  "name": "Noelle",
+  "title": "Fleur chevaleresque",
+  "vision": "Geo",
+  "weapon": "Claymore",
+  "gender": "Femme",
+  "nation": "Mondstadt",
+  "affiliation": "Ordre de Favonius",
+  "rarity": 4,
+  "constellation": "Parma Cordis",
+  "birthday": "0000-03-21",
+  "description": "Une jeune fille travaillant comme servante à l'Ordre de Favonius. Elle a toujours rêvé de devenir un jour chevalier.",
+  "skillTalents": [
+    {
+      "name": "Escrime de Favonius - Servante",
+      "unlock": "Attaque normale",
+      "description": "Attaque normale\nEnchaîne jusqu'à 4 coups d'épée.\nAttaque chargée\nExécute une succession d'attaques tournoyantes contre les ennemis proches ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\nAttaque plongeante\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Armure de cœur",
+      "unlock": "Compétence élémentaire",
+      "description": "Invoque une armure de roche qui inflige des DGT Géo aux ennemis proches et génère un bouclier absorbant une quantité de DGT proportionnelle à la DÉF de Noëlle.\nL'armure de roche a les propriétés suivantes :\n- Les attaques normales et chargées de Noëlle ont une chance de restaurer les PV de tous les personnages de l'équipe lorsqu'elles touchent un ennemi.\n- L'armure est efficace à 150 % contre les DGT élémentaires et physiques.\nLes soins reçus sont proportionnels à la DÉF de Noëlle.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Grand ménage",
+      "unlock": "Déchaînement élémentaire",
+      "description": "Concentrant le pouvoir de la roche sur son arme, Noëlle exécute une puissante attaque circulaire qui inflige des DGT Géo aux ennemis proches.\nNoëlle bénéficie ensuite des effets suivants :\n- Portée d'attaque augmentée.\n- DGT d'attaque convertis en DGT Géo ne pouvant pas être enchantés.\n- Bonus d'ATQ proportionnel à la DÉF de Noëlle.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "À votre service",
+      "unlock": "Déverrouillé automatiquement",
+      "description": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat parfait qui renforce la DÉF."
+    },
+    {
+      "name": "Dévotion ultime",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 1",
+      "description": "Lorsque Noëlle fait partie de l'équipe et n'est pas déployée, l'effet suivant se déclenche automatiquement si les PV du personnage déployé sont inférieurs à 30 % :\nConfère un bouclier au personnage déployé pouvant absorber des DGT équivalant à 400 % de la DÉF de Noëlle pendant 20 s.\n- Le bouclier est efficace à 150 % contre les DGT élémentaires et les DGT physiques.\n- Le bouclier peut être déclenché une fois toutes les 60 s.",
+      "level": 1
+    },
+    {
+      "name": "Clair et net",
+      "unlock": "Débloqué lorsque le personnage atteint la phase d'élévation 4",
+      "description": "Noëlle réduit le TdR d'Armure de cœur de 1 s tous les 4 coups d'attaque normale ou chargée qu'elle inflige à un ennemi.\nUn coup peut être compté toutes les 0,1 s.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "J'assure vos arrières",
+      "unlock": "Constellation Niv. 1",
+      "description": "L'effet de restauration des PV d'Armure de cœur a 100 % de chances d'être déclenché lorsque Grand ménage et Armure de cœur sont actifs en même temps.",
+      "level": 1
+    },
+    {
+      "name": "Servante de tourbillon",
+      "unlock": "Constellation Niv. 2",
+      "description": "Les attaques chargées de Noëlle consomment 20 % d'endurance en moins et infligent 15 % de DGT supplémentaires.",
+      "level": 2
+    },
+    {
+      "name": "La servante ne sera jamais blessée",
+      "unlock": "Constellation Niv. 3",
+      "description": "Niveau d'aptitude Armure de cœur +3.\nNiveau max : 15",
+      "level": 3
+    },
+    {
+      "name": "Je vais nettoyer après",
+      "unlock": "Constellation Niv. 4",
+      "description": "Armure de cœur inflige une quantité de DGT Géo équivalant à 400 % de l'ATQ aux ennemis proches lorsqu'elle prend fin ou que l'armure est détruite.",
+      "level": 4
+    },
+    {
+      "name": "Maîtresse de ménage",
+      "unlock": "Constellation Niv. 5",
+      "description": "Niveau d'aptitude Grand ménage +3.\nNiveau max : 15",
+      "level": 5
+    },
+    {
+      "name": "Aucune poussière",
+      "unlock": "Constellation Niv. 6",
+      "description": "Grand ménage fait bénéficier Noëlle d'un bonus supplémentaire d'ATQ à hauteur de 50 % de sa DÉF.\nDe plus, chaque ennemi vaincu pendant que la compétence est active prolonge sa durée de 1 s (10 s max).",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "CLAYMORE"
+}

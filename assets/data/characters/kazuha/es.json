@@ -1,0 +1,90 @@
+{
+  "name": "Kaedehare Kazuha",
+  "vision": "Anemo",
+  "weapon": "Espada Ligera",
+  "nation": "Inazuma",
+  "affiliation": "Flota Crux Meridianam",
+  "rarity": 5,
+  "constellation": "Acer Palmatum",
+  "birthday": "0000-10-29",
+  "description": "un samurái errante de Inazuma que actualmente se hospeda en la Flota Crux Meridianam de Liyue. El corazón de este amable y libre joven encierra sus muchas cargas del pasado.",
+  "skillTalents": [
+    {
+      "name": "Técnica de espada Garyu",
+      "unlock": "Ataque Normal",
+      "description": "Ataque normal:\nRealiza hasta 5 ataques rápidos.\nAtaque Cargado:\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\nAtaque Descendente:\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto. Si el Ataque Descendente se activa debido a Vehemencia estremecedora, se convertirá en Ataque Descendente: Contención del caos.\nAtaque Descendente: Contención del caos:\nAl utilizar la Habilidad Elemental, Vehemencia estremecedora, para realizar un Ataque Descendente, el daño que inflige el Ataque Descendente se convertirá en Daño Anemo y, al aterrizar, creará un pequeño túnel de viento que atrae a los objetos y enemigos cercanos.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Vehemencia estremecedora",
+      "unlock": "Habilidad Elemental",
+      "description": "Usa una técnica secreta para crear un fuerte vendaval que atrae a los enemigos y los objetos hacia la ubicación actual de Kaedehara Kazuha, los lanza por los aires y les inflige Daño Anemo.\nAdemás, Kaedehara Kazuha alzará el vuelo gracias a la corriente de aire generada mediante esta habilidad.\nEn los 10 s siguientes de alzar el vuelo tras usar Vehemencia estremecedora, y también al permanecer en el aire gracias al efecto de esta habilidad, si Kaedehara Kazuha realiza un Ataque Descendente, este se convertirá en un poderoso Ataque Descendente: Contención del caos.\nPulsar una vez: Puede ejecutarse estando en el aire.\nMantener pulsado: Reúne fuerzas para realizar la habilidad, la cual infligirá más Daño Anemo y en una AdE más grande que la de pulsar una vez.\nAtaque Descendente Contención del caos: Al realizar un Ataque Descendente mediante la Habilidad Elemental, Vehemencia estremecedora, el daño que inflige el Ataque Descendente se convertirá en Daño Anemo y, al aterrizar, creará un pequeño túnel de viento que atrae a los objetos y enemigos cercanos. El daño de Contención del caos se considera daño de Ataque Descendente.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Filo de las diez mil hojas",
+      "unlock": "Habilidad Definitiva",
+      "description": "Ejecuta la técnica Garyu definitiva para realizar un corte de tormenta que inflige Daño Anemo en el AdE.\nEl viento generado por la espada creará un área llamada \"viento del otoño\", que infligirá regularmente Daño Anemo a los enemigos dentro de ella.\nCambio elemental: Si viento del otoño entra en contacto con Hydro/Pyro/Cryo/Electro mientras dure, infligirá un bono de Daño Elemental adicional de ese tipo.\nEl cambio elemental solo puede ocurrir una vez durante la habilidad.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Espada de la erosión",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Si al usar Vehemencia estremecedora, esta entra en contacto con Hydro/Pyro/Cryo/Electro, el siguiente Ataque Descendente: Contención del caos realizado gracias a Vehemencia estremecedora experimentará un cambio elemental e infligirá adicionalmente un 200% de daño del elemento al que cambió. Este daño se considera daño de Ataque Descendente. El cambio elemental solo puede ocurrir una vez por cada efecto de Vehemencia estremecedora.",
+      "level": 1
+    },
+    {
+      "name": "Haiku de la brisa",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Cuando Kaedehara Kazuha provoca una reacción de Torbellino, otorga durante 8 s a todos los miembros del equipo un 0 004% de Bono de Daño Elemental del elemento correspondiente por cada punto de Maestría Elemental que él tenga.\nPuede haber al mismo tiempo distintos Bonos de Daño Elemental obtenidos de esta manera.",
+      "level": 4
+    },
+    {
+      "name": "Viento arrebol",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Disminuye en un 20% el Coste de Aguante al esprintar de todos los miembros de tu equipo. No se puede acumular con otros talentos pasivos que tengan los mismos efectos."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Rubor de las montañas",
+      "unlock": "Constelación Nivel 1",
+      "description": "Reduce en un 10% el TdE de Vehemencia estremecedora.\nAdemás, el TdE de esta habilidad se reiniciará al usar Filo de las diez mil hojas.",
+      "level": 1
+    },
+    {
+      "name": "Viento en las colinas",
+      "unlock": "Constelación Nivel 2",
+      "description": "Dentro del área de viento del otoño creada mediante Filo de las diez mil hojas ocurren los siguientes efectos:\nMientras dure el área, la Maestría Elemental de Kaedehara Kazuha aumenta 200 pts.\nLa Maestría Elemental de los personajes dentro del área de viento del otoño aumenta 200 pts.\n\nLos efectos de incremento de Maestría Elemental que propociona esta constelación no son acumulables.",
+      "level": 2
+    },
+    {
+      "name": "Leyenda de los arces",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Vehemencia estremecedora +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Ilusión de la nada",
+      "unlock": "Constelación Nivel 4",
+      "description": "Cuando la Energía Elemental de kaedehara Kaedehara Kazuha está por debajo de 45 pts., obtiene los siguiente efectos:\nAl pulsar una vez Vehemencia estremecedora, recupera 3 pts. de energía. Al mantener pulsado, recupera 4 pts.\nMientras vuela, Kaedehara Kazuha recupera 2 pts. de Energía Elemental por segundo.",
+      "level": 4
+    },
+    {
+      "name": "Sabiduría eterna",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Filo de las diez mil hojas +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Hojas escarlata",
+      "unlock": "Constelación Nivel 6",
+      "description": "Tras utilizar Vehemencia estremecedora o Filo de las diez mil hojas, Kaedehara Kazuha se imbuye del elemento Anemo durante 5s. Además, el daño que inflige con sus Ataques Normales, Cargados y Descendentes aumenta en un 0.2% por cada punto de Maestría Elemental que tenga.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ANEMO",
+  "weapon_type": "SWORD"
+}

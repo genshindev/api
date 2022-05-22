@@ -1,0 +1,90 @@
+{
+  "name": "Fischl",
+  "vision": "Electro",
+  "weapon": "Arco",
+  "nation": "Mondstadt",
+  "affiliation": "Gremio de Aventureros",
+  "rarity": 4,
+  "constellation": "Corvus",
+  "birthday": "0000-05-27",
+  "description": "Una chica misteriosa que se hace llamar \"Princesa del Juicio\". Siempre camina junto con un cuervo oscuro llamado Oz",
+  "skillTalents": [
+    {
+      "name": "Flechas del juicio",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal:\nRealiza hasta 5 disparos consecutivos con arco.\nAtaque Cargado:\nRealiza un Tiro Preciso más preciso con daño aumentado. Al apuntar, los espíritus oscuros del Reino de la Noche Eterna atenderán al llamado de su Princesa y se acumularán en la punta de flecha encantada. Cuando esté completamente habitado, el Relámpago del juicio inflige una cantidad considerable de Daño Electro.\nAtaque descendiente:\nDispara una lluvia de flechas al aire antes de caer y golpear el suelo, infligiendo Daño de Área en el momento del impacto.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Vigía de la noche",
+      "unlock": "Habilidad Elemental",
+      "description": "Invoca a Oz. El cuervo nocturno compuesto de oscuridad y truenos desciende sobre la tierra, infligiendo Daño Electro en una pequeña AdE. Mientras dure la habilidad, Oz atacará continuamente a los enemigos cercanos con Balas Electro.\nMantén presionado para ajustar la ubicación en la que se invocará a Oz. Pulsa de nuevo cuando Oz esté presente para invocarlo al lado de Fischl.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Ilusión nocturna",
+      "unlock": "Habilidad Elemental",
+      "description": "Invoca a Oz para extender sus alas del crepúsculo y proteger a Fischl. Durante la habilidad, tiene las siguiente propiedades:\nFischl adquiere la forma de Oz, lo que aumenta considerablemente su Velocidad de Movimiento.\nInflige Daño Electro a los enemigos cercanos.\n\nCada enemigo puede ser golpeado solo una vez. Una vez que finalice la habilidad, Oz permanecerá en el campo de batalla atacando a los enemigos de la Princesa. Si Oz ya está en el campo de batalla, reiniciará su duración.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Cuervo devoraestrellas",
+      "unlock": "Desbloqueado en la Ascención 1",
+      "description": "Cuando Fischl golpea a Oz con una carga completa de Tiro preciso, Oz lanza una Retribución del trueno a los enemigos cercanos, causando Daño Electro de Área igual al 152.7% del daño de la flecha.",
+      "level": 1
+    },
+    {
+      "name": "Juicio de los pecadores",
+      "unlock": "Desbloqueado en la Ascención 4",
+      "description": "Si un personaje desencadena una Reacción Elemental relacionada con Electro cuando Oz está en combate, el enemigo será golpeado con Retribución del trueno, infligiendo Daño Electro igual al 80% del ATQ de Fischl.",
+      "level": 4
+    },
+    {
+      "name": "Mi jardín secreto",
+      "unlock": "Desbloqueado automáticamente",
+      "description": "Reduce en un 25% el tiempo necesario para completar una expedición en Mondstadt."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Ojo de cuervo penetrante",
+      "unlock": "Constelación Nivel 1",
+      "description": "Cuando Oz no está en el campo de batalla, seguirá vigilando a Fischl a través de su ojo de cuervo. Cuando Fischl ataca a un enemigo con Ataque Normal, Oz atacará simultáneamente con su ojo e infligirá un 22% de daño.",
+      "level": 1
+    },
+    {
+      "name": "Devoradora de pecados",
+      "unlock": "Constelación Nivel 2",
+      "description": "Vigía de la noche inflige un 200% de daño adicional, y su AdE aumenta en un 50%.",
+      "level": 2
+    },
+    {
+      "name": "Alas sombrías",
+      "unlock": "Constelación Nivel 3",
+      "description": "Aumenta el nivel de habilidad de Vigía de la noche +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 3
+    },
+    {
+      "name": "Fantasía de la reina",
+      "unlock": "Constelación Nivel 4",
+      "description": "Al lanzar Ilusión nocturna, inflige un 222% de daño de ATQ como Daño Electro a los enemigos cercanos.\nCuando termina la duración de la habilidad, Fischl recupera el 20% de su Vida.",
+      "level": 4
+    },
+    {
+      "name": "Noche silenciosa",
+      "unlock": "Constelación Nivel 5",
+      "description": "Aumenta el nivel de habilidad de Ilusión nocturna +3. Puede ser aumentado hasta Niv. 15.",
+      "level": 5
+    },
+    {
+      "name": "Ave de la noche eterna",
+      "unlock": "Constelación Nivel 6",
+      "description": "Aumenta la duración de la invocación de Oz en 2 s. Mientras Oz esté presente, atacará junto a tu personaje en uso, e infligirá un 30% del ATQ de Fischl como Daño Electro.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ELECTRO",
+  "weapon_type": "BOW"
+}

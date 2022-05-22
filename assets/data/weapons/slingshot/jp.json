@@ -1,0 +1,10 @@
+{
+  "name": "弾弓",
+  "type": "Bow",
+  "rarity": 3,
+  "baseAttack": 38,
+  "subStat": "会心率",
+  "passiveName": "弾弓",
+  "passiveDesc": "通常攻撃または重撃の矢が発射した後、0.3秒以内に敵に命中した場合、与えるダメージ+36%。0.3秒以上の場合、与えるダメージ-10%。",
+  "location": "祈願"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Artista Marcial",
+  "max_rarity": 4,
+  "2-piece_bonus": "Daño del Ataque Normal y Ataque Cargado +15%",
+  "4-piece_bonus": "Tras usar la Habilidad Elemental, aumenta el daño de Ataque Normal y Ataque Cargado en un 25% durante 8 s."
+}
