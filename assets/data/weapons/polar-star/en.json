@@ -1,0 +1,12 @@
+{
+    "name": "Polar Star",
+    "type": "Bow",
+    "rarity": 5,
+    "baseAttack": 46,
+    "subStat": "CRIT Rate",
+    "passiveName": "Daylight's Augury",
+    "passiveDesc": "Elemental Skill and Elemental Burst DMG increased by 12/15/18/21/24%. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by (10/12.5/15/17.5/20)/(20/25/30/35/40)/(30/37.5/45/52.5/60)/(48/60/72/84/96)%. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others.",
+    "location": "Gacha",
+    "ascensionMaterial": "mask"
+  }
+  

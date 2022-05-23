@@ -6,5 +6,6 @@
   "subStat": "Elemental Mastery",
   "passiveName": "Infusion Stinger",
   "passiveDesc": "Dealing Elemental DMG increases all DMG by 6% for 6s. Max 2 stacks. Can only occur once every 1s.",
-  "location": "Crafting"
+  "location": "Crafting",
+  "ascensionMaterial": "aerosiderite"
 }

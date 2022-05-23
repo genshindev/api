@@ -5,6 +5,7 @@
   "baseAttack": 46,
   "subStat": "CRIT DMG",
   "passiveName": "Rule By Thunder",
-  "passiveDesc": "Increases ATK by 20/25/30/35/40% and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by 12/24/40% // 15/30/50% // 18/36/60% // 21/42/70% // 24/48/80%. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
-  "location": "Gacha"
+  "passiveDesc": "Increases ATK by 20% and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by 12/24/40%. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
+  "location": "Gacha",
+  "ascensionMaterial": "narukami"
 }
