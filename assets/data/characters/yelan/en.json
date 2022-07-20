@@ -127,13 +127,13 @@
       {
         "name": "Adapt With Ease",
         "unlock": "Unlocked at Ascension 4",
-        "description": "Increases Mona's Hydro DMG Bonus by a degree equivalent to 20% of her Energy Recharge rate.",
+        "description": "So long as an \"Exquisite Throw,\" is in play, your own active character deals 1% more DMG. This increases by a further 3.5% DMG every second. The maximum increase to DMG dealt is 50% \nThe pre-existing effect will be dispelled if Depth-Clarion Dice is recast during its duration.",
         "level": 4
       },
       {
-        "name": "Principium of Astrology",
+        "name": "Necessary Calculation",
         "unlock": "Unlocked Automatically",
-        "description": "When Mona crafts Weapon Ascension Materials, she has a 25% chance to refund a portion of the crafting materials used."
+        "description": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours."
       }
     ],
     "constellations": [
