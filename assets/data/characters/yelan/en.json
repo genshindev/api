@@ -100,21 +100,6 @@
           }
         ],
         "type": "ELEMENTAL_BURST"
-      },
-      {
-        "name": "Illusory Torrent",
-        "unlock": "Right Click",
-        "description": "Alternate Spirit\nMona cloaks herself within the water's flow, consuming Stamina to move rapidly.\n\nWhen under the effect of Illusory Torrent, Mona can move at high speed on water.\n\nApplies the Wet status to nearby enemies when she reappears.\n",
-        "upgrades": [
-          {
-            "name": "Activation Stamina Consumption",
-            "value": "10"
-          },
-          {
-            "name": "Stamina Drain",
-            "value": "15/s"
-          }
-        ]
       }
     ],
     "passiveTalents": [
@@ -138,43 +123,43 @@
     ],
     "constellations": [
       {
-        "name": "Prophecy of Submersion",
+        "name": "Enter the Plotters",
         "unlock": "Constellation Lv. 1",
-        "description": "The effects of Hydro-related Elemental Reactions are enhanced for 8s after a character hits an enemy affected by an Omen:\nElectro-Charged DMG is increased by 15%.\nVaporize DMG is increased by 15%.\nHydro Swirl DMG is increased by 15%.\nThe duration for which enemies are Frozen is increased by 15%.",
+        "description": "Lingering Lifeline gains 1 additional charge.",
         "level": 1
       },
       {
-        "name": "Lunar Chain",
+        "name": "Taking All Comers",
         "unlock": "Constellation Lv. 2",
-        "description": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\nThis effect can only occur once every 5s.",
+        "description": "When Exquisite Throw conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG. This effect can trigger once every 1.8s.",
         "level": 2
       },
       {
-        "name": "Restless Revolution",
+        "name": "Beware of Trickster's Dice",
         "unlock": "Constellation Lv. 3",
-        "description": "Increases the Level of Stellaris Phantasm by 3.\nMaximum upgrade level is 15.",
+        "description": "Increases the level of Depth-Clarion-Dice by 3. Maximum upgrade level is 15.",
         "level": 3
       },
       {
-        "name": "Prophecy of Oblivion",
+        "name": "Bait-and-Switch",
         "unlock": "Constellation Lv. 4",
-        "description": "When a character attacks an enemy affected by the Omen status effect, their CRIT Rate is increased by 15%.",
+        "description": "Increases all party members' Max HP by 10% for 25s for every opponent marked by Lifeline when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner.",
         "level": 4
       },
       {
-        "name": "Mockery of Fortuna",
+        "name": "Dealer's Sleight",
         "unlock": "Constellation Lv. 5",
-        "description": "Increase the Level of Mirror Reflection of Doom by 3.\nMaximum upgrade level is 15.",
+        "description": "Increases the Level of Lingering Lifeline by 3. Maximum upgrade level is 15.",
         "level": 5
       },
       {
-        "name": "Rhetorics of Calamitas",
+        "name": "Winner Takes All",
         "unlock": "Constellation Lv. 6",
-        "description": "Upon entering Illusory Torrent, Mona gain a 60% increase to the DMG her next Charged Attack per second of movement.\nA maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.",
+        "description": "After using Depth-Clarion Dice, Yelan will enter will enter the Mastermind state. In this state, all of Yelan's Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb's DMG.\n The mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.",
         "level": 6
       }
     ],
     "vision_key": "HYDRO",
-    "weapon_type": "CATALYST"
+    "weapon_type": "BOW"
   }
   
