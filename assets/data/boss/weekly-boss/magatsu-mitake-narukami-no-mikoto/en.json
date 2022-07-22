@@ -1,0 +1,43 @@
+{
+    "name": "Magatsu Mitake Narukami No Mikoto",
+    "description": "This is the form that the puppet that inherited the Raiden Shogun's authority takes when she is opposing those who threaten Eternity\nAs the Raiden Shogun's assistant in pursuing Eternity.\nshe has never doubted, never felt fear, never given anything less than her best,never been disturbed by idle thoughts.\nShe once heard about-how Ei had shouldered a similar duty when Makoto was also present, suffering much agonizing loss in the-process.When the two shadows overlapped once more, however, she could only see the countless fine fractures in what should have been \"her\" eternal will. Since fate is destined for cyclicality, she must fulfill her promise and declare war on \"her\".\nMine is the most supreme and noble form. Power over the realm has been vested within me, and I am the essence of all that is the \n \"Raiden Shogun.\"\n \"Naturally, I have also inherited the pain of Ei's countless losses and her will to attain Eternity.\" \n \"Resolve, valor, love, hate... They will all twist in the river of time, \n \"But the 'rules' will never change.\".",
+    "drops": [
+        {
+            "name": "Mudra of the Malefic General",
+            "rarity": 5,
+            "source": "Lv. 70+ Guardian of Eternity Challenge Reward"
+        },
+        {
+            "name": "Tears of the Calamitous God",
+            "rarity": 5,
+            "source": "Lv. 70+ Guardian of Eternity Challenge Reward"
+        },
+        {
+            "name": "The Meaning of Aeons",
+            "rarity": 5,
+            "source": "Lv. 70+ Guardian of Eternity Challenge Reward"
+        }
+    ],
+    "artifacts": [
+        {
+            "name": "Berserker",
+            "max_rarity": 4
+        },
+        {
+            "name": "Instructor",
+            "max_rarity": 4
+        },
+        {
+            "name": "The Exile",
+            "max_rarity": 4
+        },
+        {
+            "name": "Gladiator's Finale",
+            "max_rarity": 5
+        },
+        {
+            "name": "Wanderer's Troupe",
+            "max_rarity": 5
+        }
+    ]
+}
