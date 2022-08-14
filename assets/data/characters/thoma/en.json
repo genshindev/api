@@ -16,14 +16,15 @@
             "upgrades": [
                 {
                     "name": "1-Hit DMG",
-                    "value": "44.4%"},
+                    "value": "44.4%"
+                },
                 {
                     "name": "2-Hit DMG",
                     "value": "43.6%"
                 },
                 {
                     "name": "3-Hit DMG",
-                    "value": "26.8%×2"
+                    "value": "26.8%\u00d72"
                 },
                 {
                     "name": "4-Hit DMG",
@@ -66,7 +67,8 @@
                     "value": "8s"
                 },
                 {
-                    "name": "CD", "value": "15s"
+                    "name": "CD",
+                    "value": "15s"
                 }
             ],
             "type": "ELEMENTAL_SKILL"
@@ -166,5 +168,70 @@
         }
     ],
     "vision_key": "PYRO",
-    "weapon_type": "POLEARM"
+    "weapon_type": "POLEARM",
+    "materials_to_max": [
+        {
+            "ascension_materials": [
+                {
+                    "level": "20",
+                    "mora": "20,000",
+                    "Agnidus Agate Sliver": "1",
+                    "Treasure Hoarder Insignia": "3",
+                    "Fluorescent Fungus": "3"
+                },
+                {
+                    "level": "40",
+                    "mora": "40,000",
+                    "Agnidus Agate Fragment": "3",
+                    "Treasure Hoarder Insignia": "15",
+                    "Fluorescent Fungus": "10",
+                    "Smoldering Pearl": "2"
+                },
+                {
+                    "level": "50",
+                    "mora": "60,000",
+                    "Agnidus Agate Fragment": "6",
+                    "Silver Raven Insignia": "12",
+                    "Fluorescent Fungus": "20",
+                    "Smoldering Pearl": "4"
+                },
+                {
+                    "level": "60",
+                    "mora": "80,000",
+                    "Agnidus Agate Chunk": "3",
+                    "Silver Raven Insignia": "18",
+                    "Fluorescent Fungus": "30",
+                    "Smoldering Pearl": "8"
+                },
+                {
+                    "level": "70",
+                    "mora": "100,000",
+                    "Agnidus Agate Chunk": "6",
+                    "Golden Raven Insignia": "12",
+                    "Fluorescent Fungus": "45",
+                    "Smoldering Pearl": "12"
+                },
+                {
+                    "level": "80",
+                    "mora": "120,000",
+                    "Agnidus Agate Gemstone": "6",
+                    "Golden Raven Insignia": "24",
+                    "Fluorescent Fungus": "60",
+                    "Smoldering Pearl": "20"
+                }
+            ]
+        },
+        {
+            "talent_materials": {
+                "Teachings of Transience": "9",
+                "Guide to Transience": "63",
+                "Philosophies of Transience": "114",
+                "Treasure Hoarder Insignia": "18",
+                "Silver Raven Insignia": "66",
+                "Golden Raven Insignia": "93",
+                "Hellfire Butterfly": "18",
+                "Crown of Insight": "3"
+            }
+        }
+    ]
 }

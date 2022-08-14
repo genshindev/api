@@ -1,192 +1,257 @@
 {
-  "name": "Razor",
-  "vision": "Electro",
-  "weapon": "Claymore",
-  "nation": "Mondstadt",
-  "affiliation": "Wolvendom",
-  "rarity": 4,
-  "constellation": "Lupus Minor",
-  "birthday": "0000-09-09",
-  "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
-  "skillTalents": [
-    {
-      "name": "Steel Fang",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous swirling attacks against all nearby enemies.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Razor",
+    "vision": "Electro",
+    "weapon": "Claymore",
+    "nation": "Mondstadt",
+    "affiliation": "Wolvendom",
+    "rarity": 4,
+    "constellation": "Lupus Minor",
+    "birthday": "0000-09-09",
+    "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "95.9%"
+            "name": "Steel Fang",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous swirling attacks against all nearby enemies.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "95.9%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "82.6%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "103%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "136%"
+                },
+                {
+                    "name": "Charged Attack Spinning DMG",
+                    "value": "62.5%"
+                },
+                {
+                    "name": "Charged Attack Final DMG",
+                    "value": "113%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "40/s"
+                },
+                {
+                    "name": "Max Duration",
+                    "value": "5s"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "82%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "164% / 205%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "82.6%"
+            "name": "Claw and Thunder",
+            "unlock": "Elemental Skill",
+            "description": "Hunts his prey using the techniques taught to him by his master and his Lupical.\nPress\nSwings the Thunder Wolf Claw, dealing Electro DMG to enemies in front of Razor.\n\nUpon striking an enemy, Razor will gain an Electro Sigil, which increases his Energy Recharge rate.\n\nRazor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.\nHold\nGathers Electro energy to unleash a lightning storm over a small AoE, causing massive Electro DMG, and clears all of Razor's Electro Sigils.\n\nEach Electro Sigil cleared in this manner will be converted into Energy for Razor.",
+            "upgrades": [
+                {
+                    "name": "Press Skill DMG",
+                    "value": "199%"
+                },
+                {
+                    "name": "Hold Skill DMG",
+                    "value": "295%"
+                },
+                {
+                    "name": "Energy Recharge Bonus",
+                    "value": "20% per electro sigil"
+                },
+                {
+                    "name": "Energy Regenerated",
+                    "value": "5 per electro sigil absorbed"
+                },
+                {
+                    "name": "Electro Sigil Duration",
+                    "value": "18s"
+                },
+                {
+                    "name": "Press CD",
+                    "value": "6s"
+                },
+                {
+                    "name": "CD (hold)",
+                    "value": "10s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "103%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "136%"
-        },
-        {
-          "name": "Charged Attack Spinning DMG",
-          "value": "62.5%"
-        },
-        {
-          "name": "Charged Attack Final DMG",
-          "value": "113%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "40/s"
-        },
-        {
-          "name": "Max Duration",
-          "value": "5s"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "82%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "164% / 205%"
+            "name": "Lightning Fang",
+            "unlock": "Elemental Burst",
+            "description": "Summons the Wolf Within which deals Electro DMG to all nearby opponents. This clears all of Razor's Electro Sigils, which will be converted into elemental energy for him.\n\nThe Wolf Within will fight alongside Razor for the skill's duration.\nThe Wolf Within\n\nStrikes alongside Razor's normal attacks, dealing Electro DMG.\nRaises Razor's ATK SPD and Electro RES.\nCauses Razor to be immune to DMG inflicted by the Electro-Charged status.\nDisables Razor's Charged Attacks.\n\nThe effects end when Razor leaves the battlefield.\n\nWhen Razor leaves the field, a maximum of 10 Energy will be returned to him based off the duration remaining on this skill.",
+            "upgrades": [
+                {
+                    "name": "Elemental Burst DMG",
+                    "value": "125%"
+                },
+                {
+                    "name": "Soul Companion DMG",
+                    "value": "20% normal attack dmg"
+                },
+                {
+                    "name": "Normal ATK SPD Bonus",
+                    "value": "20%"
+                },
+                {
+                    "name": "Electro RES Bonus",
+                    "value": "50%"
+                },
+                {
+                    "name": "Duration",
+                    "value": "15s"
+                },
+                {
+                    "name": "CD",
+                    "value": "20s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "80"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Claw and Thunder",
-      "unlock": "Elemental Skill",
-      "description": "Hunts his prey using the techniques taught to him by his master and his Lupical.\nPress\nSwings the Thunder Wolf Claw, dealing Electro DMG to enemies in front of Razor.\n\nUpon striking an enemy, Razor will gain an Electro Sigil, which increases his Energy Recharge rate.\n\nRazor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.\nHold\nGathers Electro energy to unleash a lightning storm over a small AoE, causing massive Electro DMG, and clears all of Razor's Electro Sigils.\n\nEach Electro Sigil cleared in this manner will be converted into Energy for Razor.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Press Skill DMG",
-          "value": "199%"
+            "name": "Awakening",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "Decreases Claw and Thunder's CD by 18%.\nUsing Lightning Fang resets the CD of Claw and Thunder.",
+            "level": 1
         },
         {
-          "name": "Hold Skill DMG",
-          "value": "295%"
+            "name": "Hunger",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "When Razor's Energy is below 50%, increases Energy Recharge by 30%.",
+            "level": 4
         },
         {
-          "name": "Energy Recharge Bonus",
-          "value": "20% per electro sigil"
-        },
-        {
-          "name": "Energy Regenerated",
-          "value": "5 per electro sigil absorbed"
-        },
-        {
-          "name": "Electro Sigil Duration",
-          "value": "18s"
-        },
-        {
-          "name": "Press CD",
-          "value": "6s"
-        },
-        {
-          "name": "CD (hold)",
-          "value": "10s"
+            "name": "Wolvensprint",
+            "unlock": "Unlocked Automatically",
+            "description": "Decreases all party member's sprinting Stamina Consumption by 20%."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Lightning Fang",
-      "unlock": "Elemental Burst",
-      "description": "Summons the Wolf Within which deals Electro DMG to all nearby opponents. This clears all of Razor's Electro Sigils, which will be converted into elemental energy for him.\n\nThe Wolf Within will fight alongside Razor for the skill's duration.\nThe Wolf Within\n\nStrikes alongside Razor's normal attacks, dealing Electro DMG.\nRaises Razor's ATK SPD and Electro RES.\nCauses Razor to be immune to DMG inflicted by the Electro-Charged status.\nDisables Razor's Charged Attacks.\n\nThe effects end when Razor leaves the battlefield.\n\nWhen Razor leaves the field, a maximum of 10 Energy will be returned to him based off the duration remaining on this skill.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Elemental Burst DMG",
-          "value": "125%"
+            "name": "Wolf's Instinct",
+            "unlock": "Constellation Lv. 1",
+            "description": "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s.",
+            "level": 1
         },
         {
-          "name": "Soul Companion DMG",
-          "value": "20% normal attack dmg"
+            "name": "Suppression",
+            "unlock": "Constellation Lv. 2",
+            "description": "Increases CRIT Rate against enemies with less than 30% HP by 10%.",
+            "level": 2
         },
         {
-          "name": "Normal ATK SPD Bonus",
-          "value": "20%"
+            "name": "Soul Companion",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Lightning Fang by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "Electro RES Bonus",
-          "value": "50%"
+            "name": "Bite",
+            "unlock": "Constellation Lv. 4",
+            "description": "When casting Claw and Thunder (Press), enemies hit will have their DEF decreased by 15% for 7s.",
+            "level": 4
         },
         {
-          "name": "Duration",
-          "value": "15s"
+            "name": "Sharpened Claws",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increase the Level of Claw and Thunder by 3.\nMaximum upgrade level is 15.",
+            "level": 5
         },
         {
-          "name": "CD",
-          "value": "20s"
-        },
-        {
-          "name": "Energy Cost",
-          "value": "80"
+            "name": "Lupus Fulguris",
+            "unlock": "Constellation Lv. 6",
+            "description": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as Electro DMG.\nWhen Razor is not using Lightning Fang, a lightning strike on an enemy will grant Razor an Electro Sigil for Claw and Thunder.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
-    }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Awakening",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Decreases Claw and Thunder's CD by 18%.\nUsing Lightning Fang resets the CD of Claw and Thunder.",
-      "level": 1
-    },
-    {
-      "name": "Hunger",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "When Razor's Energy is below 50%, increases Energy Recharge by 30%.",
-      "level": 4
-    },
-    {
-      "name": "Wolvensprint",
-      "unlock": "Unlocked Automatically",
-      "description": "Decreases all party member's sprinting Stamina Consumption by 20%."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Wolf's Instinct",
-      "unlock": "Constellation Lv. 1",
-      "description": "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s.",
-      "level": 1
-    },
-    {
-      "name": "Suppression",
-      "unlock": "Constellation Lv. 2",
-      "description": "Increases CRIT Rate against enemies with less than 30% HP by 10%.",
-      "level": 2
-    },
-    {
-      "name": "Soul Companion",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Lightning Fang by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Bite",
-      "unlock": "Constellation Lv. 4",
-      "description": "When casting Claw and Thunder (Press), enemies hit will have their DEF decreased by 15% for 7s.",
-      "level": 4
-    },
-    {
-      "name": "Sharpened Claws",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Claw and Thunder by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Lupus Fulguris",
-      "unlock": "Constellation Lv. 6",
-      "description": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as Electro DMG.\nWhen Razor is not using Lightning Fang, a lightning strike on an enemy will grant Razor an Electro Sigil for Claw and Thunder.",
-      "level": 6
-    }
-  ],
-  "vision_key": "ELECTRO",
-  "weapon_type": "CLAYMORE"
+    ],
+    "vision_key": "ELECTRO",
+    "weapon_type": "CLAYMORE",
+    "materials_to_max": [
+        {
+            "ascension_materials": [
+                {
+                    "level": "20",
+                    "mora": "20,000",
+                    "Vajrada Amethyst Sliver": "1",
+                    "Damaged Mask": "3",
+                    "Wolfhook": "3"
+                },
+                {
+                    "level": "40",
+                    "mora": "40,000",
+                    "Vajrada Amethyst Fragment": "3",
+                    "Damaged Mask": "15",
+                    "Wolfhook": "10",
+                    "Lightning Prism": "2"
+                },
+                {
+                    "level": "50",
+                    "mora": "60,000",
+                    "Vajrada Amethyst Fragment": "6",
+                    "Stained Mask": "12",
+                    "Wolfhook": "20",
+                    "Lightning Prism": "4"
+                },
+                {
+                    "level": "60",
+                    "mora": "80,000",
+                    "Vajrada Amethyst Chunk": "3",
+                    "Stained Mask": "18",
+                    "Wolfhook": "30",
+                    "Lightning Prism": "8"
+                },
+                {
+                    "level": "70",
+                    "mora": "100,000",
+                    "Vajrada Amethyst Chunk": "6",
+                    "Ominous Mask": "12",
+                    "Wolfhook": "45",
+                    "Lightning Prism": "12"
+                },
+                {
+                    "level": "80",
+                    "mora": "120,000",
+                    "Vajrada Amethyst Gemstone": "6",
+                    "Ominous Mask": "24",
+                    "Wolfhook": "60",
+                    "Lightning Prism": "20"
+                }
+            ]
+        },
+        {
+            "talent_materials": {
+                "Teachings of Resistance": "9",
+                "Guide to Resistance": "63",
+                "Philosophies of Resistance": "114",
+                "Damaged Mask": "18",
+                "Stained Mask": "66",
+                "Ominous Mask": "93",
+                "Dvalin\u2019s Claw": "18",
+                "Crown of Insight": "3"
+            }
+        }
+    ]
 }

@@ -1,180 +1,245 @@
 {
-  "name": "Beidou",
-  "vision": "Electro",
-  "weapon": "Claymore",
-  "nation": "Liyue",
-  "affiliation": "The Crux",
-  "rarity": 4,
-  "constellation": "Victor Mare",
-  "birthday": "0000-02-14",
-  "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
-  "skillTalents": [
-    {
-      "name": "Oceanborne",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 5 successive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Beidou",
+    "vision": "Electro",
+    "weapon": "Claymore",
+    "nation": "Liyue",
+    "affiliation": "The Crux",
+    "rarity": 4,
+    "constellation": "Victor Mare",
+    "birthday": "0000-02-14",
+    "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "71.1%"
+            "name": "Oceanborne",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 5 successive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "71.1%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "70.9%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "88.3%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "86.5%"
+                },
+                {
+                    "name": "5-Hit DMG",
+                    "value": "112%"
+                },
+                {
+                    "name": "Charged Attack Spinning DMG",
+                    "value": "56.2%"
+                },
+                {
+                    "name": "Charged Attack Final DMG",
+                    "value": "102%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "40/s"
+                },
+                {
+                    "name": "Max Duration",
+                    "value": "5s"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "74.6%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "149% / 186%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "70.9%"
+            "name": "Tidecaller",
+            "unlock": "Elemental Skill",
+            "description": "Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.\nPress\nAccumulating the power of lightning, Beidou swings her blade forward fiercely, dealing Electro DMG.\nHold\nLifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\n\nAttacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing Electro DMG. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.\n\nThe shield possesses the following properties:\n\nHas 250% Electro DMG Absorption Efficiency.\nApplies the Electro element to Beidou upon activation.",
+            "upgrades": [
+                {
+                    "name": "Shield DMG Absorption",
+                    "value": "14.4% Max HP + 1386"
+                },
+                {
+                    "name": "Base DMG",
+                    "value": "122%"
+                },
+                {
+                    "name": "DMG Bonus on Hit Taken",
+                    "value": "160%"
+                },
+                {
+                    "name": "CD",
+                    "value": "7.5s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "88.3%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "86.5%"
-        },
-        {
-          "name": "5-Hit DMG",
-          "value": "112%"
-        },
-        {
-          "name": "Charged Attack Spinning DMG",
-          "value": "56.2%"
-        },
-        {
-          "name": "Charged Attack Final DMG",
-          "value": "102%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "40/s"
-        },
-        {
-          "name": "Max Duration",
-          "value": "5s"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "74.6%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "149% / 186%"
+            "name": "Stormbreaker",
+            "unlock": "Elemental Burst",
+            "description": "Recalling her slaying of the great beast Haishan. Beidou calls upon that monstrous strength and the lightning to create a Thunderbeast's Targe around herself.\nThunderbeast's Target\n\nWhen Normal and Charged Attacks hit, they create a lightning discharge that can jump between enemies, dealing Electro DMG.\nIncreases the character's resistance to interruption, and decreases DMG taken.\n",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "122%"
+                },
+                {
+                    "name": "Lightning DMG",
+                    "value": "96%"
+                },
+                {
+                    "name": "DMG Reduction",
+                    "value": "20%"
+                },
+                {
+                    "name": "Duration",
+                    "value": "15s"
+                },
+                {
+                    "name": "CD",
+                    "value": "20s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "80"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Tidecaller",
-      "unlock": "Elemental Skill",
-      "description": "Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.\nPress\nAccumulating the power of lightning, Beidou swings her blade forward fiercely, dealing Electro DMG.\nHold\nLifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\n\nAttacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing Electro DMG. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.\n\nThe shield possesses the following properties:\n\nHas 250% Electro DMG Absorption Efficiency.\nApplies the Electro element to Beidou upon activation.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Shield DMG Absorption",
-          "value": "14.4% Max HP + 1386"
+            "name": "Retribution",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus.",
+            "level": 1
         },
         {
-          "name": "Base DMG",
-          "value": "122%"
+            "name": "Lightning Storm",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:\nDMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.\nGreatly reduced delay before unleashing Charged Attacks.",
+            "level": 4
         },
         {
-          "name": "DMG Bonus on Hit Taken",
-          "value": "160%"
-        },
-        {
-          "name": "CD",
-          "value": "7.5s"
+            "name": "Conqueror of Tides",
+            "unlock": "Unlocked Automatically",
+            "description": "Decreases all party member's swimming Stamina consumption by 20%."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Stormbreaker",
-      "unlock": "Elemental Burst",
-      "description": "Recalling her slaying of the great beast Haishan. Beidou calls upon that monstrous strength and the lightning to create a Thunderbeast's Targe around herself.\nThunderbeast's Target\n\nWhen Normal and Charged Attacks hit, they create a lightning discharge that can jump between enemies, dealing Electro DMG.\nIncreases the character's resistance to interruption, and decreases DMG taken.\n",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Skill DMG",
-          "value": "122%"
+            "name": "Sea Beast's Scourge",
+            "unlock": "Constellation Lv. 1",
+            "description": "When Stormbreaker is used:\nCreates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\nThis shield absorbs Electro DMG 250% more effectively.",
+            "level": 1
         },
         {
-          "name": "Lightning DMG",
-          "value": "96%"
+            "name": "Upon the Turbulent Sea, the Thunder Arises",
+            "unlock": "Constellation Lv. 2",
+            "description": "Stormbreaker's arc lightning can jump 2 additional targets.",
+            "level": 2
         },
         {
-          "name": "DMG Reduction",
-          "value": "20%"
+            "name": "Summoner of Storm",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Tidecaller by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "Duration",
-          "value": "15s"
+            "name": "Stunning Revenge",
+            "unlock": "Constellation Lv. 4",
+            "description": "Within 10s of taking DMG, Beidou's Normal Attacks gain 20% additional Electro DMG.",
+            "level": 4
         },
         {
-          "name": "CD",
-          "value": "20s"
+            "name": "Crimson Tidewalker",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increase the Level of Stormbreaker by 3.\nMaximum upgrade level is 15.",
+            "level": 5
         },
         {
-          "name": "Energy Cost",
-          "value": "80"
+            "name": "Bane of Evil",
+            "unlock": "Constellation Lv. 6",
+            "description": "During the duration of Stormbreaker, the Electro RES of surrounding enemies is decreased by 15%.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
-    }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Retribution",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus.",
-      "level": 1
-    },
-    {
-      "name": "Lightning Storm",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:\nDMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.\nGreatly reduced delay before unleashing Charged Attacks.",
-      "level": 4
-    },
-    {
-      "name": "Conqueror of Tides",
-      "unlock": "Unlocked Automatically",
-      "description": "Decreases all party member's swimming Stamina consumption by 20%."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Sea Beast's Scourge",
-      "unlock": "Constellation Lv. 1",
-      "description": "When Stormbreaker is used:\nCreates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\nThis shield absorbs Electro DMG 250% more effectively.",
-      "level": 1
-    },
-    {
-      "name": "Upon the Turbulent Sea, the Thunder Arises",
-      "unlock": "Constellation Lv. 2",
-      "description": "Stormbreaker's arc lightning can jump 2 additional targets.",
-      "level": 2
-    },
-    {
-      "name": "Summoner of Storm",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Tidecaller by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Stunning Revenge",
-      "unlock": "Constellation Lv. 4",
-      "description": "Within 10s of taking DMG, Beidou's Normal Attacks gain 20% additional Electro DMG.",
-      "level": 4
-    },
-    {
-      "name": "Crimson Tidewalker",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Stormbreaker by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Bane of Evil",
-      "unlock": "Constellation Lv. 6",
-      "description": "During the duration of Stormbreaker, the Electro RES of surrounding enemies is decreased by 15%.",
-      "level": 6
-    }
-  ],
-  "vision_key": "ELECTRO",
-  "weapon_type": "CLAYMORE"
+    ],
+    "vision_key": "ELECTRO",
+    "weapon_type": "CLAYMORE",
+    "materials_to_max": [
+        {
+            "ascension_materials": [
+                {
+                    "level": "20",
+                    "mora": "20,000",
+                    "Vajrada Amethyst Sliver": "1",
+                    "Treasure Hoarder Insignia": "3",
+                    "Noctilucous Jade": "3"
+                },
+                {
+                    "level": "40",
+                    "mora": "40,000",
+                    "Vajrada Amethyst Fragment": "3",
+                    "Treasure Hoarder Insignia": "15",
+                    "Noctilucous Jade": "10",
+                    "Lightning Prism": "2"
+                },
+                {
+                    "level": "50",
+                    "mora": "60,000",
+                    "Vajrada Amethyst Fragment": "6",
+                    "Silver Raven Insignia": "12",
+                    "Noctilucous Jade": "20",
+                    "Lightning Prism": "4"
+                },
+                {
+                    "level": "60",
+                    "mora": "80,000",
+                    "Vajrada Amethyst Chunk": "3",
+                    "Silver Raven Insignia": "18",
+                    "Noctilucous Jade": "30",
+                    "Lightning Prism": "8"
+                },
+                {
+                    "level": "70",
+                    "mora": "100,000",
+                    "Vajrada Amethyst Chunk": "6",
+                    "Golden Raven Insignia": "12",
+                    "Noctilucous Jade": "45",
+                    "Lightning Prism": "12"
+                },
+                {
+                    "level": "80",
+                    "mora": "120,000",
+                    "Vajrada Amethyst Gemstone": "6",
+                    "Golden Raven Insignia": "24",
+                    "Noctilucous Jade": "60",
+                    "Lightning Prism": "20"
+                }
+            ]
+        },
+        {
+            "talent_materials": {
+                "Teachings of Gold": "9",
+                "Guide to Gold": "63",
+                "Philosophies of Gold": "114",
+                "Treasure Hoarder Insignia": "18",
+                "Silver Raven Insignia": "66",
+                "Golden Raven Insignia": "93",
+                "Dvalin\u2019s Sigh": "18",
+                "Crown of Insight": "3"
+            }
+        }
+    ]
 }

@@ -1,176 +1,241 @@
 {
-  "name": "Diluc",
-  "vision": "Pyro",
-  "weapon": "Claymore",
-  "nation": "Mondstadt",
-  "affiliation": "Dawn Winery",
-  "rarity": 5,
-  "constellation": "Noctua",
-  "birthday": "0000-04-30",
-  "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
-  "skillTalents": [
-    {
-      "name": "Tempered Sword",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt the end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Diluc",
+    "vision": "Pyro",
+    "weapon": "Claymore",
+    "nation": "Mondstadt",
+    "affiliation": "Dawn Winery",
+    "rarity": 5,
+    "constellation": "Noctua",
+    "birthday": "0000-04-30",
+    "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "89.7%"
+            "name": "Tempered Sword",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt the end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "89.7%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "87.6%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "98.8%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "134%"
+                },
+                {
+                    "name": "Charged Attack Spinning DMG",
+                    "value": "68.8%"
+                },
+                {
+                    "name": "Charged Attack Final DMG",
+                    "value": "125%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "40/s"
+                },
+                {
+                    "name": "Max Duration",
+                    "value": "5s"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "89.5%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "179% / 224%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "87.6%"
+            "name": "Searing Onslaught",
+            "unlock": "Elemental Skill",
+            "description": "Performs a forward slash that deals Pyro DMG.\nThis skill can be used 3 times consecutively. Enters CD if not cast again within a short period.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "94.4%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "97.6%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "129%"
+                },
+                {
+                    "name": "CD",
+                    "value": "10s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "98.8%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "134%"
-        },
-        {
-          "name": "Charged Attack Spinning DMG",
-          "value": "68.8%"
-        },
-        {
-          "name": "Charged Attack Final DMG",
-          "value": "125%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "40/s"
-        },
-        {
-          "name": "Max Duration",
-          "value": "5s"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "89.5%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "179% / 224%"
+            "name": "Dawn",
+            "unlock": "Elemental Burst",
+            "description": "Releases intense flames to knock nearby enemies back, dealing Pyro DMG. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive Pyro DMG to all enemies in its path. The Phoenix explodes upon reaching its destination, causing a large amount of AoE Pyro DMG.\n\nThe searing flames that run down his blade cause Diluc's Normal and Charged Attacks to deal Pyro DMG for a time.",
+            "upgrades": [
+                {
+                    "name": "Slashing DMG",
+                    "value": "204%"
+                },
+                {
+                    "name": "DoT",
+                    "value": "60%"
+                },
+                {
+                    "name": "Explosion DMG",
+                    "value": "204%"
+                },
+                {
+                    "name": "CD",
+                    "value": "12s"
+                },
+                {
+                    "name": "Enchantment Duration",
+                    "value": "8s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "40"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Searing Onslaught",
-      "unlock": "Elemental Skill",
-      "description": "Performs a forward slash that deals Pyro DMG.\nThis skill can be used 3 times consecutively. Enters CD if not cast again within a short period.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "94.4%"
+            "name": "Relentless",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.",
+            "level": 1
         },
         {
-          "name": "2-Hit DMG",
-          "value": "97.6%"
+            "name": "Blessing of Phoenix",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "The Pyro Enchantment provided by Dawn lasts for 4s longer. Additionally, Diluc gains 20% Pyro DMG Bonus during the duration of this effect.",
+            "level": 4
         },
         {
-          "name": "3-Hit DMG",
-          "value": "129%"
-        },
-        {
-          "name": "CD",
-          "value": "10s"
+            "name": "Tradition of the Dawn Knight",
+            "unlock": "Unlocked Automatically",
+            "description": "Refunds 15% of the ores used when crafting Claymore-type weapons."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Dawn",
-      "unlock": "Elemental Burst",
-      "description": "Releases intense flames to knock nearby enemies back, dealing Pyro DMG. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive Pyro DMG to all enemies in its path. The Phoenix explodes upon reaching its destination, causing a large amount of AoE Pyro DMG.\n\nThe searing flames that run down his blade cause Diluc's Normal and Charged Attacks to deal Pyro DMG for a time.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Slashing DMG",
-          "value": "204%"
+            "name": "Conviction",
+            "unlock": "Constellation Lv. 1",
+            "description": "Diluc deals 15% more DMG to enemies whose HP is above 50%.",
+            "level": 1
         },
         {
-          "name": "DoT",
-          "value": "60%"
+            "name": "Searing Ember",
+            "unlock": "Constellation Lv. 2",
+            "description": "When Diluc takes DMG, his Base ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s.",
+            "level": 2
         },
         {
-          "name": "Explosion DMG",
-          "value": "204%"
+            "name": "Steel and Fire",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Searing Onslaught by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "CD",
-          "value": "12s"
+            "name": "Flowing Flame",
+            "unlock": "Constellation Lv. 4",
+            "description": "Casting Searing Onslaught in sequence greatly increases damage dealt.\nWithin 2s of using Searing Onslaught, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for the next 2s.",
+            "level": 4
         },
         {
-          "name": "Enchantment Duration",
-          "value": "8s"
+            "name": "Phoenix, Harbinger of Dawn",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increases the level of Dawn by 3.\nMaximum upgrade level is 15.",
+            "level": 5
         },
         {
-          "name": "Energy Cost",
-          "value": "40"
+            "name": "Flaming Sword, Nemesis of Dark",
+            "unlock": "Constellation Lv. 6",
+            "description": "After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
-    }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Relentless",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.",
-      "level": 1
-    },
-    {
-      "name": "Blessing of Phoenix",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "The Pyro Enchantment provided by Dawn lasts for 4s longer. Additionally, Diluc gains 20% Pyro DMG Bonus during the duration of this effect.",
-      "level": 4
-    },
-    {
-      "name": "Tradition of the Dawn Knight",
-      "unlock": "Unlocked Automatically",
-      "description": "Refunds 15% of the ores used when crafting Claymore-type weapons."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Conviction",
-      "unlock": "Constellation Lv. 1",
-      "description": "Diluc deals 15% more DMG to enemies whose HP is above 50%.",
-      "level": 1
-    },
-    {
-      "name": "Searing Ember",
-      "unlock": "Constellation Lv. 2",
-      "description": "When Diluc takes DMG, his Base ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s.",
-      "level": 2
-    },
-    {
-      "name": "Steel and Fire",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Searing Onslaught by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Flowing Flame",
-      "unlock": "Constellation Lv. 4",
-      "description": "Casting Searing Onslaught in sequence greatly increases damage dealt.\nWithin 2s of using Searing Onslaught, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for the next 2s.",
-      "level": 4
-    },
-    {
-      "name": "Phoenix, Harbinger of Dawn",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the level of Dawn by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Flaming Sword, Nemesis of Dark",
-      "unlock": "Constellation Lv. 6",
-      "description": "After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo.",
-      "level": 6
-    }
-  ],
-  "vision_key": "PYRO",
-  "weapon_type": "CLAYMORE"
+    ],
+    "vision_key": "PYRO",
+    "weapon_type": "CLAYMORE",
+    "materials_to_max": [
+        {
+            "ascension_materials": [
+                {
+                    "level": "20",
+                    "mora": "20,000",
+                    "Agnidus Agate Sliver": "1",
+                    "Recruit\u2019s Insignia": "3",
+                    "Small Lamp Grass": "3"
+                },
+                {
+                    "level": "40",
+                    "mora": "40,000",
+                    "Agnidus Agate Fragment": "3",
+                    "Recruit\u2019s Insignia": "15",
+                    "Small Lamp Grass": "10",
+                    "Everflame Seed": "2"
+                },
+                {
+                    "level": "50",
+                    "mora": "60,000",
+                    "Agnidus Agate Fragment": "6",
+                    "Sergeant\u2019s Insignia": "12",
+                    "Small Lamp Grass": "20",
+                    "Everflame Seed": "4"
+                },
+                {
+                    "level": "60",
+                    "mora": "80,000",
+                    "Agnidus Agate Chunk": "3",
+                    "Sergeant\u2019s Insignia": "18",
+                    "Small Lamp Grass": "30",
+                    "Everflame Seed": "8"
+                },
+                {
+                    "level": "70",
+                    "mora": "100,000",
+                    "Agnidus Agate Chunk": "6",
+                    "Lieutenant\u2019s Insignia": "12",
+                    "Small Lamp Grass": "45",
+                    "Everflame Seed": "12"
+                },
+                {
+                    "level": "80",
+                    "mora": "120,000",
+                    "Agnidus Agate Gemstone": "6",
+                    "Lieutenant\u2019s Insignia": "24",
+                    "Small Lamp Grass": "60",
+                    "Everflame Seed": "20"
+                }
+            ]
+        },
+        {
+            "talent_materials": {
+                "Teachings of Resistance": "9",
+                "Guide to Resistance": "63",
+                "Philosophies of Resistance": "114",
+                "Recruit\u2019s Insignia": "18",
+                "Sergeant\u2019s Insignia": "66",
+                "Lieutenant\u2019s Insignia": "93",
+                "Dvalin\u2019s Plume": "18",
+                "Crown of Insight": "3"
+            }
+        }
+    ]
 }

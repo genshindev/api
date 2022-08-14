@@ -1,172 +1,237 @@
 {
-  "name": "Venti",
-  "vision": "Anemo",
-  "weapon": "Bow",
-  "nation": "Mondstadt",
-  "affiliation": "Mondstadt",
-  "rarity": 5,
-  "constellation": "Carmen Dei",
-  "birthday": "0000-06-16",
-  "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
-  "skillTalents": [
-    {
-      "name": "Divine Marksmanship",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 6 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, favorable winds will accumulate on the arrowhead. A fully charged arrow will deal Anemo DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Venti",
+    "vision": "Anemo",
+    "weapon": "Bow",
+    "nation": "Mondstadt",
+    "affiliation": "Mondstadt",
+    "rarity": 5,
+    "constellation": "Carmen Dei",
+    "birthday": "0000-06-16",
+    "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "20.4% + 20.4%"
+            "name": "Divine Marksmanship",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 6 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, favorable winds will accumulate on the arrowhead. A fully charged arrow will deal Anemo DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "20.4% + 20.4%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "44.4%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "52.4%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "26.1% + 26.1%"
+                },
+                {
+                    "name": "5-Hit DMG",
+                    "value": "50.7%"
+                },
+                {
+                    "name": "6-Hit DMG",
+                    "value": "71%"
+                },
+                {
+                    "name": "Aimed Shot",
+                    "value": "43.9%"
+                },
+                {
+                    "name": "Fully-Charged Aimed Shot",
+                    "value": "124%"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "56.8%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "114% / 142%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "44.4%"
+            "name": "Skyward Sonnet",
+            "unlock": "Elemental Skill",
+            "description": "O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\nPress\nSummons a Wind Domain at the enemy's location, dealing AoE Anemo DMG and launching enemies into the air.\nHold\nSummons an even larger Wind Domain with Venti as the epicenter, dealing AoE Anemo DMG and launching affected enemies into the air.\n\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\nEnemies hit by Skyward Sonnet will fall to the ground slowly.",
+            "upgrades": [
+                {
+                    "name": "Press DMG",
+                    "value": "276%"
+                },
+                {
+                    "name": "Press CD",
+                    "value": "6s"
+                },
+                {
+                    "name": "Hold DMG",
+                    "value": "380%"
+                },
+                {
+                    "name": "CD (hold)",
+                    "value": "15s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "52.4%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "26.1% + 26.1%"
-        },
-        {
-          "name": "5-Hit DMG",
-          "value": "50.7%"
-        },
-        {
-          "name": "6-Hit DMG",
-          "value": "71%"
-        },
-        {
-          "name": "Aimed Shot",
-          "value": "43.9%"
-        },
-        {
-          "name": "Fully-Charged Aimed Shot",
-          "value": "124%"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "56.8%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "114% / 142%"
+            "name": "Wind's Grand Ode",
+            "unlock": "Elemental Burst",
+            "description": "Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in objects and enemies along its path, dealing continuous Anemo DMG.\nElemental Absorption\nIf the Stormeye comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal additional elemental DMG of that type.\n\nElemental Absorption may only occur once per use.",
+            "upgrades": [
+                {
+                    "name": "DoT",
+                    "value": "47%"
+                },
+                {
+                    "name": "Additional Elemental DMG",
+                    "value": "23.5%"
+                },
+                {
+                    "name": "Duration",
+                    "value": "8s"
+                },
+                {
+                    "name": "CD",
+                    "value": "15s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "60"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Skyward Sonnet",
-      "unlock": "Elemental Skill",
-      "description": "O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\nPress\nSummons a Wind Domain at the enemy's location, dealing AoE Anemo DMG and launching enemies into the air.\nHold\nSummons an even larger Wind Domain with Venti as the epicenter, dealing AoE Anemo DMG and launching affected enemies into the air.\n\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\nEnemies hit by Skyward Sonnet will fall to the ground slowly.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Press DMG",
-          "value": "276%"
+            "name": "Embrace of Winds",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "Holding Skyward Sonnet creates an upcurrent that lasts for 20s.",
+            "level": 1
         },
         {
-          "name": "Press CD",
-          "value": "6s"
+            "name": "Stormeye",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "Regenerates 15 Energy for Venti after the effects of Wind's Grand Ode end.\nIf an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element.",
+            "level": 4
         },
         {
-          "name": "Hold DMG",
-          "value": "380%"
-        },
-        {
-          "name": "CD (hold)",
-          "value": "15s"
+            "name": "Windrider",
+            "unlock": "Unlocked Automatically",
+            "description": "Decreases all party member's gliding Stamina Consumption by 20%."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Wind's Grand Ode",
-      "unlock": "Elemental Burst",
-      "description": "Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in objects and enemies along its path, dealing continuous Anemo DMG.\nElemental Absorption\nIf the Stormeye comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal additional elemental DMG of that type.\n\nElemental Absorption may only occur once per use.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "DoT",
-          "value": "47%"
+            "name": "Splitting Gale",
+            "unlock": "Constellation Lv. 1",
+            "description": "Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow's DMG.",
+            "level": 1
         },
         {
-          "name": "Additional Elemental DMG",
-          "value": "23.5%"
+            "name": "Breeze of Reminiscence",
+            "unlock": "Constellation Lv. 2",
+            "description": "Skyward Sonnet decreases enemy Anemo RES by 12% for 10s.\nEnemies launched by Skyward Sonnet suffer an additional 12% Anemo RES and Physical RES decrease while airborne.",
+            "level": 2
         },
         {
-          "name": "Duration",
-          "value": "8s"
+            "name": "Ode to Thousand Winds",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Wind's Grand Ode by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "CD",
-          "value": "15s"
+            "name": "Hurricane of Freedom",
+            "unlock": "Constellation Lv. 4",
+            "description": "When Venti picks up an Elemental Orb or Particle, he receives a 25% Anemo DMG Bonus for 10s.",
+            "level": 4
         },
         {
-          "name": "Energy Cost",
-          "value": "60"
+            "name": "Concierto dal Cielo",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increase the Level of Skyward Sonnet by 3.\nMaximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Storm of Defiance",
+            "unlock": "Constellation Lv. 6",
+            "description": "Targets who take DMG from Wind's Grand Ode have their Anemo RES decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
-    }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Embrace of Winds",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Holding Skyward Sonnet creates an upcurrent that lasts for 20s.",
-      "level": 1
-    },
-    {
-      "name": "Stormeye",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "Regenerates 15 Energy for Venti after the effects of Wind's Grand Ode end.\nIf an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element.",
-      "level": 4
-    },
-    {
-      "name": "Windrider",
-      "unlock": "Unlocked Automatically",
-      "description": "Decreases all party member's gliding Stamina Consumption by 20%."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Splitting Gale",
-      "unlock": "Constellation Lv. 1",
-      "description": "Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow's DMG.",
-      "level": 1
-    },
-    {
-      "name": "Breeze of Reminiscence",
-      "unlock": "Constellation Lv. 2",
-      "description": "Skyward Sonnet decreases enemy Anemo RES by 12% for 10s.\nEnemies launched by Skyward Sonnet suffer an additional 12% Anemo RES and Physical RES decrease while airborne.",
-      "level": 2
-    },
-    {
-      "name": "Ode to Thousand Winds",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Wind's Grand Ode by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Hurricane of Freedom",
-      "unlock": "Constellation Lv. 4",
-      "description": "When Venti picks up an Elemental Orb or Particle, he receives a 25% Anemo DMG Bonus for 10s.",
-      "level": 4
-    },
-    {
-      "name": "Concierto dal Cielo",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Skyward Sonnet by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Storm of Defiance",
-      "unlock": "Constellation Lv. 6",
-      "description": "Targets who take DMG from Wind's Grand Ode have their Anemo RES decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.",
-      "level": 6
-    }
-  ],
-  "vision_key": "ANEMO",
-  "weapon_type": "BOW"
+    ],
+    "vision_key": "ANEMO",
+    "weapon_type": "BOW",
+    "materials_to_max": [
+        {
+            "ascension_materials": [
+                {
+                    "level": "20",
+                    "mora": "20,000",
+                    "Vayuda Turquoise Sliver": "1",
+                    "Slime Condensate": "3",
+                    "Cecilia": "3"
+                },
+                {
+                    "level": "40",
+                    "mora": "40,000",
+                    "Vayuda Turquoise Fragment": "3",
+                    "Slime Condensate": "15",
+                    "Cecilia": "10",
+                    "Hurricane Seed": "2"
+                },
+                {
+                    "level": "50",
+                    "mora": "60,000",
+                    "Vayuda Turquoise Fragment": "6",
+                    "Slime Secretions": "12",
+                    "Cecilia": "20",
+                    "Hurricane Seed": "4"
+                },
+                {
+                    "level": "60",
+                    "mora": "80,000",
+                    "Vayuda Turquoise Chunk": "3",
+                    "Slime Secretions": "18",
+                    "Cecilia": "30",
+                    "Hurricane Seed": "8"
+                },
+                {
+                    "level": "70",
+                    "mora": "100,000",
+                    "Vayuda Turquoise Chunk": "6",
+                    "Slime Concentrate": "12",
+                    "Cecilia": "45",
+                    "Hurricane Seed": "12"
+                },
+                {
+                    "level": "80",
+                    "mora": "120,000",
+                    "Vayuda Turquoise Gemstone": "6",
+                    "Slime Concentrate": "24",
+                    "Cecilia": "60",
+                    "Hurricane Seed": "20"
+                }
+            ]
+        },
+        {
+            "talent_materials": {
+                "Teachings of Ballad": "9",
+                "Guide to Ballad": "63",
+                "Philosophies of Ballad": "114",
+                "Slime Condensate": "18",
+                "Slime Secretions": "66",
+                "Slime Concentrate": "93",
+                "Tail of Boreas": "18",
+                "Crown of Insight": "3"
+            }
+        }
+    ]
 }
