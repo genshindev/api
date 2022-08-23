@@ -3,84 +3,201 @@
     {
       "id": "calla-lily",
       "name": "Calla Lily",
-      "characters": ["diona", "kaeya"]
+      "characters": [
+        "diona",
+        "kaeya"
+      ]
     },
     {
       "id": "cecilia",
       "name": "Cecilia",
-      "characters": ["albedo", "venti"]
+      "characters": [
+        "albedo",
+        "venti"
+      ]
     },
     {
       "id": "dandelion-seed",
       "name": "Dandelion Seed",
-      "characters": ["jean"]
+      "characters": [
+        "jean"
+      ]
     },
     {
       "id": "philanemo-mushroom",
       "name": "Philanemo Mushroom",
-      "characters": ["barbara", "klee", "mona"]
+      "characters": [
+        "barbara",
+        "klee",
+        "mona"
+      ]
     },
     {
       "id": "small-lamp-grass",
       "name": "Small Lamp Grass",
-      "characters": ["amber", "diluc", "fischl"]
+      "characters": [
+        "amber",
+        "diluc",
+        "fischl"
+      ]
     },
     {
       "id": "valberry",
       "name": "Valberry",
-      "characters": ["lisa", "noelle"]
+      "characters": [
+        "lisa",
+        "noelle"
+      ]
     },
     {
       "id": "windwheel-aster",
       "name": "Windwheel Aster",
-      "characters": ["bennett", "sucrose", "traveler-anemo", "traveler-geo"]
+      "characters": [
+        "bennett",
+        "sucrose",
+        "traveler-anemo",
+        "traveler-geo"
+      ]
     },
     {
       "id": "wolfhook",
       "name": "Wolfhook",
-      "characters": ["razor"]
+      "characters": [
+        "razor"
+      ]
     }
   ],
   "liyue": [
     {
       "id": "cor-lapis",
       "name": "Cor Lapis",
-      "characters": ["chongyun", "keqing", "zhongli"]
+      "characters": [
+        "chongyun",
+        "keqing",
+        "zhongli"
+      ]
     },
     {
       "id": "glaze-lily",
       "name": "Glaze Lily",
-      "characters": ["ningguang"]
+      "characters": [
+        "ningguang"
+      ]
     },
     {
       "id": "jueyun-chili",
       "name": "Jueyun Chili",
-      "characters": ["xiangling"]
+      "characters": [
+        "xiangling"
+      ]
     },
     {
       "id": "noctilucous-jade",
       "name": "Noctilucous Jade",
-      "characters": ["beidou"]
+      "characters": [
+        "beidou"
+      ]
     },
     {
       "id": "qingxin",
       "name": "Qingxin",
-      "characters": ["ganyu", "xiao"]
+      "characters": [
+        "ganyu",
+        "xiao"
+      ]
     },
     {
       "id": "silk-flower",
       "name": "Silk Flower",
-      "characters": ["xingqiu"]
+      "characters": [
+        "xingqiu"
+      ]
     },
     {
       "id": "starconch",
       "name": "Starconch",
-      "characters": ["tartaglia"]
+      "characters": [
+        "tartaglia"
+      ]
     },
     {
       "id": "violetgrass",
       "name": "Violetgrass",
-      "characters": ["qiqi", "xinyan"]
+      "characters": [
+        "qiqi",
+        "xinyan"
+      ]
+    }
+  ],
+  "inazuma": [
+    {
+      "id": "amakumo-fruit",
+      "name": "Amakumo Fruit",
+      "characters": [
+        "raiden"
+      ]
+    },
+    {
+      "id": "crystal-marrow",
+      "name": "Crystal Marrow",
+      "characters": [
+        "aloy",
+        "sayu"
+      ]
+    },
+    {
+      "id": "dendrobium",
+      "name": "Dendrobium",
+      "characters": [
+        "kujou-sara"
+      ]
+    },
+    {
+      "id": "fluorescent-fungus",
+      "name": "Fluorescent Fungus",
+      "characters": [
+        "thoma"
+      ]
+    },
+    {
+      "id": "naku-weed",
+      "name": "Naku Weed",
+      "characters": [
+        "shinobu",
+        "yoimiya"
+      ]
+    },
+    {
+      "id": "onikabuto",
+      "name": "Onikabuto",
+      "characters": [
+        "itto",
+        "heizou"
+      ]
+    },
+    {
+      "id": "sakura-bloom",
+      "name": "Sakura Bloom",
+      "characters": [
+        "ayaka",
+        "ayato"
+      ]
+    },
+    {
+      "id": "sango-pearl",
+      "name": "Sango Pearl",
+      "characters": [
+        "gorou",
+        "kokomi"
+      ]
+    },
+    {
+      "id": "sea-ganoderma",
+      "name": "Sea Ganoderma",
+      "characters": [
+        "kazuha",
+        "yae-miko"
+      ]
     }
   ]
 }
