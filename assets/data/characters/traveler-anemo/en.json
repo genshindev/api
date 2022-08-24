@@ -35,7 +35,7 @@
         },
         {
           "name": "Charged Attack DMG",
-          "value": "55.9% + 72.2%"
+          "value": "Male: 55.9% + 72.2%\nFemale: 55.9% + 60.7%"
         },
         {
           "name": "Charged Attack Stamina Cost",
