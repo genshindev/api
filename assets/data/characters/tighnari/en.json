@@ -1,0 +1,116 @@
+{
+    "name": "Tighnari",
+    "title": "",
+    "vision": "Dendro",
+    "weapon": "Bow",
+    "nation": "Sumeru",
+    "affiliation": "Gandharva Ville",
+    "rarity": 5,
+    "constellation": "Leptailurus Cervarius",
+    "birthday": "",
+    "description": "\"A message for you. I brought back a specialty from the desert, two packs of honeyed dates, which helps to replenish your energy, whether in the morning or at night. Thank you for your patience in teaching and taking care of Collei. Good luck with your work and best wishes for Collei's studies.\"\n—An anonymously written message left inside a candy box, placed on the watcher's table.",
+    "skillTalents": [
+      {
+        "name": "",
+        "unlock": "Normal Attack",
+        "description": "",
+        "upgrades": [
+
+        ],
+        "type": "NORMAL_ATTACK"
+      },
+      {
+        "name": "",
+        "unlock": "",
+        "description": "",
+        "upgrades": [
+          {
+            "name": "1-Hit DMG",
+            "value": ""
+          },
+          {
+            "name": "2-Hit DMG",
+            "value": ""
+          },
+          {
+            "name": "3-Hit DMG",
+            "value": ""
+          },
+          {
+            "name": "CD",
+            "value": ""
+          }
+        ],
+        "type": "ELEMENTAL_SKILL"
+      },
+      {
+        "name": "",
+        "unlock": "Elemental Burst",
+        "description": "",
+        "upgrades": [
+        
+        ],
+        "type": "ELEMENTAL_BURST"
+      }
+    ],
+    "passiveTalents": [
+      {
+        "name": "",
+        "unlock": "Unlocked at Ascension 1",
+        "description": "",
+        "level": 1
+      },
+      {
+        "name": "",
+        "unlock": "Unlocked at Ascension 4",
+        "description": "",
+        "level": 4
+      },
+      {
+        "name": "",
+        "unlock": "",
+        "description": ""
+      }
+    ],
+    "constellations": [
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 1",
+        "description": "",
+        "level": 1
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 2",
+        "description": "",
+        "level": 2
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 3",
+        "description": "",
+        "level": 3
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 4",
+        "description": "",
+        "level": 4
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 5",
+        "description": "",
+        "level": 5
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 6",
+        "description": "",
+        "level": 6
+      }
+    ],
+    "vision_key": "DENDRO",
+    "weapon_type": "BOW"
+  }
+  
