@@ -1,9 +1,11 @@
 {
     "name": "Arataki Itto",
+    "title": "Hanamizaka Heroics",
     "vision": "Geo",
     "weapon": "Claymore",
     "nation": "Inazuma",
     "affiliation": "Arataki Gang Oni",
+    
     "rarity": 5,
     "constellation": "Taurus Iracundus",
     "birthday": "0000-06-01",

@@ -5,25 +5,115 @@
   "nation": "Outlander",
   "affiliation": "Not affilated to any Nation",
   "rarity": 5,
-  "constellation": "Viatrix",
+  "constellation": "Viator/Viatrix",
   "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
   "skillTalents": [
     {
       "name": "Foreign Thundershock",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "44.5%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "43.4%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "53.0%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "58.3%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "70.8%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "Male: 55.9% + 72.2%\nFemale: 55.9% + 60.7%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.9%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "128% / 160%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Lightning Blade",
       "unlock": "Elemental Skill",
       "description": "Unleashes three swift thunder shadows that deal Electro DMG to opponents and leave an Abundance Amulet behind after hitting an opponent.\n2 Abundance Amulets can be created initially. Using this skill will reset any Abundance Amulets that were generated.\n\nAbundance Amulets\nWhen a character is near an Abundance Amulet, they will absorb it and obtain the following effects:\nRestores Elemental Energy\nIncreases Energy Recharge during the Abundance Amulet's duration.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "78.7%"
+        },
+        {
+          "name": "Energy Regeneration",
+          "value": "3 Per Amulet"
+        },
+        {
+          "name": "Energy Recharge Increase",
+          "value": "20%"
+        },
+        {
+          "name": "Duration",
+          "value": "6s"
+        },
+        {
+          "name": "Abundance Amulet Duration",
+          "value": "15"
+        },
+        {
+          "name": "CD",
+          "value": "13.5s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Bellowing Thunder",
       "unlock": "Elemental Burst",
       "description": "You call upon the protection of lightning, knocking nearby opponents back and dealing Electro DMG to them.\nLightning Shroud\nWhen your active character's Normal or Charged Attacks hit opponents, they will call Falling Thunder forth, dealing Electro DMG.\nWhen Falling Thunder hits opponents, it will regenerate Energy for that character.\nOne instance of Falling Thunder can be generated every 0.5s.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "80.8%"
+        },
+        {
+          "name": "Falling Thunder DMG",
+          "value": "24.8%"
+        },
+        {
+          "name": "Energy Regeneration",
+          "value": "0.8"
+        },
+        {
+          "name": "Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
