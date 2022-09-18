@@ -88,5 +88,6 @@
     }
   ],
   "vision_key": "GEO",
+  "name_key": "zhongli",
   "weapon_type": "POLEARM"
 }

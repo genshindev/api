@@ -167,5 +167,6 @@
         }
     ],
     "vision_key": "PYRO",
+    "name_key": "thoma",
     "weapon_type": "POLEARM"
 }

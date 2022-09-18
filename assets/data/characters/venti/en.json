@@ -169,5 +169,6 @@
     }
   ],
   "vision_key": "ANEMO",
+  "name_key": "venti",
   "weapon_type": "BOW"
 }

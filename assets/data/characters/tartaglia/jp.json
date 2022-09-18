@@ -220,5 +220,6 @@
     }
   ],
   "vision_key": "HYDRO",
+  "name_key": "tartaglia",
   "weapon_type": "BOW"
 }

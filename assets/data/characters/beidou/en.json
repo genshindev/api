@@ -177,5 +177,6 @@
     }
   ],
   "vision_key": "ELECTRO",
+  "name_key": "beidou",
   "weapon_type": "CLAYMORE"
 }
