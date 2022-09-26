@@ -8,7 +8,6 @@ import helmet from 'koa-helmet';
 import cors from '@koa/cors';
 import * as Sentry from '@sentry/node';
 import chalk from 'chalk';
-
 import router from './routes';
 
 const sentryDsn = process.env.SENTRY_DSN;
