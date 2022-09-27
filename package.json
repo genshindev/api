@@ -39,8 +39,10 @@
   "devDependencies": {
     "@types/keyv": "^3.1.1",
     "@types/koa": "^2.11.6",
+    "@types/koa-compress": "^4.0.3",
     "@types/koa-helmet": "^6.0.1",
     "@types/koa-router": "^7.4.1",
+    "@types/koa-static": "^4.0.2",
     "@types/mime-types": "^2.1.0",
     "@types/sharp": "^0.26.1",
     "@typescript-eslint/eslint-plugin": "^4.10.0",
@@ -65,8 +67,10 @@
     "keyv": "^4.0.3",
     "koa": "^2.13.0",
     "koa-body": "^4.2.0",
+    "koa-compress": "^5.1.0",
     "koa-helmet": "^6.0.0",
     "koa-router": "^10.0.0",
+    "koa-static": "^5.0.0",
     "mime-types": "^2.1.27",
     "sharp": "^0.26.3"
   },
