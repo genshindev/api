@@ -37,10 +37,9 @@ router.get('/:type', async (ctx) => {
 
 router.get('/:type/all', async (ctx) => {
   try {
-    const { lang, ...params } = ctx.query;
+    const { lang, fields, ...params } = ctx.query;
     const { type } = ctx.params;
     const entities = await getAvailableEntities(type);
-
     if (!entities) return;
 
     const entityObjects = await Promise.all(
@@ -53,19 +52,30 @@ router.get('/:type/all', async (ctx) => {
       }),
     );
 
+    if (fields) {
+      ctx.body = entityObjects.map((entity) => {
+        return Object.keys(entity)
+          .filter(key => fields.includes(key))
+          .reduce((obj: Record<string, any>, key) => {
+            obj[key] = entity[key]
+            return obj
+          }, {})
+      })
+      return
+    }
+
     ctx.body = entityObjects.filter((entity) => {
       if (!entity) return;
 
       for (const key of Object.keys(params)) {
         const value = entity[key];
-
         switch (typeof value) {
           case 'string':
             if (!params[key]) {
               return false
             }
             if (!value.includes(params[key]!.toString())) return false;
-            break;
+            else return true;
           default:
             if (value != params[key]) return false;
             break;
@@ -84,8 +94,8 @@ router.get('/:type/:id', async (ctx) => {
   try {
     const { lang } = ctx.query;
     const { type, id } = ctx.params;
-
-    ctx.body = await getEntity(type, id, lang);
+    const entitiy = await getEntity(type, id, lang);
+    ctx.body = entitiy
   } catch (e) {
     ctx.status = 404;
     ctx.body = { error: e.message };
