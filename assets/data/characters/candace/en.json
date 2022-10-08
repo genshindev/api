@@ -13,7 +13,7 @@
     {
       "name": "Gleaming Spear - Guardian Stance",
       "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 4 consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "description": "Normal Attack\nPerforms up to 4 consecutive spear strikes.\n\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
@@ -37,7 +37,7 @@
         },
         {
           "name": "Charged Attack Stamina Cost",
-          "value": "25s"
+          "value": "25"
         },
         {
           "name": "Plunge DMG",
@@ -51,7 +51,7 @@
       "type": "NORMAL_ATTACK"
     },
     {
-      "name": "Sacred Rite: Heron's Sanctum,",
+      "name": "Sacred Rite: Heron's Sanctum",
       "unlock": "Elemental Skill",
       "description": "Candace's fighting style is capable of warding off an entire tide of foes.\n\nTap\nRushes forward with her shield, dealing Hydro DMG to opponents in front of her.\n\nHold\nRaises her shield to block incoming attacks from nearby opponents, forming a barrier that absorbs DMG based on her Max HP and absorbs Hydro DMG 250% more effectively. This barrier lasts until the Elemental Skill is unleashed.\nAfter for a certain period of time, Candace will finish charging, and when the skill button is released, the skill duration expires, or when the barrier is broken, she will perform a leaping strike that deals Hydro DMG to opponents in front of her.",
       "upgrades": [
@@ -93,7 +93,7 @@
         },
         {
           "name": "DMG Bonus",
-          "value": "20.0%%"
+          "value": "20.0%"
         },
         {
           "name": "Wave Impact DMG",
