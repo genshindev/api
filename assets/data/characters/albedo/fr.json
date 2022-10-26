@@ -88,5 +88,6 @@
     }
   ],
   "vision_key": "GEO",
+  "name_key": "albedo",
   "weapon_type": "SWORD"
 }

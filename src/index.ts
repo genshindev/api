@@ -8,9 +8,10 @@ import helmet from 'koa-helmet';
 import cors from '@koa/cors';
 import * as Sentry from '@sentry/node';
 import chalk from 'chalk';
-
 import router from './routes';
-
+import serve from 'koa-static'
+import { imagesDirectory } from './config'
+import compress from 'koa-compress'
 const sentryDsn = process.env.SENTRY_DSN;
 
 // Check if Sentry
@@ -29,6 +30,11 @@ if (sentryDsn && sentryDsn.length > 0) {
   app.use(koaBody());
   app.use(helmet());
   app.use(cors());
+  app.use(compress())
+  
+  app.use(serve(imagesDirectory(), {
+    maxAge: 31556952000
+  }));
 
   app.use(router.routes());
 

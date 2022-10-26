@@ -162,5 +162,6 @@
     }
   ],
   "vision_key": "PYRO",
+  "name_key": "amber",
   "weapon_type": "BOW"
 }

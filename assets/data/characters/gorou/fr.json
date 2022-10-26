@@ -88,5 +88,6 @@
     }
   ],
   "vision_key": "GEO",
+  "name_key": "gorou",
   "weapon_type": "BOW"
 }

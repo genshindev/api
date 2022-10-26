@@ -46,8 +46,11 @@ export async function getAvailableEntities(
 export async function getEntity(
   type: string,
   id: string,
-  lang: string = 'en',
+  lang: string | string[] = 'en',
 ): Promise<any> {
+  if(lang){
+    lang = lang.toString();
+  }
   const cacheId = `data-${type}-${id}-${lang}`.toLowerCase();
   const found = await cache.get(cacheId);
   if (found) return found;
