@@ -1,0 +1,174 @@
+{
+    "name": "Dori",
+    "title": "Treasure of Dream Garden",
+    "vision": "Electro",
+    "weapon": "Claymore",
+    "nation": "Sumeru",
+    "affiliation": "The Palace of Alcazarzaray",
+    "rarity": 4,
+    "constellation": "Magicae Lucerna",
+    "birthday": "0000-12-21",
+    "description": "The owner of The Palace of Alcazarzaray and a merchant of high regard, 'Lord Sangemah Bay' is well-known for her ability to obtain anything a person needs, as long as they have enough Mora to afford her jaw-dropping prices.",
+    "skillTalents": [
+        {
+            "name": "Marvelous Sword-Dance",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerform up to 3 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, performs a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "90.21%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "41.07% + 43.12%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "128.4%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "43%"
+                },
+                {
+                    "name": "Charged Attack Spinning DMG",
+                    "value": "62.55%"
+                },
+                {
+                    "name": "Charged Attack Final DMG",
+                    "value": "133.09%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "40/s"
+                },
+                {
+                    "name": "Max Duration",
+                    "value": "5s"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "74.59%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "149.14% / 186.29%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
+        },
+        {
+            "name": "Spirit-Warding Lamp: Troubleshooter Cannon",
+            "unlock": "Elemental Skill",
+            "description": "Directs a Spirit-Warding Lamp to fire off Troubleshooter Shots at opponents, dealing Electro DMG. When Troubleshooter Shots hit opponents, they will create 2 After-Sales Service Rounds that will automatically track opponents and deal Electro DMG.",
+            "upgrades": [
+                {
+                    "name": "Troubleshooter Shot DMG",
+                    "value": "147.28%"
+                },
+                {
+                    "name": "After-Sales Service Round DMG",
+                    "value": "31.56%"
+                },
+                {
+                    "name": "CD",
+                    "value": "9s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
+        },
+        {
+            "name": "Alcazarzaray's Exactitude",
+            "unlock": "Elemental Burst",
+            "description": "Summons forth the Jinni within the lamp to give the client various kinds of aid.\nJinni\n\nConnects to a nearby character. The connected character will:\nContinuously restore HP based on Dori's Max HP.\nContinuously regenerate Energy.\nBe affected by Electro.\n\nWhen the connector between the Jinni and the character touches opponents, it will deal one instance of Electro DMG to them every 0.4s.\nOnly one Jinni can exist at one time.",
+            "upgrades": [
+                {
+                    "name": "Connector DMG",
+                    "value": "15.88%"
+                },
+                {
+                    "name": "Continuous Healing",
+                    "value": "6.67% Max HP + 641.9"
+                },
+                {
+                    "name": "Energy Regeneration",
+                    "value": "1.6"
+                },
+                {
+                    "name": "Duration",
+                    "value": "12s"
+                },
+                {
+                    "name": "CD",
+                    "value": "20s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "80"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
+        }
+    ],
+    "passiveTalents": [
+        {
+            "name": "An Eye for Gold",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "After a character connected to the Jinni triggers an Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or an Electro Swirl or Crystallize reaction, the CD of Spirit-Warding Lamp:\nTroubleshooter Cannon is decreased by 1s.\nThis effect can be triggered once every 3s.",
+            "level": 1
+        },
+        {
+            "name": "Compound Interest",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "When the Troubleshooter Shots or After-Sales Service Rounds from Spirit-Warding Lamp: Troubleshooter Cannon hit opponents, Dori will restore 5 Elemental Energy for every 100% Energy Recharge possessed.\nPer Spirit-Warding Lamp: Troubleshooter Cannon, only one instance of Energy restoration can be triggered and a maximum of 15 Energy can be restored this way.",
+            "level": 4
+        },
+        {
+            "name": "Unexpected Order",
+            "unlock": "Unlocked Automatically",
+            "description": "When Dori crafts Character and Weapon Enhancement Materials, she has a chance to refund a portion of the crafting materials used."
+        }
+    ],
+    "constellations": [
+        {
+            "name": "Additional Investment",
+            "unlock": "Constellation Lv. 1",
+            "description": "The number of After-Sales Service Rounds created by Troubleshooter Shots is increased by 1.",
+            "level": 1
+        },
+        {
+            "name": "Special Franchise",
+            "unlock": "Constellation Lv. 2",
+            "description": "When you are in combat and the Jinni heals the character it is connected to, it will fire a Jinni Toop from that character's position that deals 50% of Dori's ATK DMG.",
+            "level": 2
+        },
+        {
+            "name": "Wonders Never Cease",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Alcazarzaray's Exactitude by 3.\nMaximum upgrade level is 15.",
+            "level": 3
+        },
+        {
+            "name": "Discretionary Supplement",
+            "unlock": "Constellation Lv. 4",
+            "description": "The character connected to the Jinni will obtain the following buffs based on their current HP and Energy:\nWhen their HP is lower than 50%, they gain 50% Incoming Healing Bonus.\nWhen their Energy is less than 50%, they gain 30% Energy Recharge.",
+            "level": 4
+        },
+        {
+            "name": "Value for Mora",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increases the Level of Spirit-Warding Lamp: Troubleshooter Cannon by 3.\nMaximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Sprinkling Weight",
+            "unlock": "Constellation Lv. 6",
+            "description": "Dori gains the following effects for 3s after using Spirit-Warding Lamp: Troubleshooter Cannon:\nElectro Infusion.\nWhen Normal Attacks hit opponents, all nearby party members will heal HP equivalent to 4% of Dori's Max HP. This type of healing can occur once every 0.1s.",
+            "level": 6
+        }
+    ],
+    "vision_key": "ELECTRO",
+    "name_key": "dori",
+    "weapon_type": "CLAYMORE"
+}
