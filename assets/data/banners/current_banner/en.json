@@ -1,13 +1,22 @@
 {
-	"event_five_star_character": "nilou",
+	"event_five_star_character": [
+		"nilou",
+		"albedo"
+	],
+	"new_event_four_star_characters": [],
 	"event_four_star_characters": [
 		"barbara",
 		"xiangling",
 		"beidou"
 	],
+	"new_event_five_star_weapons": [],
 	"event_five_star_weapons": [
 		"key-of-khaj-nisut",
 		"primordial-jade-cutter"
+	],
+	"new_event_four_star_weapon": [
+		"wandering-evenstar",
+		"xiphos'-moonlight"
 	],
 	"event_four_star_weapons": [
 		"sacrificial-bow",
