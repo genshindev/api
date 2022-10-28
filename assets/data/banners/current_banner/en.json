@@ -3,6 +3,10 @@
 		"nilou",
 		"albedo"
 	],
+	"event_five_star_character_images": [
+		"https://paimon.moe/images/banners/Twirling%20Lotus%201.png",
+		"https://paimon.moe/images/banners/Secretum%20Secretorum%203.png"
+	],
 	"new_event_four_star_characters": [],
 	"event_four_star_characters": [
 		"barbara",
@@ -14,6 +18,7 @@
 		"key-of-khaj-nisut",
 		"primordial-jade-cutter"
 	],
+	"event_five_star_weapons_image": "https://paimon.moe/images/banners/Epitome%20Invocation%2036.png",
 	"new_event_four_star_weapon": [
 		"wandering-evenstar",
 		"xiphos'-moonlight"
