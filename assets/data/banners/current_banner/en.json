@@ -21,13 +21,13 @@
 	"event_five_star_weapons_image": "https://paimon.moe/images/banners/Epitome%20Invocation%2036.png",
 	"new_event_four_star_weapon": [
 		"wandering-evenstar",
-		"xiphos'-moonlight"
+		"xiphos-moonlight"
 	],
 	"event_four_star_weapons": [
 		"sacrificial-bow",
-		"dragon's-bane",
+		"dragons-bane",
 		"rainslasher",
 		"wandering-evenstar",
-		"xiphos'-moonlight"
+		"xiphos-moonlight"
 	]
 }
