@@ -1,0 +1,15 @@
+{
+	"name": "Янь Фэй",
+	"title": "Непорочная мудрость",
+	"vision": "Пиро",
+	"weapon": "Катализатор",
+	"nation": "Ли Юэ",
+	"affiliation": "Адепты",
+	"rarity": 4,
+	"constellation": "Волшебный Зверь",
+	"description": "Известный консультант по юридическим вопросам из Ли Юэ. Проницательная девушка, в чьих венах течёт кровь Божественного зверя.",
+	"nation_key": "LIYUE",
+	"vision_key": "PYRO",
+	"name_key": "yanfei",
+	"weapon_type": "CATALYST"
+}

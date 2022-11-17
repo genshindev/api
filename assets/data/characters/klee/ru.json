@@ -1,0 +1,15 @@
+{
+	"name": "Кли",
+	"title": "Ускользающее солнце",
+	"vision": "Пиро",
+	"weapon": "Катализатор",
+	"nation": "Мондштадт",
+	"affiliation": "Ордо Фавониус",
+	"rarity": 5,
+	"constellation": "Четырёхлистный Клевер",
+	"description": "Эксперт по взрывчатке и частый гость темницы Ордо Фавониус. Также известна, как «Ускользающее солнце».",
+	"vision_key": "PYRO",
+	"name_key": "klee",
+	"nation_key": "MONDSTADT",
+	"weapon_type": "CATALYST"
+}

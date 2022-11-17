@@ -17,7 +17,8 @@
             "upgrades": [
                 {
                     "name": "1-Hit DMG",
-                    "value": "44.4%"},
+                    "value": "44.4%"
+                },
                 {
                     "name": "2-Hit DMG",
                     "value": "43.6%"
@@ -67,7 +68,8 @@
                     "value": "8s"
                 },
                 {
-                    "name": "CD", "value": "15s"
+                    "name": "CD",
+                    "value": "15s"
                 }
             ],
             "type": "ELEMENTAL_SKILL"
@@ -168,5 +170,6 @@
     ],
     "vision_key": "PYRO",
     "name_key": "thoma",
+    "nation_key": "INAZUMA",
     "weapon_type": "POLEARM"
 }

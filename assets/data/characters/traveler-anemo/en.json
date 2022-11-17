@@ -162,6 +162,7 @@
     }
   ],
   "vision_key": "ANEMO",
+  "nation_key": "TEYVAT",
   "name_key": "traveler-anemo",
   "weapon_type": "SWORD"
 }

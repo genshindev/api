@@ -176,6 +176,7 @@
 		}
 	],
 	"vision_key": "DENDRO",
+	"nation_key": "SUMERU",
 	"name_key": "nahida",
 	"weapon_type": "CATALYST"
 }

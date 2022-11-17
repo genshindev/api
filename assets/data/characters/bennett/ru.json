@@ -1,0 +1,15 @@
+{
+	"name": "Беннет",
+	"title": "Испытание огнём",
+	"vision": "Пиро",
+	"weapon": "Одноручный меч",
+	"nation": "Мондштадт",
+	"affiliation": "Искатели приключений",
+	"rarity": 4,
+	"constellation": "Дорога Опасностей",
+	"description": "Добросердечный и порядочный искатель приключений из Мондштадта, который, к несчастью, сказочно невезуч.",
+	"vision_key": "PYRO",
+	"name_key": "bennett",
+	"nation_key": "MONDSTADT",
+	"weapon_type": "SWORD"
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Барбара",
+	"title": "Оплот стойкости",
+	"vision": "Гидро",
+	"weapon": "Катализатор",
+	"nation": "Мондштадт",
+	"affiliation": "Церковь Фавония",
+	"rarity": 4,
+	"constellation": "Золотой Кубок",
+	"description": "Все жители Мондштадта боготворят Барбару, но слово «идол» она узнала из модного журнала.",
+	"vision_key": "HYDRO",
+	"name_key": "barbara",
+	"nation_key": "MONDSTADT",
+	"weapon_type": "CATALYST"
+}

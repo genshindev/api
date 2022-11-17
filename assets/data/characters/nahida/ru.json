@@ -1,0 +1,15 @@
+{
+	"name": "Нахида",
+	"title": "Средоточие чистоты",
+	"vision": "Дендро",
+	"weapon": "Катализатор",
+	"nation": "Сумеру",
+	"affiliation": "Город Сумеру, Семеро Архонтов",
+	"rarity": 5,
+	"constellation": "Госпожа Мудрости",
+	"description": "Узница глубин Храма Сурастаны, которая созерцает мир только в сновидениях.",
+	"vision_key": "DENDRO",
+	"name_key": "nahida",
+	"nation_key": "SUMERU",
+	"weapon_type": "CATALYST"
+}

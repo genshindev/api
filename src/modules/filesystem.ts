@@ -48,7 +48,7 @@ export async function getEntity(
   id: string,
   lang: string | string[] = 'en',
 ): Promise<any> {
-  if(lang){
+  if (lang) {
     lang = lang.toString();
   }
   const cacheId = `data-${type}-${id}-${lang}`.toLowerCase();
@@ -91,6 +91,40 @@ export async function getEntity(
       `Error in JSON formatting of Entity ${type}/${id} for language ${lang}, create an issue at https://github.com/genshindev/api/issues`,
     );
   }
+}
+
+export async function createEntity(type: string, id: string, entity: Record<string, any>, lang: string | string[] | undefined): Promise<any> {
+  let isEntityExists;
+  lang = lang ?? "en"
+
+  try {
+    isEntityExists = await getEntity(type, id, lang)
+  } catch (e) {
+    isEntityExists = null
+  }
+
+  const entityDirectory = path.join(dataDirectory(type), id.toLowerCase()).normalize()
+  const fileDirectory = path.join(entityDirectory, `${lang}.json`).normalize()
+
+  if (isEntityExists) {
+    const oldVersionsDirectory = path.join(entityDirectory, "oldVersion")
+
+    const today = new Date()
+    const date = today.getFullYear() + '-' + (today.getMonth() + 1) + '-' + today.getDate();
+    const time = today.getHours() + "." + today.getMinutes() + "." + today.getSeconds();
+
+    const oldVersionsDirectoryFile = path.join(oldVersionsDirectory, `${lang}-${date}-${time}.json`).normalize()
+    await fs.access(oldVersionsDirectory)
+      .catch(async () => await fs.mkdir(oldVersionsDirectory))
+      .then(async () => await fs.rename(fileDirectory, oldVersionsDirectoryFile))
+
+  } else {
+    await fs.access(entityDirectory).catch(async () => await fs.mkdir(entityDirectory))
+  }
+
+  const jsonEntity = JSON.stringify(entity)
+  await fs.writeFile(fileDirectory, jsonEntity).catch(e => new Error(e))
+  return entity
 }
 
 export async function getAvailableImages(

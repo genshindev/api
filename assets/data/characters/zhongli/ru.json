@@ -1,0 +1,15 @@
+{
+	"name": "Чжун Ли",
+	"title": "Бренный скиталец",
+	"vision": "Гео",
+	"weapon": "Копьё",
+	"nation": "Ли Юэ",
+	"affiliation": "Ритуальное бюро «Ваншэн», Архонты",
+	"rarity": 5,
+	"constellation": "Властелин Камня",
+	"description": "Приглашённый специалист ритуального бюро «Ваншэн». Необычайно загадочен и сведущ во всех делах.",
+	"nation_key": "LIYUE",
+	"vision_key": "GEO",
+	"name_key": "zhongli",
+	"weapon_type": "POLEARM"
+}

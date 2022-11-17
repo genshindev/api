@@ -88,5 +88,6 @@
   ],
   "vision_key": "GEO",
   "name_key": "albedo",
+  "nation_key": "MONDSTADT",
   "weapon_type": "SWORD"
 }

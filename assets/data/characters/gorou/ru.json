@@ -1,0 +1,15 @@
+{
+	"name": "Горо",
+	"title": "Пёс войны",
+	"vision": "Гео",
+	"weapon": "Лук",
+	"nation": "Инадзума",
+	"affiliation": "Ватацуми",
+	"rarity": 4,
+	"constellation": "Сиба-ину",
+	"description": "Великий генерал армии Ватацуми. Пользуется безграничным доверием своих подчинённых.",
+	"vision_key": "GEO",
+	"name_key": "gorou",
+	"nation_key": "INAZUMA",
+	"weapon_type": "BOW"
+}

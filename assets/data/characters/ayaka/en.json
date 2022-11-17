@@ -177,5 +177,6 @@
   ],
   "vision_key": "CRYO",
   "name_key": "ayaka",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "nation_key": "INAZUMA"
 }

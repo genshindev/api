@@ -1,0 +1,15 @@
+{
+	"name": "Сян Лин",
+	"title": "Миллион вкусов",
+	"vision": "Пиро",
+	"weapon": "Копьё",
+	"nation": "Ли Юэ",
+	"affiliation": "Ресторан «Народный выбор»",
+	"rarity": 4,
+	"constellation": "Поварской Черпак",
+	"description": "Знаменитый шеф-повар из Ли Юэ. Она относится к готовке со всей страстью. Её фирменным рецептам острых блюд нет равных на всём Тейвате.",
+	"nation_key": "LIYUE",
+	"vision_key": "PYRO",
+	"name_key": "xiangling",
+	"weapon_type": "POLEARM"
+}

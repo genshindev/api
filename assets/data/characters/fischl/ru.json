@@ -1,0 +1,15 @@
+{
+	"name": "Фишль",
+	"title": "Принцесса осуждения",
+	"vision": "Крио",
+	"weapon": "Лук",
+	"nation": "Мондштадт",
+	"affiliation": "Гильдия искателей приключений",
+	"rarity": 4,
+	"constellation": "Призрачный Ворон",
+	"description": "Таинственная девушка, называющая себя «Принцессой осуждения» и путешествующая в сопровождении ворона по имени Оз.",
+	"vision_key": "ELECTRO",
+	"nation_key": "MONDSTADT",
+	"name_key": "fischl",
+	"weapon_type": "BOW"
+}

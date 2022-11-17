@@ -1,0 +1,15 @@
+{
+	"name": "Камисато Аяка",
+	"title": "Инеевая цапля",
+	"vision": "Крио",
+	"weapon": "Одноручный меч",
+	"nation": "Инадзума",
+	"affiliation": "Комиссия Ясиро, Клан Камисато",
+	"rarity": 5,
+	"constellation": "Снежный Журавль",
+	"description": "Наследница клана Камисато комиссии Ясиро. Благородна и изящна, мудра и сильна.",
+	"vision_key": "CRYO",
+	"name_key": "ayaka",
+	"weapon_type": "SWORD",
+	"nation_key": "INAZUMA"
+}

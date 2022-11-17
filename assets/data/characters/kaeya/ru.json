@@ -1,0 +1,15 @@
+{
+	"name": "Кэйа",
+	"title": "Зимний Клинок",
+	"vision": "Крио",
+	"weapon": "Одноручный меч",
+	"nation": "Мондштадт",
+	"affiliation": "Ордо Фавониус",
+	"rarity": 4,
+	"constellation": "Павлинье Перо",
+	"description": "Капитан Ордо Фавониус выглядит довольно экзотично. Несмотря на дружелюбие и приветливость, от него веет странным холодком.",
+	"vision_key": "CRYO",
+	"name_key": "kaeya",
+	"nation_key": "MONDSTADT",
+	"weapon_type": "SWORD"
+}

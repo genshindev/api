@@ -1,0 +1,15 @@
+{
+	"name": "Сиканоин Хэйдзо",
+	"title": "Невозмутимое спокойствие",
+	"vision": "Анемо",
+	"weapon": "Катализатор",
+	"nation": "Инадзума",
+	"affiliation": "Комиссия Тэнрё",
+	"rarity": 4,
+	"constellation": "Малый Олень",
+	"description": "Талантливый молодой детектив из комиссии Тэнрё. Отличается ясным умом и острым восприятием.",
+	"vision_key": "ANEMO",
+	"name_key": "shikanoin-heizou",
+	"nation_key": "INAZUMA",
+	"weapon_type": "CATALYST"
+}

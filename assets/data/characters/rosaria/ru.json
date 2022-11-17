@@ -1,0 +1,15 @@
+{
+	"name": "Розария",
+	"title": "Венец милости",
+	"vision": "Крио",
+	"weapon": "Копьё",
+	"nation": "Мондштадт",
+	"affiliation": "Церковь Фавония",
+	"rarity": 4,
+	"constellation": "Терновый Венец",
+	"description": "Кроме её одеяния ничто не напоминает о её принадлежности церкви. Известна своими холодными речами и резкими поступками. Всегда действует одна.",
+	"vision_key": "CRYO",
+	"name_key": "rosaria",
+	"nation_key": "MONDSTADT",
+	"weapon_type": "POLEARM"
+}

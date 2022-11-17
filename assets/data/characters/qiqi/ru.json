@@ -1,0 +1,15 @@
+{
+	"name": "Ци ци",
+	"title": "Леденящая Ночь",
+	"vision": "Крио",
+	"weapon": "Одноручный меч",
+	"nation": "Ли Юэ",
+	"affiliation": "Хижина «Бубу»",
+	"rarity": 5,
+	"constellation": "Звон Колокольчика",
+	"description": "Ученица и сборщица трав из хижины Бубу. Зомби с бледным лицом, разговаривает или проявляет эмоции очень редко...",
+	"vision_key": "CRYO",
+	"name_key": "qiqi",
+	"nation_key": "LIYUE",
+	"weapon_type": "SWORD"
+}

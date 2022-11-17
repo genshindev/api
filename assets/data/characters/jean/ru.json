@@ -1,0 +1,15 @@
+{
+	"name": "Джинн",
+	"title": "Рыцарь Одуванчик",
+	"vision": "Анемо",
+	"weapon": "Одноручный меч",
+	"nation": "Мондштадт",
+	"affiliation": "Ордо Фавониус",
+	"rarity": 5,
+	"constellation": "Благородная Львица",
+	"description": "Справедливый и искренний Рыцарь Одуванчик, действующий магистр Ордо Фавониус.",
+	"vision_key": "ANEMO",
+	"name_key": "jean",
+	"nation_key": "MONDSTADT",
+	"weapon_type": "SWORD"
+}

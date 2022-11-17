@@ -1,0 +1,15 @@
+{
+	"name": "Нин Гуан",
+	"title": "Лунное затмение",
+	"vision": "Гео",
+	"weapon": "Катализатор",
+	"nation": "Ли Юэ",
+	"affiliation": "Цисин",
+	"rarity": 4,
+	"constellation": "Небесная Сфера",
+	"description": "Воля Небес группировки Цисин. Её богатство несравнимо ни с кем на континенте Тейват.",
+	"vision_key": "GEO",
+	"name_key": "ningguang",
+	"nation_key": "LIYUE",
+	"weapon_type": "CATALYST"
+}

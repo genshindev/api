@@ -1,0 +1,15 @@
+{
+	"name": "Тарталья",
+	"title": "Чайльд",
+	"vision": "Гидро",
+	"weapon": "Лук",
+	"nation": "Снежная",
+	"affiliation": "Фатуи, Одиннадцать Предвестников Фатуи",
+	"rarity": 5,
+	"constellation": "Небесный Кит",
+	"description": "Номер одиннадцать из Предвестников Фатуи, искусный воин, также известный под именем Чайльд.",
+	"vision_key": "HYDRO",
+	"name_key": "tartaglia",
+	"nation_key": "SNEZHNAYA",
+	"weapon_type": "BOW"
+}

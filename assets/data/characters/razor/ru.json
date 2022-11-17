@@ -1,0 +1,15 @@
+{
+	"name": "Рэйзор",
+	"title": "Инстинкт стаи",
+	"vision": "Электро",
+	"weapon": "Двуручный меч",
+	"nation": "Мондштадт",
+	"affiliation": "Вольфендом",
+	"rarity": 4,
+	"constellation": "Проворный Волчонок",
+	"description": "Мальчик, живущий среди волков в Вольфендоме у Мондштадта, вдали от цивилизации. Ловок как молния.",
+	"vision_key": "ELECTRO",
+	"name_key": "razor",
+	"nation_key": "MONDSTADT",
+	"weapon_type": "CLAYMORE"
+}

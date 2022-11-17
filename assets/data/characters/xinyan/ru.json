@@ -1,0 +1,15 @@
+{
+	"name": "Синь Янь",
+	"title": "Пламенная Мелодия",
+	"vision": "Пиро",
+	"weapon": "Двуручный меч",
+	"nation": "Ли Юэ",
+	"affiliation": "Ли Юэ",
+	"rarity": 4,
+	"constellation": "Сандаловая Мандолина",
+	"description": "Единственный рок-музыкант Ли Юэ. Своей вдохновляющей музыкой и пением она выражает протест предубеждениям.",
+	"nation_key": "LIYUE",
+	"vision_key": "PYRO",
+	"name_key": "xinyan",
+	"weapon_type": "CLAYMORE"
+}

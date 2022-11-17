@@ -1,0 +1,15 @@
+{
+	"name": "Сяо",
+	"title": "Защитник Якса",
+	"vision": "Анемо",
+	"weapon": "Копьё",
+	"nation": "Ли Юэ",
+	"affiliation": "Адепты, Якса",
+	"rarity": 5,
+	"constellation": "Златокрылая Птица",
+	"description": "Бессмертный дух Якса, охраняющий гавань Ли Юэ. Также зовётся Охотником на демонов или Защитником Якса.",
+	"nation_key": "LIYUE",
+	"vision_key": "ANEMO",
+	"name_key": "xiao",
+	"weapon_type": "POLEARM"
+}

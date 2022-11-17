@@ -1,0 +1,15 @@
+{
+	"name": "Венти",
+	"title": "Поэт ветров",
+	"vision": "Анемо",
+	"weapon": "Лук",
+	"nation": "Мондштадт",
+	"affiliation": "Архонты",
+	"rarity": 5,
+	"constellation": "Бог Песен",
+	"description": "Обычный бард, слоняющийся по улочкам Мондштадта.",
+	"nation_key": "MONDSTADT",
+	"vision_key": "ANEMO",
+	"name_key": "venti",
+	"weapon_type": "BOW"
+}

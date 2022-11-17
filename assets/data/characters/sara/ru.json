@@ -1,0 +1,15 @@
+{
+	"name": "Кудзё Сара",
+	"title": "Кабурая вороньего пера",
+	"vision": "Электро",
+	"weapon": "Лук",
+	"nation": "Инадзума",
+	"affiliation": "Комиссия Тэнрё",
+	"rarity": 4,
+	"constellation": "Веер",
+	"description": "Действующий генерал комиссии Тэнрё. Сурова, решительна и отважна в бою.",
+	"vision_key": "ELECTRO",
+	"name_key": "sara",
+	"nation_key": "LIYUE",
+	"weapon_type": "BOW"
+}

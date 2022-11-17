@@ -1,0 +1,15 @@
+{
+	"name": "Чун Юнь",
+	"title": "Морозная Пылкость",
+	"vision": "Крио",
+	"weapon": "Двуручный меч",
+	"nation": "Ли Юэ",
+	"affiliation": "Ли Юэ",
+	"rarity": 4,
+	"constellation": "Тяжесть Небес",
+	"description": "Молодой экзорцист из семьи экзорцистов. Изо всех сил старается подавить свою энергию Ян.",
+	"vision_key": "CRYO",
+	"name_key": "chongyun",
+	"nation_key": "LIYUE",
+	"weapon_type": "CLAYMORE"
+}

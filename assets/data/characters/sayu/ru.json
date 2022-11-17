@@ -1,0 +1,15 @@
+{
+	"name": "Саю",
+	"title": "Мудзина-ниндзя",
+	"vision": "Анемо",
+	"weapon": "Двуручный меч",
+	"nation": "Инадзума",
+	"affiliation": "Сюмацубан",
+	"rarity": 4,
+	"constellation": "Малый Мудзина",
+	"description": "Вечно сонный миниатюрный ниндзя из тайной организации Сюмацубан.",
+	"vision_key": "ANEMO",
+	"name_key": "sayu",
+	"nation_key": "INAZUMA",
+	"weapon_type": "CLAYMORE"
+}

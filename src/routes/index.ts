@@ -9,6 +9,7 @@ import {
   getEntity,
   getImage,
   getTypes,
+  /*  createEntity */
 } from '../modules/filesystem';
 
 const router = new Router();
@@ -52,15 +53,18 @@ router.get('/:type/all', async (ctx) => {
       }),
     );
 
+
+
     if (fields) {
       ctx.body = entityObjects.map((entity) => {
+        if (!entity) return;
         return Object.keys(entity)
           .filter(key => fields.includes(key))
           .reduce((obj: Record<string, any>, key) => {
             obj[key] = entity[key]
             return obj
           }, {})
-      })
+      }).filter((entity) => entity !== undefined)
       return
     }
 
@@ -89,6 +93,18 @@ router.get('/:type/all', async (ctx) => {
     ctx.body = { error: e.message };
   }
 });
+
+/* router.post('/:type/:id', async (ctx) => {
+  try {
+    const { lang } = ctx.query
+    const { type, id } = ctx.params
+    const newEntity = await createEntity(type, id, ctx.request.body, lang)
+    ctx.body = newEntity
+  } catch (e) {
+    ctx.status = 418
+    ctx.body = { error: e.message }
+  }
+}) */
 
 router.get('/:type/:id', async (ctx) => {
   try {

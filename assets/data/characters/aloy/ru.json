@@ -1,0 +1,15 @@
+{
+	"name": "Элой",
+	"title": "Спасительница из другого мира",
+	"vision": "Крио",
+	"weapon": "Лук",
+	"nation": "Неизвестно",
+	"affiliation": "Мятежник",
+	"rarity": 5,
+	"constellation": "Нора Фортис",
+	"description": "В прошлом изгой, а теперь охотник с непревзойденным чутьём. Её лук всегда наготове ради правого дела.",
+	"vision_key": "CRYO",
+	"name_key": "aloy",
+	"weapon_type": "BOW",
+	"nation_key": "UNKNOWN"
+}

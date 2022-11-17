@@ -1,0 +1,15 @@
+{
+	"name": "Гань Юй",
+	"title": "Взгляд полнолуния",
+	"vision": "Крио",
+	"weapon": "Лук",
+	"nation": "Ли Юэ",
+	"affiliation": "Павильон Лунного моря, Адепты",
+	"rarity": 5,
+	"constellation": "Священная Лань",
+	"description": "Главный секретарь павильона Лунного моря. В её жилах течёт кровь мифического зверя цилиня.",
+	"vision_key": "CRYO",
+	"name_key": "ganyu",
+	"nation_key": "LIYUE",
+	"weapon_type": "BOW"
+}

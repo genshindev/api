@@ -1,0 +1,15 @@
+{
+	"name": "Бэй Доу",
+	"title": "Владычица морей",
+	"vision": "Электро",
+	"weapon": "Двуручный меч",
+	"nation": "Ли Юэ",
+	"affiliation": "Южный Крест",
+	"rarity": 4,
+	"constellation": "Дракон Морей",
+	"description": "Капитан флота Южного Креста. Она весьма рисковая и прямолинейная леди.",
+	"vision_key": "ELECTRO",
+	"name_key": "beidou",
+	"nation_key": "LIYUE",
+	"weapon_type": "CLAYMORE"
+}

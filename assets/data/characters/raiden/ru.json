@@ -1,0 +1,15 @@
+{
+	"name": "Сёгун Райдэн",
+	"title": "Царство эвтюмии",
+	"vision": "Электро",
+	"weapon": "Копьё",
+	"nation": "Инадзума",
+	"affiliation": "Архонты",
+	"rarity": 5,
+	"constellation": "Бренный мир",
+	"description": "Её превосходительство Наруками Огосё, пообещавшая неизменную вечность для жителей Инадзумы.",
+	"vision_key": "ELECTRO",
+	"name_key": "raiden",
+	"nation_key": "INAZUMA",
+	"weapon_type": "POLEARM"
+}

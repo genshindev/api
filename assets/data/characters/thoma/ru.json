@@ -1,0 +1,15 @@
+{
+	"name": "Тома",
+	"title": "Защитник издалека",
+	"vision": "Пиро",
+	"weapon": "Копьё",
+	"nation": "Инадзума",
+	"affiliation": "Клан Камисато",
+	"rarity": 4,
+	"constellation": "Красный Щит",
+	"description": "Управляющий клана Камисато. Известный в Инадзуме «местный авторитет».",
+	"vision_key": "PYRO",
+	"name_key": "thoma",
+	"nation_key": "INAZUMA",
+	"weapon_type": "POLEARM"
+}

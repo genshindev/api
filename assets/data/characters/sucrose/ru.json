@@ -1,0 +1,15 @@
+{
+	"name": "Сахароза",
+	"title": "Безобидная карамелька",
+	"vision": "Анемо",
+	"weapon": "Катализатор",
+	"nation": "Мондштадт",
+	"affiliation": "Ордо Фавониус",
+	"rarity": 4,
+	"constellation": "Горячая Колба",
+	"description": "Алхимик, преисполненная любопытством по отношению ко всему на свете. Она занимается исследованием биоалхимии.",
+	"vision_key": "ANEMO",
+	"name_key": "sucrose",
+	"nation_key": "MONDSTADT",
+	"weapon_type": "CATALYST"
+}

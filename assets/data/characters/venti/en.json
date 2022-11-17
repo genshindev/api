@@ -169,6 +169,7 @@
     }
   ],
   "vision_key": "ANEMO",
+  "nation_key": "MONDSTADT",
   "name_key": "venti",
   "weapon_type": "BOW"
 }

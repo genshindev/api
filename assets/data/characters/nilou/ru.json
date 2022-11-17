@@ -1,0 +1,15 @@
+{
+	"name": "Нилу",
+	"title": "Танец лотоса",
+	"vision": "Дендро",
+	"weapon": "Одноручный меч",
+	"nation": "Сумеру",
+	"affiliation": "Театр Зубаира",
+	"rarity": 5,
+	"constellation": "Водяная Лилия",
+	"description": "Знаменитая танцовщица Театра Зубаира. Изящная красавица с чистой и открытой душой.",
+	"vision_key": "HYDRO",
+	"name_key": "nilou",
+	"nation_key": "SUMERU",
+	"weapon_type": "SWORD"
+}

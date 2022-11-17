@@ -1,0 +1,15 @@
+{
+	"name": "Кокоми",
+	"title": "Жемчужина мудрости",
+	"vision": "Гидро",
+	"weapon": "Катализатор",
+	"nation": "Инадзума",
+	"affiliation": "Ватацуми",
+	"rarity": 5,
+	"constellation": "Спящий дракон",
+	"description": "Божественная Жрица острова Ватацуми. Все дела острова находятся в руках этой молодой леди.",
+	"vision_key": "HYDRO",
+	"name_key": "kokomi",
+	"nation_key": "INAZUMA",
+	"weapon_type": "CATALYST"
+}

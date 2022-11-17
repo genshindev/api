@@ -1,0 +1,15 @@
+{
+	"name": "Син Цю",
+	"title": "Галантный юноша",
+	"vision": "Гидро",
+	"weapon": "Одноручный меч",
+	"nation": "Ли Юэ",
+	"affiliation": "Торговая федерация «Фэйюнь»",
+	"rarity": 4,
+	"constellation": "Пёстрый Гобелен",
+	"description": "Молодой любитель книг с благородным сердцем и длинным мечом.",
+	"nation_key": "LIYUE",
+	"vision_key": "HYDRO",
+	"name_key": "xingqiu",
+	"weapon_type": "SWORD"
+}

@@ -60,8 +60,8 @@
           "value": "76%"
         },
         {
-        "name": "Level 3 DMG",
-        "value": "95%"
+          "name": "Level 3 DMG",
+          "value": "95%"
         },
         {
           "name": "Level 4 DMG",
@@ -162,5 +162,6 @@
   ],
   "vision_key": "ELECTRO",
   "name_key": "yae-miko",
+  "nation_key": "INAZUMA",
   "weapon_type": "CATALYST"
 }

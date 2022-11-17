@@ -1,0 +1,15 @@
+{
+	"name": "Дилюк",
+	"title": "Тёмный рассвет",
+	"vision": "Пиро",
+	"weapon": "Двуручный меч",
+	"nation": "Мондштадт",
+	"affiliation": "Винокурня «Рассвет», Ордо Фавониус (ранее)",
+	"rarity": 5,
+	"constellation": "Мудрая Сова",
+	"description": "Магнат, построивший непревзойдённую винную империю в Мондштадте.",
+	"vision_key": "PYRO",
+	"name_key": "diluc",
+	"nation_key": "MONDSTADT",
+	"weapon_type": "CLAYMORE"
+}
