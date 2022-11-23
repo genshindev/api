@@ -1,9 +1,6 @@
 {
 	"name": "Layla",
-	"title": "Fantastical Evening Stas",
-	"vision": "Cryo",
-	"weapon": "Sword",
-	"nation": "Sumeru",
+	"title": "Fantastical Evening Star",
 	"affiliation": "Rtawahist (on profile) Sumeru Akademiya",
 	"rarity": 4,
 	"constellation": "Luscinia",
@@ -11,5 +8,5 @@
 	"vision_key": "CRYO",
 	"name_key": "layla",
 	"nation_key": "SUMERU",
-	"weapon_type": "Sword"
+	"weapon_type": "SWORD"
 }

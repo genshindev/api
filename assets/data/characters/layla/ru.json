@@ -1,9 +1,6 @@
 {
 	"name": "Лайла",
 	"title": "Дивная вечерняя звезда",
-	"vision": "Крио",
-	"weapon": "Одноручный меч",
-	"nation": "Сумеру",
 	"affiliation": "Даршан Ртавахист, Академия Сумеру",
 	"rarity": 4,
 	"constellation": "Соловей",
@@ -11,5 +8,5 @@
 	"vision_key": "CRYO",
 	"name_key": "layla",
 	"nation_key": "SUMERU",
-	"weapon_type": "Sword"
+	"weapon_type": "SWORD"
 }
