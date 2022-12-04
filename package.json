@@ -6,7 +6,7 @@
   "main": "dist/index.js",
   "scripts": {
     "start": "forever start .",
-    "build": "tsc",
+    "build": "npm install && tsc",
     "watch": "tsc -w",
     "dev": "nodemon",
     "format": "prettier --write .",
