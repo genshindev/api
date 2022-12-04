@@ -1,8 +1,0 @@
-version: '3'
-
-services:
-  app:
-    build: ./
-    container_name: genshin_api
-    ports:
-      - '5000:5000'
