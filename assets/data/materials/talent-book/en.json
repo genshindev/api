@@ -233,5 +233,71 @@
         "rarity": 4
       }
     ]
+  },
+    "admonition": {
+    "characters": ["candace", "cyno", "faruzan", "tighnari", "traveler-dendro"],
+    "availability": ["Monday", "Thursday", "Sunday"],
+    "source": "steeple-of-ignorance",
+    "items": [
+      {
+        "id": "teachings-of-admonition",
+        "name": "Teachings of Admonition",
+        "rarity": 2
+      },
+      {
+        "id": "guide-to-admonition",
+        "name": "Guide to Admonition",
+        "rarity": 3
+      },
+      {
+        "id": "philosophies-of-admonition",
+        "name": "Philosophies of Admonition",
+        "rarity": 4
+      }
+    ]
+  },
+  "ingenuity": {
+    "characters": ["alhaitham", "dori", "layla", "nahida", "traveler-dendro"],
+    "availability": ["Tuesday", "Friday", "Sunday"],
+    "source": "steeple-of-ignorance",
+    "items": [
+      {
+        "id": "teachings-of-ingenuity",
+        "name": "Teachings of Ingenuity",
+        "rarity": 2
+      },
+      {
+        "id": "guide-to-ingenuity",
+        "name": "Guide to Ingenuity",
+        "rarity": 3
+      },
+      {
+        "id": "philosophies-of-ingenuity",
+        "name": "Philosophies of Ingenuity",
+        "rarity": 4
+      }
+    ]
+  },
+  "praxis": {
+    "characters": ["collei", "nilou", "traveler-dendro", "wanderer"],
+    "availability": ["Tuesday", "Friday", "Sunday"],
+    "source": "steeple-of-ignorance",
+    "items": [
+      {
+        "id": "teachings-of-praxis",
+        "name": "Teachings of Praxis",
+        "rarity": 2
+      },
+      {
+        "id": "guide-to-praxis",
+        "name": "Guide to Praxis",
+        "rarity": 3
+      },
+      {
+        "id": "philosophies-of-praxis",
+        "name": "Philosophies of Praxis",
+        "rarity": 4
+      }
+    ]
   }
 }
