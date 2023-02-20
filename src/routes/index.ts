@@ -46,7 +46,7 @@ router.get('/:type/all', async (ctx) => {
     const entityObjects = await Promise.all(
       entities.map(async (id) => {
         try {
-          return await getEntity(type, id, lang);
+          return await getEntity(type, id, lang as string);
         } catch (e) {
           return null;
         }
@@ -61,7 +61,7 @@ router.get('/:type/all', async (ctx) => {
 
         switch (typeof value) {
           case 'string':
-            if (!value.includes(params[key])) return false;
+            if (!value.includes(params[key] as string)) return false;
             break;
           default:
             if (value != params[key]) return false;
@@ -82,7 +82,7 @@ router.get('/:type/:id', async (ctx) => {
     const { lang } = ctx.query;
     const { type, id } = ctx.params;
 
-    ctx.body = await getEntity(type, id, lang);
+    ctx.body = await getEntity(type, id, lang as string);
   } catch (e) {
     ctx.status = 404;
     ctx.body = { error: e.message };
