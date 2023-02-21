@@ -382,5 +382,104 @@
         "rarity": 5
       }
     ]
+  },
+  "tailsman":{
+    "weapons":[    
+      "forest-regalia",
+      "key-of-khaj-nisut",
+      "light-of-foliar-incision",
+      "sapwood-blade",
+      "xiphos'-moonlight"
+    ],
+    "availability": ["Monday", "Thursday", "Sunday"],
+    "source": "tower-of-abject-pride",
+    "items":[
+      {
+        "id": "copper-talisman-of-the-forest-dew",
+        "name": "Copper Talisman of the Forest Dew",
+        "rarity": 2
+      },
+      {
+        "id": "iron-talisman-of-the-forest-dew",
+        "name": "Iron Talisman of the Forest Dew",
+        "rarity": 3
+      },
+      {
+        "id": "silver-talisman-of-the-forest-dew",
+        "name": "Silver Talisman of the Forest Dew",
+        "rarity": 4
+      },
+      {
+        "id": "golden-talisman-of-the-forest-dew",
+        "name": "Golden Talisman of the Forest Dew",
+        "rarity": 5
+      }
+    ]
+  },
+  "oasis":{
+    "weapons":[    
+      "a-thousand-floating-dreams",
+      "fruit-of-fulfillment",
+      "moonpiercer",
+      "staff-of-the-scarlet-sands",
+      "wandering-evenstar"
+    ],
+    "availability": ["Tuesday", "Friday", "Sunday"],
+    "source": "tower-of-abject-pride",
+    "items":[
+      {
+        "id": "oasis-garden's-reminiscence",
+        "name": "Oasis Garden's Reminiscence",
+        "rarity": 2
+      },
+      {
+        "id": "oasis-garden's-kindness",
+        "name": "Oasis Garden's Kindness",
+        "rarity": 3
+      },
+      {
+        "id": "oasis-garden's-mourning",
+        "name": "Oasis Garden's Mourning",
+        "rarity": 4
+      },
+      {
+        "id": "oasis-garden's-truth",
+        "name": "Oasis Garden's Truth",
+        "rarity": 5
+      }
+    ]
+  },
+  "scorching":{
+    "weapons":[    
+      "hunter's-path",
+      "tulaytullah's-remembrance",
+      "end-of-the-line",
+      "king's-squire",
+      "makhaira-aquamarine"
+    ],
+    "availability": ["Wednesday", "Saturday", "Sunday"],
+    "source": "tower-of-abject-pride",
+    "items":[
+      {
+        "id": "echo-of-scorching-might",
+        "name": "Echo of Scorching Might",
+        "rarity": 2
+      },
+      {
+        "id": "remnant-glow-of-scorching-might",
+        "name": "Remnant Glow of Scorching Might",
+        "rarity": 3
+      },
+      {
+        "id": "dream-of-scorching-might",
+        "name": "Dream of Scorching Might",
+        "rarity": 4
+      },
+      {
+        "id": "olden-days-of-scorching-might",
+        "name": "Olden Days of Scorching Might",
+        "rarity": 5
+      }
+    ]
   }
 }
