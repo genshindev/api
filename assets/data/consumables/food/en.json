@@ -1584,5 +1584,32 @@
         "quantity": 2
       }
     ]
+  },
+  "aaru-mixed-rice": {
+    "name": "Aaru Mixed Rice",
+    "rarity": 2,
+    "type": "Adventurer's Dish",
+    "effect": "Restores 50 Stamina.",
+    "hasRecipe": true,
+    "description": "A large serving of filling staple food. In this dish that combines rice, noodles, and beans together, the secret of great taste lies in the sweet and sour flavor imparted by tomatoes. Owing to its common nature and low price, this dish is a great choice for sating one's hunger — which is one of the key reasons why this recipe has spread from Aaru Village to the rest of Sumeru.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 3
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Glabrous Beans",
+        "quantity": 2
+      },
+      {
+        "item": "Tomato",
+        "quantity": 2
+      }
+    ]
   }
 }
