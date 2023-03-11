@@ -1742,5 +1742,86 @@
         "quantity": 1
       }
     ]
+  },
+  "braised-meat": {
+    "name": "Braised Meat",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' Physical DMG by 30% for 300s.",
+    "hasRecipe": true,
+    "description": "A stewed dish. The meat slices were fried first, followed by the vegetable accouterments, after which they were mixed together. The soup was then added and simmered until it thickened. After this patient, slow cooking process, the meat has become soft and tender, bringing those who eat it a down-to-earth satisfaction.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Carrot",
+        "quantity": 2
+      },
+      {
+        "item": "Potato",
+        "quantity": 2
+      },
+      {
+        "item": "Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  "butter-chicken": {
+    "name": "Butter Chicken",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": true,
+    "description": "A flavorful dish. Spice and chopped tomatoes were mixed with warm butter, and then cooked into a creamy sauce. Into it went marinated and pan-fried chicken pieces. People from Sumeru prefer eating the dish with rice or flatbread, which allows them to savor the dish's enticing flavor better.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 3
+      },
+      {
+        "item": "Tomato",
+        "quantity": 3
+      },
+      {
+        "item": "Butter",
+        "quantity": 1
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "butter-crab": {
+    "name": "Butter Crab",
+    "rarity": 4,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 261 and healing effects by 8% for 300s.",
+    "hasRecipe": true,
+    "description": "A grilled crab dish. Appropriate heat control has allowed the crab meat to stay moist and fatty. The butter has seeped into the crab meat, producing an aroma that has people salivating even from afar.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Butter",
+        "quantity": 4
+      },
+      {
+        "item": "Crab",
+        "quantity": 4
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 2
+      },
+      {
+        "item": "Matsutake",
+        "quantity": 1
+      }
+    ]
   }
 }
