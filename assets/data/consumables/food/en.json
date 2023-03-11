@@ -2323,5 +2323,24 @@
         "quantity": 1
       }
     ]
+  },
+  "lambad-fish-roll": {
+    "name": "Lambad Fish Roll",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A grilled fish dish with a faint floral scent. It is said that Lambad once adventured far and wide in his youth. Everywhere he went, he would taste the grilled fish at local taverns. This dish was not a signature food in Sumeru, and Lambad thought it was a pity, so he invented his own fish roll. According to the gourmets who often dine at his tavern, the tales of his adventures aren't necessarily true, but his fish roll is undoubtedly delicious.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 1
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 1
+      }
+    ]
   }
 }
