@@ -2342,5 +2342,193 @@
         "quantity": 1
       }
     ]
+  },
+  "masala-cheese-balls": {
+    "name": "Masala Cheese Balls",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 9% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": true,
+    "description": "An Aranara-style dish that Paimon drained her brain juice dry to improve. It is, in fact, a rather traditional recipe in Sumeru. The freshly cooked cheese balls give off a titillating aroma, for a special technique has been used to mix the spices into the dough. A small bite and you will see hot cheese oozing out immediately. Also, potatoes have been stewed till they softened properly. This creamy combination will keep you full for a long time.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Potato",
+        "quantity": 2
+      },
+      {
+        "item": "Cheese",
+        "quantity": 1
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "meat-lovers-mushroom-pizza": {
+    "name": "Meat Lovers' Mushroom Pizza",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": true,
+    "description": "A pizza freshly baked from the oven. The crust is dotted with large chunks of meat and fresh mushroom slices. The sweet, stretchy cheese further adds to the charm. You have no doubt that every slice will be snatched away the moment it is served. Speed, therefore, is a gourmet's best buddy when this pizza is on the table.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 4
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 3
+      },
+      {
+        "item": "Cheese",
+        "quantity": 2
+      }
+    ]
+  },
+  "milky-mushroom-crisp-tower": {
+    "name": "Milky Mushroom Crisp Tower",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A crunchy appetizer that's baked with mushrooms and cheese on top of bread slices. A single whiff of its amazing smell is enough to fill one with anticipation. Give it a bite, and you'll experience a pleasant burst of sweetness.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 4
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 3
+      },
+      {
+        "item": "Cheese",
+        "quantity": 2
+      },
+      {
+        "item": "Cream",
+        "quantity": 1
+      }
+    ]
+  },
+  "minty-bean-soup": {
+    "name": "Minty Bean Soup",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 100 HP.",
+    "hasRecipe": true,
+    "description": "A rich soup made with simple ingredients. Mints and beans were boiled and ground together to get a smooth texture. The soup was then left on low heat till it thickened. Finally, some beans and mints were sprinkled on the top. This refreshing delicacy tastes equally good whether served hot or cold.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Glabrous Beans",
+        "quantity": 2
+      },
+      {
+        "item": "Mint",
+        "quantity": 2
+      }
+    ]
+  },
+  "miso-soup": {
+    "name": "Miso Soup",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 9% of Max HP to the selected character and regenerates 260 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A simple and unadorned soup dish. The ingredients use here are very common and it is made simply, but this small bowl of soup has the power to ensure that you shall not grow weary on your journey, even if you travel on foot.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Tofu",
+        "quantity": 1
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 1
+      }
+    ]
+  },
+  "mixed-yakisoba": {
+    "name": "Mixed Yakisoba",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 400 HP.",
+    "hasRecipe": true,
+    "description": "One of Inazuma's common household dishes. One merely needs to stir-fry the noodles and side dishes evenly before serving, making this an easy-to-make and filling dish. It is no wonder, then, that this dish is so sought after among Inazumans.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Cabbage",
+        "quantity": 2
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 1
+      }
+    ]
+  },
+  "more-and-more": {
+    "name": "More-and-More",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' Physical DMG by 30% for 300s.",
+    "hasRecipe": true,
+    "description": "A snack grilled on an iron plate. Water is added to flour and stirred into a slurry, vegetables and meat are added, and the mix is grilled well on an iron plate before taking on a splash of sauce and a sprinkle of dried bonito flakes. This tastes delicious no matter how many ingredients one adds, and indeed it makes people feel like \"the more ingredients, the merrier\", hence the dish's name.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 43
+      },
+      {
+        "item": "Bacon",
+        "quantity": 2
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 1
+      },
+      {
+        "item": "Flour",
+        "quantity": 1
+      }
+    ]
+  },
+  "mushroom-hodgepodge": {
+    "name": "Mushroom Hodgepodge",
+    "rarity": 2,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members’ DEF by 107 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": true,
+    "description": "An Aranara-style dish that Paimon has drained her brain juice dry to improve. But in fact, it only requires a few common mushrooms from Sumeru, along with some extra seasonings. Paimon selected three types of mushrooms, and they were prepared and then cooked in a simple way, but the texture and flavor aren’t bad at all.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Rukkha­sha­va Mushrooms",
+        "quantity": 1
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 1
+      },
+      {
+        "item": "Starshroom",
+        "quantity": 1
+      }
+    ]
   }
 }
