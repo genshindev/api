@@ -1715,5 +1715,32 @@
         "quantity": 1
       }
     ]
+  },
+  "bountiful-year": {
+    "name": "Bountiful Year",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s.",
+    "hasRecipe": true,
+    "description": "Luxurious and exquisite raw fish. The fish is sliced thinly and arranged in the shape of a flower before a ring of side dishes is set all around it. Normally, the side dishes will be mixed with the raw fish according to one's taste before consumption — this act is said to ensure that things will be smooth sailing in the coming days.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 4
+      },
+      {
+        "item": "Carrot",
+        "quantity": 4
+      },
+      {
+        "item": "Onion",
+        "quantity": 2
+      },
+      {
+        "item": "Violetgrass",
+        "quantity": 1
+      }
+    ]
   }
 }
