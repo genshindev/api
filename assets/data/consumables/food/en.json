@@ -3500,5 +3500,24 @@
         "quantity": 1
       }
     ]
+  },
+  "wakatakeni": {
+    "name": "Wakatakeni",
+    "rarity": 2,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 107 for 300s.",
+    "hasRecipe": true,
+    "description": "A light-colored vegetarian dish. Broth is first poured into the pot before the bamboo shoots, and then the seaweed, are added in. The result is an elegant product with a light mouthfeel that agrees well with all palates. Suitable as a pre-meal appetizer or as a side to a main dish.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Bamboo Shoot",
+        "quantity": 3
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 2
+      }
+    ]
   }
 }
