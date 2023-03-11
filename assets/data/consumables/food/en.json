@@ -1972,7 +1972,7 @@
     "type": "ATK-Boosting Dish",
     "effect": "Increases all party members' ATK by 114 for 300s.",
     "hasRecipe": false,
-    "description": "Crocodile jerky prepared using a special recipe of the Tanit tribe. Though a bit hard to chew, the meat's ease of storage makes it a commonly consumed delicacy for tribal hunters. Despite tasting like fowl, the nutritional value of crocodile meat is said to be eight times more than the flesh of more typical beasts..."
+    "description": "Crocodile jerky prepared using a special recipe of the Tanit tribe. Though a bit hard to chew, the meat's ease of storage makes it a commonly consumed delicacy for tribal hunters.\nDespite tasting like fowl, the nutritional value of crocodile meat is said to be eight times more than the flesh of more typical beasts..."
   },
   "cured-pork-dry-hotpot": {
     "name": "Cured Pork Dry Hotpot",
@@ -2024,6 +2024,60 @@
       },
       {
         "item": "Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  "dango-milk": {
+    "name": "Dango Milk",
+    "rarity": 2,
+    "type": "Recovery Dishes",
+    "effect": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "A creative snack made by adding sticky dango to milk. It is sweet and has a dense mouthfeel. All the customers who have tried it love it.\nStill, it is dango that's been added in — drink too much and you might lose your appetite."
+  },
+  "dragon-beard-noodles": {
+    "name": "Dragon Beard Noodles",
+    "rarity": 3,
+    "type": "ATK-Boosting Dishes",
+    "effect": "Increases all party members' ATK by 194 for 300s.",
+    "hasRecipe": true,
+    "description": "Noodles that are as slender as the hairs on a dragon's beard. The green onion is fried in a wok before the soup and condiments are added. Last in are the noodles, after which the lot is ladled out and plated up. The noodles must be skillfully hand-pulled multiple times before they become extremely thin — a technique that makes this dish the most challenging noodle recipe in Liyue.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 4
+      },
+      {
+        "item": "Fowl",
+        "quantity": 2
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 2
+      },
+      {
+        "item": "Ham",
+        "quantity": 1
+      }
+    ]
+  },
+  "dry-braised-salted-fish": {
+    "name": "Dry-Braised Salted Fish",
+    "rarity": 1,
+    "type": "Recovery Dishes",
+    "effect": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "Dried fish that has been grilled slowly over a charcoal flame. Fish air-dried overnight have a tinge of the salty sea wind and give off a tantalizing flavor when grilled. Many Inazumans who dwell near the sea know this taste well indeed.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 1
+      },
+      {
+        "item": "Salt",
         "quantity": 1
       }
     ]
