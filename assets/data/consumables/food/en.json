@@ -1611,5 +1611,13 @@
         "quantity": 2
       }
     ]
+  },
+  "activated-starshroom": {
+    "name": "Activated Starshroom",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 800 HP.",
+    "hasRecipe": false,
+    "description": "A fungus with a cap that resembles a five-pointed star. It seems to be bursting with vitality."
   }
 }
