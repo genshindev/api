@@ -2273,5 +2273,55 @@
         "quantity": 1
       }
     ]
+  },
+  "katsu-sandwich": {
+    "name": "Katsu Sandwich",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 81 for 300s.",
+    "hasRecipe": true,
+    "description": "A nutritionally-balanced meal. The two bread slices clip a thick-cut katsu slab between them. The fragrant, slightly sweet-and-sour sauce is the key to preventing this meal from being too rich. A brilliant mix of outlander style and local flavor!",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Cabbage",
+        "quantity": 1
+      }
+    ]
+  },
+  "konda-cuisine": {
+    "name": "Konda Cuisine",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 1200 HP.",
+    "hasRecipe": true,
+    "description": "Slowly stewed local cuisine. Everyone in Konda Village knows how to make this dish. It originally had no name but would spread throughout Inazuma on account of its nutritious deliciousness. This eventually caused those from outside the village to give it its name — \"Konda Cuisine.\"",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 3
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 2
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 2
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 1
+      }
+    ]
   }
 }
