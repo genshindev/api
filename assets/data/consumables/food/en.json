@@ -2081,5 +2081,24 @@
         "quantity": 1
       }
     ]
+  },
+  "egg-roll": {
+    "name": "Egg Roll",
+    "rarity": 1,
+    "type": "Recovery Dishes",
+    "effect": "Revives a character and restores 100 HP.",
+    "hasRecipe": true,
+    "description": "A fried egg dish. Beat eggs well, season and fry them slowly in a wok, roll up into a fixed shape. Pour our egg liquid in again and continue until it has all reached a certain thickness, then get ready to plate up. This is an ordinary yet welcoming Inazuman delicacy.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
   }
 }
