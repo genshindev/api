@@ -122,19 +122,25 @@
           "mora": 2525,
           "drops": [
             {
-              "name": "Tiny Miracle",
+              "name": "Brave Heart",
               "rarity": "3/4",
               "drop_min": 0,
               "drop_max": 1
             },
             {
-              "name": "Viridescent Venerer",
+              "name": "Martial Artist",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Tenacity of the Millelith",
               "rarity": "4/5",
               "drop_min": 0,
               "drop_max": 1
             },
             {
-              "name": "Maiden Beloved",
+              "name": "Pale Flame",
               "rarity": "4/5",
               "drop_min": 0,
               "drop_max": 1
