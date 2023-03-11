@@ -2530,5 +2530,186 @@
         "quantity": 1
       }
     ]
+  },
+  "omelette-rice": {
+    "name": "Omelette Rice",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases Stamina depleted by climbing and sprinting for all party members by 20% for 900s.",
+    "hasRecipe": true,
+    "description": "A main dish wrapped up in an egg skin. The evenly beaten egg fluids are fried into half-doneness before being poured out on top of the rice, and tomato ketchup is drizzled over top afterward once it is ready to plate up. They say that this dish was derived from another region, though this version involves a more complicated cooking method.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 4
+      },
+      {
+        "item": "Rice",
+        "quantity": 3
+      },
+      {
+        "item": "Tomato",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "oncidium-tofu": {
+    "name": "Oncidium Tofu",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Restores 85 Stamina.",
+    "hasRecipe": true,
+    "description": "A dish that is a test of one's knifework. All the ingredients were sliced into ribbons in a single go, and after being washed, they were placed into the broth and cooked till they floated. The resulting flavor is light and fresh, and would not be out of place as a chef's recommendation in a Liyue restaurant.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Tofu",
+        "quantity": 4
+      },
+      {
+        "item": "Bamboo Shoot",
+        "quantity": 2
+      },
+      {
+        "item": "Ham",
+        "quantity": 1
+      },
+      {
+        "item": "Fowl",
+        "quantity": 1
+      }
+    ]
+  },
+  "onigiri": {
+    "name": "Onigiri",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A portable dish made with rice. It is simple to make and remains delicious at room temperatures, which has made it very popular with civilians and soldiers alike.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 2
+      },
+      {
+        "item": "Rice",
+        "quantity": 1
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 2
+      },
+      {
+        "item": "Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  "padisarah-pudding": {
+    "name": "Padisarah Pudding",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' climbing and sprinting Stamina consumption by 20% for 900s.",
+    "hasRecipe": true,
+    "description": "A popular dessert in Sumeru. Juices are squeezed from the petals of Padisarahs and Sumeru Roses before being mixed with milk, gelatin, sugar, and other ingredients, and then left to solidify. Cute appearance and sweet flavor make it a common sight at celebratory events in Sumeru.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Padisarah",
+        "quantity": 2
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 1
+      },
+      {
+        "item": "Milk",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "panipuri": {
+    "name": "Panipuri",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 400 HP.",
+    "hasRecipe": true,
+    "description": "An appetizer served with a green dipping sauce. The crispy balls are first deep-fried, then stuffed with a delicious filling through a hole on the top. The bite-sized snack is a common street food in Sumeru.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Potato",
+        "quantity": 2
+      },
+      {
+        "item": "Glabrous Beans",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "pita-pocket": {
+    "name": "Pita Pocket",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A bread with varied fillings. The flat dough has puffed up in the oven, reminding you of a lovely Pufferfish. The bread is usually cut in the middle into two separate "pockets," hence the name, "Pita Pocket." It is said that people of Sumeru used to dip the bread in sauce. But nowadays, people usually stuff the \"pockets\" with different fillings and then take big mouthfuls.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Tomato",
+        "quantity": 2
+      },
+      {
+        "item": "Milk",
+        "quantity": 2
+      }
+    ]
+  },
+  "potato-boat": {
+    "name": "Potato Boat",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 1,200 HP.",
+    "hasRecipe": true,
+    "description": "A baked appetizer. The potato was washed clean and then baked together with cheese and Rukkhashava Mushrooms. The dish guarantees an unmatched experience when eaten hot. This explains its popularity on the streets of Sumeru. Still, be careful not to burn your tongue.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Potato",
+        "quantity": 4
+      },
+      {
+        "item": "Rukkha­sha­va Mushrooms",
+        "quantity": 2
+      },
+      {
+        "item": "Cheese",
+        "quantity": 1
+      }
+    ]
   }
 }
