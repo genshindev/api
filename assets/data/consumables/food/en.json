@@ -2173,5 +2173,51 @@
         "quantity": 1
       }
     ]
+  },
+  "gilded-tajine": {
+    "name": "Gilded Tajine",
+    "rarity": 3,
+    "type": "DEF-Boosting Dishes",
+    "effect": "Increases all party members' Max HP by 22% for 300s.",
+    "hasRecipe": true,
+    "description": "A stewed meat dish. The unique hat-shaped pot cover is capable of reducing the amount of moisture lost during the stewing process — a culinary secret known only to the desert folk. This delicious delicacy has followed the gilded Eremites all over Sumeru, and thus did it gain its name and fame.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Padisarah",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      },
+      {
+        "item": "Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  "grilled-unagi-fillet": {
+    "name": "Grilled Unagi Fillet",
+    "rarity": 2,
+    "type": "Recovery Dishes",
+    "effect": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A grilled dish. The sliced unagi has been steamed first to remove the excess fat before being grilled and sauced. There is no consensus in Inazuma as to where the name \"unagi\" came from, but everyone at least agrees that it will take a whole lifetime to master its making.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Eel Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
   }
 }
