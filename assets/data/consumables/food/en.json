@@ -1688,5 +1688,32 @@
         "quantity": 1
       }
     ]
+  },
+  "biryani": {
+    "name": "Biryani",
+    "rarity": 4,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 261 and healing effects by 8% for 300s.",
+    "hasRecipe": true,
+    "description": "An aromatic rice dish. Stir-fry the meat such that it is crispy on the outside and tender on the inside. Then stew it with condiments and long-grain rice. Sprinkle a few Padisarah petals before serving. Every grain is saturated with the aroma of fatty meat and condiments. The dish has an exquisite taste only found in Sumeru.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 4
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Spice",
+        "quantity": 2
+      },
+      {
+        "item": "Padisarah",
+        "quantity": 1
+      }
+    ]
   }
 }
