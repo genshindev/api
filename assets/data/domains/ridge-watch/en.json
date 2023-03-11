@@ -47,7 +47,7 @@
           "level": 1,
           "adventureExperience": 100,
           "companionshipExperience": 15,
-          "mora": 1700,
+          "mora": 1850,
           "drops": [
             {
               "name": "Brave Heart",
@@ -67,7 +67,7 @@
           "level": 2,
           "adventureExperience": 100,
           "companionshipExperience": 20,
-          "mora": 1850,
+          "mora": 2025,
           "drops": [
             {
               "name": "Brave Heart",
@@ -87,7 +87,7 @@
           "level": 3,
           "adventureExperience": 100,
           "companionshipExperience": 20,
-          "mora": 2025,
+          "mora": 2200,
           "drops": [
             {
               "name": "Brave Heart",
@@ -119,7 +119,7 @@
           "level": 4,
           "adventureExperience": 100,
           "companionshipExperience": 20,
-          "mora": 2200,
+          "mora": 2525,
           "drops": [
             {
               "name": "Tiny Miracle",
