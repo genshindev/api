@@ -3450,5 +3450,55 @@
         "quantity": 3
       }
     ]
+  },
+  "udon-noodles": {
+    "name": "Udon Noodles",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 400 HP.",
+    "hasRecipe": true,
+    "description": "Highly springy noodles. After several rounds of rising and pulling, the result is silky smooth yet springy noodles. Unlike ramen, which prizes dense flavors, udon noodles use light flavors to heal the Inazuman soul.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 1
+      },
+      {
+        "item": "Fish",
+        "quantity": 1
+      }
+    ]
+  },
+  "unagi-chazuke": {
+    "name": "Unagi Chazuke",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Healing Bonus by 17% for 300s.",
+    "hasRecipe": true,
+    "description": "A light and tasty main dish. Well-boiled tea is poured over rice with unagi on top and allowed to steep quietly until the rice grains have absorbed the fragrance of the tea. When combined with the lingering sweet aftertaste of the bowl of unagi, you can eat half a bowl before Paimon can say \"Whoa!\"",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Eel Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Rice",
+        "quantity": 3
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 3
+      },
+      {
+        "item": "Salt",
+        "quantity": 1
+      }
+    ]
   }
 }
