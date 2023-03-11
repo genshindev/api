@@ -1646,5 +1646,28 @@
         "quantity": 1
       }
     ]
+  },
+  "berry-mizu-manjuu": {
+    "name": "Berry Mizu Manjuu",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 20% of Max HP and regenerates 390 HP every 5 seconds for 30s.",
+    "hasRecipe": true,
+    "description": "A crystal-clear snack. The transparent skin wraps the yellow filling. It is said that some vendors will put these snacks into a small clay bowl and immerse it in water to ensure that the cool mouthfeel is retained. This dish is as transparent as water, but it will not be washed away by flowing water — this is probably the origin of the name.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 2
+      },
+      {
+        "item": "Berry",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
   }
 }
