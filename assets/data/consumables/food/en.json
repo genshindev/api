@@ -2711,5 +2711,151 @@
         "quantity": 1
       }
     ]
+  },
+  "radish-and-fish-stew": {
+    "name": "Radish and Fish Stew",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 9% for 300s.",
+    "hasRecipe": true,
+    "description": "A meat and vegetable dish. The de-skinned radishes have gone into the pot first to cook before large hunks of fish and seasonings are added in. The whole combination is then stewed on a low flame. The large servings of food — best served with rice — give everyone present a feeling of satisfaction.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 2
+      },
+      {
+        "item": "Radish",
+        "quantity": 2
+      },
+      {
+        "item": "Salt",
+        "quantity": 1
+      }
+    ]
+  },
+  "rainbow-aster": {
+    "name": "Rainbow Aster",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' gliding and sprinting Stamina consumption by 20% for 900s.",
+    "hasRecipe": true,
+    "description": "A unique drink. Having featured in the famous light novel \"Pretty Please, Kitsune Guuji?\", it has since been brought to life by Sailing Breeze in collaboration with Yae Publishing House, along with its fascinating flavour. As this version does not contain any bean products, it is slightly different from the special limited edition that was available during the Irodori Festival, but this also means that there is no risk of triggering any bean allergies.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Milk",
+        "quantity": 3
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 2
+      },
+      {
+        "item": "Calla Lily",
+        "quantity": 2
+      },
+      {
+        "item": "Mint",
+        "quantity": 1
+      }
+    ]
+  },
+  "rice-buns": {
+    "name": "Rice Buns",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "Soft and fluffy food. The rice and horsetail have been ground into flour and kneaded into dough before being put in a steaming basket. It can be eaten as-is or with vegetable stuffing. Portable and filling, it is a very popular dish in the Liyue region.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 1
+      },
+      {
+        "item": "Horsetail",
+        "quantity": 1
+      }
+    ]
+  },
+  "rice-cake-soup": {
+    "name": "Rice Cake Soup",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 200 for 300s.",
+    "hasRecipe": true,
+    "description": "Commonly-seen city cuisine. The ingredients have gorged themselves on the soup, making them most enticing indeed. They say that in the first, this dish only had a scant few ingredients, but more were added as time passed, resulting in its present form.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Sausage",
+        "quantity": 2
+      },
+      {
+        "item": "Tofu",
+        "quantity": 1
+      },
+      {
+        "item": "Fish",
+        "quantity": 1
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 1
+      }
+    ]
+  },
+  "rice-pudding": {
+    "name": "Rice Pudding",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Restores 85 Stamina.",
+    "hasRecipe": true,
+    "description": "A dessert made from rice. After cooking the rice beforehand, it is placed into a pot together with the other ingredients, stirred evenly, and steamed. The mouthfeel is fragrant and soft, a perfect denouement to any meal.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 3
+      },
+      {
+        "item": "Rice",
+        "quantity": 2
+      },
+      {
+        "item": "Milk",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 3
+      }
+    ]
+  },
+  "rose-custard": {
+    "name": "Rose Custard",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 20% of Max HP and regenerates 390 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A dessert made from fermented milk. Once the milk is fermented and filtered into yogurt, stir sugar in before garnishing with dried roses and chopped nuts. In the beginning, this dish was only popular among adventurers and traveling merchants, but now, it is served as breakfast and a tea-time dessert across Sumeru.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Milk",
+        "quantity": 4
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 2
+      }
+    ]
   }
 }
