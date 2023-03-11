@@ -2031,7 +2031,7 @@
   "dango-milk": {
     "name": "Dango Milk",
     "rarity": 2,
-    "type": "Recovery Dishes",
+    "type": "Recovery Dish",
     "effect": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
     "hasRecipe": false,
     "description": "A creative snack made by adding sticky dango to milk. It is sweet and has a dense mouthfeel. All the customers who have tried it love it.\nStill, it is dango that's been added in — drink too much and you might lose your appetite."
@@ -2039,7 +2039,7 @@
   "dragon-beard-noodles": {
     "name": "Dragon Beard Noodles",
     "rarity": 3,
-    "type": "ATK-Boosting Dishes",
+    "type": "ATK-Boosting Dish",
     "effect": "Increases all party members' ATK by 194 for 300s.",
     "hasRecipe": true,
     "description": "Noodles that are as slender as the hairs on a dragon's beard. The green onion is fried in a wok before the soup and condiments are added. Last in are the noodles, after which the lot is ladled out and plated up. The noodles must be skillfully hand-pulled multiple times before they become extremely thin — a technique that makes this dish the most challenging noodle recipe in Liyue.",
@@ -2066,7 +2066,7 @@
   "dry-braised-salted-fish": {
     "name": "Dry-Braised Salted Fish",
     "rarity": 1,
-    "type": "Recovery Dishes",
+    "type": "Recovery Dish",
     "effect": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
     "hasRecipe": true,
     "description": "Dried fish that has been grilled slowly over a charcoal flame. Fish air-dried overnight have a tinge of the salty sea wind and give off a tantalizing flavor when grilled. Many Inazumans who dwell near the sea know this taste well indeed.",
@@ -2085,7 +2085,7 @@
   "egg-roll": {
     "name": "Egg Roll",
     "rarity": 1,
-    "type": "Recovery Dishes",
+    "type": "Recovery Dish",
     "effect": "Revives a character and restores 100 HP.",
     "hasRecipe": true,
     "description": "A fried egg dish. Beat eggs well, season and fry them slowly in a wok, roll up into a fixed shape. Pour our egg liquid in again and continue until it has all reached a certain thickness, then get ready to plate up. This is an ordinary yet welcoming Inazuman delicacy.",
@@ -2104,7 +2104,7 @@
   "fish-with-cream-sauce": {
     "name": "Fish With Cream Sauce",
     "rarity": 2,
-    "type": "Recovery Dishes",
+    "type": "Recovery Dish",
     "effect": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
     "hasRecipe": true,
     "description": "A fish dish served in sauce. Fresh fish filets were dried before pan-fried until crispy, then drizzled with a creamy white dressing and sprinkled with fresh mint. A unique dish that can be made through the simplest methods.",
@@ -2127,7 +2127,7 @@
   "five-pickled-treasures": {
     "name": "Five Pickled Treasures",
     "rarity": 3,
-    "type": "Adventurer's Dishes",
+    "type": "Adventurer's Dish",
     "effect": "Restores 85 Stamina.",
     "hasRecipe": true,
     "description": "Pickled vegetables. A round of fermentation makes food richer and also allows it to keep for longer. There were originally only four \"treasures,\" but for auspiciousness' sake, the four vegetables were mixed and plated up with one additional \"treasure\" added in, hence the name \"Five Pickled Treasures.\"",
@@ -2154,7 +2154,7 @@
   "fruits-of-the-festival": {
     "name": "Fruits of the Festival",
     "rarity": 3,
-    "type": "DEF-Boosting Dishes",
+    "type": "DEF-Boosting Dish",
     "effect": "Increases all party members' Healing Bonus by 17% for 300s.",
     "hasRecipe": true,
     "description": "A brightly colored non-alcoholic beverage. Freshly squeezed Sunsettia and Wolfhook juices have been poured into a cup in a specific order. The cool and refreshing flavor and vibrant color remind people of the beautiful holiday times. Do not mess the order up if you want to get the gradient effect right!",
@@ -2177,7 +2177,7 @@
   "gilded-tajine": {
     "name": "Gilded Tajine",
     "rarity": 3,
-    "type": "DEF-Boosting Dishes",
+    "type": "DEF-Boosting Dish",
     "effect": "Increases all party members' Max HP by 22% for 300s.",
     "hasRecipe": true,
     "description": "A stewed meat dish. The unique hat-shaped pot cover is capable of reducing the amount of moisture lost during the stewing process — a culinary secret known only to the desert folk. This delicious delicacy has followed the gilded Eremites all over Sumeru, and thus did it gain its name and fame.",
@@ -2204,7 +2204,7 @@
   "grilled-unagi-fillet": {
     "name": "Grilled Unagi Fillet",
     "rarity": 2,
-    "type": "Recovery Dishes",
+    "type": "Recovery Dish",
     "effect": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
     "hasRecipe": true,
     "description": "A grilled dish. The sliced unagi has been steamed first to remove the excess fat before being grilled and sauced. There is no consensus in Inazuma as to where the name \"unagi\" came from, but everyone at least agrees that it will take a whole lifetime to master its making.",
@@ -2216,6 +2216,60 @@
       },
       {
         "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "imported-poultry": {
+    "name": "Imported Poultry",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 15% for 300s.",
+    "hasRecipe": true,
+    "description": "A meat dish drizzled with sauce. The fowl is marinated before being covered in batter and fried, and a thick sauce is drizzled over it as a finishing touch. The accompanying vegetables are local produce, but the marinating methods and sauce are all imported, hence the name \"imported poultry.\"",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 4
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 3
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 2
+      }
+    ]
+  },
+  "invigorating-kitty-meal": {
+    "name": "Invigorating Kitty Meal",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "",
+    "hasRecipe": true,
+    "description": "",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 4
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 2
+      },
+      {
+        "item": "Rice",
         "quantity": 1
       }
     ]
