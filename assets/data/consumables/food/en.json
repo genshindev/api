@@ -1619,5 +1619,32 @@
     "effect": "Restores 800 HP.",
     "hasRecipe": false,
     "description": "A fungus with a cap that resembles a five-pointed star. It seems to be bursting with vitality."
+  },
+  "baklava": {
+    "name": "Baklava",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 15% for 300s.",
+    "hasRecipe": true,
+    "description": "A traditional Sumeru dessert. This puff pastry contains chopped nuts and has been baked after having butter drizzled atop it — and not forgetting some syrup once it comes out of the oven. Some researchers will specially order this veritable \"fortress of sweetness\" to replenish their energies before an exam. This is also why this dish has great pride of place as the Akademiya's favorite dessert.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Ajilenakh Nut",
+        "quantity": 2
+      },
+      {
+        "item": "Butter",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
   }
 }
