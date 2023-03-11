@@ -2100,5 +2100,78 @@
         "quantity": 1
       }
     ]
+  },
+  "fish-with-cream-sauce": {
+    "name": "Fish With Cream Sauce",
+    "rarity": 2,
+    "type": "Recovery Dishes",
+    "effect": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A fish dish served in sauce. Fresh fish filets were dried before pan-fried until crispy, then drizzled with a creamy white dressing and sprinkled with fresh mint. A unique dish that can be made through the simplest methods.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 3
+      },
+      {
+        "item": "Milk",
+        "quantity": 2
+      },
+      {
+        "item": "Mint",
+        "quantity": 1
+      }
+    ]
+  },
+  "five-pickled-treasures": {
+    "name": "Five Pickled Treasures",
+    "rarity": 3,
+    "type": "Adventurer's Dishes",
+    "effect": "Restores 85 Stamina.",
+    "hasRecipe": true,
+    "description": "Pickled vegetables. A round of fermentation makes food richer and also allows it to keep for longer. There were originally only four \"treasures,\" but for auspiciousness' sake, the four vegetables were mixed and plated up with one additional \"treasure\" added in, hence the name \"Five Pickled Treasures.\"",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Radish",
+        "quantity": 2
+      },
+      {
+        "item": "Carrot",
+        "quantity": 2
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 2
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 2
+      }
+    ]
+  },
+  "fruits-of-the-festival": {
+    "name": "Fruits of the Festival",
+    "rarity": 3,
+    "type": "DEF-Boosting Dishes",
+    "effect": "Increases all party members' Healing Bonus by 17% for 300s.",
+    "hasRecipe": true,
+    "description": "A brightly colored non-alcoholic beverage. Freshly squeezed Sunsettia and Wolfhook juices have been poured into a cup in a specific order. The cool and refreshing flavor and vibrant color remind people of the beautiful holiday times. Do not mess the order up if you want to get the gradient effect right!",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Wolfhook",
+        "quantity": 2
+      },
+      {
+        "item": "Sunsettia",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
   }
 }
