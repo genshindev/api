@@ -1931,7 +1931,7 @@
   "crab-roe-kourayaki": {
     "name": "Crab Roe Kourayaki",
     "rarity": 2,
-    "type": "ATK-Boosting Dishes",
+    "type": "ATK-Boosting Dish",
     "effect": "Increases all party members' ATK by 81 for 300s.",
     "hasRecipe": true,
     "description": "A crab meat dish that has been cooked directly over the flames. The meat and roe are mixed evenly, before being garnished with plump crab legs. The happiness that flows forth from that first bite imparts meaning upon your prior forbearance.",
@@ -1950,7 +1950,7 @@
   "crab-roe-tofu": {
     "name": "Crab Roe Tofu",
     "rarity": 2,
-    "type": "Recovery Dishes",
+    "type": "Recovery Dish",
     "effect": "Revives a character and restores 400 HP.",
     "hasRecipe": true,
     "description": "A dish with a tender mouthfeel. Crab roe is stir-fried till the oil within oozes out before being added to boiled tofu and accented with broth. Simple, yes, but gloriously fresh.",
@@ -1969,7 +1969,7 @@
   "crocodile-jerky": {
     "name": "Crocodile Jerky",
     "rarity": 3,
-    "type": "ATK-Boosting Dishes",
+    "type": "ATK-Boosting Dish",
     "effect": "Increases all party members' ATK by 114 for 300s.",
     "hasRecipe": false,
     "description": "Crocodile jerky prepared using a special recipe of the Tanit tribe. Though a bit hard to chew, the meat's ease of storage makes it a commonly consumed delicacy for tribal hunters. Despite tasting like fowl, the nutritional value of crocodile meat is said to be eight times more than the flesh of more typical beasts..."
@@ -1977,7 +1977,7 @@
   "cured-pork-dry-hotpot": {
     "name": "Cured Pork Dry Hotpot",
     "rarity": 3,
-    "type": "ATK-Boosting Dishes",
+    "type": "ATK-Boosting Dish",
     "effect": "Increases all party members' CRIT Rate by 15% for 300s.",
     "hasRecipe": true,
     "description": "A dish fried over a great flame. Matsutake and Ham have been sliced up, stir-fried, and garnished with some spicy condiments. The flavor of the Ham is a match for the Matsutake's crispness, and the combination grows even lovelier and more addictive as you chew. The heat-conducting wok also serves to keep it piping hot for long periods.",
@@ -2004,7 +2004,7 @@
   "curry-shrimp": {
     "name": "Curry Shrimp",
     "rarity": 2,
-    "type": "Recovery Dishes",
+    "type": "Recovery Dish",
     "effect": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
     "hasRecipe": true,
     "description": "A common household dish in Sumeru. The shrimps are first boiled until chewy, then added into the curry broth. The perfect blend of savory curry and flavors from the ocean is enough to make one's stomach growl. Though it's a common household dish, almost every family seems to have made their own variations to the recipe. Perhaps one could say that for every Sumeru household, there'll be a different version of curry shrimp.",
@@ -2020,6 +2020,10 @@
       },
       {
         "item": "Spice",
+        "quantity": 1
+      },
+      {
+        "item": "Onion",
         "quantity": 1
       }
     ]
