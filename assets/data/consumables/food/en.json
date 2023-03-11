@@ -1669,5 +1669,24 @@
         "quantity": 1
       }
     ]
+  },
+  "bird-egg-sushi": {
+    "name": "Bird Egg Sushi",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "An everyday Inazuman dish. The sliced Egg Roll is placed over seasoned rice. Simply made, yet full of flavor.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 1
+      },
+      {
+        "item": "Rice",
+        "quantity": 1
+      }
+    ]
   }
 }
