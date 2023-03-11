@@ -1823,5 +1823,205 @@
         "quantity": 1
       }
     ]
+  },
+  "candied-ajilenakh-nut": {
+    "name": "Candied Ajilenakh Nut",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 200 for 300s.",
+    "hasRecipe": true,
+    "description": "A rich dessert. First, the syrup is boiled till clear, then mixed with fillings and sesame paste from Sumeru. Then at last, the evenly-mixed syrup is poured into a mold and allowed to solidify into this crunchy form. It is said that the cold lands of Snezhnaya are a host to a similar dish, with a slightly different flavor profile. Of course, both sides naturally believe theirs to be the greatest in all Teyvat.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Ajilenakh Nut",
+        "quantity": 4
+      },
+      {
+        "item": "Almond",
+        "quantity": 2
+      },
+      {
+        "item": "Butter",
+        "quantity": 2
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 1
+      }
+    ]
+  },
+  "charcoal-baked-ajilenakh-cake": {
+    "name": "Charcoal-Baked Ajilenakh Cake",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 1,200 HP.",
+    "hasRecipe": true,
+    "description": "A dark-colored pastry. The Ajilenakh Nuts were first roasted and powdered before being sieved, added to a batter, mixed evenly, and then baked. The final product by no means looks impressive, but it exudes the fresh aroma of Ajilenakh Nuts, and it tastes better still with some jam.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Ajilenakh Nut",
+        "quantity": 2
+      },
+      {
+        "item": "Flour",
+        "quantity": 1
+      },
+      {
+        "item": "Jam",
+        "quantity": 1
+      }
+    ]
+  },
+  "chicken-tofu-pudding": {
+    "name": "Chicken Tofu Pudding",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s.",
+    "hasRecipe": true,
+    "description": "A dish made with great precision. The finely-diced chicken breast is stirred strongly and added into a soup that has various other minced meats within, before being cooked over a small flame. The result is light and elegant, and it tastes like tofu pudding. The meat has been shaped such that it is \"a chicken above chickens, yet does not look like chicken.\" This, too, is part of Liyue's culinary fine arts.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 4
+      },
+      {
+        "item": "Ham",
+        "quantity": 2
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 1
+      }
+    ]
+  },
+  "chili-mince-cornbread-buns": {
+    "name": "Chili-Mince Cornbread Buns",
+    "rarity": 4,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Shield strength by 30% and DEF by 200 for 300s.",
+    "hasRecipe": true,
+    "description": "A traditional snack from Liyue. The fresh dough is turned out into a round, rested, and then placed inside a cage to steam. The meat and vegetables are then washed, diced, before being fried quickly in an oiled wok. When eaten, the fried condiments must be placed into the empty space in the middle of the buns before they are eaten together. Between the crisp vegetables and the flavorful meat, this is solid, great flavor.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Cabbage",
+        "quantity": 2
+      },
+      {
+        "item": "Jueyun Chili",
+        "quantity": 2
+      }
+    ]
+  },
+  "crab-roe-kourayaki": {
+    "name": "Crab Roe Kourayaki",
+    "rarity": 2,
+    "type": "ATK-Boosting Dishes",
+    "effect": "Increases all party members' ATK by 81 for 300s.",
+    "hasRecipe": true,
+    "description": "A crab meat dish that has been cooked directly over the flames. The meat and roe are mixed evenly, before being garnished with plump crab legs. The happiness that flows forth from that first bite imparts meaning upon your prior forbearance.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Crab",
+        "quantity": 1
+      },
+      {
+        "item": "Crab Roe",
+        "quantity": 1
+      }
+    ]
+  },
+  "crab-roe-tofu": {
+    "name": "Crab Roe Tofu",
+    "rarity": 2,
+    "type": "Recovery Dishes",
+    "effect": "Revives a character and restores 400 HP.",
+    "hasRecipe": true,
+    "description": "A dish with a tender mouthfeel. Crab roe is stir-fried till the oil within oozes out before being added to boiled tofu and accented with broth. Simple, yes, but gloriously fresh.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Crab Roe",
+        "quantity": 1
+      },
+      {
+        "item": "Tofu",
+        "quantity": 1
+      }
+    ]
+  },
+  "crocodile-jerky": {
+    "name": "Crocodile Jerky",
+    "rarity": 3,
+    "type": "ATK-Boosting Dishes",
+    "effect": "Increases all party members' ATK by 114 for 300s.",
+    "hasRecipe": false,
+    "description": "Crocodile jerky prepared using a special recipe of the Tanit tribe. Though a bit hard to chew, the meat's ease of storage makes it a commonly consumed delicacy for tribal hunters. Despite tasting like fowl, the nutritional value of crocodile meat is said to be eight times more than the flesh of more typical beasts..."
+  },
+  "cured-pork-dry-hotpot": {
+    "name": "Cured Pork Dry Hotpot",
+    "rarity": 3,
+    "type": "ATK-Boosting Dishes",
+    "effect": "Increases all party members' CRIT Rate by 15% for 300s.",
+    "hasRecipe": true,
+    "description": "A dish fried over a great flame. Matsutake and Ham have been sliced up, stir-fried, and garnished with some spicy condiments. The flavor of the Ham is a match for the Matsutake's crispness, and the combination grows even lovelier and more addictive as you chew. The heat-conducting wok also serves to keep it piping hot for long periods.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Ham",
+        "quantity": 2
+      },
+      {
+        "item": "Matsutake",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 1
+      },
+      {
+        "item": "Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  "curry-shrimp": {
+    "name": "Curry Shrimp",
+    "rarity": 2,
+    "type": "Recovery Dishes",
+    "effect": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A common household dish in Sumeru. The shrimps are first boiled until chewy, then added into the curry broth. The perfect blend of savory curry and flavors from the ocean is enough to make one's stomach growl. Though it's a common household dish, almost every family seems to have made their own variations to the recipe. Perhaps one could say that for every Sumeru household, there'll be a different version of curry shrimp.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Shrimp Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Onion",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
   }
 }
