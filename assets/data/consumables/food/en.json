@@ -2668,7 +2668,7 @@
     "type": "Recovery Dish",
     "effect": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
     "hasRecipe": true,
-    "description": "A bread with varied fillings. The flat dough has puffed up in the oven, reminding you of a lovely Pufferfish. The bread is usually cut in the middle into two separate "pockets," hence the name, "Pita Pocket." It is said that people of Sumeru used to dip the bread in sauce. But nowadays, people usually stuff the \"pockets\" with different fillings and then take big mouthfuls.",
+    "description": "A bread with varied fillings. The flat dough has puffed up in the oven, reminding you of a lovely Pufferfish. The bread is usually cut in the middle into two separate \"pockets,\" hence the name, \"Pita Pocket.\" It is said that people of Sumeru used to dip the bread in sauce. But nowadays, people usually stuff the \"pockets\" with different fillings and then take big mouthfuls.",
     "proficiency": 15,
     "recipe": [
       {
@@ -2855,6 +2855,391 @@
       {
         "item": "Sugar",
         "quantity": 2
+      }
+    ]
+  },
+  "sabz-meat-stew": {
+    "name": "Sabz Meat Stew",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A meat stew with a unique taste. A variety of vegetables are mixed together, then chopped into small pieces and stewed with meat. The addition of lemons gives the final product a mildly sour taste. The people of Sumeru usually enjoy this dish over rice.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 2
+      },
+      {
+        "item": "Onion",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "sakura-mochi": {
+    "name": "Sakura Mochi",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 1,200 HP.",
+    "hasRecipe": true,
+    "description": "A delicate and elegant snack. The dark green leaf adds complexity to the overall warm color palette. Just looking at it gives you a sense of its quiet beauty. 'Tis a shame that its lovely flavor is like a blooming flower in transience — yet do not let that dissuade you from taking a bite.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 4
+      },
+      {
+        "item": "Sugar",
+        "quantity": 2
+      },
+      {
+        "item": "Sakura Bloom",
+        "quantity": 2
+      }
+    ]
+  },
+  "sakura-shrimp-crackers": {
+    "name": "Sakura Shrimp Crackers",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' HP by 22% for 300s.",
+    "hasRecipe": true,
+    "description": "Crispy, crunchy crackers. Potatoes are ground into flour and added to Shrimp and Sakura Blooms before being baked in an oven. It possesses a lovely flavor profile for a snack and is beloved by people of all ages, traits that have made it a popular choice of gift.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Shrimp Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Potato",
+        "quantity": 3
+      },
+      {
+        "item": "Sakura Bloom",
+        "quantity": 2
+      }
+    ]
+  },
+  "sakura-tempura": {
+    "name": "Sakura Tempura",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Shield strength by 25% for 300s.",
+    "hasRecipe": true,
+    "description": "A dish deep-fried in oil. Incorporate the marinated sakura blossom petals into the batter before giving the fresh shrimp and vegetables an even coating, frying, and then draining the oil. This all sounds simple enough, but good tempura making is not something achieved in a mere day.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Shrimp Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 2
+      },
+      {
+        "item": "Sakura Bloom",
+        "quantity": 2
+      },
+      {
+        "item": "Flour",
+        "quantity": 1
+      }
+    ]
+  },
+  "samosa": {
+    "name": "Samosa",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 22% of Max HP to the selected character and an additional 1,200 HP.",
+    "hasRecipe": true,
+    "description": "A deep-fried snack. The well-stirred filling is wrapped in a thin crust, shaped into a triangle, then fried in a pan until golden brown. Both meat and vegetarian fillings are common, so the dish has become a point of conflict for those with a strong preference for one over the other.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 2
+      }
+    ]
+  },
+  "sangayaki": {
+    "name": "Sangayaki",
+    "rarity": 2,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' sprinting Stamina consumption by 20% for 900s.",
+    "hasRecipe": true,
+    "description": "A simple, humble fisherman's side dish. Freshly caught fish is de-skinned and sliced, minced together with Snapdragon, mixed with miso and salt to form a batter, and then finally grilled. The lovely scent enters your nose long before the food enters your mouth. Three servings later, and you're still raring to go for more.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 2
+      },
+      {
+        "item": "Salt",
+        "quantity": 1
+      }
+    ]
+  },
+  "sashimi-platter": {
+    "name": "Sashimi Platter",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s.",
+    "hasRecipe": true,
+    "description": "A seafood dish made using fresh ingredients. The fish and shellfish are cut into pieces and arranged neatly. The slices have an elegant and tender taste, providing rich and high-quality nutrition. The lingering sweet aftertaste is derived fully from the ingredients' freshness, and every bite is an enjoyment worth closing one's eyes and savoring.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 4
+      },
+      {
+        "item": "Shrimp Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Crab",
+        "quantity": 4
+      },
+      {
+        "item": "Radish",
+        "quantity": 2
+      }
+    ]
+  },
+  "scented-meat-balls": {
+    "name": "Scented Meat Balls",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Has a chance to restore 26%/32%/38% of Max HP and an additional 950/1,250/1,550 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A dish with ground meat as its base. After crushing the wheat and cooking it over a fire, ground meat was added to form the outer layer. Onions and meat were then stir-fried to make the filling. Finally, the mixture was molded into balls and deep-fried until golden. Enjoying meat by the mouthful has never been this easy!",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Mysterious Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Wheat",
+        "quantity": 2
+      },
+      {
+        "item": "Onion",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 2
+      }
+    ]
+  },
+  "scorched-starshroom": {
+    "name": "Scorched Starshroom",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 1 HP.",
+    "hasRecipe": false,
+    "description": "A fungus with a cap that resembles a five-pointed star. It seems to be a little singed."
+  },
+  "selva-salad": {
+    "name": "Selva Salad",
+    "rarity": 2,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' sprinting Stamina consumption by 20% for 900s.",
+    "hasRecipe": true,
+    "description": "An Aranara-style salad that Paimon drained her brain juice dry to improve. It is, in fact, a rather traditional recipe in Sumeru. Fresh and crispy Zaytun Peach slices and mixed with gently squeezed Sumeru Roses, which adds a touch of distinctive flavor. Mint is used instead of sugar to avoid getting a sickening sweetness. A refreshing dish that pleases both the eyes and the nose.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Zaytun Peach",
+        "quantity": 2
+      },
+      {
+        "item": "Mint",
+        "quantity": 2
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 2
+      }
+    ]
+  },
+  "shawarma-wrap": {
+    "name": "Shawarma Wrap",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 81 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": true,
+    "description": "A wrap filled with roasted meat. Meat shaved off the vertical skewer is wrapped in a flatbread together with vegetables and sauces. Plate it up, and a simple yet delicious Sumeru street food is ready.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "soba-noodles": {
+    "name": "Soba Noodles",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 9% of Max HP to the selected character and regenerates 260 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A plain and simple noodle dish. The buckwheat noodles are boiled and then cooled. Their texture is smooth and they have just the right amount of toughness. The inexpensive ingredients and simple make of this dish have made it very popular amongst Inazumans.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 1
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 1
+      }
+    ]
+  },
+  "sparkling-berry-juice": {
+    "name": "Sparkling Berry Juice",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 15% of Max HP, then restores an additional 550 HP.",
+    "hasRecipe": false,
+    "description": "An all-new non-alcoholic beverage. Valberries of varying ripeness add layers of sour-to-sweet to this juice while the cooling sparkling water refreshes the soul — a fine companion for a pleasant and leisurely time."
+  },
+  "special-mushroom-pizza": {
+    "name": "Special Mushroom Pizza",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 28% of Max HP to the selected character. Regenerates 620 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "A pancake with ample toppings. The many rare ingredients do a strange dance around one's mouth — albeit in a good way."
+  },
+  "starshroom": {
+    "name": "Starshroom",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 300 HP.",
+    "hasRecipe": false,
+    "description": "A fungus with a cap that resembles a five-pointed star. It is quite hardy indeed. Once it matures, the center of the cap will split open."
+  },
+  "stir-fried-fish-noodles": {
+    "name": "Stir-Fried Fish Noodles",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 20% of Max HP and regenerates 390 HP every 5 seconds for 30s.",
+    "hasRecipe": true,
+    "description": "A main dish with an intense flavor. Created by stir-frying rice noodles, par-cooked fish, and various side dishes in a wok on high flame. The noodles, having absorbed the flavors of various ingredients, are springy and smooth to the taste, making this dish a big hit with diners.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 2
+      },
+      {
+        "item": "Rice",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 2
+      }
+    ]
+  },
+  "stir-fried-shrimp": {
+    "name": "Stir-Fried Shrimp",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Shield strength by 25% for 300s.",
+    "hasRecipe": true,
+    "description": "A light and smooth dish. The shrimp are quickly sautéed and the sauce thickened. This method of cooking is exceedingly simple and enhances the innate freshness of the shrimp meat, granting it a place at humble home-cooked meals and lavish banquets alike.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Shrimp Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 3
+      }
+    ]
+  },
+  "sunset-berry-tea": {
+    "name": "Sunset Berry Tea",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": true,
+    "description": "A fruity drink with a pleasantly sour taste. This scented tea gives off the pleasant aroma of fresh fruit. Its cold and refreshing taste is sure to dispel the stifling heat with each gulp.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Sunsettia",
+        "quantity": 3
+      },
+      {
+        "item": "Berry",
+        "quantity": 3
+      },
+      {
+        "item": "Sugar",
+        "quantity": 2
+      }
+    ]
+  },
+  "sweet-shrimp-sushi": {
+    "name": "Sweet Shrimp Sushi",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 100 HP.",
+    "hasRecipe": true,
+    "description": "A fresh and sweet traditional dish. Cleanly bisected shrimp is laid over rice and shaped with your bare hands. The springy shrimp meat and the delicious rice highlight the flavor all the more.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Shrimp Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Rice",
+        "quantity": 1
       }
     ]
   }
