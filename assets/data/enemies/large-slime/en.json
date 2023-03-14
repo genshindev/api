@@ -7,7 +7,7 @@
   "type": "Common Enemies",
   "family": "Slime",
 
-  "elements": ["Anemo", "Geo", "Dendro", "Hydro", "Cydro", "Mutant"],
+  "elements": ["Anemo", "Geo", "Dendro", "Hydro", "Cydro", "Mutant", "Pyro"],
 
   "drops": [
     {
