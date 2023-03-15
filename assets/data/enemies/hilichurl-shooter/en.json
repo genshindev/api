@@ -12,6 +12,21 @@
 
   "drops": [
     {
+      "name": "Damaged Mask",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Stained Mask",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Ominous Mask",
+      "rarity": 3,
+      "minimum-level": 60
+    },
+    {
       "name": "Firm Arrowhead",
       "rarity": 1,
       "minimum-level": 1
