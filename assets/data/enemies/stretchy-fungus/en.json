@@ -1,0 +1,63 @@
+{
+  "id": "stretchy-fungus",
+  "name": "Stretchy Fungus",
+  "region": "Multiple",
+  "description": "N/A",
+
+  "type": "Common Enemies",
+  "family": "Mystical Beasts",
+
+  "elements": ["Anemo", "Electro", "Geo", "Pyro"],
+
+  "drops": [
+    {
+      "name": "Fungal Spores",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Lumines­cent Pollen",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Crystal­line Cyst Dust",
+      "rarity": 3,
+      "minimum-level": 60
+    },
+    {
+      "name": "Inactivated Fungal Nucleus",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Dormant Fungal Nucleus",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Robust Fungal Nucleus",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "elemental-descriptions": [
+    {
+      "element": "Anemo",
+      "description": "A spore organism of some intelligence. It possesses extreme adaptability. This mushroom quickly absorbs nutrients through its extended column, and its umbrella-shaped cap turns where the wind's flow carries it."
+    },
+    {
+      "element": "Electro",
+      "description": "A spore organism of some intelligence. It possesses extreme adaptability. Unlike other Fungi, this creature possesses a cap with shining horns sticking out of it. When in danger, it will release small electric orbs as a form of self-defense."
+    },
+    {
+      "element": "Geo",
+      "description": "A spore organism of some intelligence. It possesses extreme adaptability. These shrooms' caps have hard outer layers derived from concretions of Geo energy. Its bodily structure is also quite likely to be denser than others of its kind."
+    },
+    {
+      "element": "Pyro",
+      "description": "A spore organism of some intelligence. It possesses extreme adaptability. This creature only looks explosive — it is, in fact, a most gentle soul, so long as you don't get too close..."
+    }
+  ]
+}

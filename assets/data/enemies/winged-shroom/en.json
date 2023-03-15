@@ -1,0 +1,55 @@
+{
+  "id": "winged-shroom",
+  "name": "Winged Shroom",
+  "region": "Multiple",
+  "description": "N/A",
+
+  "type": "Common Enemies",
+  "family": "Mystical Beasts",
+
+  "elements": ["Cryo", "Dendro"],
+
+  "drops": [
+    {
+      "name": "Fungal Spores",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Lumines­cent Pollen",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Crystal­line Cyst Dust",
+      "rarity": 3,
+      "minimum-level": 60
+    },
+    {
+      "name": "Inactivated Fungal Nucleus",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Dormant Fungal Nucleus",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Robust Fungal Nucleus",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "elemental-descriptions": [
+    {
+      "element": "Cryo",
+      "description": "A mimetic life form made out of spores that has extreme adaptability. Going well past mere appearances, this being even imitates the habits of birds. When it flies about, it will scatter icy flowers in its wake. These crystal cores, too, are spores. This creature has a position of command amongst colonies of fungal beasts and exhibits heightened intelligence to match."
+    },
+    {
+      "element": "Dendro",
+      "description": "A mimetic life form made out of spores that has extreme adaptability. Going well past mere appearances, this being even imitates the habits of birds. It can use its spore-built wings to fly in the sky, spreading yet more spores to yet more distant places. This creature has a position of command amongst colonies of Fungi and exhibits heightened intelligence to match."
+    }
+  ]
+}

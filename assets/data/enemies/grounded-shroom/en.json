@@ -1,0 +1,55 @@
+{
+  "id": "grounded-shroom",
+  "name": "Grounded Shroom",
+  "region": "Multiple",
+  "description": "N/A",
+
+  "type": "Common Enemies",
+  "family": "Mystical Beasts",
+
+  "elements": ["Geo", "Hydro"],
+
+  "drops": [
+    {
+      "name": "Fungal Spores",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Lumines­cent Pollen",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Crystal­line Cyst Dust",
+      "rarity": 3,
+      "minimum-level": 60
+    },
+    {
+      "name": "Inactivated Fungal Nucleus",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Dormant Fungal Nucleus",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Robust Fungal Nucleus",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "elemental-descriptions": [
+    {
+      "element": "Geo",
+      "description": "A mimetic life form made out of spores that has extreme adaptability. This being has undergone almost complete keratinization due to the influence of Geo. When one considers that Fungi evolved from spores, perhaps this one might even be the foundation for a further evolution into some new life form altogether — if given time, that is. This creature has a position of command amongst colonies of fungal beasts and exhibits heightened intelligence to match."
+    },
+    {
+      "element": "Hydro",
+      "description": "A mimetic life form made out of spores that has extreme adaptability. This creature may look like a bird, but it cannot fly. Due to the influence of Hydro energies, it is astoundingly agile compared to others of its kind. Some research has inferred that this creature is in fact an aggregation of countless tiny spores rather than a single entity. This creature has a position of command amongst colonies of Fungi and exhibits heightened intelligence to match."
+    }
+  ]
+}
