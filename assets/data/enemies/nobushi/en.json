@@ -1,0 +1,44 @@
+{
+  "id": "nobushi",
+  "name": "Nobushi",
+  "region": "Inazuma",
+  "description": "Despite often appearing in groups, the Nobushi do not have a centralized organization. Depending on the temperament or the nature of their crimes, they are also known as the \"homeless ones\", \"vagabonds\", \"Kairagi\", \"ne'er-do-wells\", or even \"the rioters\", or just simply known collectively as \"those rogues\". They are often samurai who haven fallen into banditry, and some will even ally themselves with the Treasure Hoarders or the Fatui for survival or monetary gain.",
+
+  "type": "Common Enemies",
+  "family": "Other Human Factions",
+
+  "elements": ["Electro", "Pyro"],
+
+  "drops": [
+    {
+      "name": "Old Handguard",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Kageuchi Handguard",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Famed Handguard",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Hitsukeban",
+      "description": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization. They not only possess highly advanced sword skills, but can also carry out flame powder attacks using the elements. Objectively speaking, perhaps this method of winning goes against the path of a martial artist. Sometimes they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive."
+    },
+    {
+      "name": "Jintouban",
+      "description": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization. Having pursued the path of a martial artist for a long time, they possess highly advanced sword skills but no longer use them for good. Sometimes, they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive."
+    },
+    {
+      "name": "Kikouban",
+      "description": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization. They possess highly-advanced sword skills and also use crossbows to ambush opponents, using any means to win. Those who have abandoned the title of a martial artist often abandon their dignity as well. Sometimes they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive."
+    }
+  ]
+}

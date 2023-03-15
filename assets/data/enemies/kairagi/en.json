@@ -1,0 +1,40 @@
+{
+  "id": "kairagi",
+  "name": "Kairagi",
+  "region": "Inazuma",
+  "description": "N/A",
+
+  "type": "Common Enemies",
+  "family": "Other Human Factions",
+
+  "elements": ["Electro", "Pyro"],
+
+  "drops": [
+    {
+      "name": "Old Handguard",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Kageuchi Handguard",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Famed Handguard",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Thunder",
+      "description": "Samurai who have fallen into banditry. They possess highly advanced martial art skills but found no use for them for various reasons. Out of desperation, they have fallen onto the path of evil. They use paper seals, created from a Kamuna art that has been lost for centuries, to infuse their blades with the power of lightning."
+    },
+    {
+      "name": "Fiery Might",
+      "description": "Samurai who have fallen into banditry. They practiced martial arts since they were young, but lost the opportunity to serve the people due to certain reasons and turned from the righteous path. Their blade's edges are not cold like ordinary steel, but instead burn with a bitter flame. They seem to have used paper seals, created from a lost Kamuna art, to set the blades afire."
+    }
+  ]
+}
