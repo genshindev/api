@@ -80,5 +80,7 @@
     "name": "Crackling Axe Mitachurl",
     "description": "Muscular hilichurls who wield large, two-handled axes. Attacks with large strikes and uses Electro Slimes to infuse their axes with Electro. Their blows are very lethal. Axes forged from steel are highly conductive material. The image of those tall and strong Crackling Axe Mitachurls holding their axes up to summon lightning is quite majestic to the hilichurls.",
     "region": "Global"
-  }
+  }, 
+
+  "mora-gained": 200
 }

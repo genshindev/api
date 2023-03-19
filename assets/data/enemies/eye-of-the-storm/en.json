@@ -9,5 +9,7 @@
 
   "elements": ["Hydro", "Pyro", "Cryo"],
 
-  "mora-gained": 0
+  "drops": "None",
+
+  "mora-gained": 600
 }
