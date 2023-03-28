@@ -49,5 +49,38 @@
       "set": "Traveling Doctor",
       "rarity": "3"
     }
-  ]
+  ], 
+
+  "wooden-shieldwall-mitachurl": {
+    "id": "wooden-shieldwall-mitachurl",
+    "name": "Wooden Shieldwall Mitachurl",
+    "description": "A muscular hilichurl who has been forged in countless fights. They know how to use Dendro Slimes to create tough shields which they wield in combat. With their powerful muscles, glossy fur, and sturdy, reliable silhouettes, they help the hilichurls withstand the pitiless assaults of adventurers, and they hold a rather exalted rank amongst the tribes.",
+    "region": "Global"
+  },
+  "rock-shieldwall-mitachurl": {
+    "id": "rock-shieldwall-mitachurl",
+    "name": "Rock Shieldwall Mitachurl",
+    "description": "A muscular hilichurl that uses a rock as a shield. Fighting and eating meat are the two most important things to hilichurls, because those are what make them grow stronger. All young hilichurls dream of growing up to become a big and strong mitachurl, because that way they can eat more meat, fight more battles, and wield those (almost) impregnable giant rock shields.",
+    "region": "Global"
+  },
+  "ice-shieldwall-mitachurl": {
+    "id": "ice-shieldwall-mitachurl",
+    "name": "Ice Shieldwall Mitachurl",
+    "description": "A muscular hilichurl that uses solid ice as a shield, wielding it in battle. Reason normally dictates that large creatures that see a lot of action should burn through a great number of calories to sustain themselves. As such, the present-day El Musk has proposed the "Mitachurl Index." This index correlates the percentage of mitachurls within the hilichurl population to the stability and success of hilichurl foraging activity.",
+    "region": "Global"
+  },
+  "blazing-axe-mitachurl": {
+    "id": "blazing-axe-mitachurl",
+    "name": "Blazing Axe Mitachurl",
+    "description": "Muscular hilichurls who wield large two-handed axes. Attacks with large strikes, and will use Pyro Slimes to infuse their axes with Pyro. They are very lethal. Usually, repeated quenching a weapon the way a Blazing Axe Mitachurl does will decrease the hardness of the metal and cause the axe-head's edge to chip more easily. But such is the strength of the mitachurls that even should the edge disappear altogether, they can still use their axes as hammers.",
+    "region": "Global"
+  },
+  "crackling-axe-mitachurl": {
+    "id": "crackling-axe-mitachurl",
+    "name": "Crackling Axe Mitachurl",
+    "description": "Muscular hilichurls who wield large, two-handled axes. Attacks with large strikes and uses Electro Slimes to infuse their axes with Electro. Their blows are very lethal. Axes forged from steel are highly conductive material. The image of those tall and strong Crackling Axe Mitachurls holding their axes up to summon lightning is quite majestic to the hilichurls.",
+    "region": "Global"
+  }, 
+
+  "mora-gained": 200
 }

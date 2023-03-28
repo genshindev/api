@@ -1,0 +1,32 @@
+{
+  "id": "mirror-maiden",
+  "name": "Mirror Maiden",
+  "description": "A member of a special Fatui honor guard from Snezhnaya. Willing to do anything to achieve the grand goals of the Fatui, they are the stark opposite of the dignity indicated by the title \"Maiden\". A Fatui mage who can command a Hydro Mirror in battle. Her posture is highly dignified, as if she is one who worships a god. The Hydro Mirror she manipulates lures those enchanted by her to willingly fall for her illusion. Nothing seems to escape her ears. No one knows what those covered eyes have seen, what kind of obsession might be reflected in them...",
+  "region": "Multiple",
+
+  "type": "Elite Enemies",
+  "family": "Fatui",
+  "faction": "Fatui",
+
+  "elements": ["Hydro"],
+
+  "drops": [
+    {
+      "name": "Dismal Prism",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Crystal Prism",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Polarizing Prism",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "mora-gained": 200
+}

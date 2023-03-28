@@ -1,0 +1,70 @@
+{
+  "id": "primal-constructs",
+  "name": "Primal Constructs",
+  "description": "N/A",
+  "region": "Sumeru",
+
+  "type": "Elite Enemies",
+  "family": "Automatons",
+  "faction": "Primal Constructs",
+
+  "elements": ["Dendro"],
+
+  "drops": [
+    {
+      "name": "Damaged Prism",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Turbid Prism",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Radiant Prism",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "artifacts": [
+    {
+      "name": "Blood-Soaked",
+      "set": "Berserker",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Instructor's Brooch",
+      "set": "Instructor",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Legacy",
+      "set": "The Exile",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Curative",
+      "set": "Traveling Doctor",
+      "rarity": "3"
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Primal Construct: Prospector",
+      "description": "The guardians of the lost ancient desert ruins have power enough to punish any who would presume to disturb the pure dreams of their lord. The master of the sands once took to studying taboo knowledge in an effort to create a dream paradise, and these machines may or may not have been the fruits of that research. Today, that utopia is long gone, and the dreams and oaths, forgotten by the world, are now only found in the mantras inscribed upon these machines."
+    },
+    {
+      "name": "Primal Construct: Repulsor",
+      "description": "The guardians of the lost ancient desert ruins have power enough to punish any who would presume to disturb the pure dreams of their lord. These machines were not first built to be temple guards or palace defenders, but instead to rebirth the paradise that the foolish desert ruler dreamed of. Today, that utopia is long gone, and the dreams and oaths, forgotten by the world, are now only found in the mantras inscribed upon these machines."
+    },
+    {
+      "name": "Primal Construct: Reshaper",
+      "description": "The guardians of the lost ancient desert ruins have power enough to punish any who would presume to disturb the pure dreams of their lord. The lord of the blazing sun who once ruled this desert once promised his people a utopia on the other side of existence, though it ultimately turned out to be a mirage made of folly. Today, that utopia is long gone, and the dreams and oaths, forgotten by the world, are now only found in the mantras inscribed upon these machines."
+    }
+  ],
+
+  "mora-gained": 200
+}

@@ -1,0 +1,74 @@
+{
+  "id": "ruin-sentinel",
+  "name": "Ruin Sentinel",
+  "description": "N/A",
+  "region": "Global",
+
+  "type": "Elite Enemies",
+  "family": "Automatons",
+  "faction": "Ruin Machines",
+
+  "elements": ["N/A"],
+
+  "drops": [
+    {
+      "name": "Chaos Gear",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Chaos Axis",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Chaos Oculus",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "artifacts": [
+    {
+      "name": "Blood-Soaked",
+      "set": "Berserker",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Instructor's Brooch",
+      "set": "Instructor",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Legacy",
+      "set": "The Exile",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Curative",
+      "set": "Traveling Doctor",
+      "rarity": "3"
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Ruin Cruiser",
+      "description": "Various bizarrely-shaped machines that have taken different forms and functions to adapt to different goals. Legend has it that they are war machines left behind by a nation that has already been destroyed. Compared to the more common Ruin Guards, their design has greater value in the study of biomimesis. The inspiration for its decentralized design and combat modes seem to have come from honeybee colonies, rendering it able to change forms and to attack from different directions."
+    },
+    {
+      "name": "Ruin Destroyer",
+      "description": "Various bizarrely-shaped machines that have taken different forms and functions to adapt to different goals. Legend has it that they are war machines left behind by a nation that has already been destroyed. Compared to the more common Ruin Guards, their design has greater value in the study of biomimesis. The giant crown, composed of several parts, looks like some sort of frightening plant. One wonders what one has to go through in order to design such scary machine."
+    },
+    {
+      "name": "Ruin Defender",
+      "description": "Various bizarrely-shaped machines that have taken different forms and functions to adapt to different goals. Legend has it that they are war machines left behind by a nation that has already been destroyed. Compared to the more common Ruin Guards, their design has greater value in the study of biomimesis. The insect-like limbs are more agile than humanoid machines. The shield formed by its various components can resist any frontal attack."
+    },
+    {
+      "name": "Ruin Scout",
+      "description": "Various bizarrely-shaped machines that have taken different forms and functions to adapt to different goals. Legend has it that they are war machines left behind by a nation that has already been destroyed. Compared to the more common Ruin Guards, their design has greater value in the study of biomimesis. Exactly why the form and movements of certain deep-sea lifeforms are being imitated is not known. But either way, tangling with them is hardly the best idea."
+    }
+  ],
+
+  "mora-gained": 200
+}

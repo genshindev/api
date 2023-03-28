@@ -1,0 +1,66 @@
+{
+  "id": "ruin-drake",
+  "name": "Ruin Drake",
+  "description": "N/A",
+  "region": "Sumeru",
+
+  "type": "Elite Enemies",
+  "family": "Automatons",
+  "faction": "Ruin Drakes",
+
+  "elements": ["Anemo", "Cryo", "Dendro", "Electro", "Geo", "Hydro", "Pyro"],
+
+  "drops": [
+    {
+      "name": "Chaos Storage",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Chaos Module",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Chaos Bolt",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "artifacts": [
+    {
+      "name": "Blood-Soaked",
+      "set": "Berserker",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Instructor's Brooch",
+      "set": "Instructor",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Legacy",
+      "set": "The Exile",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Curative",
+      "set": "Traveling Doctor",
+      "rarity": "3"
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Ruin Drake: Earthguard",
+      "description": "A horrifying dragon-shaped machine. It is said to be a war machine left behind by a now-destroyed nation. It mimics the appearance of the beings known as Vishaps, with some functional enhancements. Such machines have an even greater ability to \"absorb\" — or perhaps the right word is \"counteract\" — elemental powers than the vishaps. From this ability, one can glimpse the scale of the ambition that the civilization that made these machines must have once held..."
+    },
+    {
+      "name": "Ruin Drake: Skywatch",
+      "description": "A horrifying dragon-shaped machine. It is said to be a war machine left behind by a now-destroyed nation. It mimics the appearance of the beings known as Vishaps, with some functional enhancements. Such machines have an even greater ability to \"absorb\" — or perhaps the right word is \"counteract\" — elemental powers than the vishaps. How, you wonder, did a civilization that could make such frightening machines of war collapse?"
+    }
+  ],
+
+  "mora-gained": 200
+}

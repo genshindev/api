@@ -1,0 +1,72 @@
+{
+  "id": "rifthound",
+  "name": "Rifthound",
+  "description": "Ominous, alien beasts with dull colors that travel in packs much as wolves do. It is said that they have the power to dissolve the world's borders.",
+  "region": "Global",
+
+  "type": "Elite Enemies",
+  "family": "The Abyss",
+  "faction": "Abyss Order",
+
+  "elements": ["Geo", "Electro"],
+
+  "drops": [
+    {
+      "name": "Concealed Claw",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Concealed Unguis",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Concealed Talon",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "artifacts": [
+    {
+      "name": "Blood-Soaked",
+      "set": "Berserker",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Instructor's Brooch",
+      "set": "Instructor",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Legacy",
+      "set": "The Exile",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Curative",
+      "set": "Traveling Doctor",
+      "rarity": "3"
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Rockfond Rifthound Whelp",
+      "description": "A beast with monstrous blood that is capable of eroding the boundaries of the world. \"Gold\" classified them as \"Alfisol.\" They follow the encroaching abyss to devour the elements. Fortunately, there are few of them left now in this world."
+    },
+    {
+      "name": "Thundercraven Rifthound Whelp",
+      "description": "A beast with monstrous blood that is capable of eroding the boundaries of the world. \"Gold\" classified them as \"Alfisol.\" The previous eras, when giant monstrous beasts descended, large swarms of these hounds would go before them to deliquesce the borders of the world and open the way."
+    },
+    {
+      "name": "Rockfond Rifthound",
+      "description": "A beast with monstrous blood that is capable of eroding the boundaries of the world. They were created by \"Gold.\" They do display certain biological behaviors similar to those of real wolves. Perhaps they feel jealousy towards these their \"next of kin,\" and dream of replacing them someday."
+    },
+    {
+      "name": "Thundercraven Rifthound",
+      "description": "A beast with monstrous blood that is capable of eroding the boundaries of the world. They were created by \"Gold.\" Once upon a time, they ran riot across the continent, but they went extinct for a time due to resistance and mass hunts. Recently, however, they have re-emerged. The pack of black wolves that now threaten Springvale and Wolvendom are such creatures."
+    }
+  ]
+}
