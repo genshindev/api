@@ -1,0 +1,149 @@
+{
+    "name": "",
+    "title": "",
+    "vision": "",
+    "weapon": "",
+    "gender": "",
+    "nation": "",
+    "affiliation": "",
+    "specialDish": "",
+    "rarity": 0,
+    "constellation": "",
+    "birthday": "0000-00-00",
+    "description": "",
+    "skillTalents": [
+        {
+            "name": "",
+            "unlock": "Normal Attack",
+            "description": "",
+            "upgrades": [
+                {
+                    "name": "NORMAL_ATTACK_1",
+                    "value": "NORMAL_ATTACK_1"
+                },
+                {
+                    "name": "NORMAL_ATTACK_2",
+                    "value": "NORMAL_ATTACK_1"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
+        },
+        {
+            "name": "ELEMENTAL_SKILL_NAME",
+            "unlock": "Elemental Skill",
+            "description": "ELEMENTAL_SKILL_DESCRIPTION",
+            "upgrades": [
+                {
+                    "name": "ELEMENTAL_SKILL_UPGRADE_NAME_1",
+                    "value": "ELEMENTAL_SKILL_UPGRADE_VALUE_1"
+                },
+                {
+                    "name": "ELEMENTAL_SKILL_UPGRADE_NAME_2",
+                    "value": "ELEMENTAL_SKILL_UPGRADE_VALUE_1"
+                },
+                {
+                    "name": "CD",
+                    "value": "COOLDOWN_VALUE"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
+        },
+        {
+            "name": "ELEMENTAL_BURST_NAME",
+            "unlock": "Elemental Burst",
+            "description": "ELEMENTAL_BURST_DESCRIPTION.",
+            "upgrades": [
+                {
+                    "name": "ELEMENTAL_BURST_UPGRADE_NAME_1",
+                    "value": "ELEMENTAL_BURST_UPGRADE_VALUE_1"
+                },
+                {
+                    "name": "ELEMENTAL_BURST_UPGRADE_NAME_2",
+                    "value": "ELEMENTAL_BURST_UPGRADE_VALUE_1"
+                },
+                {
+                    "name": "Duration",
+                    "value": "DURATION_VALUE"
+                },
+                {
+                    "name": "CD",
+                    "value": "COOLDOWN_VALUE"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "ENERGY_COST"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
+        }
+    ],
+    "passiveTalents": [
+        {
+            "name": "PASSIVE_TALENT_NAME",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "PASSIVE_TALENT_DESCRIPTION_1",
+            "level": 1
+        },
+        {
+            "name": "PASSIVE_TALENT_NAME",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "PASSIVE_TALENT_DESCRIPTION_2",
+            "level": 4
+        },
+        {
+            "name": "PASSIVE_TALENT_NAME",
+            "unlock": "Unlocked Automatically",
+            "description": "PASSIVE_TALENT_DESCRIPTION_3"
+        }
+    ],
+    "constellations": [
+        {
+            "name": "CONSTELLATION_NAME_1",
+            "unlock": "Constellation Lv. 1",
+            "description": "CONSTELLATION_DESCRIPTION_1",
+            "level": 1
+        },
+        {
+            "name": "CONSTELLATION_NAME_2",
+            "unlock": "Constellation Lv. 2",
+            "description": "CONSTELLATION_DESCRIPTION_2",
+            "level": 2
+        },
+        {
+            "name": "CONSTELLATION_NAME_3",
+            "unlock": "Constellation Lv. 3",
+            "description": "CONSTELLATION_DESCRIPTION_3",
+            "level": 3
+        },
+        {
+            "name": "CONSTELLATION_NAME_4",
+            "unlock": "Constellation Lv. 4",
+            "description": "CONSTELLATION_DESCRIPTION_4",
+            "level": 4
+        },
+        {
+            "name": "CONSTELLATION_NAME_5",
+            "unlock": "Constellation Lv. 5",
+            "description": "CONSTELLATION_DESCRIPTION_5",
+            "level": 5
+        },
+        {
+            "name": "CONSTELLATION_NAME_6",
+            "unlock": "Constellation Lv. 6",
+            "description": "CONSTELLATION_DESCRIPTION_6",
+            "level": 6
+        }
+    ],
+    "vision_key": "",
+    "weapon_type": "",
+    "outfits": [
+        {
+            "type": "FORMAL | SUMMER | ALTERNATE | TRAVEL | THEME",
+            "name": "OUTFIT_NAME",
+            "description": "OUTFIT_DESCRIPTION",
+            "rarity": 0,
+            "price": 0,
+            "image": "OUTFIT_IMAGE_VALUE"
+        }
+    ]
+}
