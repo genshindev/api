@@ -139,7 +139,7 @@
     {
       "name": "The Sunlit Way",
       "unlock": "Unlocked Automatically",
-      "description": "Increases the Movement SPD of your own party members by 10% during the day (6:00 – 18:00).\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects."
+      "description": "Increases the Movement SPD of your own party members by 10% during the day (6:00 â€“ 18:00).\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects."
     }
   ],
   "constellations": [
@@ -183,5 +183,3 @@
   "vision_key": "PYRO",
   "weapon_type": "CLAYMORE"
 }
-  
-  
