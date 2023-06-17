@@ -7,6 +7,7 @@
     "nation": "Sumeru",
     "affiliation": "Avidya Forest Ranger Trainee",
     "rarity": 4,
+    "release": "2022-08-24",
     "constellation": "Leptailurus Cervarius",
     "birthday": "0000-05-08",
     "description": "Oh, you're going to Sumeru? Can you give my regards to Collei? Well... it's been so long, I wonder if her hair has grown out and if she's taller?\n— Amber",
@@ -156,4 +157,3 @@
     "vision_key": "DENDRO",
     "weapon_type": "BOW"
   }
-  

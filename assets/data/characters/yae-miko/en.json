@@ -7,6 +7,7 @@
   "nation": "Inazuma",
   "affiliation": "Grand Narukami Shrine",
   "rarity": 5,
+  "release": "2022-02-16",
   "constellation": "Divina Vulpes",
   "birthday": "0000-06-27",
   "description": "Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
@@ -61,8 +62,8 @@
           "value": "76%"
         },
         {
-        "name": "Level 3 DMG",
-        "value": "95%"
+          "name": "Level 3 DMG",
+          "value": "95%"
         },
         {
           "name": "Level 4 DMG",

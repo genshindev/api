@@ -6,6 +6,7 @@
   "nation": "Sumeru",
   "affiliation": "None",
   "rarity": 5,
+  "release": "2022-12-07",
   "constellation": "Peregrinus",
   "birthday": "0000-01-03",
   "description": "A yaksha adeptus that defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
@@ -31,7 +32,7 @@
           "name": "Charged Attack DMG",
           "value": "132%"
         },
-	      {
+        {
           "name": "Charged Attack Stamina Cost",
           "value": "50"
         },
@@ -55,15 +56,15 @@
           "name": "Skill DMG",
           "value": "95%"
         },
-	      {
+        {
           "name": "Normal Attack DMG",
           "value": "133%"
         },
-	      {
+        {
           "name": "Charged Attack DMG",
           "value": "126%"
         },
-	      {
+        {
           "name": "Initial Kuugoryoku Points",
           "value": "100"
         },
