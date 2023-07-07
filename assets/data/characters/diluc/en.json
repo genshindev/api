@@ -175,5 +175,14 @@
     }
   ],
   "vision_key": "PYRO",
-  "weapon_type": "CLAYMORE"
+  "weapon_type": "CLAYMORE",
+  "outfits": [
+    {
+      "type": "Themed",
+      "name": "Red Dead of Night",
+      "description": "One of the outfits Diluc wears during covert actions, it resembles a flame dancing in the shadows. The crimson red traces it leave behind at the edges of the enemy's vision will scar their nightmares forever.",
+      "rarity": 4,
+      "price": 2480
+    }
+  ]
 }
