@@ -1,0 +1,195 @@
+{
+  "name": "Lyney",
+  "title": "Spectacle of Phantasmagoria",
+  "vision": "Pyro",
+  "weapon": "Bow",
+  "gender": "Male",
+  "nation": "Fontaine",
+  "affiliation": "Hotel Bouffes d'ete",
+  "rarity": 5,
+  "release": "2023-08-16",
+  "constellation": "Felis Fuscus",
+  "birthday": "0000-02-02",
+  "description": "A famed Fontainian magician who possesses great stage presence as well as gift of the gab. audiences are enthralled by his exquisite skills, and they hang on to his clever word.",
+  "skillTalents": [
+    {
+      "name": "Card Force Translocation",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerform up to 4 consecutive shots with a bow.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AOE DMG upon impact.\nCharged Attack\n.Preform a more precise Aimed Shot with increased DMG\nWhile aimig, flames wil run across the arrowhead before being fired.\nDifferent effects will occur based on the time spent charging.\nCharge Level 1: Fires off a Prop Arrow that deals Pyro DMG, and upon hit, it will summon Grin-Malkin Hat. When firing the Prop Arrow, and when Lyney has more than 60% HP, he will consume a portion of his HP to obtain 1 Prop Surplus stack. Max 5 stacks. The effect will be removed after the character spends 30s out of combat.The lowest Lyney can drop to through this method is 60% of his max HP.\nGrin-Malkin Hat\nCan taunt nearby opponents and attract their attacks.Each opponent can only be taunted by the Hat once every 5 second.\nThe hat will inherit a percentage of Lyney HP.\nif destroyed, or if its duration expires, it will fire off a Pyrotechnic Strike at 1 nearby opponent, dealing Pyro DMG.\nOnly 1 Hat can exist at any give time.\nArkhe:Pneuma\nAt certain intervals, the Prop Arrow will cause a Spiritbreath Thorn to descend upon its hit location, dealing Pneuma-aligned Pyro DMG.\n",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "38.8%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "38.0%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "27.3%+27.3%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "56.9%"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.8%"
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "value": "113.6%/141.9%"
+        },
+        {
+          "name": "Aimed Shot",
+          "value": "43.9%"
+        },
+        {
+          "name": "Aimed Shot Charge Level 1",
+          "value": "124.0%"
+        },
+        {
+          "name": "Prop Arrow DMG",
+          "value": "172.8%"
+        },
+        {
+          "name": "HP Cost",
+          "value": "20% Max HP"
+        },
+		{
+          "name": "Grin-Malkin Hat Inherited HP",
+          "value": "64%"
+        },
+		{
+          "name": "Grin-Malkin Hat Duration",
+          "value": "4.0s"
+        },
+		{
+          "name": "Pyrotechnic Strike DMG",
+          "value": "212.0%"
+        },
+		{
+          "name": "Spiritbreath Thorn DMG",
+          "value": "27.6%"
+        },
+		{
+          "name": "Spiritbreath Thorn Interval",
+          "value": "6.0s"
+        },
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Bewildering Lights",
+      "unlock": "Elemental Skill",
+      "description": "Lyney does a flourish with his hat, unleashing a firework suprise!\nWhen used, he will clear all current Prop Surplus stacks and deal AOE Pyro DMG to opponents in front of him.DMG will be increased according to the stacks cleared, and this will also regenerate Lyney's HP based on his Max HP.\nWhen a Grin-Malkin Hat created by Lyney is on the field, the fireworks will cause it to explode, dealing AOE Pyro DMG equal to that of a Pyrotechnic Strike.\nThe DMG dealt through the Grin-Malkin Hat in this way is considered Charged Attack DMG\n",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "167.2%"
+        },
+        {
+          "name": "Skill DMG Bonus",
+          "value": "53.2% ATK/Stack"
+        },
+        {
+          "name": "HP Regeneration",
+          "value": "20%/Stack"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Wondrous Trick: Miracle Parade",
+      "unlock": "Elemental Burst",
+      "description": "Unleashing his magic, Lyney turns himself into a Grin-Malkin Cat that can move around quickly.(Not to be mistaken for the Grin-Malkin Hat. They're two different props!)\nWhen the Grin-Malkin Cat gets close to opponents, it will send flames falling down on them, dealing at most 1 instance of Pyro DMG to each opponent.When the duration ends, he will dismiss the Grin-Malkin Cat and ignite fireworks that deal AoE Pyro DMG, summon 1 Grin-Malkin Hat, and grant himself 1 Prop Surplus stack.\nGrin-Malkin Cat can be actively canceled.\n",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "154.0%"
+        },
+		{
+          "name": "Explosive Firework DMG",
+          "value": "414.0%"
+        },
+		{
+          "name": "Duration",
+          "value": "3.0s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Perilous Performance",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "If Lyney consumes HP when firing off a Prop Arrow, the Grin-Malkin hat summoned by the arrow will, upon hitting an opponent, restore 3 Energy to Lyney and increase DMG dealt by 80% of his ATK.\n",
+      "level": 1
+    },
+    {
+      "name": "Conslusive Ovation",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "The DMG Lyney deals to opponents affected by Pyro will receive the following buffs:\nIncreases the DMG dealt by 60%.\nEach Pyro party member other than Lyney will cause the DMG dealt to increase by additional 20%.\nLyney can deal up to 100% increased DMG to opponents affected by Pyro in this way.",
+      "level": 1
+    },
+    {
+      "name": "Trivial Observations",
+      "unlock": "Unlocked Automatically",
+      "description": "Display the location of nearby resource unique to Fontaine on the mini-map.",
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Whimsical Wonders",
+      "unlock": "Constellation Lv. 1",
+      "description": "Lyney can have 2 Grin-Malkin Hats present at once.\nAdditionally, Prop Arrow will summon 2 Grin-Malkin Hats and grant Lyney 1 extra stack of Prop Surplus. This effect can occur once every 15s.",
+      "level": 1
+    },
+    {
+      "name": "Loquacious Cajouling",
+      "unlock": "Constellation Lv. 2",
+      "description": "When Lyney is on the field, he will gain a stack of Crisp Focus every 2s. Each stack will increase his CRIT DMG by 20%. Max 3 stacks. This effect will be canceled when Lyney Leaves the field.",
+      "level": 2
+    },
+    {
+      "name": "Prestifigitation",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Normal Attack: Card Force Translocation by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Well-Versed, Well Rehearsed",
+      "unlock": "Constellation Lv. 4",
+      "description": "After an opponent is hit by Lyney's Pyro Charged Attack, this opponent's Pyro RES will be decreased by 20% for 6s",
+      "level": 4
+    },
+    {
+      "name": "To Pierce Enigmas",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increase the Level of Wondrous Trick: Miracle Parade by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Guarded Smile",
+      "unlock": "Constellation Lv. 6",
+      "description": "When Lyney fires a Prop Arrow, he will fire a Pyrotechnic Strike: Reprised that will deal 80% of a Pyrotechnic Strike DMG. This DMG is considered Charged Attack DMG.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "BOW",
+}
