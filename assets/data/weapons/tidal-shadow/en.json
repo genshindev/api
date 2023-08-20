@@ -1,0 +1,11 @@
+{
+  "name": "Tidal Shadow",
+  "type": "Claymore",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "ATK",
+  "passiveName": "White Cruising Wave",
+  "passiveDesc": "After the wielder is healed, ATK will be increased by 24% for 8s. This can be triggered even when the character is not on the field.",
+  "location": "BP Bounty",
+  "ascensionMaterial": "Broken Goblet Of The Pristine Sea"
+}

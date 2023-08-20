@@ -1,0 +1,11 @@
+{
+  "name": "Finale Of The Deep",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "ATK",
+  "passiveName": "An End Sublime",
+  "passiveDesc": "When using an Elemental Skill, ATK will be increased by 12% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 150 ATK will be gained based on 2.4% of the Bond when cleared for 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained.",
+  "location": "BP Bounty",
+  "ascensionMaterial": "Dross Of Pure Sacred Dewdrop"
+}

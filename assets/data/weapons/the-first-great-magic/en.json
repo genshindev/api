@@ -1,0 +1,11 @@
+{
+  "name": "The First Great Magic",
+  "type": "Bow",
+  "rarity": 5,
+  "baseAttack": 46,
+  "subStat": "CRIT DMG",
+  "passiveName": "Parsifal the Great",
+  "passiveDesc": "DMG dealt by Charged Attacks increased by 16%. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by 16%/32%/48%. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by 4%/7%/10%.",
+  "location": "Gacha",
+  "ascensionMaterial": "Fragment Of An Ancient Chord"
+}

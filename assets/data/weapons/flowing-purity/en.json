@@ -1,0 +1,11 @@
+{
+  "name": "Flowing Purity",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "ATK",
+  "passiveName": "Unfinished Masterpiece",
+  "passiveDesc": "When using an Elemental Skill, All Elemental DMG Bonus will be increased by 8% for 15s, and a Bond of Life worth 24% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, every 1,000 HP cleared in the process will provide 2% All Elemental DMG Bonus. Up to a maximum of 12% All Elemental DMG can be gained this way. This effect lasts 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained.",
+  "location": "BP Bounty",
+  "ascensionMaterial": "Dross Of Pure Sacred Dewdrop"
+}
