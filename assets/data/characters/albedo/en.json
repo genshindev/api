@@ -46,12 +46,12 @@
           "value": "20"
         },
         {
-            "name": "Plunge DMG",
-            "value": "63.9%"
+          "name": "Plunge DMG",
+          "value": "63.9%"
         },
         {
-            "name": "Low/High Plunge DMG",
-            "value": "128%/160%"
+          "name": "Low/High Plunge DMG",
+          "value": "128%/160%"
         }
       ],
       "type": "NORMAL_ATTACK"

@@ -1,12 +1,12 @@
 {
-  "name": "Spire of Solitary Enlightenment", 
-  "type": "Blessing", 
+  "name": "Spire of Solitary Enlightenment",
+  "type": "Blessing",
   "description": "In ancient times, this was a great and beautiful place, seemingly made to bless the children of humanity. But the arrow of heaven would descend, making mountains out of flat land and burying the ancient capitol beneath the hills.",
-  "location": "Gandha Hill, Avidya Forest, Dharma Forest, Sumeru", 
+  "location": "Gandha Hill, Avidya Forest, Dharma Forest, Sumeru",
   "nation": "Sumeru",
   "requirements": [
     {
-      "level": 1, 
+      "level": 1,
       "adventureRank": 30,
       "recommendedLevel": 59,
       "leyLineDisorder": [
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "level": 2, 
+      "level": 2,
       "adventureRank": 35,
       "recommendedLevel": 69,
       "leyLineDisorder": [
@@ -22,21 +22,21 @@
       ]
     },
     {
-      "level": 3, 
+      "level": 3,
       "adventureRank": 40,
       "recommendedLevel": 80,
       "leyLineDisorder": [
         "All party members' Elemental Mastery is increased based on 10% of the entire party's combined Elemental Mastery. This effect will be refreshed every 20s after recalculation."
       ]
-		},
-		{
-      "level": 4, 
+    },
+    {
+      "level": 4,
       "adventureRank": 45,
       "recommendedLevel": 90,
       "leyLineDisorder": [
-				"All party members' Elemental Mastery is increased based on 10% of the entire party's combined Elemental Mastery. This effect will be refreshed every 20s after recalculation."
+        "All party members' Elemental Mastery is increased based on 10% of the entire party's combined Elemental Mastery. This effect will be refreshed every 20s after recalculation."
       ]
-		}
+    }
   ],
   "recommendedElements": ["Electro", "Cryo", "Hydro"],
   "rewards": [
@@ -62,7 +62,7 @@
               "drop_max": 1
             }
           ]
-        }, 
+        },
         {
           "level": 2,
           "adventureExperience": 100,
@@ -114,8 +114,8 @@
               "drop_max": 1
             }
           ]
-				},
-				{
+        },
+        {
           "level": 4,
           "adventureExperience": 100,
           "companionshipExperience": 20,
@@ -146,7 +146,7 @@
               "drop_max": 1
             }
           ]
-				}
+        }
       ]
     }
   ]

@@ -1,12 +1,12 @@
 {
-  "name": "Peak of Vindagnyr", 
-  "type": "Blessing", 
+  "name": "Peak of Vindagnyr",
+  "type": "Blessing",
   "description": "This city entombed in snow once had a proud, romantic name to call its own, just as the mountain itself was once lush and verdant in the ancient past. But after the nail that froze the skies over descended upon this mountain, the festive site where priests ascended to face the heavens can no longer hear its voice, nor will those priests ever return again.",
-  "location": "Skyfrost Nail, Dragonspine, Mondstadt", 
+  "location": "Skyfrost Nail, Dragonspine, Mondstadt",
   "nation": "Mondstadt",
   "requirements": [
     {
-      "level": 1, 
+      "level": 1,
       "adventureRank": 30,
       "recommendedLevel": 59,
       "leyLineDisorder": [
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "level": 2, 
+      "level": 2,
       "adventureRank": 35,
       "recommendedLevel": 69,
       "leyLineDisorder": [
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "level": 3, 
+      "level": 3,
       "adventureRank": 40,
       "recommendedLevel": 80,
       "leyLineDisorder": [
@@ -34,9 +34,9 @@
         "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
         "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
       ]
-		},
-		{
-      "level": 4, 
+    },
+    {
+      "level": 4,
       "adventureRank": 45,
       "recommendedLevel": 90,
       "leyLineDisorder": [
@@ -44,7 +44,7 @@
         "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
         "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
       ]
-		}
+    }
   ],
   "recommendedElements": ["Pyro", "Electro", "Geo", "Anemo"],
   "rewards": [
@@ -70,7 +70,7 @@
               "drop_max": 1
             }
           ]
-        }, 
+        },
         {
           "level": 2,
           "adventureExperience": 100,
@@ -122,8 +122,8 @@
               "drop_max": 1
             }
           ]
-				},
-				{
+        },
+        {
           "level": 4,
           "adventureExperience": 100,
           "companionshipExperience": 20,
@@ -154,7 +154,7 @@
               "drop_max": 1
             }
           ]
-				}
+        }
       ]
     }
   ]

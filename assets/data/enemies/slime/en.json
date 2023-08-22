@@ -34,7 +34,7 @@
     },
     {
       "element": "Geo",
-      "description": "Small monsters created through the buildup of Geo within the earth. Generally speaking, the crust of the earth is filled with Geo energy. Geo Slimes that are formed this way have a similarly "down-to-earth" sort of feeling."
+      "description": "Small monsters created through the buildup of Geo within the earth. Generally speaking, the crust of the earth is filled with Geo energy. Geo Slimes that are formed this way have a similarly \"down-to-earth\" sort of feeling."
     },
     {
       "element": "Dendro",
@@ -53,7 +53,7 @@
       "description": "A small monster created by the coalescing of Electro dispersed throughout nature. According to analyses, the jumping of Electro Slimes reflects the electric potential difference in the ground. In areas brimming over with Electro, their unusual movements can be observed and used to avoid danger."
     },
     {
-      "element": "Pyro", 
+      "element": "Pyro",
       "description": "A small monster created by the sedimentation of Pyro dispersed throughout nature. Its intelligence is very basic, but its uses are just as broad–well, for hilichurls, that is."
     }
   ]
