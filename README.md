@@ -4,7 +4,7 @@
 
 An API that serves data for the game Genshin Impact by miHoYo (the game is made by miHoYo, not the API).
 
-**An always up-to-date version is hosted at https://api.genshin.dev!**
+**An always up-to-date version is hosted at https://genshin.jmp.blue!**
 
 ## Planned Features
 
