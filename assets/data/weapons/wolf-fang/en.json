@@ -1,0 +1,11 @@
+{
+  "name": "Wolf-Fang",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "CRIT Rate",
+  "passiveName": "Northwind Wolf",
+  "passiveDesc": "DMG dealt by Elemental Skill and Elemental Burst is increased by 16%. When an Elemental Skill hits an opponent, its CRIT Rate will be increased by 2%. When an Elemental Burst hits an opponent, its CRIT Rate will be increased by 2%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.",
+  "location": "BP Bounty",
+  "ascensionMaterial": "Fragment Of An Ancient Chord"
+}
