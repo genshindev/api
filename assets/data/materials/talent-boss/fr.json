@@ -27,7 +27,13 @@
   "dvalin's-sigh": {
     "id": "dvalin's-sigh",
     "name": "Souffle de Stormterror",
-    "characters": ["amber", "beidou", "chongyun", "traveler-anemo", "traveler-geo"]
+    "characters": [
+      "amber",
+      "beidou",
+      "chongyun",
+      "traveler-anemo",
+      "traveler-geo"
+    ]
   },
   "tusk-of-monoceros-caeli": {
     "id": "tusk-of-monoceros-caeli",

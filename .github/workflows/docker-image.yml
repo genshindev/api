@@ -2,7 +2,7 @@ name: publish
 
 on:
   push:
-    branches: [ mistress ]
+    branches: [mistress]
   workflow_dispatch:
 
 env:

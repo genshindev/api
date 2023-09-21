@@ -1,12 +1,12 @@
 {
-  "name": "Momiji-Dyed Court", 
-  "type": "Blessing", 
+  "name": "Momiji-Dyed Court",
+  "type": "Blessing",
   "description": "This court is ever a silent scene of falling red leaves. Perhaps lost causes and unforgettable loves may follow the veins of the earth and coalesce into the fruits of the court's white tree.",
-  "location": "Yashiori Island, Inazuma", 
+  "location": "Yashiori Island, Inazuma",
   "nation": "Inazuma",
   "requirements": [
     {
-      "level": 1, 
+      "level": 1,
       "adventureRank": 30,
       "recommendedLevel": 59,
       "leyLineDisorder": [
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "level": 2, 
+      "level": 2,
       "adventureRank": 35,
       "recommendedLevel": 69,
       "leyLineDisorder": [
@@ -22,21 +22,21 @@
       ]
     },
     {
-      "level": 3, 
+      "level": 3,
       "adventureRank": 40,
       "recommendedLevel": 80,
       "leyLineDisorder": [
         "The platforms in this challenge will intermittently switch between the Flame Boon and Frost Boon statuses. Characters will obtain different effects depending on the status of the platform they are on. Flame Boon: active characters will gain a 60% Pyro DMG Bonus. Frost Boon: active characters will gain a 60% Cryo DMG Bonus."
       ]
-		},
-		{
-      "level": 4, 
+    },
+    {
+      "level": 4,
       "adventureRank": 45,
       "recommendedLevel": 90,
       "leyLineDisorder": [
         "The platforms in this challenge will intermittently switch between the Flame Boon and Frost Boon statuses. Characters will obtain different effects depending on the status of the platform they are on. Flame Boon: active characters will gain a 60% Pyro DMG Bonus. Frost Boon: active characters will gain a 60% Cryo DMG Bonus."
       ]
-		}
+    }
   ],
   "recommendedElements": ["Pyro", "Cryo"],
   "rewards": [
@@ -62,7 +62,7 @@
               "drop_max": 1
             }
           ]
-        }, 
+        },
         {
           "level": 2,
           "adventureExperience": 100,
@@ -114,8 +114,8 @@
               "drop_max": 1
             }
           ]
-				},
-				{
+        },
+        {
           "level": 4,
           "adventureExperience": 100,
           "companionshipExperience": 20,
@@ -146,7 +146,7 @@
               "drop_max": 1
             }
           ]
-				}
+        }
       ]
     }
   ]

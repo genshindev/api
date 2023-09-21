@@ -1,0 +1,11 @@
+{
+  "name": "Ballad Of The Fjords",
+  "type": "Polearm",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "CRIT Rate",
+  "passiveName": "Tales of the Tundra",
+  "passiveDesc": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by 120.",
+  "location": "BP Bounty",
+  "ascensionMaterial": "Goblet Of The Pristine Sea"
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Lynette",
+  "title": "Elegance in the Shadows",
+  "vision": "Anemo",
+  "weapon": "Sword",
+  "gender": "Female",
+  "nation": "Fontaine",
+  "affiliation": "Hotel Bouffes d'ete",
+  "rarity": 4,
+  "release": "2023-08-16",
+  "constellation": "Felis Alba",
+  "birthday": "0000-02-02",
+  "description": "A magic assistant of few words, her emotions are as inscrutable as any cat's.",
+  "skillTalents": [
+    {
+      "name": "Rapid Ritesword",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 4 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Enigmatic Feint",
+      "unlock": "Elemental Skill",
+      "description": "Flicks her mantle and executes an Enigma Thrust, dealing Anemo DMG.\nWhen the Enigma Thrust hits an opponent, it will restore Lynette's HP based on her Max HP, and in the 4s afterward, she will lose a certain amount of HP per second.\nBased on whether you press or hold this ability, she will use Enigma Thrust differently.\nPress\nShe swiftly uses an Enigma Thrust.\nHold\nLynette will enter a high-speed Pilfering Shadow state and apply Shadowsign to a nearby opponent.\nWhen this high-speed state ends, Lynette will unleash her Enigma Thrust. If there is an opponent with Shadowsign applied to them nearby, Lynette will approach them in a flash before using Enigma Thrust.\nA maximum of 1 opponent can have Shadowsign at any one time. When this opponent gets too far from Lynette, the Shadowsign will be canceled.\nArkhe: Ousia\nAt specific intervals, Lynette will unleash a Surging Blade when she uses Enigma Thrust, dealing Ousia-aligned Anemo DMG.\n\"Now then, turn your eyes to the stage and continue to enjoy the performance. When I next appear, I'll be where you least expect.\"",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Magic Trick: Astonishing Shift",
+      "unlock": "Elemental Burst",
+      "description": "Lynette raises her mantle high, dealing AoE Anemo DMG, using skillful sleight of hand to make a giant Bogglecat Box appear!\nBogglecat Box\nTaunts nearby opponents, attracting their attacks.\nDeals Anemo DMG to nearby opponents at intervals.\nWhen the Bogglecat Box comes into contact with Hydro/Pyro/Cryo/Electro, it will gain the corresponding element and additionally fire Vivid Shots that will deal DMG from that element at intervals.\nElemental Absorption of this kind will only occur once during this ability's duration.\n\"Look this way, and look closely. This is a time for miracles, just for us.\"",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Loci-Based Mnemonics",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Shows the location of nearby Recovery Orbs on the minimap. The underwater Stamina and HP gained from touching Orbs will be increased by 25%.",
+      "level": 1
+    },
+    {
+      "name": "Sophisticated Synergy",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "Within 10s after using Magic Trick: Astonishing Shift, when there are 1/2/3/4 Elemental Types in the party, all party members' ATK will be increased by 8%/12%/16%/20% respectively.",
+      "level": 4
+    },
+    {
+      "name": "Props Positively Prepped",
+      "unlock": "Unlocked Automatically",
+      "description": "After the Bogglecat Box summoned by Magic Trick: Astonishing Shift performs Elemental Conversion, Lynette's Elemental Burst will deal 15% more DMG. This effect will persist until the Bogglecat Box's duration ends."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "A Cold Blade Like a Shadow",
+      "unlock": "Constellation Lv. 1",
+      "description": "When Enigmatic Feint's Enigma Thrust hits an opponent with Shadowsign, a vortex will be created at that opponent's position that will pull nearby opponents in.",
+      "level": 1
+    },
+    {
+      "name": "Endless Mysteries",
+      "unlock": "Constellation Lv. 2",
+      "description": "Whenever the Bogglecat Box summoned by Magic Trick: Astonishing Shift fires a Vivid Shot, it will fire an extra Vivid Shot.",
+      "level": 2
+    },
+    {
+      "name": "Cognition-Inverting Gaze",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Magic Trick: Astonishing Shift by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Tacit Coordination",
+      "unlock": "Constellation Lv. 4",
+      "description": "Increases Enigmatic Feint's charges by 1.",
+      "level": 4
+    },
+    {
+      "name": "Obscuring Ambiguity",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Enigmatic Feint by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Watchful Eye",
+      "unlock": "Constellation Lv. 6",
+      "description": "When Lynette uses Enigmatic Feint's Enigma Thrust, she will gain an Anemo Infusion and 20% Anemo DMG Bonus for 6s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "ANEMO",
+  "weapon_type": "SWORD"
+}

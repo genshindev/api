@@ -4,7 +4,7 @@
 
 An API that serves data for the game Genshin Impact by miHoYo (the game is made by miHoYo, not the API).
 
-**An always up-to-date version is hosted at https://api.genshin.dev!**
+**An always up-to-date version is hosted at https://genshin.jmp.blue!**
 
 ## Planned Features
 
@@ -13,15 +13,15 @@ An API that serves data for the game Genshin Impact by miHoYo (the game is made 
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/): ^12.0.0
-- [NPM](https://npmjs.org/) or any other Node.js package manager
+- [Node.js](https://nodejs.org/): ^16.0.0
+- [PNPM](https://pnpm.io/)
 
 ## Installation
 
-Install packages with your preferred package manager, e.g. npm:
+Install packages with pnpm:
 
 ```
-npm install
+pnpm install
 ```
 
 If you want to have the API running on a different port, rename the `.env.example` into `.env` and change the `API_PORT` field to your preferred port. \

@@ -22,7 +22,6 @@
       "the-bell",
       "the-stringless",
       "the-viridescent-hunt"
-      
     ],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "cecilia-garden",
@@ -103,7 +102,7 @@
   "dandelion": {
     "weapons": [
       "alley-hunter",
-      "amos'-bow",      
+      "amos'-bow",
       "beginner's-protector",
       "favonius-greatsword",
       "favonius-lance",
@@ -253,7 +252,7 @@
       "skyrider-greatsword",
       "skyrider-sword",
       "staff-of-homa",
-      "vortex-vanquisher" 
+      "vortex-vanquisher"
     ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "hidden-palace-of-lianshan",
@@ -280,18 +279,18 @@
       }
     ]
   },
-  "distantant-sea":{
-    "weapons":[
+  "distantant-sea": {
+    "weapons": [
       "akuoumaru",
       "amenoma-kageuchi",
-      "eberlasting-moonglow",
+      "everlasting-moonglow",
       "hakushin-ring",
       "mistsplitter-reforged",
       "oathsworn-eye"
     ],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "court-of-flowing-sand",
-    "items":[
+    "items": [
       {
         "id": "coral-branch-of-a-distant-sea",
         "name": "Coral Branch of a Distant Sea",
@@ -314,8 +313,8 @@
       }
     ]
   },
-  "narukami":{
-    "weapons":[
+  "narukami": {
+    "weapons": [
       "hamayumi",
       "haran-geppaku-futsu",
       "katsuragikiri-nagamasa",
@@ -326,7 +325,7 @@
     ],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "court-of-flowing-sand",
-    "items":[
+    "items": [
       {
         "id": "narukami's-wisdom",
         "name": "Narukami's Wisdom",
@@ -349,8 +348,8 @@
       }
     ]
   },
-  "mask":{
-    "weapons":[
+  "mask": {
+    "weapons": [
       "the-catch",
       "engulfing-lightning",
       "kagura's-verity",
@@ -360,7 +359,7 @@
     ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "court-of-flowing-sand",
-    "items":[
+    "items": [
       {
         "id": "mask-of-the-wicked-lieutenant",
         "name": "Mask of the Wicked Lieutenant",
@@ -383,8 +382,8 @@
       }
     ]
   },
-  "tailsman":{
-    "weapons":[    
+  "tailsman": {
+    "weapons": [
       "forest-regalia",
       "key-of-khaj-nisut",
       "light-of-foliar-incision",
@@ -393,7 +392,7 @@
     ],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "tower-of-abject-pride",
-    "items":[
+    "items": [
       {
         "id": "copper-talisman-of-the-forest-dew",
         "name": "Copper Talisman of the Forest Dew",
@@ -416,8 +415,8 @@
       }
     ]
   },
-  "oasis":{
-    "weapons":[    
+  "oasis": {
+    "weapons": [
       "a-thousand-floating-dreams",
       "fruit-of-fulfillment",
       "moonpiercer",
@@ -426,7 +425,7 @@
     ],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "tower-of-abject-pride",
-    "items":[
+    "items": [
       {
         "id": "oasis-garden's-reminiscence",
         "name": "Oasis Garden's Reminiscence",
@@ -449,8 +448,8 @@
       }
     ]
   },
-  "scorching":{
-    "weapons":[    
+  "scorching": {
+    "weapons": [
       "hunter's-path",
       "tulaytullah's-remembrance",
       "end-of-the-line",
@@ -459,7 +458,7 @@
     ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "tower-of-abject-pride",
-    "items":[
+    "items": [
       {
         "id": "echo-of-scorching-might",
         "name": "Echo of Scorching Might",

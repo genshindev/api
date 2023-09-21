@@ -7,7 +7,16 @@
   "type": "Common Enemies",
   "family": "Slime",
 
-  "elements": ["Anemo", "Geo", "Dendro", "Hydro", "Cyro", "Mutant", "Pyro", "Electro"],
+  "elements": [
+    "Anemo",
+    "Geo",
+    "Dendro",
+    "Hydro",
+    "Cyro",
+    "Mutant",
+    "Pyro",
+    "Electro"
+  ],
 
   "drops": [
     {
@@ -53,7 +62,7 @@
       "description": "A monster created by the coalescing of Electro dispersed throughout nature. Due to the abundant Electro within its form, it will deliver an electric shock to its surroundings from time to time. At present, some have attempted to harness this energy to aid in production activities. Perhaps some new science will be born from this...?"
     },
     {
-      "element": "Pyro", 
+      "element": "Pyro",
       "description": "A monster created by the sedimentation of Pyro dispersed throughout nature. Though its intelligence has not increased with its size, it is very hot. During dry seasons, it can cause wildfires. It will spit forth blazing fireballs when angered, and will turn dark when it is feeling down. A most expressive slime, indeed."
     },
     {

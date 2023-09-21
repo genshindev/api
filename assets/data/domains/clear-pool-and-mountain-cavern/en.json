@@ -1,12 +1,12 @@
 {
-  "name": "Clear Pool and Mountain Cavern", 
-  "type": "Blessing", 
+  "name": "Clear Pool and Mountain Cavern",
+  "type": "Blessing",
   "description": "Mt. Aocang is a place of secret wonders. What at first merely seems like beautiful scenery in fact conceals a stone cave that connects to the heavens and breathes out clouds. Nonetheless, this is not how the saying \"where the clouds emerge\" was derived.",
-  "location": "Mt. Aocang, Minlin, Liyue", 
+  "location": "Mt. Aocang, Minlin, Liyue",
   "nation": "Liyue",
   "requirements": [
     {
-      "level": 1, 
+      "level": 1,
       "adventureRank": 35,
       "recommendedLevel": 69,
       "leyLineDisorder": [
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "level": 2, 
+      "level": 2,
       "adventureRank": 40,
       "recommendedLevel": 80,
       "leyLineDisorder": [
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "level": 3, 
+      "level": 3,
       "adventureRank": 45,
       "recommendedLevel": 90,
       "leyLineDisorder": [
@@ -54,7 +54,7 @@
               "drop_max": 1
             }
           ]
-        }, 
+        },
         {
           "level": 2,
           "adventureExperience": 100,

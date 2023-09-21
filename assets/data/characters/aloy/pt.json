@@ -1,0 +1,175 @@
+{
+  "name": "Aloy",
+  "title": "Salvadora de Outro Mundo",
+  "vision": "Cryo",
+  "weapon": "Arco",
+  "gender": "Feminino",
+  "nation": "Unknown",
+  "affiliation": "Cavaleiro Errante",
+  "rarity": 5,
+  "release": "13-10-2021",
+  "constellation": "Nora Fortis",
+  "birthday": "04-04-0000",
+  "description": "Era uma pária, agora uma caçadora de uma avidez inigualável. Pronta para fazer a coisa certa com seu arco, a qualquer momento.",
+  "skillTalents": [
+    {
+      "name": "Disparos Rápidos",
+      "unlock": "Ataque Normal",
+      "description": "Ataque Normal\nRealiza até 4 disparos consecutivos com o arco.\nAtaque Carregado\nRealiza um ataque Disparo com Mira mais preciso e com mais dano.\nEnquanto mira, gelo será acumulado na flecha. Uma flecha totalmente carregada causará Dano Cryo.\nAtaque Imersivo\nDispara uma chuva de flechas no ar antes de cair e impactar o chão, causando Dano AdE no impacto.",
+      "upgrades": [
+        {
+          "name": "Dano do 1º Golpe",
+          "value": "21.12% + 23.76%"
+        },
+        {
+          "name": "Dano do 2º Golpe",
+          "value": "43.12%"
+        },
+        {
+          "name": "Dano do 3º Golpe",
+          "value": "52.8%"
+        },
+        {
+          "name": "Dano do 4º Golpe",
+          "value": "65.65%"
+        },
+        {
+          "name": "Disparo com Mira",
+          "value": "43.86%"
+        },
+        {
+          "name": "Disparo com Mira com Energização Completa",
+          "value": "124%"
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "value": "56.83%"
+        },
+        {
+          "name": "Dano de Queda de Alta/Baixa Altitude",
+          "value": "113.63%/141.93%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Natureza Gélida",
+      "unlock": "Habilidade Elemental",
+      "description": "Aloy lança uma Bomba Congelante na direção desejada que explode no impacto, causando Dano Cryo.\n Depois de explodir, a Bomba Congelante se dividirá em muitas Bombinhas Congelantes que explodirão ao entrar em contato com os oponentes ou após um curto período de tempo, causando Dano Cryo.\nQuando a Bomba Congelante ou suas bombinhas atingem os oponentes, elas diminuirão o ATQ dos oponentes e concederão 1 acúmulo de Bobina a Aloy.\nAloy pode ganhar 1 acúmulo de Bobinas a cada 0,1s.\n\nBobina\nCada acúmulo aumentará o Dano do Ataque Normal de Aloy.\nQuando ela tiver 4 acúmulos, Aloy elimina todos os efeitos de Bobina e ganha Gelo Rápido, aumentando o Dano causado pelo Ataque Normal e convertendo seus Ataques Normais para causar Dano Cryo.\n\nEnquanto sob o estado do Gelo Rápido, Aloy não pode obter efeitos de Bobina.\nO efeito de Bobina é excluído 30 segundos após sair da batalha.",
+      "upgrades": [
+        {
+          "name": "Dano da Bomba Congelante",
+          "value": "177.6%"
+        },
+        {
+          "name": "Dano de Bomba de Congelamento",
+          "value": "40%"
+        },
+        {
+          "name": "Redução de ATQ",
+          "value": "12%"
+        },
+        {
+          "name": "Duração da Redução de ATQ",
+          "value": "6s"
+        },
+        {
+          "name": "Bônus de Dano do Ataque Normal de Bobina",
+          "value": "5.85%/11.69%/17.54%"
+        },
+        {
+          "name": "Bônus de Dano do Ataque Normal de Gelo Rápido",
+          "value": "29.23%"
+        },
+        {
+          "name": "Duração do Gelo Rápido",
+          "value": "10s"
+        },
+        {
+          "name": "Recarga",
+          "value": "20s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Profecia do Alvorecer",
+      "unlock": "Explosão Elemental",
+      "description": "Arremessa uma Bateria cheia com Cryo na direção do alvo antes de ligá-la com uma flecha, causando Dano Cryo em uma AdE.",
+      "upgrades": [
+        {
+          "name": "Dano de Habilidade",
+          "value": "359.2%"
+        },
+        {
+          "name": "Recarga",
+          "value": "12s"
+        },
+        {
+          "name": "Energia Elemental",
+          "value": "40"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Percepção de Combate",
+      "unlock": "Desbloqueado na Ascenção 1",
+      "description": "Quando Aloy recebe o efeito de Natureza Gélida da Bobina, seu ATQ é aumentado em 16%, enquanto o ATQ de outros membros da equipe ao redor é aumentado em 8%. Este efeito dura 10s.",
+      "level": 1
+    },
+    {
+      "name": "Ataque Poderoso",
+      "unlock": "Desbloqueado na Ascenção 4",
+      "description": "Quando Aloy está sob o efeito de Gelo Rápido proporcionado pela Natureza Gélida, seu Bônus de Dano Cryo aumenta em 3.5% a cada 1s. O máximo de aumento de Bônus de Dano Cryo ganho desta forma é de 35%.",
+      "level": 4
+    },
+    {
+      "name": "Devagarinho",
+      "unlock": "Desbloqueado automaticamente",
+      "description": "Quando Aloy está na equipe, os membros da equipe que se aproximarem de pequenos animais que possam produzir Carne de Ave, Carne crua ou Carne Fresca Fria, não se assustarão facilmente."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Estrela de Outro Mundo (1)",
+      "unlock": "Constelação Lv. 1",
+      "description": "Ainda não chegou a hora de iluminar o recanto do céu noturno desta pessoa.",
+      "level": 1
+    },
+    {
+      "name": "Estrela de Outro Mundo (2)",
+      "unlock": "Constelação Lv. 2",
+      "description": "Ainda não chegou a hora de iluminar o recanto do céu noturno desta pessoa.",
+      "level": 2
+    },
+    {
+      "name": "Estrela de Outro Mundo (3)",
+      "unlock": "Constelação Lv. 3",
+      "description": "Ainda não chegou a hora de iluminar o recanto do céu noturno desta pessoa.",
+      "level": 3
+    },
+    {
+      "name": "Estrela de Outro Mundo (4)",
+      "unlock": "Constelação Lv. 4",
+      "description": "Ainda não chegou a hora de iluminar o recanto do céu noturno desta pessoa.",
+      "level": 4
+    },
+    {
+      "name": "Estrela de Outro Mundo (5)",
+      "unlock": "Constelação Lv. 5",
+      "description": "Ainda não chegou a hora de iluminar o recanto do céu noturno desta pessoa.",
+      "level": 5
+    },
+    {
+      "name": "Estrela de Outro Mundo (6)",
+      "unlock": "Constelação Lv. 6",
+      "description": "Ainda não chegou a hora de iluminar o recanto do céu noturno desta pessoa.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "ARCO"
+}

@@ -1,12 +1,12 @@
 {
-  "name": "Valley of Remembrance", 
-  "type": "Blessing", 
+  "name": "Valley of Remembrance",
+  "type": "Blessing",
   "description": "After a period of time, the people of the continent lost track of the past. They attempt to explore downwards, searching for the things that they had forgotten. On the other side of the ancient tree's hollow, the secrets of yesterday have become today's treasures.",
-  "location": "Dawn Winery, Windwail Highland, Mondstadt", 
+  "location": "Dawn Winery, Windwail Highland, Mondstadt",
   "nation": "Mondstadt",
   "requirements": [
     {
-      "level": 1, 
+      "level": 1,
       "adventureRank": 25,
       "recommendedLevel": 47,
       "leyLineDisorder": [
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "level": 2, 
+      "level": 2,
       "adventureRank": 30,
       "recommendedLevel": 59,
       "leyLineDisorder": [
@@ -22,29 +22,29 @@
       ]
     },
     {
-      "level": 3, 
+      "level": 3,
       "adventureRank": 35,
       "recommendedLevel": 69,
       "leyLineDisorder": [
         "Physical DMG dealt by all party members increased by 75%."
       ]
-		},
-		{
-      "level": 4, 
+    },
+    {
+      "level": 4,
       "adventureRank": 40,
       "recommendedLevel": 80,
       "leyLineDisorder": [
-				"Physical DMG dealt by all party members increased by 75%.",
-				"The opponents in this challenge have decreased Physical RES. Use characters who excel in dealing Physical DMG to decrease challenge difficulty."
+        "Physical DMG dealt by all party members increased by 75%.",
+        "The opponents in this challenge have decreased Physical RES. Use characters who excel in dealing Physical DMG to decrease challenge difficulty."
       ]
-		},
-		{
-      "level": 5, 
+    },
+    {
+      "level": 5,
       "adventureRank": 45,
       "recommendedLevel": 90,
       "leyLineDisorder": [
-				"Physical DMG dealt by all party members increased by 75%.",
-				"The opponents in this challenge have decreased Physical RES. Use characters who excel in dealing Physical DMG to decrease challenge difficulty."
+        "Physical DMG dealt by all party members increased by 75%.",
+        "The opponents in this challenge have decreased Physical RES. Use characters who excel in dealing Physical DMG to decrease challenge difficulty."
       ]
     }
   ],
@@ -72,7 +72,7 @@
               "drop_max": 1
             }
           ]
-        }, 
+        },
         {
           "level": 2,
           "adventureExperience": 100,
@@ -124,8 +124,8 @@
               "drop_max": 1
             }
           ]
-				},
-				{
+        },
+        {
           "level": 4,
           "adventureExperience": 100,
           "companionshipExperience": 20,
@@ -150,8 +150,8 @@
               "drop_max": 1
             }
           ]
-				},
-				{
+        },
+        {
           "level": 5,
           "adventureExperience": 100,
           "companionshipExperience": 20,

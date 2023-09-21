@@ -49,7 +49,7 @@
       "set": "Traveling Doctor",
       "rarity": "3"
     }
-  ], 
+  ],
 
   "wooden-shieldwall-mitachurl": {
     "id": "wooden-shieldwall-mitachurl",
@@ -66,7 +66,7 @@
   "ice-shieldwall-mitachurl": {
     "id": "ice-shieldwall-mitachurl",
     "name": "Ice Shieldwall Mitachurl",
-    "description": "A muscular hilichurl that uses solid ice as a shield, wielding it in battle. Reason normally dictates that large creatures that see a lot of action should burn through a great number of calories to sustain themselves. As such, the present-day El Musk has proposed the "Mitachurl Index." This index correlates the percentage of mitachurls within the hilichurl population to the stability and success of hilichurl foraging activity.",
+    "description": "A muscular hilichurl that uses solid ice as a shield, wielding it in battle. Reason normally dictates that large creatures that see a lot of action should burn through a great number of calories to sustain themselves. As such, the present-day El Musk has proposed the \"Mitachurl Index.\" This index correlates the percentage of mitachurls within the hilichurl population to the stability and success of hilichurl foraging activity.",
     "region": "Global"
   },
   "blazing-axe-mitachurl": {
@@ -80,7 +80,7 @@
     "name": "Crackling Axe Mitachurl",
     "description": "Muscular hilichurls who wield large, two-handled axes. Attacks with large strikes and uses Electro Slimes to infuse their axes with Electro. Their blows are very lethal. Axes forged from steel are highly conductive material. The image of those tall and strong Crackling Axe Mitachurls holding their axes up to summon lightning is quite majestic to the hilichurls.",
     "region": "Global"
-  }, 
+  },
 
   "mora-gained": 200
 }

@@ -147,7 +147,14 @@
     ]
   },
   "gold": {
-    "characters": ["beidou", "traveler-geo", "xingqiu", "xinyan", "yanfei", "zhongli"],
+    "characters": [
+      "beidou",
+      "traveler-geo",
+      "xingqiu",
+      "xinyan",
+      "yanfei",
+      "zhongli"
+    ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "taishan-mansion",
     "items": [
@@ -234,7 +241,7 @@
       }
     ]
   },
-    "admonition": {
+  "admonition": {
     "characters": ["candace", "cyno", "faruzan", "tighnari", "traveler-dendro"],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "steeple-of-ignorance",

@@ -1,0 +1,93 @@
+{
+  "name": "Freminet",
+  "title": "Yearning for Unseen Depths",
+  "vision": "Cryo",
+  "weapon": "Claymore",
+  "gender": "Male",
+  "nation": "Fontaine",
+  "affiliation": "Hotel Bouffes d'ete",
+  "rarity": 4,
+  "release": "2023-09-06",
+  "constellation": "Automaton",
+  "birthday": "0000-09-24",
+  "description": "A reserved young man who is well-versed in diving. Beneath his distant, icy demeanor lies a pure heart bereft of all flaws.",
+  "skillTalents": [
+    {
+      "name": "Flowing Eddies",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, performs a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Pressurized Floe",
+      "unlock": "Elemental Skill",
+      "description": "Does an upward thrust that will deal Cryo DMG and cause Freminet to enter Pers Timer for 10s.\nWhile Pers Timer is active, his Elemental Skill will turn into Shattering Pressure.\nShattering Pressure\nExecutes different sorts of attacks based on the Pressure level of Pers Timer, and then cancels Pers Timer.\nLevel 0: Unleashes a vertical cut that will deal Cryo DMG.\nLevels 1 to 3: Unleashes a vertical cut alongside Pers, dealing Cryo DMG and Physical DMG. DMG dealt scales based on Pressure level.\nLevel 4: Borrows the power of a fully-pressurized Pers to deal Physical DMG. Meanwhile, Normal Attack: Flowing Eddies will be replaced by Shattering Pressure.\nPers Timer\nWhen Freminet uses Normal Attacks, he will also unleash waves of frost that deal Cryo DMG and increase Pers' Pressure level.\nThe accompanying Cryo DMG dealt this way is considered Elemental Skill DMG.\nArkhe: Pneuma\nAt certain intervals, after using the upward thrust, a Spiritbreath Thorn in the form of another upward thrust will be created, dealing Pneuma-aligned Cryo DMG.\nTo immobilize one's opponent without taking their life can also be considered something of a \"survival\" strategy that one may choose.\n\"Pers... I leave the rest to you.\"",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Shadowhunter's Ambush",
+      "unlock": "Elemental Burst",
+      "description": "Unleashes a wave of untouchable cold, dealing AoE Cryo DMG, resetting the CD of the Elemental Skill \"Pressurized Floe,\" and causing Freminet to enter the Subnautical Hunter mode for 10s.\nWhile in Subnautical Hunter mode, his interruption resistance will increase, and Pressurized Floe will obtain the following buffs:\nCD decreased by 70%.\nNormal Attacks will give Pers 1 additional Pressure stack, and the frost released by his Normal Attacks deal 200% of their original DMG.\nThis effect will be canceled when Freminet leaves the field.\n\"Now... I have no need of any extraneous noise.\"",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Deepwater Navigation",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Decreases underwater stamina consumption for your own party members by 35%.\nNot stackable with Passive Talents that provide the exact same effects.",
+      "level": 1
+    },
+    {
+      "name": "Saturation Deep Dive",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "When using Pressurized Floe: Shattering Pressure, if Pers Timer has less than 4 levels of Pressure, the CD of Pressurized Floe will be decreased by 1s.",
+      "level": 4
+    },
+    {
+      "name": "Parallel Condensers",
+      "unlock": "Unlocked Automatically",
+      "description": "When Freminet triggers Shatter against opponents, the DMG dealt by Pressurized Floe: Shattering Pressure will be increased by 40% for 5s."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Dreams of the Foamy Deep",
+      "unlock": "Constellation Lv. 1",
+      "description": "The CRIT Rate of Pressurized Floe: Shattering Pressure will be increased by 15%.",
+      "level": 1
+    },
+    {
+      "name": "Penguins and the Land of Plenty",
+      "unlock": "Constellation Lv. 2",
+      "description": "Unleashing Pressurized Floe: Shattering Pressure will restore 2 Energy to Freminet. If a Pressure Level 4 Shattering Pressure is unleashed, this will restore 3 Energy.",
+      "level": 2
+    },
+    {
+      "name": "Song of the Eddies and Bleached Sands",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Normal Attack: Flowing Eddies by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Dance of the Snowy Moon and Flute",
+      "unlock": "Constellation Lv. 4",
+      "description": "When Freminet triggers Frozen, Shatter, or Superconduct against opponents, his ATK will be increased by 9% for 6s. Max 2 stacks. This can be triggered once every 0.3s.",
+      "level": 4
+    },
+    {
+      "name": "Nights of Hearth and Happiness",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Pressurized Floe by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Moment of Waking and Resolve",
+      "unlock": "Constellation Lv. 6",
+      "description": "When Freminet triggers Frozen, Shatter, or Superconduct against opponents, his CRIT DMG will be increased by 12% for 6s. Max 3 stacks. This can be triggered once every 0.3s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "CLAYMORE"
+}
