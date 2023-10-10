@@ -16,6 +16,11 @@
       "name": "Frozen",
       "elements": ["Cryo"],
       "description": "When Hydro meets Cryo, Frozen occurs. Frozen beings are rendered immobile, but also become rock-hard."
+    },
+    {
+      "name": "Bloom",
+      "elements": ["Hydro"],
+      "description": "When creatures are affected by Hydro and Dendro, the Bloom reaction will be triggered, creating Dendro Cores."
     }
   ]
 }
