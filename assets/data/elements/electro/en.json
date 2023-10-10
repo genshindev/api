@@ -19,7 +19,7 @@
     },
     {
       "name": "Catalyze",
-      "elements": ["Electro"],
+      "elements": ["Dendro"],
       "description": "When creatures are affected by Electro and Dendro, Quicken will occur, which will render them Quickened."
     }
   ]

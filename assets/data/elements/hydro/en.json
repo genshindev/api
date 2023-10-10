@@ -19,7 +19,7 @@
     },
     {
       "name": "Bloom",
-      "elements": ["Hydro"],
+      "elements": ["Dendro"],
       "description": "When creatures are affected by Hydro and Dendro, the Bloom reaction will be triggered, creating Dendro Cores."
     }
   ]
