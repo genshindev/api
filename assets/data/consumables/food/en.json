@@ -3552,24 +3552,24 @@
     "baseDish": "Consomme",
     "recipe": [
       {
-    "item": "Fowl",
-    "quantity": 3
-    },
+        "item": "Fowl",
+        "quantity": 3
+      },
       {
-    "item": "Bird Egg",
-    "quantity": 3
-    },
+        "item": "Bird Egg",
+        "quantity": 3
+      },
       {
-    "item": "Carrot",
-    "quantity": 2
-    },
+        "item": "Carrot",
+        "quantity": 2
+      },
       {
-    "item": "Marcotte",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "my-way": {
+        "item": "Marcotte",
+        "quantity": 1
+      }
+    ]
+  },
+  "my-way": {
     "name": "My Way",
     "rarity": 2,
     "type": "Recovery Dish",
@@ -3580,16 +3580,16 @@
     "baseDish": "Crab Roe Tofu",
     "recipe": [
       {
-    "item": "Crab Roe",
-    "quantity": 1
-    },
+        "item": "Crab Roe",
+        "quantity": 1
+      },
       {
-    "item": "Tofu",
-    "quantity": 1
-    }
-  ]
-   },  
-   "seabird's-sojourn": {
+        "item": "Tofu",
+        "quantity": 1
+      }
+    ]
+  },
+  "seabird's-sojourn": {
     "name": "Seabird's Sojourn",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -3600,24 +3600,24 @@
     "baseDish": "Poisson Seafood Soup",
     "recipe": [
       {
-    "item": "Fish",
-    "quantity": 4
-    },
+        "item": "Fish",
+        "quantity": 4
+      },
       {
-    "item": "Tomato",
-    "quantity": 2
-    },
+        "item": "Tomato",
+        "quantity": 2
+      },
       {
-    "item": "Mint",
-    "quantity": 2
-    },
+        "item": "Mint",
+        "quantity": 2
+      },
       {
-    "item": "Marcotte",
-    "quantity": 2
-    }
-  ]
-   }, 
-   "snow-on-the-hearth": {
+        "item": "Marcotte",
+        "quantity": 2
+      }
+    ]
+  },
+  "snow-on-the-hearth": {
     "name": "Snow on the Hearth",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -3628,20 +3628,20 @@
     "baseDish": "Sakura Mochi",
     "recipe": [
       {
-    "item": "Rice",
-    "quantity": 4
-    },
+        "item": "Rice",
+        "quantity": 4
+      },
       {
-    "item": "Sugar",
-    "quantity": 2
-    },
+        "item": "Sugar",
+        "quantity": 2
+      },
       {
-    "item": "Sakura Bloom",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "sweet-dream": {
+        "item": "Sakura Bloom",
+        "quantity": 1
+      }
+    ]
+  },
+  "sweet-dream": {
     "name": "Sweet Dream",
     "rarity": 2,
     "type": "ATK-Boosting Dish",
@@ -3652,20 +3652,20 @@
     "baseDish": "Almond Tofu",
     "recipe": [
       {
-    "item": "Milk",
-    "quantity": 3
-    },
+        "item": "Milk",
+        "quantity": 3
+      },
       {
-    "item": "Sugar",
-    "quantity": 1
-    },
+        "item": "Sugar",
+        "quantity": 1
+      },
       {
-    "item": "Almond",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "warmth": {
+        "item": "Almond",
+        "quantity": 1
+      }
+    ]
+  },
+  "warmth": {
     "name": "Warmth",
     "rarity": 1,
     "type": "Recovery Dish",
@@ -3676,16 +3676,16 @@
     "baseDish": "Miso Soup",
     "recipe": [
       {
-    "item": "Tofu",
-    "quantity": 1
-    },
+        "item": "Tofu",
+        "quantity": 1
+      },
       {
-    "item": "Seagrass",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "a-buoyant-breeze": {
+        "item": "Seagrass",
+        "quantity": 1
+      }
+    ]
+  },
+  "a-buoyant-breeze": {
     "name": "A Buoyant Breeze",
     "rarity": 3,
     "type": "Adventurer's Dish",
@@ -3696,20 +3696,20 @@
     "baseDish": "Barbatos Ratatouille",
     "recipe": [
       {
-    "item": "Carrot",
-    "quantity": 4
-    },
+        "item": "Carrot",
+        "quantity": 4
+      },
       {
-    "item": "Potato",
-    "quantity": 4
-    },
+        "item": "Potato",
+        "quantity": 4
+      },
       {
-    "item": "Onion",
-    "quantity": 4
-    }
-  ]
-   }, 
-   "a-leisurely-sip": {
+        "item": "Onion",
+        "quantity": 4
+      }
+    ]
+  },
+  "a-leisurely-sip": {
     "name": "A Leisurely Sip",
     "rarity": 3,
     "type": "DEF-Boosting Dish",
@@ -3720,24 +3720,24 @@
     "baseDish": "Conch Madeleine",
     "recipe": [
       {
-    "item": "Bird Egg",
-    "quantity": 3
-    },
+        "item": "Bird Egg",
+        "quantity": 3
+      },
       {
-    "item": "Flour",
-    "quantity": 2
-    },
+        "item": "Flour",
+        "quantity": 2
+      },
       {
-    "item": "Butter",
-    "quantity": 2
-    },
+        "item": "Butter",
+        "quantity": 2
+      },
       {
-    "item": "Sugar",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "a-prize-catch": {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "a-prize-catch": {
     "name": "A Prize Catch",
     "rarity": 3,
     "type": "DEF-Boosting Dish",
@@ -3748,20 +3748,20 @@
     "baseDish": "Calla Lily Seafood Soup",
     "recipe": [
       {
-    "item": "Crab",
-    "quantity": 4
-    },
+        "item": "Crab",
+        "quantity": 4
+      },
       {
-    "item": "Calla Lily",
-    "quantity": 1
-    },
+        "item": "Calla Lily",
+        "quantity": 1
+      },
       {
-    "item": "Mint",
-    "quantity": 2
-    }
-  ]
-   }, 
-   "a-stunning-stratagem": {
+        "item": "Mint",
+        "quantity": 2
+      }
+    ]
+  },
+  "a-stunning-stratagem": {
     "name": "A Stunning Stratagem",
     "rarity": 1,
     "type": "Recovery Dish",
@@ -3772,16 +3772,16 @@
     "baseDish": "Bird Egg Sushi",
     "recipe": [
       {
-    "item": "Bird Egg",
-    "quantity": 1
-    },
+        "item": "Bird Egg",
+        "quantity": 1
+      },
       {
-    "item": "Rice",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "all-delicacy-parcels": {
+        "item": "Rice",
+        "quantity": 1
+      }
+    ]
+  },
+  "all-delicacy-parcels": {
     "name": "All-Delicacy Parcels",
     "rarity": 2,
     "type": "Recovery Dish",
@@ -3792,20 +3792,20 @@
     "baseDish": "Crystal Shrimp",
     "recipe": [
       {
-    "item": "Rice",
-    "quantity": 3
-    },
+        "item": "Rice",
+        "quantity": 3
+      },
       {
-    "item": "Shrimp Meat",
-    "quantity": 3
-    },
+        "item": "Shrimp Meat",
+        "quantity": 3
+      },
       {
-    "item": "Carrot",
-    "quantity": 2
-    }
-  ]
-   }, 
-   "all-weather-beauty": {
+        "item": "Carrot",
+        "quantity": 2
+      }
+    ]
+  },
+  "all-weather-beauty": {
     "name": "All-Weather Beauty",
     "rarity": 1,
     "type": "Recovery Dish",
@@ -3816,16 +3816,16 @@
     "baseDish": "Dry-Braised Salted Fish",
     "recipe": [
       {
-    "item": "Fish",
-    "quantity": 1
-    },
+        "item": "Fish",
+        "quantity": 1
+      },
       {
-    "item": "Salt",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "cloud-shrouded-jade": {
+        "item": "Salt",
+        "quantity": 1
+      }
+    ]
+  },
+  "cloud-shrouded-jade": {
     "name": "Cloud-Shrouded Jade",
     "rarity": 2,
     "type": "Adventurer's Dish",
@@ -3836,20 +3836,20 @@
     "baseDish": "Lotus Seed and Bird Egg Soup",
     "recipe": [
       {
-    "item": "Lotus Head",
-    "quantity": 1
-    },
+        "item": "Lotus Head",
+        "quantity": 1
+      },
       {
-    "item": "Bird Egg",
-    "quantity": 1
-    },
+        "item": "Bird Egg",
+        "quantity": 1
+      },
       {
-    "item": "Sugar",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "cold-noodles-with-mountain-delicacies": {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "cold-noodles-with-mountain-delicacies": {
     "name": "Cold Noodles with Mountain Delicacies",
     "rarity": 2,
     "type": "Adventurer's Dish",
@@ -3860,20 +3860,20 @@
     "baseDish": "Noodles with Mountain Delicacies",
     "recipe": [
       {
-    "item": "Mushroom",
-    "quantity": 3
-    },
+        "item": "Mushroom",
+        "quantity": 3
+      },
       {
-    "item": "Raw Meat",
-    "quantity": 2
-    },
+        "item": "Raw Meat",
+        "quantity": 2
+      },
       {
-    "item": "Flour",
-    "quantity": 2
-    }
-  ]
-   }, 
-   "cubic-tricks": {
+        "item": "Flour",
+        "quantity": 2
+      }
+    ]
+  },
+  "cubic-tricks": {
     "name": "Cubic Tricks",
     "rarity": 3,
     "type": "ATK-Boosting Dish",
@@ -3884,20 +3884,20 @@
     "baseDish": "Pate de Fruit",
     "recipe": [
       {
-    "item": "Bulle Fruit",
-    "quantity": 1
-    },
+        "item": "Bulle Fruit",
+        "quantity": 1
+      },
       {
-    "item": "Jam",
-    "quantity": 1
-    },
+        "item": "Jam",
+        "quantity": 1
+      },
       {
-    "item": "Sugar",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "definitely-not-bar-food!": {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "definitely-not-bar-food!": {
     "name": "Definitely Not Bar Food!",
     "rarity": 1,
     "type": "Recovery Dish",
@@ -3908,16 +3908,16 @@
     "baseDish": "Mondstadt Grilled Fish",
     "recipe": [
       {
-    "item": "Fish",
-    "quantity": 1
-    },
+        "item": "Fish",
+        "quantity": 1
+      },
       {
-    "item": "Pepper",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "der-weisheit-letzter-schluss-(life)": {
+        "item": "Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  "der-weisheit-letzter-schluss-(life)": {
     "name": "Der Weisheit Letzter Schluss (Life)",
     "rarity": 2,
     "type": "ATK-Boosting Dish",
@@ -3928,24 +3928,24 @@
     "baseDish": "Satisfying Salad",
     "recipe": [
       {
-    "item": "Cabbage",
-    "quantity": 2
-    },
+        "item": "Cabbage",
+        "quantity": 2
+      },
       {
-    "item": "Apple",
-    "quantity": 2
-    },
+        "item": "Apple",
+        "quantity": 2
+      },
       {
-    "item": "Bird Egg",
-    "quantity": 1
-    },
+        "item": "Bird Egg",
+        "quantity": 1
+      },
       {
-    "item": "Potato",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "dew-dipped-shrimp": {
+        "item": "Potato",
+        "quantity": 1
+      }
+    ]
+  },
+  "dew-dipped-shrimp": {
     "name": "Dew-Dipped Shrimp",
     "rarity": 3,
     "type": "DEF-Boosting Dish",
@@ -3956,20 +3956,20 @@
     "baseDish": "Stir-Fried Shrimp",
     "recipe": [
       {
-    "item": "Shrimp Meat",
-    "quantity": 4
-    },
+        "item": "Shrimp Meat",
+        "quantity": 4
+      },
       {
-    "item": "Flour",
-    "quantity": 3
-    },
+        "item": "Flour",
+        "quantity": 3
+      },
       {
-    "item": "Snapdragon",
-    "quantity": 3
-    }
-  ]
-   }, 
-   "die-heilige-sinfonie": {
+        "item": "Snapdragon",
+        "quantity": 3
+      }
+    ]
+  },
+  "die-heilige-sinfonie": {
     "name": "Die Heilige Sinfonie",
     "rarity": 3,
     "type": "ATK-Boosting Dish",
@@ -3980,24 +3980,24 @@
     "baseDish": "Cold Cut Platter",
     "recipe": [
       {
-    "item": "Ham",
-    "quantity": 1
-    },
+        "item": "Ham",
+        "quantity": 1
+      },
       {
-    "item": "Bacon",
-    "quantity": 1
-    },
+        "item": "Bacon",
+        "quantity": 1
+      },
       {
-    "item": "Sausage",
-    "quantity": 1
-    },
+        "item": "Sausage",
+        "quantity": 1
+      },
       {
-    "item": "Mint",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "dinner-of-judgment": {
+        "item": "Mint",
+        "quantity": 1
+      }
+    ]
+  },
+  "dinner-of-judgment": {
     "name": "Dinner of Judgment",
     "rarity": 2,
     "type": "Recovery Dish",
@@ -4008,16 +4008,16 @@
     "baseDish": "Sweet Madame",
     "recipe": [
       {
-    "item": "Fowl",
-    "quantity": 2
-    },
+        "item": "Fowl",
+        "quantity": 2
+      },
       {
-    "item": "Sweet Flower",
-    "quantity": 2
-    }
-  ]
-   }, 
-   "dizziness-be-gone-no-jutsu-version-2.0": {
+        "item": "Sweet Flower",
+        "quantity": 2
+      }
+    ]
+  },
+  "dizziness-be-gone-no-jutsu-version-2.0": {
     "name": "Dizziness-Be-Gone no Jutsu Version 2.0",
     "rarity": 2,
     "type": "Recovery Dish",
@@ -4028,20 +4028,20 @@
     "baseDish": "Onigiri",
     "recipe": [
       {
-    "item": "Fish",
-    "quantity": 2
-    },
+        "item": "Fish",
+        "quantity": 2
+      },
       {
-    "item": "Rice",
-    "quantity": 1
-    },
+        "item": "Rice",
+        "quantity": 1
+      },
       {
-    "item": "Seagrass",
-    "quantity": 2
-    }
-  ]
-   }, 
-   "duel-soul": {
+        "item": "Seagrass",
+        "quantity": 2
+      }
+    ]
+  },
+  "duel-soul": {
     "name": "Duel Soul",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -4052,24 +4052,24 @@
     "baseDish": "Tahchin",
     "recipe": [
       {
-    "item": "Rice",
-    "quantity": 4
-    },
+        "item": "Rice",
+        "quantity": 4
+      },
       {
-    "item": "Fowl",
-    "quantity": 2
-    },
+        "item": "Fowl",
+        "quantity": 2
+      },
       {
-    "item": "Fish",
-    "quantity": 2
-    },
+        "item": "Fish",
+        "quantity": 2
+      },
       {
-    "item": "Padisarah",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "energizing-bento": {
+        "item": "Padisarah",
+        "quantity": 1
+      }
+    ]
+  },
+  "energizing-bento": {
     "name": "Energizing Bento",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -4080,24 +4080,24 @@
     "baseDish": "Invigorating Kitty Meal",
     "recipe": [
       {
-    "item": "Fish",
-    "quantity": 4
-    },
+        "item": "Fish",
+        "quantity": 4
+      },
       {
-    "item": "Raw Meat",
-    "quantity": 2
-    },
+        "item": "Raw Meat",
+        "quantity": 2
+      },
       {
-    "item": "Seagrass",
-    "quantity": 2
-    },
+        "item": "Seagrass",
+        "quantity": 2
+      },
       {
-    "item": "Rice",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "extravagant-slumber": {
+        "item": "Rice",
+        "quantity": 1
+      }
+    ]
+  },
+  "extravagant-slumber": {
     "name": "Extravagant Slumber",
     "rarity": 2,
     "type": "Recovery Dish",
@@ -4108,20 +4108,20 @@
     "baseDish": "Rose Custard",
     "recipe": [
       {
-    "item": "Milk",
-    "quantity": 2
-    },
+        "item": "Milk",
+        "quantity": 2
+      },
       {
-    "item": "Sumeru Rose",
-    "quantity": 2
-    },
+        "item": "Sumeru Rose",
+        "quantity": 2
+      },
       {
-    "item": "Sugar",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "faith-eternal": {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "faith-eternal": {
     "name": "Faith Eternal",
     "rarity": 1,
     "type": "Recovery Dish",
@@ -4132,16 +4132,16 @@
     "baseDish": "Egg Roll",
     "recipe": [
       {
-    "item": "Bird Egg",
-    "quantity": 1
-    },
+        "item": "Bird Egg",
+        "quantity": 1
+      },
       {
-    "item": "Sugar",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "fish-flavored-toast": {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "fish-flavored-toast": {
     "name": "Fish-Flavored Toast",
     "rarity": 2,
     "type": "DEF-Boosting Dish",
@@ -4152,24 +4152,24 @@
     "baseDish": "Fisherman's Toast",
     "recipe": [
       {
-    "item": "Flour",
-    "quantity": 3
-    },
+        "item": "Flour",
+        "quantity": 3
+      },
       {
-    "item": "Tomato",
-    "quantity": 2
-    },
+        "item": "Tomato",
+        "quantity": 2
+      },
       {
-    "item": "Onion",
-    "quantity": 1
-    },
+        "item": "Onion",
+        "quantity": 1
+      },
       {
-    "item": "Milk",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "flash-fried-filet": {
+        "item": "Milk",
+        "quantity": 1
+      }
+    ]
+  },
+  "flash-fried-filet": {
     "name": "Flash-Fried Filet",
     "rarity": 1,
     "type": "Recovery Dish",
@@ -4180,16 +4180,16 @@
     "baseDish": "Stir-Fried Filet",
     "recipe": [
       {
-    "item": "Raw Meat",
-    "quantity": 1
-    },
+        "item": "Raw Meat",
+        "quantity": 1
+      },
       {
-    "item": "Jueyun Chili",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "forest-watcher's-choice": {
+        "item": "Jueyun Chili",
+        "quantity": 1
+      }
+    ]
+  },
+  "forest-watcher's-choice": {
     "name": "Forest Watcher's Choice",
     "rarity": 2,
     "type": "DEF-Boosting Dish",
@@ -4200,20 +4200,20 @@
     "baseDish": "Mushroom Hodgepodge",
     "recipe": [
       {
-    "item": "Rukkha­sha­va Mushrooms",
-    "quantity": 1
-    },
+        "item": "Rukkha­sha­va Mushrooms",
+        "quantity": 1
+      },
       {
-    "item": "Mushroom",
-    "quantity": 1
-    },
+        "item": "Mushroom",
+        "quantity": 1
+      },
       {
-    "item": "Starshroom",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "fruity-skewers": {
+        "item": "Starshroom",
+        "quantity": 1
+      }
+    ]
+  },
+  "fruity-skewers": {
     "name": "Fruity Skewers",
     "rarity": 1,
     "type": "Recovery Dish",
@@ -4224,16 +4224,16 @@
     "baseDish": "Chicken-Mushroom Skewer",
     "recipe": [
       {
-    "item": "Mushroom",
-    "quantity": 1
-    },
+        "item": "Mushroom",
+        "quantity": 1
+      },
       {
-    "item": "Fowl",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "fukuuchi-udon": {
+        "item": "Fowl",
+        "quantity": 1
+      }
+    ]
+  },
+  "fukuuchi-udon": {
     "name": "Fukuuchi Udon",
     "rarity": 2,
     "type": "Recovery Dish",
@@ -4244,20 +4244,20 @@
     "baseDish": "Udon Noodles",
     "recipe": [
       {
-    "item": "Flour",
-    "quantity": 3
-    },
+        "item": "Flour",
+        "quantity": 3
+      },
       {
-    "item": "Seagrass",
-    "quantity": 1
-    },
+        "item": "Seagrass",
+        "quantity": 1
+      },
       {
-    "item": "Fish",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "ghostly-march": {
+        "item": "Fish",
+        "quantity": 1
+      }
+    ]
+  },
+  "ghostly-march": {
     "name": "Ghostly March",
     "rarity": 2,
     "type": "Recovery Dish",
@@ -4268,16 +4268,16 @@
     "baseDish": "Vegetarian Abalone",
     "recipe": [
       {
-    "item": "Matsutake",
-    "quantity": 2
-    },
+        "item": "Matsutake",
+        "quantity": 2
+      },
       {
-    "item": "Snapdragon",
-    "quantity": 2
-    }
-  ]
-   }, 
-   "goldflame-tajine": {
+        "item": "Snapdragon",
+        "quantity": 2
+      }
+    ]
+  },
+  "goldflame-tajine": {
     "name": "Goldflame Tajine",
     "rarity": 3,
     "type": "DEF-Boosting Dish",
@@ -4288,24 +4288,24 @@
     "baseDish": "Gilded Tajine",
     "recipe": [
       {
-    "item": "Raw Meat",
-    "quantity": 2
-    },
+        "item": "Raw Meat",
+        "quantity": 2
+      },
       {
-    "item": "Padisarah",
-    "quantity": 2
-    },
+        "item": "Padisarah",
+        "quantity": 2
+      },
       {
-    "item": "Spice",
-    "quantity": 1
-    },
+        "item": "Spice",
+        "quantity": 1
+      },
       {
-    "item": "Onion",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "halvamazd": {
+        "item": "Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  "halvamazd": {
     "name": "Halvamazd",
     "rarity": 3,
     "type": "DEF-Boosting Dish",
@@ -4316,24 +4316,24 @@
     "baseDish": "Candied Ajilenakh Nut",
     "recipe": [
       {
-    "item": "Ajilenakh Nut",
-    "quantity": 4
-    },
+        "item": "Ajilenakh Nut",
+        "quantity": 4
+      },
       {
-    "item": "Almond",
-    "quantity": 2
-    },
+        "item": "Almond",
+        "quantity": 2
+      },
       {
-    "item": "Butter",
-    "quantity": 2
-    },
+        "item": "Butter",
+        "quantity": 2
+      },
       {
-    "item": "Sumeru Rose",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "heartstring-noodles": {
+        "item": "Sumeru Rose",
+        "quantity": 1
+      }
+    ]
+  },
+  "heartstring-noodles": {
     "name": "Heartstring Noodles",
     "rarity": 3,
     "type": "ATK-Boosting Dish",
@@ -4344,24 +4344,24 @@
     "baseDish": "Dragon Beard Noodles",
     "recipe": [
       {
-    "item": "Flour",
-    "quantity": 4
-    },
+        "item": "Flour",
+        "quantity": 4
+      },
       {
-    "item": "Fowl",
-    "quantity": 2
-    },
+        "item": "Fowl",
+        "quantity": 2
+      },
       {
-    "item": "Mushroom",
-    "quantity": 2
-    },
+        "item": "Mushroom",
+        "quantity": 2
+      },
       {
-    "item": "Ham",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "heat-quelling-soup": {
+        "item": "Ham",
+        "quantity": 1
+      }
+    ]
+  },
+  "heat-quelling-soup": {
     "name": "Heat-Quelling Soup",
     "rarity": 3,
     "type": "DEF-Boosting Dish",
@@ -4372,24 +4372,24 @@
     "baseDish": "Jade Fruit Soup",
     "recipe": [
       {
-    "item": "Sunsettia",
-    "quantity": 3
-    },
+        "item": "Sunsettia",
+        "quantity": 3
+      },
       {
-    "item": "Sugar",
-    "quantity": 1
-    },
+        "item": "Sugar",
+        "quantity": 1
+      },
       {
-    "item": "Qingxin",
-    "quantity": 1
-    },
+        "item": "Qingxin",
+        "quantity": 1
+      },
       {
-    "item": "Violetgrass",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "ideal-circumstance": {
+        "item": "Violetgrass",
+        "quantity": 1
+      }
+    ]
+  },
+  "ideal-circumstance": {
     "name": "Ideal Circumstance",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -4400,24 +4400,24 @@
     "baseDish": "Sabz Meat Stew",
     "recipe": [
       {
-    "item": "Raw Meat",
-    "quantity": 2
-    },
+        "item": "Raw Meat",
+        "quantity": 2
+      },
       {
-    "item": "Snapdragon",
-    "quantity": 2
-    },
+        "item": "Snapdragon",
+        "quantity": 2
+      },
       {
-    "item": "Onion",
-    "quantity": 2
-    },
+        "item": "Onion",
+        "quantity": 2
+      },
       {
-    "item": "Spice",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "invigorating-pizza": {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "invigorating-pizza": {
     "name": "Invigorating Pizza",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -4428,24 +4428,24 @@
     "baseDish": "Mushroom Pizza",
     "recipe": [
       {
-    "item": "Mushroom",
-    "quantity": 4
-    },
+        "item": "Mushroom",
+        "quantity": 4
+      },
       {
-    "item": "Flour",
-    "quantity": 3
-    },
+        "item": "Flour",
+        "quantity": 3
+      },
       {
-    "item": "Cabbage",
-    "quantity": 2
-    },
+        "item": "Cabbage",
+        "quantity": 2
+      },
       {
-    "item": "Cheese",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "lighter-than-air-pancake": {
+        "item": "Cheese",
+        "quantity": 1
+      }
+    ]
+  },
+  "lighter-than-air-pancake": {
     "name": "Lighter-Than-Air Pancake",
     "rarity": 2,
     "type": "Recovery Dish",
@@ -4456,20 +4456,20 @@
     "baseDish": "Tea Break Pancake",
     "recipe": [
       {
-    "item": "Berry",
-    "quantity": 3
-    },
+        "item": "Berry",
+        "quantity": 3
+      },
       {
-    "item": "Flour",
-    "quantity": 2
-    },
+        "item": "Flour",
+        "quantity": 2
+      },
       {
-    "item": "Bird Egg",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "mysterious-bolognese": {
+        "item": "Bird Egg",
+        "quantity": 1
+      }
+    ]
+  },
+  "mysterious-bolognese": {
     "name": "Mysterious Bolognese",
     "rarity": 2,
     "type": "Recovery Dish",
@@ -4480,20 +4480,20 @@
     "baseDish": "Flaming Red Bolognese",
     "recipe": [
       {
-    "item": "Flour",
-    "quantity": 2
-    },
+        "item": "Flour",
+        "quantity": 2
+      },
       {
-    "item": "Raw Meat",
-    "quantity": 2
-    },
+        "item": "Raw Meat",
+        "quantity": 2
+      },
       {
-    "item": "Tomato",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "no-tomorrow": {
+        "item": "Tomato",
+        "quantity": 1
+      }
+    ]
+  },
+  "no-tomorrow": {
     "name": "No Tomorrow",
     "rarity": 3,
     "type": "ATK-Boosting Dish",
@@ -4504,24 +4504,24 @@
     "baseDish": "Come and Get It",
     "recipe": [
       {
-    "item": "Raw Meat",
-    "quantity": 3
-    },
+        "item": "Raw Meat",
+        "quantity": 3
+      },
       {
-    "item": "Fish",
-    "quantity": 3
-    },
+        "item": "Fish",
+        "quantity": 3
+      },
       {
-    "item": "Rice",
-    "quantity": 3
-    },
+        "item": "Rice",
+        "quantity": 3
+      },
       {
-    "item": "Tofu",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "nutritious-meal-(v.593)": {
+        "item": "Tofu",
+        "quantity": 1
+      }
+    ]
+  },
+  "nutritious-meal-(v.593)": {
     "name": "Nutritious Meal (V.593)",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -4532,24 +4532,24 @@
     "baseDish": "Crab, Ham & Veggie Bake",
     "recipe": [
       {
-    "item": "Crab Roe",
-    "quantity": 1
-    },
+        "item": "Crab Roe",
+        "quantity": 1
+      },
       {
-    "item": "Ham",
-    "quantity": 1
-    },
+        "item": "Ham",
+        "quantity": 1
+      },
       {
-    "item": "Cream",
-    "quantity": 1
-    },
+        "item": "Cream",
+        "quantity": 1
+      },
       {
-    "item": "Cabbage",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "omurice-waltz": {
+        "item": "Cabbage",
+        "quantity": 1
+      }
+    ]
+  },
+  "omurice-waltz": {
     "name": "Omurice Waltz",
     "rarity": 3,
     "type": "Adventurer's Dish",
@@ -4560,24 +4560,24 @@
     "baseDish": "Omelette Rice",
     "recipe": [
       {
-    "item": "Bird Egg",
-    "quantity": 4
-    },
+        "item": "Bird Egg",
+        "quantity": 4
+      },
       {
-    "item": "Rice",
-    "quantity": 3
-    },
+        "item": "Rice",
+        "quantity": 3
+      },
       {
-    "item": "Tomato",
-    "quantity": 2
-    },
+        "item": "Tomato",
+        "quantity": 2
+      },
       {
-    "item": "Sugar",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "outrider's-champion-steak!": {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "outrider's-champion-steak!": {
     "name": "Outrider's Champion Steak!",
     "rarity": 1,
     "type": "Recovery Dish",
@@ -4588,12 +4588,12 @@
     "baseDish": "Steak",
     "recipe": [
       {
-    "item": "Raw Meat",
-    "quantity": 2
-    }
-  ]
-   }, 
-   "prosperous-peace": {
+        "item": "Raw Meat",
+        "quantity": 2
+      }
+    ]
+  },
+  "prosperous-peace": {
     "name": "Prosperous Peace",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -4604,24 +4604,24 @@
     "baseDish": "Universal Peace",
     "recipe": [
       {
-    "item": "Rice",
-    "quantity": 4
-    },
+        "item": "Rice",
+        "quantity": 4
+      },
       {
-    "item": "Lotus Head",
-    "quantity": 2
-    },
+        "item": "Lotus Head",
+        "quantity": 2
+      },
       {
-    "item": "Carrot",
-    "quantity": 2
-    },
+        "item": "Carrot",
+        "quantity": 2
+      },
       {
-    "item": "Berry",
-    "quantity": 2
-    }
-  ]
-   }, 
-   "puppy-paw-hash-brown": {
+        "item": "Berry",
+        "quantity": 2
+      }
+    ]
+  },
+  "puppy-paw-hash-brown": {
     "name": "Puppy-Paw Hash Brown",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -4632,20 +4632,20 @@
     "baseDish": "Mondstadt Hash Brown",
     "recipe": [
       {
-    "item": "Pinecone",
-    "quantity": 2
-    },
+        "item": "Pinecone",
+        "quantity": 2
+      },
       {
-    "item": "Potato",
-    "quantity": 1
-    },
+        "item": "Potato",
+        "quantity": 1
+      },
       {
-    "item": "Jam",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "qiankun-mora-meat": {
+        "item": "Jam",
+        "quantity": 1
+      }
+    ]
+  },
+  "qiankun-mora-meat": {
     "name": "Qiankun Mora Meat",
     "rarity": 1,
     "type": "Recovery Dish",
@@ -4656,16 +4656,16 @@
     "baseDish": "Mora Meat",
     "recipe": [
       {
-    "item": "Raw Meat",
-    "quantity": 1
-    },
+        "item": "Raw Meat",
+        "quantity": 1
+      },
       {
-    "item": "Flour",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "qingce-household-dish": {
+        "item": "Flour",
+        "quantity": 1
+      }
+    ]
+  },
+  "qingce-household-dish": {
     "name": "Qingce Household Dish",
     "rarity": 3,
     "type": "ATK-Boosting Dish",
@@ -4676,24 +4676,24 @@
     "baseDish": "Qingce Stir Fry",
     "recipe": [
       {
-    "item": "Mushroom",
-    "quantity": 3
-    },
+        "item": "Mushroom",
+        "quantity": 3
+      },
       {
-    "item": "Lotus Head",
-    "quantity": 2
-    },
+        "item": "Lotus Head",
+        "quantity": 2
+      },
       {
-    "item": "Jueyun Chili",
-    "quantity": 1
-    },
+        "item": "Jueyun Chili",
+        "quantity": 1
+      },
       {
-    "item": "Cabbage",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "quiet-elegance": {
+        "item": "Cabbage",
+        "quantity": 1
+      }
+    ]
+  },
+  "quiet-elegance": {
     "name": "Quiet Elegance",
     "rarity": 3,
     "type": "DEF-Boosting Dish",
@@ -4704,24 +4704,24 @@
     "baseDish": "Sakura Tempura",
     "recipe": [
       {
-    "item": "Shrimp Meat",
-    "quantity": 4
-    },
+        "item": "Shrimp Meat",
+        "quantity": 4
+      },
       {
-    "item": "Lavender Melon",
-    "quantity": 2
-    },
+        "item": "Lavender Melon",
+        "quantity": 2
+      },
       {
-    "item": "Sakura Bloom",
-    "quantity": 2
-    },
+        "item": "Sakura Bloom",
+        "quantity": 2
+      },
       {
-    "item": "Flour",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "rockin'-riffin'-chicken!": {
+        "item": "Flour",
+        "quantity": 1
+      }
+    ]
+  },
+  "rockin'-riffin'-chicken!": {
     "name": "Rockin' Riffin' Chicken!",
     "rarity": 2,
     "type": "ATK-Boosting Dish",
@@ -4732,20 +4732,20 @@
     "baseDish": "Jueyun Chili Chicken",
     "recipe": [
       {
-    "item": "Fowl",
-    "quantity": 2
-    },
+        "item": "Fowl",
+        "quantity": 2
+      },
       {
-    "item": "Jueyun Chili",
-    "quantity": 1
-    },
+        "item": "Jueyun Chili",
+        "quantity": 1
+      },
       {
-    "item": "Pepper",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "satiety-gel": {
+        "item": "Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  "satiety-gel": {
     "name": "Satiety Gel",
     "rarity": 1,
     "type": "Recovery Dish",
@@ -4756,16 +4756,16 @@
     "baseDish": "Mint Jelly",
     "recipe": [
       {
-    "item": "Mint",
-    "quantity": 1
-    },
+        "item": "Mint",
+        "quantity": 1
+      },
       {
-    "item": "Sugar",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "secret-sauce-bbq-ribs": {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "secret-sauce-bbq-ribs": {
     "name": "Secret Sauce BBQ Ribs",
     "rarity": 2,
     "type": "Recovery Dish",
@@ -4776,20 +4776,20 @@
     "baseDish": "Barbeque Ribs",
     "recipe": [
       {
-    "item": "Raw Meat",
-    "quantity": 2
-    },
+        "item": "Raw Meat",
+        "quantity": 2
+      },
       {
-    "item": "Pepper",
-    "quantity": 2
-    },
+        "item": "Pepper",
+        "quantity": 2
+      },
       {
-    "item": "Marcotte",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "shimi-chazuke": {
+        "item": "Marcotte",
+        "quantity": 1
+      }
+    ]
+  },
+  "shimi-chazuke": {
     "name": "Shimi Chazuke",
     "rarity": 3,
     "type": "DEF-Boosting Dish",
@@ -4800,24 +4800,24 @@
     "baseDish": "Unagi Chazuke",
     "recipe": [
       {
-    "item": "Eel Meat",
-    "quantity": 4
-    },
+        "item": "Eel Meat",
+        "quantity": 4
+      },
       {
-    "item": "Rice",
-    "quantity": 3
-    },
+        "item": "Rice",
+        "quantity": 3
+      },
       {
-    "item": "Seagrass",
-    "quantity": 3
-    },
+        "item": "Seagrass",
+        "quantity": 3
+      },
       {
-    "item": "Salt",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "show-me-the-mora": {
+        "item": "Salt",
+        "quantity": 1
+      }
+    ]
+  },
+  "show-me-the-mora": {
     "name": "Show Me the Mora",
     "rarity": 3,
     "type": "ATK-Boosting Dish",
@@ -4828,24 +4828,24 @@
     "baseDish": "Butter Chicken",
     "recipe": [
       {
-    "item": "Fowl",
-    "quantity": 3
-    },
+        "item": "Fowl",
+        "quantity": 3
+      },
       {
-    "item": "Tomato",
-    "quantity": 3
-    },
+        "item": "Tomato",
+        "quantity": 3
+      },
       {
-    "item": "Butter",
-    "quantity": 1
-    },
+        "item": "Butter",
+        "quantity": 1
+      },
       {
-    "item": "Spice",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "slow-cooked-bamboo-shoot-soup": {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "slow-cooked-bamboo-shoot-soup": {
     "name": "Slow-Cooked Bamboo Shoot Soup",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -4856,20 +4856,20 @@
     "baseDish": "Bamboo Shoot Soup",
     "recipe": [
       {
-    "item": "Raw Meat",
-    "quantity": 2
-    },
+        "item": "Raw Meat",
+        "quantity": 2
+      },
       {
-    "item": "Ham",
-    "quantity": 2
-    },
+        "item": "Ham",
+        "quantity": 2
+      },
       {
-    "item": "Bamboo Shoot",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "spicy-stew": {
+        "item": "Bamboo Shoot",
+        "quantity": 1
+      }
+    ]
+  },
+  "spicy-stew": {
     "name": "Spicy Stew",
     "rarity": 2,
     "type": "Adventurer's Dish",
@@ -4880,20 +4880,20 @@
     "baseDish": "Cream Stew",
     "recipe": [
       {
-    "item": "Raw Meat",
-    "quantity": 2
-    },
+        "item": "Raw Meat",
+        "quantity": 2
+      },
       {
-    "item": "Cream",
-    "quantity": 2
-    },
+        "item": "Cream",
+        "quantity": 2
+      },
       {
-    "item": "Snapdragon",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "stormcrest-pie": {
+        "item": "Snapdragon",
+        "quantity": 1
+      }
+    ]
+  },
+  "stormcrest-pie": {
     "name": "Stormcrest Pie",
     "rarity": 4,
     "type": "DEF-Boosting Dish",
@@ -4904,24 +4904,24 @@
     "baseDish": "Moon Pie",
     "recipe": [
       {
-    "item": "Raw Meat",
-    "quantity": 4
-    },
+        "item": "Raw Meat",
+        "quantity": 4
+      },
       {
-    "item": "Bird Egg",
-    "quantity": 4
-    },
+        "item": "Bird Egg",
+        "quantity": 4
+      },
       {
-    "item": "Butter",
-    "quantity": 3
-    },
+        "item": "Butter",
+        "quantity": 3
+      },
       {
-    "item": "Flour",
-    "quantity": 2
-    }
-  ]
-   }, 
-   "summer-festival-fish": {
+        "item": "Flour",
+        "quantity": 2
+      }
+    ]
+  },
+  "summer-festival-fish": {
     "name": "Summer Festival Fish",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -4932,24 +4932,24 @@
     "baseDish": "Tricolor Dango",
     "recipe": [
       {
-    "item": "Milk",
-    "quantity": 2
-    },
+        "item": "Milk",
+        "quantity": 2
+      },
       {
-    "item": "Snapdragon",
-    "quantity": 2
-    },
+        "item": "Snapdragon",
+        "quantity": 2
+      },
       {
-    "item": "Sakura Bloom",
-    "quantity": 2
-    },
+        "item": "Sakura Bloom",
+        "quantity": 2
+      },
       {
-    "item": "Rice",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "surveyor's-breakfast-sandwich": {
+        "item": "Rice",
+        "quantity": 1
+      }
+    ]
+  },
+  "surveyor's-breakfast-sandwich": {
     "name": "Surveyor's Breakfast Sandwich",
     "rarity": 3,
     "type": "ATK-Boosting Dish",
@@ -4960,20 +4960,20 @@
     "baseDish": "Adventurer's Breakfast Sandwich",
     "recipe": [
       {
-    "item": "Bird Egg",
-    "quantity": 4
-    },
+        "item": "Bird Egg",
+        "quantity": 4
+      },
       {
-    "item": "Flour",
-    "quantity": 3
-    },
+        "item": "Flour",
+        "quantity": 3
+      },
       {
-    "item": "Ham",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "survival-grilled-fish": {
+        "item": "Ham",
+        "quantity": 1
+      }
+    ]
+  },
+  "survival-grilled-fish": {
     "name": "Survival Grilled Fish",
     "rarity": 1,
     "type": "Recovery Dish",
@@ -4984,16 +4984,16 @@
     "baseDish": "Grilled Tiger Fish",
     "recipe": [
       {
-    "item": "Fish",
-    "quantity": 1
-    },
+        "item": "Fish",
+        "quantity": 1
+      },
       {
-    "item": "Pepper",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "swirling-steps": {
+        "item": "Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  "swirling-steps": {
     "name": "Swirling Steps",
     "rarity": 3,
     "type": "Adventurer's Dish",
@@ -5004,24 +5004,24 @@
     "baseDish": "Padisarah Pudding",
     "recipe": [
       {
-    "item": "Padisarah",
-    "quantity": 2
-    },
+        "item": "Padisarah",
+        "quantity": 2
+      },
       {
-    "item": "Sumeru Rose",
-    "quantity": 1
-    },
+        "item": "Sumeru Rose",
+        "quantity": 1
+      },
       {
-    "item": "Milk",
-    "quantity": 1
-    },
+        "item": "Milk",
+        "quantity": 1
+      },
       {
-    "item": "Sugar",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "teyvat-charred-egg": {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "teyvat-charred-egg": {
     "name": "Teyvat Charred Egg",
     "rarity": 1,
     "type": "Recovery Dish",
@@ -5032,12 +5032,12 @@
     "baseDish": "Teyvat Fried Egg",
     "recipe": [
       {
-    "item": "Bird Egg",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "the-endeavor": {
+        "item": "Bird Egg",
+        "quantity": 1
+      }
+    ]
+  },
+  "the-endeavor": {
     "name": "The Endeavor",
     "rarity": 2,
     "type": "Recovery Dish",
@@ -5048,24 +5048,24 @@
     "baseDish": "Fatteh",
     "recipe": [
       {
-    "item": "Flour",
-    "quantity": 3
-    },
+        "item": "Flour",
+        "quantity": 3
+      },
       {
-    "item": "Glabrous Beans",
-    "quantity": 2
-    },
+        "item": "Glabrous Beans",
+        "quantity": 2
+      },
       {
-    "item": "Milk",
-    "quantity": 2
-    },
+        "item": "Milk",
+        "quantity": 2
+      },
       {
-    "item": "Mint",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "the-only-truth": {
+        "item": "Mint",
+        "quantity": 1
+      }
+    ]
+  },
+  "the-only-truth": {
     "name": "The Only Truth",
     "rarity": 2,
     "type": "ATK-Boosting Dish",
@@ -5076,20 +5076,20 @@
     "baseDish": "Katsu Sandwich",
     "recipe": [
       {
-    "item": "Flour",
-    "quantity": 3
-    },
+        "item": "Flour",
+        "quantity": 3
+      },
       {
-    "item": "Raw Meat",
-    "quantity": 2
-    },
+        "item": "Raw Meat",
+        "quantity": 2
+      },
       {
-    "item": "Cabbage",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "traditionally-made-charcoal-baked-ajilenakh-cake": {
+        "item": "Cabbage",
+        "quantity": 1
+      }
+    ]
+  },
+  "traditionally-made-charcoal-baked-ajilenakh-cake": {
     "name": "Traditionally-Made Charcoal-Baked Ajilenakh Cake",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -5100,20 +5100,20 @@
     "baseDish": "Charcoal-Baked Ajilenakh Cake",
     "recipe": [
       {
-    "item": "Ajilenakh Nut",
-    "quantity": 2
-    },
+        "item": "Ajilenakh Nut",
+        "quantity": 2
+      },
       {
-    "item": "Flour",
-    "quantity": 1
-    },
+        "item": "Flour",
+        "quantity": 1
+      },
       {
-    "item": "Jam",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "utmost-care": {
+        "item": "Jam",
+        "quantity": 1
+      }
+    ]
+  },
+  "utmost-care": {
     "name": "Utmost Care",
     "rarity": 2,
     "type": "Adventurer's Dish",
@@ -5124,24 +5124,24 @@
     "baseDish": "Aaru Mixed Rice",
     "recipe": [
       {
-    "item": "Rice",
-    "quantity": 3
-    },
+        "item": "Rice",
+        "quantity": 3
+      },
       {
-    "item": "Flour",
-    "quantity": 2
-    },
+        "item": "Flour",
+        "quantity": 2
+      },
       {
-    "item": "Glabrous Beans",
-    "quantity": 2
-    },
+        "item": "Glabrous Beans",
+        "quantity": 2
+      },
       {
-    "item": "Tomato",
-    "quantity": 2
-    }
-  ]
-   }, 
-   "victorious-legend": {
+        "item": "Tomato",
+        "quantity": 2
+      }
+    ]
+  },
+  "victorious-legend": {
     "name": "Victorious Legend",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -5152,24 +5152,24 @@
     "baseDish": "Tonkotsu Ramen",
     "recipe": [
       {
-    "item": "Raw Meat",
-    "quantity": 4
-    },
+        "item": "Raw Meat",
+        "quantity": 4
+      },
       {
-    "item": "Flour",
-    "quantity": 3
-    },
+        "item": "Flour",
+        "quantity": 3
+      },
       {
-    "item": "Bamboo Shoot",
-    "quantity": 2
-    },
+        "item": "Bamboo Shoot",
+        "quantity": 2
+      },
       {
-    "item": "Bird Egg",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "wanmin-restaurant's-boiled-fish": {
+        "item": "Bird Egg",
+        "quantity": 1
+      }
+    ]
+  },
+  "wanmin-restaurant's-boiled-fish": {
     "name": "Wanmin Restaurant's Boiled Fish",
     "rarity": 3,
     "type": "Recovery Dish",
@@ -5180,24 +5180,24 @@
     "baseDish": "Black-Back Perch Stew",
     "recipe": [
       {
-    "item": "Fish",
-    "quantity": 3
-    },
+        "item": "Fish",
+        "quantity": 3
+      },
       {
-    "item": "Jueyun Chili",
-    "quantity": 1
-    },
+        "item": "Jueyun Chili",
+        "quantity": 1
+      },
       {
-    "item": "Salt",
-    "quantity": 1
-    },
+        "item": "Salt",
+        "quantity": 1
+      },
       {
-    "item": "Violetgrass",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "way-of-the-strong": {
+        "item": "Violetgrass",
+        "quantity": 1
+      }
+    ]
+  },
+  "way-of-the-strong": {
     "name": "Way of the Strong",
     "rarity": 2,
     "type": "Recovery Dish",
@@ -5208,20 +5208,20 @@
     "baseDish": "Mixed Yakisoba",
     "recipe": [
       {
-    "item": "Flour",
-    "quantity": 3
-    },
+        "item": "Flour",
+        "quantity": 3
+      },
       {
-    "item": "Cabbage",
-    "quantity": 2
-    },
+        "item": "Cabbage",
+        "quantity": 2
+      },
       {
-    "item": "Raw Meat",
-    "quantity": 1
-    }
-  ]
-   }, 
-   "woodland-dream": {
+        "item": "Raw Meat",
+        "quantity": 1
+      }
+    ]
+  },
+  "woodland-dream": {
     "name": "Woodland Dream",
     "rarity": 3,
     "type": "DEF-Boosting Dish",
@@ -5232,22 +5232,171 @@
     "baseDish": "Sunshine Sprat",
     "recipe": [
       {
-    "item": "Butter",
-    "quantity": 3
-    },
+        "item": "Butter",
+        "quantity": 3
+      },
       {
-    "item": "Fish",
-    "quantity": 3
-    },
+        "item": "Fish",
+        "quantity": 3
+      },
       {
-    "item": "Salt",
-    "quantity": 1
-    },
+        "item": "Salt",
+        "quantity": 1
+      },
       {
-    "item": "Small Lamp Grass",
-    "quantity": 1
-    }
-  ]
-   }
-  
+        "item": "Small Lamp Grass",
+        "quantity": 1
+      }
+    ]
+  },
+  "fruity-duet": {
+    "name": "Fruity Duet",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all part members' ATK by 194 for 300s.",
+    "hasRecipe": true,
+    "proficiency": 15,
+    "description": "A dual-flavored fruity beverage. Add a thick layer of pulp at the bottom and then pour in a smoothie made out of juice and tea. Its layered flavors of fresh fruit are so tempting that no one is able to refuse the drink.",
+    "event": "New Recipe Rewards (2023-08-17)",
+    "recipe": [
+      {
+        "item": "Sunsettia",
+        "quantity": 1
+      },
+      {
+        "item": "Jam",
+        "quantity": 1
+      },
+      {
+        "item": "Qingxin",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "fruity-smoothie": {
+    "name": "Fruity Smoothie",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives the character and restores 1,200 HP.",
+    "hasRecipe": true,
+    "proficiency": 15,
+    "description": "A beverage with simple colors. The smoothie made out of fruit-flavored yogurt has been arranged to resemble the blue sky and white clouds. At the bottom is a thick layer of jelly and finely-cut fruit. The revitalizing flavor makes this beverage the best choice in the summer.",
+    "event": "New Recipe Rewards (2023-08-17)",
+    "recipe": [
+      {
+        "item": "Berry",
+        "quantity": 3
+      },
+      {
+        "item": "Milk",
+        "quantity": 3
+      },
+      {
+        "item": "Qingxin",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "meat-lovers'-mushroom-pizza": {
+    "name": "Meat Lovers' Mushroom Pizza",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s.",
+    "hasRecipe": true,
+    "proficiency": 20,
+    "description": "A pizza freshly baked from the oven. The crust is dotted with large chunks of meat and fresh mushroom slices. The sweet, stretchy cheese further adds to the charm. You have no doubt that every slice will be snatched away the moment it is served. Speed, therefore, is a gourmet's best buddy when this pizza is on the table.",
+    "event": "New Recipe Rewards",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 4
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 3
+      },
+      {
+        "item": "Cheese",
+        "quantity": 2
+      }
+    ]
+  },
+  "minty-fruit-tea": {
+    "name": "Minty Fruit Tea",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 200 for 300s.",
+    "hasRecipe": true,
+    "proficiency": 15,
+    "description": "A cooling and refreshing drink. The invigorating tea and the sweet-sour taste of fruit blend together and energize your taste buds, and before you know it, you've already drained your entire cup.",
+    "event": "New Recipe Rewards",
+    "recipe": [
+      {
+        "item": "Mint",
+        "quantity": 3
+      },
+      {
+        "item": "Sunsettia",
+        "quantity": 3
+      },
+      {
+        "item": "Berry",
+        "quantity": 3
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "super-magnificent-pizza": {
+    "name": "Super Magnificent Pizza",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' Physical DMG by 35% and CRIT Rate by 8% for 300s.",
+    "hasRecipe": true,
+    "proficiency": 20,
+    "description": "An exceedingly sumptuous pizza. First lay out a base of ham, then add in meat that has been chopped up into little bits for a dish that packs an unrivaled sense of satisfaction. Once roasted, the char of meat and the creamy flavor of the cheese are truly a tantalizing combination.",
+    "event": "New Recipe Rewards",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Ham",
+        "quantity": 2
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Cheese",
+        "quantity": 2
+      }
+    ]
+  },
+  "lantern-rite-special-triple-layered-consommé": {
+    "name": "Lantern Rite Special Triple-Layered Consommé",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Shield strength by 30%.",
+    "hasRecipe": false,
+    "description": "Traditional cuisine made to celebrate Lantern Rite. The ham, fowl, and bamboo shoots have been sliced into threads of equal length, and they've been laid out neatly in the soup bowl after being steamed at high heat, before being covered in consommé. The layers are distinct, and the mouthfeel is salty yet fresh.",
+    "baseDish": "Triple-Layered Consommé",
+    "event": "Lantern Rite"
+  }
 }
