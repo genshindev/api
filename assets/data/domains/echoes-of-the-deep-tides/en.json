@@ -41,7 +41,7 @@
   "recommendedElements": ["Hydro", "Pyro", "Cryo", "Anemo"],
   "rewards": [
     {
-      "day": ["mon", "thu"],
+      "day": "mon",
       "name": "Robotic Ruse",
       "details": [
         {
@@ -52,7 +52,9 @@
           "drops": [
             {
               "name": "Fragment of an Ancient Chord",
-              "rarity": 2
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
             }
           ]
         },
@@ -64,11 +66,15 @@
           "drops": [
             {
               "name": "Fragment of an Ancient Chord",
-              "rarity": 2
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Chapter of an Ancient Chord",
-              "rarity": 3
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
             }
           ]
         },
@@ -80,15 +86,21 @@
           "drops": [
             {
               "name": "Fragment of an Ancient Chord",
-              "rarity": 2
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Chapter of an Ancient Chord",
-              "rarity": 3
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
             },
             {
               "name": "Movement of an Ancient Chord",
-              "rarity": 4
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
             }
           ]
         },
@@ -97,29 +109,37 @@
           "adventureExperience": 100,
           "companionshipExperience": 20,
           "mora": 2200,
-          "items": [
+          "drops": [
             {
               "name": "Fragment of an Ancient Chord",
-              "rarity": 2
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Chapter of an Ancient Chord",
-              "rarity": 3
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
             },
             {
               "name": "Movement of an Ancient Chord",
-              "rarity": 4
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
             },
             {
               "name": "Echo of an Ancient Chord",
-              "rarity": 5
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
             }
           ]
         }
       ]
     },
     {
-      "day": ["tue", "fri"],
+      "day": "tue",
       "name": "Artisanship",
       "details": [
         {
@@ -130,7 +150,9 @@
           "drops": [
             {
               "name": "Dross of Pure Sacred Dewdrop",
-              "rarity": 2
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
             }
           ]
         },
@@ -142,11 +164,15 @@
           "drops": [
             {
               "name": "Dross of Pure Sacred Dewdrop",
-              "rarity": 2
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Sublimation of Pure Sacred Dewdrop",
-              "rarity": 3
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
             }
           ]
         },
@@ -158,15 +184,21 @@
           "drops": [
             {
               "name": "Dross of Pure Sacred Dewdrop",
-              "rarity": 2
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Sublimation of Pure Sacred Dewdrop",
-              "rarity": 3
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
             },
             {
               "name": "Spring of Pure Sacred Dewdrop",
-              "rarity": 4
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
             }
           ]
         },
@@ -178,26 +210,34 @@
           "items": [
             {
               "name": "Dross of Pure Sacred Dewdrop",
-              "rarity": 2
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Sublimation of Pure Sacred Dewdrop",
-              "rarity": 3
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
             },
             {
               "name": "Spring of Pure Sacred Dewdrop",
-              "rarity": 4
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
             },
             {
               "name": "Essence of Pure Sacred Dewdrop",
-              "rarity": 5
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
             }
           ]
         }
       ]
     },
     {
-      "day": ["wed", "sat"],
+      "day": "wed",
       "name": "Curious Contraptions",
       "details": [
         {
@@ -208,7 +248,9 @@
           "drops": [
             {
               "name": "Broken Goblet of the Pristine Sea",
-              "rarity": 2
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
             }
           ]
         },
@@ -220,11 +262,15 @@
           "drops": [
             {
               "name": "Broken Goblet of the Pristine Sea",
-              "rarity": 2
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Wine Goblet of the Pristine Sea",
-              "rarity": 3
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
             }
           ]
         },
@@ -236,15 +282,21 @@
           "drops": [
             {
               "name": "Broken Goblet of the Pristine Sea",
-              "rarity": 2
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Wine Goblet of the Pristine Sea",
-              "rarity": 3
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
             },
             {
               "name": "Silver Goblet of the Pristine Sea",
-              "rarity": 4
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
             }
           ]
         },
@@ -256,122 +308,540 @@
           "items": [
             {
               "name": "Broken Goblet of the Pristine Sea",
-              "rarity": 2
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Wine Goblet of the Pristine Sea",
-              "rarity": 3
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
             },
             {
               "name": "Silver Goblet of the Pristine Sea",
-              "rarity": 4
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
             },
             {
               "name": "Golden Goblet of the Pristine Sea",
-              "rarity": 5
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
             }
           ]
         }
       ]
-    }
-  ],
-  "dropsTable": [
+    },
     {
-      "level": 1,
-      "drops": [
+      "day": "thu",
+      "name": "Robotic Ruse",
+      "details": [
         {
-          "rarity": 2,
-          "avg": 4.7,
-          "dropRange": {
-            "min": 4,
-            "max": 6
-          }
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Fragment of an Ancient Chord",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Fragment of an Ancient Chord",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Chapter of an Ancient Chord",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Fragment of an Ancient Chord",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Chapter of an Ancient Chord",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Movement of an Ancient Chord",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "drops": [
+            {
+              "name": "Fragment of an Ancient Chord",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Chapter of an Ancient Chord",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Movement of an Ancient Chord",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Echo of an Ancient Chord",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
         }
       ]
     },
     {
-      "level": 2,
-      "drops": [
+      "day": "fri",
+      "name": "Artisanship",
+      "details": [
         {
-          "rarity": 2,
-          "avg": 2.7,
-          "dropRange": {
-            "min": 2,
-            "max": 3
-          }
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Dross of Pure Sacred Dewdrop",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
         },
         {
-          "rarity": 3,
-          "avg": 2,
-          "dropRange": {
-            "min": 2,
-            "max": 2
-          }
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Dross of Pure Sacred Dewdrop",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Sublimation of Pure Sacred Dewdrop",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Dross of Pure Sacred Dewdrop",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Sublimation of Pure Sacred Dewdrop",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Spring of Pure Sacred Dewdrop",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Dross of Pure Sacred Dewdrop",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Sublimation of Pure Sacred Dewdrop",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Spring of Pure Sacred Dewdrop",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Essence of Pure Sacred Dewdrop",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
         }
       ]
     },
     {
-      "level": 3,
-      "drops": [
+      "day": "sat",
+      "name": "Curious Contraptions",
+      "details": [
         {
-          "rarity": 2,
-          "avg": 2.26,
-          "dropRange": {
-            "min": 2,
-            "max": 3
-          }
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Broken Goblet of the Pristine Sea",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
         },
         {
-          "rarity": 3,
-          "avg": 2.76,
-          "dropRange": {
-            "min": 2,
-            "max": 3
-          }
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Broken Goblet of the Pristine Sea",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Wine Goblet of the Pristine Sea",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
         },
         {
-          "rarity": 4,
-          "avg": 0.24,
-          "dropRange": {
-            "min": 0,
-            "max": 3
-          }
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Broken Goblet of the Pristine Sea",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Wine Goblet of the Pristine Sea",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Silver Goblet of the Pristine Sea",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Broken Goblet of the Pristine Sea",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Wine Goblet of the Pristine Sea",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Silver Goblet of the Pristine Sea",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Golden Goblet of the Pristine Sea",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
         }
       ]
     },
     {
-      "level": 4,
-      "drops": [
+      "day": "sun",
+      "details": [
         {
-          "rarity": 2,
-          "avg": 2.2,
-          "dropRange": {
-            "min": 2,
-            "max": 3
-          }
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Fragment of an Ancient Chord",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            },
+            {
+              "name": "Dross of Pure Sacred Dewdrop",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            },
+            {
+              "name": "Broken Goblet of the Pristine Sea",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
         },
         {
-          "rarity": 3,
-          "avg": 2.418,
-          "dropRange": {
-            "min": 0,
-            "max": 4
-          }
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Fragment of an Ancient Chord",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Chapter of an Ancient Chord",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            },
+            {
+              "name": "Dross of Pure Sacred Dewdrop",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Sublimation of Pure Sacred Dewdrop",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            },
+            {
+              "name": "Broken Goblet of the Pristine Sea",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Wine Goblet of the Pristine Sea",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
         },
         {
-          "rarity": 4,
-          "avg": 0.062,
-          "dropRange": {
-            "min": 0,
-            "max": 4
-          }
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Fragment of an Ancient Chord",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Chapter of an Ancient Chord",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Movement of an Ancient Chord",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Dross of Pure Sacred Dewdrop",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Sublimation of Pure Sacred Dewdrop",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Spring of Pure Sacred Dewdrop",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Broken Goblet of the Pristine Sea",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Wine Goblet of the Pristine Sea",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Silver Goblet of the Pristine Sea",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
         },
         {
-          "rarity": 5,
-          "dropRange": {
-            "min": 0,
-            "max": 4
-          }
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Fragment of an Ancient Chord",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Chapter of an Ancient Chord",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Movement of an Ancient Chord",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Echo of an Ancient Chord",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Dross of Pure Sacred Dewdrop",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Sublimation of Pure Sacred Dewdrop",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Spring of Pure Sacred Dewdrop",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Essence of Pure Sacred Dewdrop",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Broken Goblet of the Pristine Sea",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Wine Goblet of the Pristine Sea",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Silver Goblet of the Pristine Sea",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Golden Goblet of the Pristine Sea",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
         }
       ]
     }

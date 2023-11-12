@@ -43,7 +43,7 @@
   "recommendedElements": ["Dendro", "Electro"],
   "rewards": [
     {
-      "day": ["mon", "thu"],
+      "day": "mon",
       "name": "Tainted Clouds",
       "details": [
         {
@@ -54,7 +54,9 @@
           "drops": [
             {
               "name": "Copper Talisman of the Forest Dew",
-              "rarity": 2
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
             }
           ]
         },
@@ -66,11 +68,15 @@
           "drops": [
             {
               "name": "Copper Talisman of the Forest Dew",
-              "rarity": 2
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Iron Talisman of the Forest Dew",
-              "rarity": 3
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
             }
           ]
         },
@@ -82,15 +88,21 @@
           "drops": [
             {
               "name": "Coper Talisman of the Forest Dew",
-              "rarity": 2
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Iron Talisman of the Forest Dew",
-              "rarity": 3
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
             },
             {
               "name": "Silver Talisman of the Forest Dew",
-              "rarity": 4
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
             }
           ]
         },
@@ -102,26 +114,34 @@
           "drops": [
             {
               "name": "Coper Talisman of the Forest Dew",
-              "rarity": 2
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Iron Talisman of the Forest Dew",
-              "rarity": 3
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
             },
             {
               "name": "Silver Talisman of the Forest Dew",
-              "rarity": 4
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
             },
             {
               "name": "Golden Talisman of the Forest Dew",
-              "rarity": 5
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
             }
           ]
         }
       ]
     },
     {
-      "day": ["tue", "fri"],
+      "day": "tue",
       "name": "Obsession",
       "details": [
         {
@@ -132,7 +152,9 @@
           "drops": [
             {
               "name": "Oasis Garden's Reminiscence",
-              "rarity": 2
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
             }
           ]
         },
@@ -144,11 +166,15 @@
           "drops": [
             {
               "name": "Oasis Garden's Reminiscence",
-              "rarity": 2
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Oasis Garden's Kindness",
-              "rarity": 3
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
             }
           ]
         },
@@ -160,15 +186,21 @@
           "drops": [
             {
               "name": "Oasis Garden's Reminiscence",
-              "rarity": 2
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Oasis Garden's Kindness",
-              "rarity": 3
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
             },
             {
               "name": "Oasis Garden's Mourning",
-              "rarity": 4
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
             }
           ]
         },
@@ -180,26 +212,34 @@
           "items": [
             {
               "name": "Oasis Garden's Reminiscence",
-              "rarity": 2
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Oasis Garden's Kindness",
-              "rarity": 3
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
             },
             {
               "name": "Oasis Garden's Mourning",
-              "rarity": 4
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
             },
             {
               "name": "Oasis Garden's Truth",
-              "rarity": 5
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
             }
           ]
         }
       ]
     },
     {
-      "day": ["wed", "sat"],
+      "day": "wed",
       "name": "Leading Karma",
       "details": [
         {
@@ -210,7 +250,9 @@
           "drops": [
             {
               "name": "Echo of Scorching Might",
-              "rarity": 2
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
             }
           ]
         },
@@ -222,11 +264,15 @@
           "drops": [
             {
               "name": "Echo of Scorching Might",
-              "rarity": 2
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Remnant Glow of Scorching Might",
-              "rarity": 3
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
             }
           ]
         },
@@ -238,15 +284,21 @@
           "drops": [
             {
               "name": "Echo of Scorching Might",
-              "rarity": 2
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Remnant Glow of Scorching Might",
-              "rarity": 3
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
             },
             {
               "name": "Dream of Scorching Might",
-              "rarity": 4
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
             }
           ]
         },
@@ -258,122 +310,540 @@
           "items": [
             {
               "name": "Echo of Scorching Might",
-              "rarity": 2
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
             },
             {
               "name": "Remnant Glow of Scorching Might",
-              "rarity": 3
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
             },
             {
               "name": "Dream of Scorching Might",
-              "rarity": 4
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
             },
             {
               "name": "Olden Days of Scorching Might",
-              "rarity": 5
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
             }
           ]
         }
       ]
-    }
-  ],
-  "dropsTable": [
+    },
     {
-      "level": 1,
-      "drops": [
+      "day": "thu",
+      "name": "Tainted Clouds",
+      "details": [
         {
-          "rarity": 2,
-          "avg": 4.7,
-          "dropRange": {
-            "min": 4,
-            "max": 6
-          }
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Copper Talisman of the Forest Dew",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Copper Talisman of the Forest Dew",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Coper Talisman of the Forest Dew",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Silver Talisman of the Forest Dew",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "drops": [
+            {
+              "name": "Coper Talisman of the Forest Dew",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Silver Talisman of the Forest Dew",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Golden Talisman of the Forest Dew",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
         }
       ]
     },
     {
-      "level": 2,
-      "drops": [
+      "day": "fri",
+      "name": "Obsession",
+      "details": [
         {
-          "rarity": 2,
-          "avg": 2.7,
-          "dropRange": {
-            "min": 2,
-            "max": 3
-          }
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
         },
         {
-          "rarity": 3,
-          "avg": 2,
-          "dropRange": {
-            "min": 2,
-            "max": 2
-          }
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Mourning",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Oasis Garden's Mourning",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Oasis Garden's Truth",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
         }
       ]
     },
     {
-      "level": 3,
-      "drops": [
+      "day": "sat",
+      "name": "Leading Karma",
+      "details": [
         {
-          "rarity": 2,
-          "avg": 2.26,
-          "dropRange": {
-            "min": 2,
-            "max": 3
-          }
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
         },
         {
-          "rarity": 3,
-          "avg": 2.76,
-          "dropRange": {
-            "min": 2,
-            "max": 3
-          }
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
         },
         {
-          "rarity": 4,
-          "avg": 0.24,
-          "dropRange": {
-            "min": 0,
-            "max": 3
-          }
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Dream of Scorching Might",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Dream of Scorching Might",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Olden Days of Scorching Might",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
         }
       ]
     },
     {
-      "level": 4,
-      "drops": [
+      "day": "sun",
+      "details": [
         {
-          "rarity": 2,
-          "avg": 2.2,
-          "dropRange": {
-            "min": 2,
-            "max": 3
-          }
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Copper Talisman of the Forest Dew",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            },
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            },
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
         },
         {
-          "rarity": 3,
-          "avg": 2.418,
-          "dropRange": {
-            "min": 0,
-            "max": 4
-          }
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Copper Talisman of the Forest Dew",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            },
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            },
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
         },
         {
-          "rarity": 4,
-          "avg": 0.062,
-          "dropRange": {
-            "min": 0,
-            "max": 4
-          }
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Coper Talisman of the Forest Dew",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Silver Talisman of the Forest Dew",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Mourning",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Dream of Scorching Might",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
         },
         {
-          "rarity": 5,
-          "dropRange": {
-            "min": 0,
-            "max": 4
-          }
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Coper Talisman of the Forest Dew",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Silver Talisman of the Forest Dew",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Golden Talisman of the Forest Dew",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Oasis Garden's Mourning",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Oasis Garden's Truth",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Dream of Scorching Might",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Olden Days of Scorching Might",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
         }
       ]
     }
