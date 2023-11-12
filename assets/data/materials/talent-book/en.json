@@ -306,5 +306,71 @@
         "rarity": 4
       }
     ]
+  },
+  "equity": {
+    "characters": ["lyney", "neuvillette", "traveler-hydro"],
+    "availability": ["Monday", "Thursday", "Sunday"],
+    "source": "pale-of-forgotten-glory",
+    "items": [
+      {
+        "id": "teachings-of-equity",
+        "name": "Teachings of Equity",
+        "rarity": 2
+      },
+      {
+        "id": "guide-to-equity",
+        "name": "Guide to Equity",
+        "rarity": 3
+      },
+      {
+        "id": "philosophies-of-equity",
+        "name": "Philosophies of Equity",
+        "rarity": 4
+      }
+    ]
+  },
+  "justice": {
+    "characters": ["charlotte", "freminet", "furina", "traveler-hydro"],
+    "availability": ["Tuesday", "Friday", "Sunday"],
+    "source": "pale-of-forgotten-glory",
+    "items": [
+      {
+        "id": "teachings-of-justice",
+        "name": "Teachings of Justice",
+        "rarity": 2
+      },
+      {
+        "id": "guide-to-justice",
+        "name": "Guide to Justice",
+        "rarity": 3
+      },
+      {
+        "id": "philosophies-of-justice",
+        "name": "Philosophies of Justice",
+        "rarity": 4
+      }
+    ]
+  },
+  "order": {
+    "characters": ["lynette", "traveler-hydro", "wriothesley"],
+    "availability": ["Wednesday", "Saturday", "Sunday"],
+    "source": "pale-of-forgotten-glory",
+    "items": [
+      {
+        "id": "teachings-of-order",
+        "name": "Teachings of Order",
+        "rarity": 2
+      },
+      {
+        "id": "guide-to-order",
+        "name": "Guide to Order",
+        "rarity": 3
+      },
+      {
+        "id": "philosophies-of-order",
+        "name": "Philosophies of Order",
+        "rarity": 4
+      }
+    ]
   }
 }

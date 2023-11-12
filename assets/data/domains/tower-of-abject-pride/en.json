@@ -1,0 +1,922 @@
+{
+  "name": "Tower of Abject Pride",
+  "type": "Forgery",
+  "description": "It is said that the deserts were once home to three sage-kings, one of whom remained lovely and wise till the very end. They parted ways eventually for the sake of the paradise they sought in their hearts. This place is called a 'tower,' but in truth was the temporary residence of one of these people when they were building that earthly paradise. If one stretches the past back even further, it was once a small shrine built to avoid the wind and the sand.",
+  "location": "Apam Woods, Ashavan Realm, Sumeru",
+  "nation": "Sumeru",
+  "requirements": [
+    {
+      "level": 1,
+      "adventureRank": 16,
+      "recommendedLevel": 15,
+      "leyLineDisorder": [
+        "When affected by Quicken, the opponent's All Elemental RES will be decreased by 20%. This effect will be removed 5s after the opponent exits Quicken."
+      ]
+    },
+    {
+      "level": 2,
+      "adventureRank": 21,
+      "recommendedLevel": 36,
+      "leyLineDisorder": [
+        "When affected by Quicken, the opponent's All Elemental RES will be decreased by 20%. This effect will be removed 5s after the opponent exits Quicken."
+      ]
+    },
+    {
+      "level": 3,
+      "adventureRank": 30,
+      "recommendedLevel": 59,
+      "leyLineDisorder": [
+        "When affected by Quicken, the opponent's All Elemental RES will be decreased by 20%. This effect will be removed 5s after the opponent exits Quicken.",
+        "During the challenge, Quickened opponents will have all their Elemental RES decreased. As such, place Dendro and Electro characters in your party to use the Ley Line Disorder here to your advantage."
+      ]
+    },
+    {
+      "level": 4,
+      "adventureRank": 40,
+      "recommendedLevel": 80,
+      "leyLineDisorder": [
+        "When affected by Quicken, the opponent's All Elemental RES will be decreased by 20%. This effect will be removed 5s after the opponent exits Quicken.",
+        "During the challenge, Quickened opponents will have all their Elemental RES decreased. As such, place Dendro and Electro characters in your party to use the Ley Line Disorder here to your advantage."
+      ]
+    }
+  ],
+  "recommendedElements": ["Dendro", "Electro"],
+  "rewards": [
+    {
+      "day": "mon",
+      "name": "Tainted Clouds",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Copper Talisman of the Forest Dew",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Copper Talisman of the Forest Dew",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Coper Talisman of the Forest Dew",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Silver Talisman of the Forest Dew",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "drops": [
+            {
+              "name": "Coper Talisman of the Forest Dew",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Silver Talisman of the Forest Dew",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Golden Talisman of the Forest Dew",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "tue",
+      "name": "Obsession",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Mourning",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Oasis Garden's Mourning",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Oasis Garden's Truth",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "wed",
+      "name": "Leading Karma",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Dream of Scorching Might",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Dream of Scorching Might",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Olden Days of Scorching Might",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "thu",
+      "name": "Tainted Clouds",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Copper Talisman of the Forest Dew",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Copper Talisman of the Forest Dew",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Coper Talisman of the Forest Dew",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Silver Talisman of the Forest Dew",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "drops": [
+            {
+              "name": "Coper Talisman of the Forest Dew",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Silver Talisman of the Forest Dew",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Golden Talisman of the Forest Dew",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "fri",
+      "name": "Obsession",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Mourning",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Oasis Garden's Mourning",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Oasis Garden's Truth",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "sat",
+      "name": "Leading Karma",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Dream of Scorching Might",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Dream of Scorching Might",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Olden Days of Scorching Might",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "sun",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 10,
+          "mora": 1125,
+          "drops": [
+            {
+              "name": "Copper Talisman of the Forest Dew",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            },
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            },
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 4.7,
+              "drop_min": 4,
+              "drop_max": 6
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1550,
+          "drops": [
+            {
+              "name": "Copper Talisman of the Forest Dew",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            },
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            },
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.7,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2,
+              "drop_min": 2,
+              "drop_max": 2
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Coper Talisman of the Forest Dew",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Silver Talisman of the Forest Dew",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Mourning",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.26,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2.76,
+              "drop_min": 0,
+              "drop_max": 3
+            },
+            {
+              "name": "Dream of Scorching Might",
+              "avg": 2.24,
+              "drop_min": 0,
+              "drop_max": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "items": [
+            {
+              "name": "Coper Talisman of the Forest Dew",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Iron Talisman of the Forest Dew",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Silver Talisman of the Forest Dew",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Golden Talisman of the Forest Dew",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Oasis Garden's Reminiscence",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Oasis Garden's Kindness",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Oasis Garden's Mourning",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Oasis Garden's Truth",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Echo of Scorching Might",
+              "avg": 2.2,
+              "drop_min": 2,
+              "drop_max": 3
+            },
+            {
+              "name": "Remnant Glow of Scorching Might",
+              "avg": 2.418,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Dream of Scorching Might",
+              "avg": 0.62,
+              "drop_min": 0,
+              "drop_max": 4
+            },
+            {
+              "name": "Olden Days of Scorching Might",
+              "avg": 0.062,
+              "drop_min": 0,
+              "drop_max": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "enemies": [
+    {
+      "level": 1,
+      "target": "Defeat 12 opponent(s) within 300 second(s)",
+      "enemies": [
+        {
+          "wave1": {
+            "Stretchy Pyro Fungus": 2,
+            "Floating Dendro Fungus": 6,
+            "Floating Hydro Fungus": 2,
+            "Whirling Electro Fungus": 2
+          }
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "target": "Defeat 16 opponent(s) within 300 second(s)",
+      "enemies": [
+        {
+          "wave1": {
+            "Whirling Cryo Fungus": 4,
+            "Stretchy Pyro Fungus": 4,
+            "Stretchy Geo Fungus": 4,
+            "Floating Dendro Fungus": 2,
+            "Whirling Electro Fungus": 2
+          }
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "target": "Defeat 10 opponent(s) within 300 second(s)",
+      "enemies": [
+        {
+          "wave1": {
+            "Stretchy Pyro Fungus": 2,
+            "Whirling Cryo Fungus": 2
+          },
+          "wave2": {
+            "Stretchy Geo Fungus": 2,
+            "Whirling Electro Fungus": 1,
+            "Floating Dendro Fungus": 1
+          },
+          "wave3": {
+            "Grounded Hydroshroom": 1,
+            "Winged Dendroshroom": 1
+          }
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "target": "Defeat 9 opponent(s) within 300 second(s)",
+      "enemies": [
+        {
+          "wave1": {
+            "Floating Hydro Fungus": 2,
+            "Floating Dendro Fungus": 2,
+            "Grounded Hydroshroom": 1
+          },
+          "wave2": {
+            "Floating Hydro Fungus": 1,
+            "Floating Dendro Fungus": 1,
+            "Grounded Hydroshroom": 1,
+            "Winged Dendroshroom": 1
+          }
+        }
+      ]
+    }
+  ]
+}
