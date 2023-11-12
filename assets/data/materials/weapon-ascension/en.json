@@ -480,5 +480,105 @@
         "rarity": 5
       }
     ]
+  },
+  "ancient-chord": {
+    "weapons": [
+      "the-first-great-magic",
+      "fleuve-cendre-ferryman",
+      "prospectors-drill",
+      "range-gauge",
+      "song-of-stillness",
+      "sword-of-narzissenkreuz"
+    ],
+    "availability": ["Monday", "Thursday", "Sunday"],
+    "source": "echoes-of-the-deep-tides",
+    "items": [
+      {
+        "id": "fragment-of-an-ancient-chord",
+        "name": "Fragment of an Ancient Chord",
+        "rarity": 2
+      },
+      {
+        "id": "chapter-an-ancient-chord",
+        "name": "Chapter of an Ancient Chord",
+        "rarity": 3
+      },
+      {
+        "id": "movement-of-an-ancient-chord",
+        "name": "Movement of an Ancient Chord",
+        "rarity": 4
+      },
+      {
+        "id": "echo-of-an-ancient-chord",
+        "name": "Echo of an Ancient Chord",
+        "rarity": 5
+      }
+    ]
+  },
+  "pure-sacred-dewdrop": {
+    "weapons": [
+      "splendor-of-tranquil-waters",
+      "tome-of-the-eternal",
+      "flow-finale-of-the deep",
+      "flowing-purity",
+      "the-dockhands-assistant"
+    ],
+    "availability": ["Tuesday", "Friday", "Sunday"],
+    "source": "echoes-of-the-deep-tides",
+    "items": [
+      {
+        "id": "dross-of-pure-sacred-dewdrop",
+        "name": "Dross of Pure Sacred Dewdrop",
+        "rarity": 2
+      },
+      {
+        "id": "sublimation-of-pure-sacred-dewdrop",
+        "name": "Sublimation of Pure Sacred Dewdrop",
+        "rarity": 3
+      },
+      {
+        "id": "spring-of-pure-sacred-dewdrop",
+        "name": "Spring of Pure Sacred Dewdrop",
+        "rarity": 4
+      },
+      {
+        "id": "essence-of-pure-sacred-dewdrop",
+        "name": "Essence of Pure Sacred Dewdrop",
+        "rarity": 5
+      }
+    ]
+  },
+  "pristine-sea": {
+    "weapons": [
+      "cashflow-supervision",
+      "ballad-of-the-fjords",
+      "portable-power-saw",
+      "rightful-reward",
+      "tidal-shadow"
+    ],
+    "availability": ["Wednesday", "Saturday", "Sunday"],
+    "source": "echoes-of-the-deep-tides",
+    "items": [
+      {
+        "id": "broken-goblet-of-the-pristine-sea",
+        "name": "Broken Goblet of the Pristine Sea",
+        "rarity": 2
+      },
+      {
+        "id": "wine-goblet-of-the-pristine-sea",
+        "name": "Wine Goblet of the Pristine Sea",
+        "rarity": 3
+      },
+      {
+        "id": "silver-goblet-of-the-pristine-sea",
+        "name": "Silver Goblet of the Pristine Sea",
+        "rarity": 4
+      },
+      {
+        "id": "golden-goblet-of-the-pristine-sea",
+        "name": "Golden Goblet of the Pristine Sea",
+        "rarity": 5
+      }
+    ]
   }
 }
