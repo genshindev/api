@@ -1,0 +1,12 @@
+{
+    "name": "End of the Line",
+    "type": "Bow",
+    "rarity": 4,
+    "baseAttack": 42,
+    "subStat": "Energy Recharge",
+    "passiveName": "Net Snapper",
+    "passiveDesc": "Triggers the Flowrider effect after using an Elemental Skill, dealing 80% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
+    "location": "Sumeru Fishing Association",
+    "ascensionMaterial": "scorching"
+  }
+  

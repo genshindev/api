@@ -1,0 +1,12 @@
+{
+    "name": "Fruit of Fulfillment",
+    "type": "Catalyst",
+    "rarity": 4,
+    "baseAttack": 42,
+    "subStat": "Energy Recharge",
+    "passiveName": "Full Circle",
+    "passiveDesc": "Obtain the 'Wax and Wane' effect after an Elemental Reaction is triggered, gaining 24 Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field.",
+    "location": "Crafting",
+    "ascensionMaterial": "oasis"
+}
+  
