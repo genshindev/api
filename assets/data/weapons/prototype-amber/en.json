@@ -1,0 +1,12 @@
+{
+    "name": "Prototype Amber",
+    "type": "Catalyst",
+    "rarity": 4,
+    "baseAttack": 42,
+    "subStat": "HP",
+    "passiveName": "Gilding",
+    "passiveDesc": "Using an Elemental Burst regenerates 4 Energy every 2s for 6s. All party members will regenerate 4% HP every 2s for this duration.",
+    "location": "Crafting",
+    "ascensionMaterial": "elixir"
+  }
+  
