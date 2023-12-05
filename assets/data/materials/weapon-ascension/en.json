@@ -121,7 +121,7 @@
       "skyward-spine",
       "traveler's-handy-sword",
       "white-iron-greatsword",
-      "wineindblume-ode",
+      "windblume-ode",
       "wolf's-gravestone"
     ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
@@ -499,7 +499,7 @@
         "rarity": 2
       },
       {
-        "id": "chapter-an-ancient-chord",
+        "id": "chapter-of-an-ancient-chord",
         "name": "Chapter of an Ancient Chord",
         "rarity": 3
       },
