@@ -9,6 +9,7 @@ import {
   getEntity,
   getImage,
   getTypes,
+  containsFolders,
 } from '../modules/filesystem';
 
 const router = new Router();
@@ -20,22 +21,7 @@ router.get('/', async (ctx) => {
   };
 });
 
-router.get('/:type', async (ctx) => {
-  const { type } = ctx.params;
-  try {
-    const entityNames = await getAvailableEntities(type);
-    ctx.body = entityNames;
-  } catch (e) {
-    ctx.status = 404;
-    const availableTypes = await getTypes();
-    ctx.body = {
-      error: e.message,
-      availableTypes,
-    };
-  }
-});
-
-router.get('/:type/all', async (ctx) => {
+router.get('/:type*/all', async (ctx) => {
   try {
     const { lang, ...params } = ctx.query;
     const { type } = ctx.params;
@@ -77,22 +63,13 @@ router.get('/:type/all', async (ctx) => {
   }
 });
 
-router.get('/:type/:id', async (ctx) => {
+router.get('/:type*/list', async (ctx) => {
+  let { type } = ctx.params;
+  const id = type.substring(type.lastIndexOf("/") + 1);
+  type = type.substring(0, type.lastIndexOf("/"));
   try {
-    const { lang } = ctx.query;
-    const { type, id } = ctx.params;
-
-    ctx.body = await getEntity(type, id, lang as string);
-  } catch (e) {
-    ctx.status = 404;
-    ctx.body = { error: e.message };
-  }
-});
-
-router.get('/:type/:id/list', async (ctx) => {
-  const { type, id } = ctx.params;
-
-  try {
+    if(await containsFolders(ctx.params.type))
+      throw new Error(`No images for ${ctx.params.type}/lista exist`);
     ctx.body = await getAvailableImages(type, id);
   } catch (e) {
     ctx.status = 404;
@@ -100,20 +77,48 @@ router.get('/:type/:id/list', async (ctx) => {
   }
 });
 
-router.get('/:type/:id/:imageType', async (ctx) => {
-  const { type, id, imageType } = ctx.params;
-
-  try {
-    const image = await getImage(type, id, imageType);
-
-    ctx.body = image.image;
-    ctx.type = image.type;
-  } catch (e) {
-    ctx.status = 404;
+router.get('/:type*', async (ctx) => {
+  let { type } = ctx.params;
+  if(!(await containsFolders(type.substring(0, type.lastIndexOf("/"))))) {
+    const imageType = type.substring(type.lastIndexOf("/") + 1);
+    type = type.substring(0, type.lastIndexOf("/"));
+    const id = type.substring(type.lastIndexOf("/") + 1);
+    type = type.substring(0, type.lastIndexOf("/"));
     try {
-      const av = await getAvailableImages(type, id);
-      ctx.body = { error: e.message, availableImages: av };
+      const image = await getImage(type, id, imageType);
+  
+      ctx.body = image.image;
+      ctx.type = image.type;
     } catch (e) {
+      ctx.status = 404;
+      try {
+        const av = await getAvailableImages(type, id);
+        ctx.body = { error: e.message, availableImages: av };
+      } catch (e) {
+        ctx.body = { error: e.message };
+      }
+    }
+  } else if(await containsFolders(type)) {
+    try {
+      const entityNames = await getAvailableEntities(type);
+      ctx.body = entityNames;
+    } catch (e) {
+      ctx.status = 404;
+      const availableTypes = await getTypes();
+      ctx.body = {
+        error: e.message,
+        availableTypes,
+      };
+    }
+  } else {
+    try {
+      const { lang } = ctx.query;
+      const id = type.substring(type.lastIndexOf("/") + 1);
+      type = type.substring(0, type.lastIndexOf("/"));
+  
+      ctx.body = await getEntity(type, id, lang as string);
+    } catch (e) {
+      ctx.status = 404;
       ctx.body = { error: e.message };
     }
   }
