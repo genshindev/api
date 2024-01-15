@@ -1,0 +1,93 @@
+{
+  "name": "Chevreuse",
+  "title": "Executor of Justice",
+  "vision": "Pyro",
+  "weapon": "Polearm",
+  "gender": "Female",
+  "nation": "Fontaine",
+  "affiliation": "Special Security and Surveillance Patrol",
+  "rarity": 4,
+  "release": "2024-01-09",
+  "constellation": "Sclopetum Ensiferum",
+  "birthday": "0000-01-10",
+  "description": "The captain of the Special Security and Surveillance Patrol, who wears justice as an ever-present seal upon her heart. Her musket shall only ever point at the guilty.",
+  "skillTalents": [
+    {
+      "name": "Line Bayonet Thrust EX",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 4 consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Short-Range Rapid Interdiction Fire",
+      "unlock": "Elemental Skill",
+      "description": "Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing AoE Pyro DMG.\nFor a short duration after Chevreuse fires a shot, she will continuously restore HP to the active character on the field. The amount healed is based on her Max HP.\nHold to fire in a different fashion.\nHold\nEnter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater Pyro DMG in a larger area.\nChevreuse gains 1 Overcharged Ball every time a nearby character in the party triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time.\nArkhe: Ousia\nPeriodically, after Chevreuse's Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals Ousia-aligned Pyro DMG.\n\"Actually, training regulations only had the phrase \"interdiction fire,\n\" but the protagonist of this novel believes that even how stylish your terminology is can affect how motivated your troops are, which can put your opponents on the back foot right from the get-go... I think that's a good point, so I changed the regulations!\"",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Ring of Bursting Grenades",
+      "unlock": "Elemental Burst",
+      "description": "Chevreuse fires an explosive grenade at opponents with her musket, dealing AoE Pyro DMG. After the projectile hits, it will split into many secondary explosive shells.\nThe secondary explosive shells will burst after a short interval, dealing Pyro DMG to nearby opponents.\n\"Theoretically, a rectangular blast would be most efficient at destroying enemy formations. Unfortunately, the cross-section of an explosive shock wave is round, like most cakes. So, the secondary explosive shells can only be arranged like the fruit on a cake, forming a ring around the edge.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Double Time March",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+      "level": 1
+    },
+    {
+      "name": "Vanguard's Coordinated Tactics",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "When the Elemental Type of all party members is Pyro or Electro and there is at least one Pyro and one Electro characters each in the party:\nChevreuse grants \"Coordinated Tactics\" to nearby party members: After a character triggers the Overloaded reaction, the Pyro and Electro RES of the opponent(s) affected by this Overloaded reaction will be decreased by 40% for 6s.\nThe \"Coordinated Tactics\" effect will be removed when the Elemental Types of the characters in the party do not meet the basic requirements for the Passive Talent.",
+      "level": 4
+    },
+    {
+      "name": "Vertical Force Coordination",
+      "unlock": "Unlocked Automatically",
+      "description": "After Chevreuse fires an Overcharged Ball using Short-Range Rapid Interdiction Fire, nearby Pyro and Electro characters in the party gain 1% increased ATK for every 1,000 Max HP Chevreuse has for 30s. ATK can be increased by up to 40% in this way."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Stable Front Line's Resolve",
+      "unlock": "Constellation Lv. 1",
+      "description": "When the active character with the \"Coordinated Tactics\" status (not including Chevreuse herself) triggers the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s.\nYou must first unlock the Passive Talent \"Vanguard's Coordinated Tactics.\"",
+      "level": 1
+    },
+    {
+      "name": "Sniper Induced Explosion",
+      "unlock": "Constellation Lv. 2",
+      "description": "After Holding Short-Range Rapid Interdiction Fire and hitting a target, 2 chain explosions will be triggered near the location where said target is hit. Each explosion deals Pyro DMG equal to 120% of Chevreuse's ATK. This effect can be triggered up to once every 10s, and DMG dealt this way is considered Elemental Skill DMG.",
+      "level": 2
+    },
+    {
+      "name": "Practiced Field Stripping Technique",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Short-Range Rapid Interdiction Fire by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "The Secret to Rapid-Fire Multishots",
+      "unlock": "Constellation Lv. 4",
+      "description": "After using Ring of Bursting Grenades, the Hold mode of Short-Range Rapid Interdiction Fire will not go on cooldown when Chevreuse uses it. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s.",
+      "level": 4
+    },
+    {
+      "name": "Enhanced Incendiary Firepower",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Ring of Bursting Grenades by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "In Pursuit of Ending Evil",
+      "unlock": "Constellation Lv. 6",
+      "description": "After 12s of the healing effect from Short-Range Rapid Interdiction Fire, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP once.\nAfter a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% Pyro DMG Bonus and Electro DMG Bonus for 8s. Max 3 stacks. Each stack's duration is counted independently.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "POLEARM"
+}
