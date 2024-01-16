@@ -13,7 +13,7 @@
     {
       "id": "dandelion-seed",
       "name": "Dandelion Seed",
-      "characters": ["jean"]
+      "characters": ["jean", "eula"]
     },
     {
       "id": "philanemo-mushroom",
@@ -28,17 +28,18 @@
     {
       "id": "valberry",
       "name": "Valberry",
-      "characters": ["lisa", "noelle"]
+      "characters": ["lisa", "noelle", "rosaria"]
     },
     {
       "id": "windwheel-aster",
       "name": "Windwheel Aster",
-      "characters": ["bennett", "sucrose", "traveler-anemo", "traveler-geo"]
+      "characters": ["bennett", "sucrose", "traveler-anemo", "traveler-geo", 
+        "traveler-electro", "traveler-dendro","traveler-hydro"]
     },
     {
       "id": "wolfhook",
       "name": "Wolfhook",
-      "characters": ["razor"]
+      "characters": ["razor", "mika"]
     }
   ],
   "liyue": [
@@ -50,37 +51,168 @@
     {
       "id": "glaze-lily",
       "name": "Glaze Lily",
-      "characters": ["ningguang"]
+      "characters": ["ningguang", "yun-jin"]
     },
     {
       "id": "jueyun-chili",
       "name": "Jueyun Chili",
-      "characters": ["xiangling"]
+      "characters": ["xiangling", "yaoyao"]
     },
     {
       "id": "noctilucous-jade",
       "name": "Noctilucous Jade",
-      "characters": ["beidou"]
+      "characters": ["beidou", "yanfei"]
     },
     {
       "id": "qingxin",
       "name": "Qingxin",
-      "characters": ["ganyu", "xiao"]
+      "characters": ["ganyu", "xiao", "shenhe"]
     },
     {
       "id": "silk-flower",
       "name": "Silk Flower",
-      "characters": ["xingqiu"]
+      "characters": ["xingqiu", "hu-tao"]
     },
     {
       "id": "starconch",
       "name": "Starconch",
-      "characters": ["tartaglia"]
+      "characters": ["tartaglia", "yelan"]
     },
     {
       "id": "violetgrass",
       "name": "Violetgrass",
-      "characters": ["qiqi", "xinyan"]
+      "characters": ["qiqi", "xinyan", "baizhu"]
+    }
+  ],
+  "inazuma": [
+    {
+      "id": "sango-pearl",
+      "name": "Sango Pearl",
+      "characters": ["gorou", "kokomi"]
+    },
+    {
+      "id": "crystal-marrow",
+      "name": "Crystal Marrow",
+      "characters": ["aloy", "sayu"]
+    },
+    {
+      "id": "dendrobium",
+      "name": "Dendrobium ",
+      "characters": ["sara"]
+    },
+    {
+      "id": "fluorescent-fungus",
+      "name": "Fluorescent Fungus",
+      "characters": ["thoma"]
+    },
+    {
+      "id": "sakura-bloom",
+      "name": "Sakura Bloom",
+      "characters": ["ayaka", "ayato"]
+    },
+    {
+      "id": "amakumo-fruit",
+      "name": "Amakumo Fruit",
+      "characters": ["kirara", "raiden"]
+    },
+    {
+      "id": "sea-ganoderma",
+      "name": "Sea Ganoderma",
+      "characters": ["kazuha", "yae-miko"]
+    },
+    {
+      "id": "onikabuto",
+      "name": "Onikabuto",
+      "characters": ["arataki-itto", "shikanoin-heizou"]
+    },
+    {
+      "id": "naku-weed",
+      "name": "Naku Weed",
+      "characters": ["yoimiya", "kuki-shinobu"]
+    }
+  ],
+  "sumeru": [
+    {
+      "id": "henna-berry",
+      "name": "Henna Berry",
+      "characters": ["faruzan", "candace"]
+    },
+    {
+      "id": "sand-grease-pupa",
+      "name": "Sand Grease Pupa",
+      "characters": ["alhaitham", "dehya"]
+    },
+    {
+      "id": "kalpalata-lotus",
+      "name": "Kalpalata Lotus",
+      "characters": ["dori", "nahida"]
+    },
+    {
+      "id": "nilotpala-lotus",
+      "name": "Nilotpala Lotus",
+      "characters": ["tighnari", "layla"]
+    },
+    {
+      "id": "rukkhashava-mushrooms",
+      "name": "Rukkhashava Mushrooms",
+      "characters": ["wanderer", "collei"]
+    },
+    {
+      "id": "scarab",
+      "name": "Scarab",
+      "characters": ["cyno"]
+    },
+    {
+      "id": "mourning-flower",
+      "name": "Mourning Flower",
+      "characters": ["kaveh"]
+    },
+    {
+      "id": "padisarah",
+      "name": "Padisarah",
+      "characters": ["nilou"]
+    }
+  ],
+  "fontaine": [
+    {
+      "id": "subdetection-unit",
+      "name": "Subdetection Unit",
+      "characters": ["wriothesley"]
+    },
+    {
+      "id": "lumitoile",
+      "name": "Lumitoile",
+      "characters": ["neuvillette"]
+    },
+    {
+      "id": "romaritime-flower",
+      "name": "Romaritime Flower",
+      "characters": ["freminet"]
+    },
+    {
+      "id": "spring-of-the-first-dewdrop",
+      "name": "Spring of the First Dewdrop",
+      "characters": ["navia"]
+    },
+    {
+      "id": "lumidouce-bell",
+      "name": "Lumidouce Bell",
+      "characters": ["lynette", "chevreuse"]
+    },
+    {
+      "id": "beryl-conch",
+      "name": "Beryl Conch",
+      "characters": ["charlotte"]
+    },
+    {
+      "id": "lakelight-lily",
+      "name": "Lakelight Lily",
+      "characters": ["furina"]
+    },
+    {
+      "id": "rainbow-rose",
+      "name": "Rainbow Rose",
+      "characters": ["lyney"]
     }
   ]
 }

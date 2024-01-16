@@ -53,7 +53,7 @@
   "bloodjade-branch": {
     "id": "bloodjade-branch",
     "name": "Bloodjade Branch",
-    "characters": ["ayaka", "yanfei"]
+    "characters": ["ayaka", "yanfei", "dori"]
   },
   "dragon-lord's-crown": {
     "id": "dragon-lord's-crown",
@@ -63,7 +63,7 @@
   "gilded-scale": {
     "id": "gilded-scale",
     "name": "Gilded Scale",
-    "characters": ["kazuha", "sayu"]
+    "characters": ["kazuha", "sayu", "yelan"]
   },
   "molten-moment": {
     "id": "moltent-moment",
@@ -79,5 +79,65 @@
     "id": "ashen-heart",
     "name": "Ashen Heart",
     "characters": ["sara", "arataki-itto", "yun-jin"]
+  },
+  "everamber": {
+    "id": "everamber",
+    "name": "Everamber",
+    "characters": ["lynette", "neuvillette", "kirara"]
+  },
+  "primordial-greenbloom": {
+    "id": "primordial-greenbloom",
+    "name": "Primordial Greenbloom",
+    "characters": ["lyney", "wriothesley", "kaveh"]
+  },
+  "worldspan-fern": {
+    "id": "worldspan-fern",
+    "name": "Worldspan Fern",
+    "characters": ["baizhu", "freminet", "traveler-hydro"]
+  },
+  "lightless-silk-string": {
+    "id": "lightless-silk-string",
+    "name": "Lightless Silk String",
+    "characters": ["charlotte", "navia"]
+  },
+  "lightless-mass": {
+    "id": "lightless-mass",
+    "name": "Lightless Mass",
+    "characters": ["furina"]
+  },
+  "lightless-eye-of-the-maelstrom": {
+    "id": "lightless-eye-of-the-maelstrom",
+    "name": "Lightless Eye of the Maelstrom",
+    "characters": ["chevreuse"]
+  },
+  "daka-s-bell": {
+    "id": "daka-s-bell",
+    "name": "Daka's Bell",
+    "characters": ["wanderer", "yaoyao"]
+  },
+  "puppet-strings": {
+    "id": "puppet-strings",
+    "name": "Puppet Strings",
+    "characters": ["dehya", "faruzan", "nahida"]
+  },
+  "mirror-of-mushin": {
+    "id": "mirror-of-mushin",
+    "name": "Mirror of Mushin",
+    "characters": ["alhaitham", "layla", "mika"]
+  },
+  "mudra-of-the-malefic-general": {
+    "id": "mudra-of-the-malefic-general",
+    "name": "Mudra of the Malefic General",
+    "characters": ["cyno", "ayato", "traveler-dendro"]
+  },
+  "tears-of-the-calamitous-god": {
+    "id": "tears-of-the-calamitous-god",
+    "name": "Tears of the Calamitous God",
+    "characters": ["candace", "collei", "kuki-shinobu", "nilou"]
+  },
+  "the-meaning-of-aeons": {
+    "id": "the-meaning-of-aeons",
+    "name": "The Meaning of Aeons",
+    "characters": ["shikanoin-heizou", "tighnari", "yae-miko"]
   }
 }

@@ -352,7 +352,7 @@
     ]
   },
   "order": {
-    "characters": ["lynette", "traveler-hydro", "wriothesley"],
+    "characters": ["lynette", "traveler-hydro", "wriothesley", "chevreuse"],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "pale-of-forgotten-glory",
     "items": [
