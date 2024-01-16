@@ -6,6 +6,28 @@ An API that serves data for the game Genshin Impact by miHoYo (the game is made 
 
 **An always up-to-date version is hosted at https://genshin.jmp.blue!**
 
+## Usage
+
+This API offers various endpoints for retrieving data on in game objects.
+Please note that this API does **NOT** interact with your game!.
+This API only provides static data.
+
+### Endpoints Overview
+
+> **:information_source: Notice:** Please replace `<baseUrl>` with the endpoint you are trying to access.
+
+| Endpoint                | Description                                                   | Example Usage (bash)                       |
+| ----------------------- | ------------------------------------------------------------- | ------------------------------------------ |
+| `/`                     | Returns a list of available entity types.                     | `curl <baseUrl>/`                          |
+| `/:type`                | Returns a list of available entities for a specific type.     | `curl <baseUrl>/characters`                |
+| `/:type/all`            | Returns detailed information about all entities of a type.    | `curl <baseUrl>/characters/all?lang=en`    |
+| `/:type/:id`            | Returns detailed information about a single entity.           | `curl <baseUrl>/characters/albedo?lang=en` |
+| `/:type/:id/list`       | Returns a list of available images for a specific entity.     | `curl <baseUrl>/characters/albedo/list`    |
+| `/:type/:id/:imageType` | Returns the image of a specific type for a particular entity. | `curl <baseUrl>/characters/albedo/card`    |
+
+> **:information_source: Notice:** You can provide an optional `lang` query parameter to localize the responses.
+> Not all data might be included in all languages!
+
 ## Planned Features
 
 - Entity relationships (e.g. characters linking to the best weapon for them)
