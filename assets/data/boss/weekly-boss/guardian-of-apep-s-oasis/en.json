@@ -1,0 +1,43 @@
+{
+  "name": "Guardian of Apep's Oasis",
+  "description": "Apep walked through the water like a fish with its many offspring in a sea of fragrant grass, gigantic trees, and unimaginably long vines. Finally, the grass, trees, and vines withered and turned into dust, while countless beings as minute as grains of gravel built a fragile kingdom upon Apep's land.\nApep and its offspring let the sea of sand rage like boiling water and swept houses down as if they were falling leaves. Until the day when the new Lord of Sand reconciled with the king who lost their homeland, the dunes under the sun belonged to humanity, while the dragon's oasis remained in the hearts of the dragons.\nApep shared the knowledge of evolution with its many offspring, because spreading knowledge ensures dissemination while the stagnation of hoarded wisdom courted only decay. Till the day the promise between it and the Lord of Sand was finally attained, with ultimate wisdom claimed. Henceforth, it reaped only sights of oblivion, of an endless calamity.\nApep found itself swallowed alone amidst the scenery of the catastrophe. All the people, gods, dragons, beasts, birds, and fish. All memories, wisdom, words, and hatred were ground into colorless dust, and the last of the moonlight burned away into a rain of pale fire, falling on the barren land.\nApep once deemed the bottom of the sea of sand to be its grave, not the palace of a dispossessed king. The poison of \"wisdom\" would soon free Apep from the hatred and anger festering within it over countless moons. Apep had grown weary of the colorless apocalypse. Then, finally, the young god and the golden Traveler let it recall once again, even though the verdant land it once ruled had been reduced to this gilded wasteland, even though Apep and its many offspring had grown twisted and wretched to secure their continued survival therein, Apep still treasured the sight and scenes of the oasis, sparkling in its heart.",
+  "drops": [
+    {
+      "name": "Worldspan Fern",
+      "rarity": 5,
+      "source": "Lv. 70+ Guardian of Apep's Oasis Challenge Reward"
+    },
+    {
+      "name": "Primordial Greenbloom",
+      "rarity": 5,
+      "source": "Lv. 70+ Guardian of Apep's Oasis Challenge Reward"
+    },
+    {
+      "name": "Everamber",
+      "rarity": 5,
+      "source": "Lv. 70+ Guardian of Apep's Oasis Challenge Reward"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "Berserker",
+      "max_rarity": 4
+    },
+    {
+      "name": "Instructor",
+      "max_rarity": 4
+    },
+    {
+      "name": "The Exile",
+      "max_rarity": 4
+    },
+    {
+      "name": "Gladiator's Finale",
+      "max_rarity": 5
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "max_rarity": 5
+    }
+  ]
+}

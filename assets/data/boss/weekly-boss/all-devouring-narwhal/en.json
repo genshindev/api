@@ -1,0 +1,43 @@
+{
+  "name": "All-Devouring Narwhal",
+  "description": "A mysterious and gargantuan creature from another world.\nPoets often liken the starry sky to the ocean. They've seen or dreamt of countless bioluminescent plankton floating on a moonless sea, resembling a galaxy, or the moonlight ripped apart by waves on the sea's surface, like shimmering stars. In the most fantastical stories or outrageous lies, the stars found in the depths of the cosmos might be teeming with life, much like Teyvat, and the universe itself is akin to an ocean. Realistically speaking, however, if a profound universe full of life exists, why hasn't any of that life made contact with Teyvat?\nMaybe the universe has been constantly trying to infiltrate Teyvat, or maybe a higher power created borders to protect this world.",
+  "drops": [
+    {
+      "name": "Lightless Silk String",
+      "rarity": 5,
+      "source": "Lv. 70+ All-Devouring Narwhal Challenge Reward"
+    },
+    {
+      "name": "Lightless Eye of the Maelstrom",
+      "rarity": 5,
+      "source": "Lv. 70+ All-Devouring Narwhal Challenge Reward"
+    },
+    {
+      "name": "Lightless Mass",
+      "rarity": 5,
+      "source": "Lv. 70+ All-Devouring Narwhal Challenge Reward"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "Berserker",
+      "max_rarity": 4
+    },
+    {
+      "name": "Instructor",
+      "max_rarity": 4
+    },
+    {
+      "name": "The Exile",
+      "max_rarity": 4
+    },
+    {
+      "name": "Gladiator's Finale",
+      "max_rarity": 5
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "max_rarity": 5
+    }
+  ]
+}
