@@ -117,7 +117,7 @@
   "emperor-s-resolution": {
     "name": "Emperor's Resolution",
     "source": "Emperor of Fire and Iron",
-    "characters": ["lyney"]
+    "characters": ["lyney", "gaming"]
   },
   "coppelia": {
     "name": "Artificed Spare Clockwork Component — Coppelia",
@@ -143,5 +143,10 @@
     "name": "Water That Failed To Transcend",
     "source": "Hydro Tulpa",
     "characters": ["furina"]
+  },
+  "cloudseam-scale": {
+    "name": "Cloudseam Scale",
+    "source": "Solitary Suanni",
+    "characters": ["xianyun"]
   }
 }

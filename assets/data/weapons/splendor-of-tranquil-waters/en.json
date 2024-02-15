@@ -1,0 +1,11 @@
+{
+  "name": "Splendor of Tranquil Waters",
+  "type": "Sword",
+  "rarity": 5,
+  "baseAttack": 44,
+  "subStat": "CRIT DMG",
+  "passiveName": "Dawn and Dusk by the Lake",
+  "passiveDesc": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 8/10/12/14/16% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 14/17.5/21/24.5/28% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s. The aforementioned effects can be triggered even if the wielder is off-field.",
+  "location": "Gacha",
+  "ascensionMaterial": "pure-sacred-dewdrop"
+}

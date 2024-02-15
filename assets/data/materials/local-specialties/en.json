@@ -76,12 +76,17 @@
     {
       "id": "starconch",
       "name": "Starconch",
-      "characters": ["tartaglia", "yelan"]
+      "characters": ["tartaglia", "yelan", "gaming"]
     },
     {
       "id": "violetgrass",
       "name": "Violetgrass",
       "characters": ["qiqi", "xinyan", "baizhu"]
+    },
+    {
+      "id": "clearwater-jade",
+      "name": "Clearwater Jade",
+      "characters": ["xianyun"]
     }
   ],
   "inazuma": [

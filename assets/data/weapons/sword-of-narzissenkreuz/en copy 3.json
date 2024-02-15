@@ -1,0 +1,10 @@
+{
+  "name": "Sword of Narzissenkreuz",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "ATK",
+  "passiveName": "Holy Sword",
+  "passiveDesc": "In countless stories, the weapon that befits the legendary hero is also the key to opening all gates, required to surpass the climax and reach destiny's denouement.",
+  "location": "Quest: Waking from the Great Dream"
+}

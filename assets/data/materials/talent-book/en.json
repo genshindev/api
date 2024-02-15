@@ -69,6 +69,7 @@
       "fischl",
       "kaeya",
       "lisa",
+      "mika",
       "rosaria",
       "venti",
       "traveler-anemo",
@@ -95,7 +96,7 @@
     ]
   },
   "prosperity": {
-    "characters": ["keqing", "ningguang", "qiqi", "traveler-geo", "xiao"],
+    "characters": ["keqing", "ningguang", "qiqi", "traveler-geo", "xiao", "shenhe", "yelan", "gaming"],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "taishan-mansion",
     "items": [
@@ -124,6 +125,7 @@
       "kazuha",
       "traveler-geo",
       "xiangling",
+      "yaoyao",
       "yun-jin"
     ],
     "availability": ["Tuesday", "Friday", "Sunday"],
@@ -153,7 +155,9 @@
       "xingqiu",
       "xinyan",
       "yanfei",
-      "zhongli"
+      "zhongli",
+      "baizhu",
+      "xianyun"
     ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "taishan-mansion",
@@ -176,7 +180,7 @@
     ]
   },
   "transience": {
-    "characters": ["kokomi", "thoma", "traveler-electro", "yoimiya"],
+    "characters": ["kokomi", "thoma", "traveler-electro", "yoimiya", "kirara", "heizou"],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "violet-court",
     "items": [
@@ -198,7 +202,7 @@
     ]
   },
   "elegance": {
-    "characters": ["arataki-itto", "ayaka", "sara", "traveler-electro"],
+    "characters": ["arataki-itto", "ayaka", "sara", "traveler-electro", "ayato", "kuki-shinobu"],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "violet-court",
     "items": [
@@ -264,7 +268,7 @@
     ]
   },
   "ingenuity": {
-    "characters": ["alhaitham", "dori", "layla", "nahida", "traveler-dendro"],
+    "characters": ["alhaitham", "dori", "layla", "kaveh", "nahida", "traveler-dendro"],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "steeple-of-ignorance",
     "items": [
@@ -286,7 +290,7 @@
     ]
   },
   "praxis": {
-    "characters": ["collei", "nilou", "traveler-dendro", "wanderer"],
+    "characters": ["collei", "nilou", "traveler-dendro", "wanderer", "dehya"],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "steeple-of-ignorance",
     "items": [
@@ -308,7 +312,7 @@
     ]
   },
   "equity": {
-    "characters": ["lyney", "neuvillette", "traveler-hydro"],
+    "characters": ["lyney", "neuvillette", "traveler-hydro", "navia"],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "pale-of-forgotten-glory",
     "items": [

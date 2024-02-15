@@ -103,12 +103,12 @@
   "lightless-mass": {
     "id": "lightless-mass",
     "name": "Lightless Mass",
-    "characters": ["furina"]
+    "characters": ["furina", "gaming"]
   },
   "lightless-eye-of-the-maelstrom": {
     "id": "lightless-eye-of-the-maelstrom",
     "name": "Lightless Eye of the Maelstrom",
-    "characters": ["chevreuse"]
+    "characters": ["chevreuse", "xianyun"]
   },
   "daka-s-bell": {
     "id": "daka-s-bell",

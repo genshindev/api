@@ -1,6 +1,6 @@
 {
   "slime": {
-    "characters": ["lisa", "venti", "xiangling", "zhongli", "arataki-itto", "xiao", "yaoyao"],
+    "characters": ["lisa", "venti", "xiangling", "zhongli", "arataki-itto", "xiao", "yaoyao", "gaming"],
     "weapons": [
       "amos-bow",
       "lost-prayer-to-the-sacred-winds",
@@ -48,6 +48,25 @@
     "characters": ["jean", "noelle", "razor", "chongyun", "xingqiu", "sara",
       "eula", "yun-jin", "traveler-anemo", "traveler-geo", "traveler-electro",
       "traveler-dendro","traveler-hydro"],
+    "weapons": [
+      "wolf-fang",
+      "apprentice-s-notes",
+      "rust",
+      "the-widsith",
+      "dark-iron-sword",
+      "debate-club",
+      "otherworldly-story",
+      "slingshot",
+      "pocket-grimoire",
+      "prototype-starglitter",
+      "prototype-archaic",
+      "eye-of-perception",
+      "dodoco-tales",
+      "cinnabar-spindle",
+      "summit-shaper",
+      "song-of-broken-pines",
+      "memory-of-dust"
+    ],
     "items": [
       {
         "id": "damaged-mask",
@@ -121,9 +140,11 @@
       "klee",
       "layla",
       "qiqi",
-      "yoimiya"
+      "yoimiya",
+      "xianyun"
     ],
     "weapons": [
+      "beginner-s-protector",
       "freedom-sworn",
       "skyward-spine",
       "wolf-s-gravestone",
@@ -133,15 +154,14 @@
       "favonius-codex",
       "hakushin-ring",
       "rainslasher",
-      "royal-bow",
       "sacrificial-jade",
       "sacrificial-sword",
       "the-alley-flash",
+      "recurve-bow",
       "royal-bow",
       "thrilling-tales-of-dragon-slayers",
       "traveler-s-handy-sword",
-      "iron-point",
-      "beginner-s-protector"
+      "iron-point"
     ],
     "items": [
       {
@@ -245,7 +265,7 @@
     "sources": ["Fatui Skirmisher", "Fatui Cicin Mage", "Fatui Agent"]
   },
   "whopperflower-nectar": {
-    "characters": ["mona", "sucrose", "keqing", "ganyu", "hu-tao"
+    "characters": ["mona", "sucrose", "keqing", "ganyu", "hu-tao",
       "furina", "sayu", "shenhe"],
     "weapons": [
       "calamity-queller",
@@ -283,21 +303,25 @@
   },
   "hilichurl-horns": {
     "weapons": [
-      "apprentice's-notes",
+      "apprentice-s-notes",
       "aquila-favonia",
       "cool-steel",
       "dull-blade",
+      "elegy-for-the-end",
       "favonius-codex",
       "favonius-sword",
       "ferrous-shadow",
       "festering-desire",
       "magic-guide",
+      "mitternachts-waltz",
       "pocket-grimoire",
       "raven-bow",
       "royal-grimoire",
       "royal-longsword",
       "silver-sword",
+      "song-of-broken-pines",
       "snow-tombed-starsilver",
+      "the-alley-flash",
       "the-bell",
       "the-stringless",
       "the-viridescent-hunt"
@@ -327,24 +351,28 @@
       "bloodtainted-greatsword",
       "deathmatch",
       "dragonspine-spear",
+      "dodoco-tales",
       "harbinger-of-dawn",
-      "hunter's-bow",
-      "old-merc's-pal",
+      "hunter-s-bow",
+      "old-merc-s-pal",
       "sacrificial-bow",
       "sacrificial-greatsword",
-      "seasoned-hunter's-bow",
-      "sharpshooter's-oath",
+      "seasoned-hunter-s-bow",
+      "sharpshooter-s-oath",
       "skyward-atlas",
       "skyward-blade",
       "skyward-harp",
       "skyward-pride",
+      "staff-of-homa",
       "sword-of-descension",
       "the-black-sword",
       "the-flute",
       "the-widsith",
       "thrilling-tales-of-dragon-slayers",
       "waster-greatsword",
+      "windblume-ode",
       "wine-and-song"
+
     ],
     "items": [
       {
@@ -400,11 +428,14 @@
   },
   "bone-shards": {
     "weapons": [
+      "ballad-of-the-boundless-blue",
       "black-tassel",
       "compound-bow",
       "iron-sting",
       "mappa-mare",
       "memory-of-dust",
+      "lithic-spear",
+      "luxurious-sea-lord",
       "prototype-archaic",
       "prototype-starglitter",
       "serpent-spine",
@@ -433,14 +464,17 @@
   },
   "mist-grass": {
     "weapons": [
+      "blackcliff-pole",
       "blackcliff-slasher",
+      "calamity-queller",
       "debate-club",
-      "dragon's-bane",
+      "dragon-s-bane",
       "dragonspine-spear",
       "eye-of-perception",
       "fillet-blade",
       "halberd",
       "messenger",
+      "primordial-jade-cutter",
       "prototype-amber",
       "prototype-crescent",
       "prototype-rancour",
@@ -476,7 +510,9 @@
       "crescent-pike",
       "dark-iron-sword",
       "emerald-orb",
-      "lion's-roar",
+      "fading-twilight",
+      "lion-s-roar",
+      "lithic-blade",
       "primordial-jade-winged-spear",
       "rust",
       "slingshot",
@@ -505,7 +541,7 @@
     "sources": ["Fatui Agent"]
   },
   "specters": {
-    "characters": ["alloy", "gorou", "kirara", "kuki-shinobu", "kokomi"],
+    "characters": ["aloy", "gorou", "kirara", "kuki-shinobu", "kokomi"],
     "weapons": [
       "aqua-simulacra",
       "everlasting-moonglow",
@@ -532,17 +568,19 @@
         "id": "spectral-nucleus",
         "name": "Spectral Nucleus",
         "rarity": 3
-      },
+      }
     ],
     "sources": ["Specter"]
   },
   "chaos-parts": {
     "weapons": [
-      "amos'-bow",
-      "beginner's-protector",
+      "amos-bow",
+      "beginner-s-protector",
+      "cinnabar-spindle",
       "favonius-greatsword",
       "favonius-lance",
       "favonius-warbow",
+      "freedom-sworn",
       "frostbearer",
       "iron-point",
       "lost-prayer-to-the-sacred-winds",
@@ -553,9 +591,10 @@
       "sacrificial-fragments",
       "sacrificial-sword",
       "skyward-spine",
-      "traveler's-handy-sword",
+      "traveler-s-handy-sword",
       "white-iron-greatsword",
-      "wolf's-gravestone"
+      "wolf-s-gravestone",
+      "wolf-fang"
     ],
     "items": [
       {
@@ -609,7 +648,7 @@
     ],
     "sources": ["Eremites"]
   },
-  "fungals": {
+  "fungals-spores": {
     "characters": ["nahida", "baizhu", "kaveh", "nilou", "tighnari"],
     "weapons": [
       "a-thousand-floating-dreams",
@@ -619,7 +658,8 @@
       "end-of-the-line",
       "fruit-of-fulfillment",
       "scion-of-the-blazing-sun",
-      "wandering-evenstar"
+      "wandering-evenstar",
+      "sacrificial-jade"
     ],
     "items": [
       {
@@ -670,7 +710,7 @@
     ],
     "sources": ["Clockwork Mek"]
   },
-    "fontemer-aberrant": {
+  "fontemer-aberrant": {
     "characters": ["navia", "freminet", "neuvillette"],
     "weapons": [
       "cashflow-supervision",
@@ -701,5 +741,332 @@
     ],
     "sources": ["Angelic Sea Hare", "Armored and Sternshield Crabs", "Ball Octopus",
       "Blubberbeast", "Hunter's Ray", "Hat Jellyfish", "Cherubic Sea Hare", "Bubbly Seahorse"]
+  },
+  "primal-construct-prisms": {
+    "weapons": [
+      "toukabou-shigure",
+      "xiphos-moonlight",
+      "key-of-khaj-nisut",
+      "a-thousand-floating-dreams"
+    ],
+    "items": [
+      {
+        "id": "damaged-prism",
+        "name": "Damaged Prism",
+        "rarity": 2
+      },
+      {
+        "id": "turbid-prism",
+        "name": "Turbid Prism",
+        "rarity": 3
+      },
+      {
+        "id": "radiant-prism",
+        "name": "Radiant Prism",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Primal Constructs"]
+  },
+  "breacher-primus": {
+    "weapons": [
+      "verdict",
+      "tidal-shadow",
+      "rightful-reward",
+      "portable-power-saw",
+      "flowing-purity",
+      "tome-of-the-eternal"
+    ],
+    "items": [
+      {
+        "id": "rift-core",
+        "name": "Rift Core",
+        "rarity": 2
+      },
+      {
+        "id": "foreign-synapse",
+        "name": "Foreign Synapse",
+        "rarity": 3
+      },
+      {
+        "id": "alien-life-core",
+        "name": "Alien Life Core",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Shatterstone Breacher Primus", "Overgrown Breacher Primus"]
+  },
+  "black-serpents": {
+    "weapons": [
+      "aqua-simulacra",
+      "haran-geppaku-futsu",
+      "fruit-of-fulfillment",
+      "kagotsurube-isshin",
+      "missive-windspear"
+    ],
+    "items": [
+      {
+        "id": "gloomy-statuette",
+        "name": "Gloomy Statuette",
+        "rarity": 2
+      },
+      {
+        "id": "dark-statuette",
+        "name": "Dark Statuette",
+        "rarity": 3
+      },
+      {
+        "id": "deathly-statuette",
+        "name": "Deathly Statuette",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Abyss Heralds", "Black Serpent Knight", "Shadowy Husks"]
+  },
+  "hilichurl-rogue": {
+    "weapons": [
+      "ibis-piercer",
+      "scion-of-the-blazing-sun",
+      "ballad-of-the-fjords",
+      "jadefall-s-splendor"
+    ],
+    "items": [
+      {
+        "id": "a-flower-yet-to-bloom",
+        "name": "A Flower Yet to Bloom",
+        "rarity": 2
+      },
+      {
+        "id": "treasured-flower",
+        "name": "Treasured Flower",
+        "rarity": 3
+      },
+      {
+        "id": "wanderer-s-blooming-flower",
+        "name": "Wanderer's Blooming Flower",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Hilichurl Rogue"]
+  },
+  "consecrated-beast": {
+    "weapons": [
+      "mailed-flower",
+      "talking-stick",
+      "light-of-foliar-incision",
+      "beacon-of-the-reed-sea"
+    ],
+    "items": [
+      {
+        "id": "desiccated-shell",
+        "name": "Desiccated Shell",
+        "rarity": 2
+      },
+      {
+        "id": "sturdy-shell",
+        "name": "Sturdy Shell",
+        "rarity": 3
+      },
+      {
+        "id": "marked-shell",
+        "name": "Marked Shell",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Consecrated Scorpion", "Consecrated Red Vulture", "Consecrated Fanged Beast",
+      "Consecrated Horned Crocodile", "Consecrated Flying Serpent"]
+  },
+  "fatui-operative": {
+    "weapons": [
+      "ultimate-overlord-s-mega-magic-sword",
+      "prospectors-drill",
+      "sword-of-narzissenkreuz",
+      "the-dockhands-assistant",
+      "cashflow-supervision"
+    ],
+    "items": [
+      {
+        "id": "old-operative-s-pocket-watch",
+        "name": "Old Operative's Pocket Watch",
+        "rarity": 2
+      },
+      {
+        "id": "operative-s-standard-pocket-watch",
+        "name": "Operative's Standard Pocket Watch",
+        "rarity": 3
+      },
+      {
+        "id": "operative-s-constancy",
+        "name": "Operative's Constancy",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Frost Operative", "Wind Operative"]
+  },
+  "mirror-maiden-prisms": {
+    "weapons": [
+      "mouun-s-moon",
+      "hamayumi",
+      "hakushin-ring",
+      "predator",
+      "thundering-pulse",
+      "everlasting-moonglow"
+    ],
+    "items": [
+      {
+        "id": "dismal-prism",
+        "name": "Dismal Prism",
+        "rarity": 2
+      },
+      {
+        "id": "crystal-prism",
+        "name": "Crystal Prism",
+        "rarity": 3
+      },
+      {
+        "id": "polarizing-prism",
+        "name": "Polarizing Prism",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Mirror Maiden"]
+  },
+  "ruin-sentinels-chaos": {
+    "weapons": [
+      "engulfing-lightning",
+      "mistsplitter-reforged",
+      "the-catch",
+      "amenoma-kageuchi",
+      "katsuragikiri-nagamasa",
+      "kitain-cross-spear"
+    ],
+    "items": [
+      {
+        "id": "chaos-gear",
+        "name": "Chaos Gear",
+        "rarity": 2
+      },
+      {
+        "id": "chaos-axis",
+        "name": "Chaos Axis",
+        "rarity": 3
+      },
+      {
+        "id": "chaos-oculus",
+        "name": "Chaos Oculus",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Ruin Cruiser", "Ruin Defender", "Ruin Destroyer", "Ruin Scout"]
+  },
+  "riftwolf-concealds": {
+    "weapons": [
+      "kagura-s-verity",
+      "redhorn-stonethresher",
+      "polar-star",
+      "akuoumaru",
+      "oathsworn-eye",
+      "wavebreaker-s-fin"
+    ],
+    "items": [
+      {
+        "id": "concealed-claw",
+        "name": "Concealed Claw",
+        "rarity": 2
+      },
+      {
+        "id": "concealed-unguis",
+        "name": "Concealed Unguis",
+        "rarity": 3
+      },
+      {
+        "id": "concealed-talon",
+        "name": "Concealed Talon",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Rifthound", "Rifthound Whelp"]
+  },
+  "tainted-hydro-phantasm": {
+    "weapons": [
+      "splendor-of-tranquil-waters",
+      "the-first-great-magic",
+      "finale-of-the-deep",
+      "fleuve-cendre-ferryman",
+      "range-gauge",
+      "song-of-stillness"
+    ],
+    "items": [
+      {
+        "id": "drop-of-tainted-water",
+        "name": "Drop of Tainted Water",
+        "rarity": 2
+      },
+      {
+        "id": "scoop-of-tainted-water",
+        "name": "Scoop of Tainted Water",
+        "rarity": 3
+      },
+      {
+        "id": "newborn-tainted-hydro-phantasm",
+        "name": "Newborn Tainted Hydro Phantasm",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Tainted Hydro Phantasm"]
+  },
+  "state-shifted-fungus": {
+    "weapons": [
+      "wandering-evenstar",
+      "king-s-squire",
+      "end-of-the-line",
+      "hunter-s-path",
+      "tulaytullah-s-remembrance"
+    ],
+    "items": [
+      {
+        "id": "inactivated-fungal-nucleus",
+        "name": "Inactivated Fungal Nucleus",
+        "rarity": 2
+      },
+      {
+        "id": "dormant-fungal-nucleus",
+        "name": "Dormant Fungal Nucleus",
+        "rarity": 3
+      },
+      {
+        "id": "robust-fungal-nucleus",
+        "name": "Robust Fungal Nucleus",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Fungus", "Geoshroom", "Hydroshroom", "Cryoshroom", "Dendroshroom"]
+  },
+  "ruin-drakes-chaos": {
+    "weapons": [
+      "sapwood-blade",
+      "moonpiercer",
+      "makhaira-aquamarine",
+      "forest-regalia",
+      "staff-of-the-scarlet-sands"
+    ],
+    "items": [
+      {
+        "id": "chaos-storage",
+        "name": "Chaos Storage",
+        "rarity": 2
+      },
+      {
+        "id": "chaos-module",
+        "name": "Chaos Module",
+        "rarity": 3
+      },
+      {
+        "id": "chaos-bolt",
+        "name": "Chaos Bolt",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Ruin Drakes"]
   }
 }

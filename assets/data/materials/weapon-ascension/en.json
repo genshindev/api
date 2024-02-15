@@ -1,7 +1,7 @@
 {
   "decarabian": {
     "weapons": [
-      "apprentice's-notes",
+      "apprentice-s-notes",
       "aquila-favonia",
       "cool-steel",
       "cinnabar-spindle",
@@ -21,28 +21,29 @@
       "the-alley-flash",
       "the-bell",
       "the-stringless",
-      "the-viridescent-hunt"
+      "the-viridescent-hunt",
+      "wolf-fang"
     ],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "cecilia-garden",
     "items": [
       {
-        "id": "tile-of-decarabian's-tower",
+        "id": "tile-of-decarabian-s-tower",
         "name": "Tile of Decarabian's Tower",
         "rarity": 2
       },
       {
-        "id": "debris-of-decarabian's-city",
+        "id": "debris-of-decarabian-s-city",
         "name": "Debris of Decarabian's City",
         "rarity": 3
       },
       {
-        "id": "fragment-of-decarabian's-epic",
+        "id": "fragment-of-decarabian-s-epic",
         "name": "Fragment of Decarabian's Epic",
         "rarity": 4
       },
       {
-        "id": "scattered-piece-of-decarabian's-dream",
+        "id": "scattered-piece-of-decarabian-s-dream",
         "name": "Scattered Piece of Decarabian's Dream",
         "rarity": 5
       }
@@ -50,18 +51,20 @@
   },
   "boreal": {
     "weapons": [
+      "ballad-of-the-boundless-blue",
       "bloodtainted-greatsword",
       "deathmatch",
       "dodoco-tales",
       "dragonspine-spear",
       "elegy-for-the-end",
       "harbinger-of-dawn",
-      "hunter's-bow",
-      "old-merc's-pal",
+      "hunter-s-bow",
+      "old-merc-s-pal",
+      "missive-windspear",
       "sacrificial-bow",
       "sacrificial-greatsword",
-      "seasoned-hunter's-bow",
-      "sharpshooter's-oath",
+      "seasoned-hunter-s-bow",
+      "sharpshooter-s-oath",
       "skyward-atlas",
       "skyward-blade",
       "skyward-harp",
@@ -78,22 +81,22 @@
     "source": "cecilia-garden",
     "items": [
       {
-        "id": "boreal-wolf's-milk-tooth",
+        "id": "boreal-wolf-s-milk-tooth",
         "name": "Boreal Wolf's Milk Tooth",
         "rarity": 2
       },
       {
-        "id": "boreal-wolf's-cracked-tooth",
+        "id": "boreal-wolf-s-cracked-tooth",
         "name": "Boreal Wolf's Cracked Tooth",
         "rarity": 3
       },
       {
-        "id": "boreal-wolf's-broken-fang",
+        "id": "boreal-wolf-s-broken-fang",
         "name": "Boreal Wolf's Broken Fang",
         "rarity": 4
       },
       {
-        "id": "boreal-wolf's-nostalgia",
+        "id": "boreal-wolf-s-nostalgia",
         "name": "Boreal Wolf's Nostalgia",
         "rarity": 5
       }
@@ -102,8 +105,8 @@
   "dandelion": {
     "weapons": [
       "alley-hunter",
-      "amos'-bow",
-      "beginner's-protector",
+      "amos-bow",
+      "beginner-s-protector",
       "favonius-greatsword",
       "favonius-lance",
       "favonius-warbow",
@@ -111,6 +114,7 @@
       "freedom-sworn",
       "frostbearer",
       "iron-point",
+      "mailed-flower",
       "lost-prayer-to-the-sacred-winds",
       "otherworldly-story",
       "recurve-bow",
@@ -119,10 +123,10 @@
       "sacrificial-fragments",
       "sacrificial-sword",
       "skyward-spine",
-      "traveler's-handy-sword",
+      "traveler-s-handy-sword",
       "white-iron-greatsword",
       "windblume-ode",
-      "wolf's-gravestone"
+      "wolf-s-gravestone"
     ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "cecilia-garden",
@@ -151,13 +155,15 @@
   },
   "guyun": {
     "weapons": [
+      "aqua-simulacra",
       "blackcliff-agate",
       "blackcliff-longsword",
       "blackcliff-warbow",
       "crescent-pike",
       "dark-iron-sword",
       "emerald-orb",
-      "lion's-roar",
+      "jadefall-s-splendor",
+      "lion-s-roar",
       "lithic-blade",
       "primordial-jade-winged-spear",
       "rust",
@@ -165,7 +171,8 @@
       "solar-pearl",
       "summit-shaper",
       "white-tassel",
-      "whiteblind"
+      "whiteblind",
+      "sacrificial-jade"
     ],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "hidden-palace-of-lianshan",
@@ -198,7 +205,7 @@
       "blackcliff-slasher",
       "calamity-queller",
       "debate-club",
-      "dragon's-bane",
+      "dragon-s-bane",
       "eye-of-perception",
       "fillet-blade",
       "halberd",
@@ -241,6 +248,7 @@
     "weapons": [
       "black-tassel",
       "compound-bow",
+      "fading-twilight",
       "iron-sting",
       "lithic-spear",
       "luxurious-sea-lord",
@@ -318,31 +326,32 @@
       "hamayumi",
       "haran-geppaku-futsu",
       "katsuragikiri-nagamasa",
-      "mouun's-moon",
+      "mouun-s-moon",
       "predator",
       "redhorn-stonethresher",
-      "thundering-pulse"
+      "thundering-pulse",
+      "toukabou-shigure"
     ],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "court-of-flowing-sand",
     "items": [
       {
-        "id": "narukami's-wisdom",
+        "id": "narukami-s-wisdom",
         "name": "Narukami's Wisdom",
         "rarity": 2
       },
       {
-        "id": "narukami's-joy",
+        "id": "narukami-s-joy",
         "name": "Narukami's Joy",
         "rarity": 3
       },
       {
-        "id": "narukami's-affection",
+        "id": "narukami-s-affection",
         "name": "Narukami's Affection",
         "rarity": 4
       },
       {
-        "id": "narukami's-valor",
+        "id": "narukami-s-valor",
         "name": "Narukami's Valor",
         "rarity": 5
       }
@@ -352,10 +361,11 @@
     "weapons": [
       "the-catch",
       "engulfing-lightning",
-      "kagura's-verity",
+      "kagotsurube-isshin",
+      "kagura-s-verity",
       "kitain-cross-spear",
       "polar-star",
-      "wavebreaker's-fin"
+      "wavebreaker-s-fin"
     ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "court-of-flowing-sand",
@@ -366,7 +376,7 @@
         "rarity": 2
       },
       {
-        "id": "mask-of-the-tiger's-bite",
+        "id": "mask-of-the-tiger-s-bite",
         "name": "Mask of the Tiger's Bite",
         "rarity": 3
       },
@@ -385,10 +395,11 @@
   "talisman": {
     "weapons": [
       "forest-regalia",
+      "ibis-piercer",
       "key-of-khaj-nisut",
       "light-of-foliar-incision",
       "sapwood-blade",
-      "xiphos'-moonlight"
+      "xiphos-moonlight"
     ],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "tower-of-abject-pride",
@@ -421,28 +432,29 @@
       "fruit-of-fulfillment",
       "moonpiercer",
       "staff-of-the-scarlet-sands",
+      "talking-stick",
       "wandering-evenstar"
     ],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "tower-of-abject-pride",
     "items": [
       {
-        "id": "oasis-garden's-reminiscence",
+        "id": "oasis-garden-s-reminiscence",
         "name": "Oasis Garden's Reminiscence",
         "rarity": 2
       },
       {
-        "id": "oasis-garden's-kindness",
+        "id": "oasis-garden-s-kindness",
         "name": "Oasis Garden's Kindness",
         "rarity": 3
       },
       {
-        "id": "oasis-garden's-mourning",
+        "id": "oasis-garden-s-mourning",
         "name": "Oasis Garden's Mourning",
         "rarity": 4
       },
       {
-        "id": "oasis-garden's-truth",
+        "id": "oasis-garden-s-truth",
         "name": "Oasis Garden's Truth",
         "rarity": 5
       }
@@ -450,10 +462,12 @@
   },
   "scorching": {
     "weapons": [
-      "hunter's-path",
-      "tulaytullah's-remembrance",
+      "beacon-of-the-reed-sea",
+      "hunter-s-path",
+      "scion-of-the-blazing-sun",
+      "tulaytullah-s-remembrance",
       "end-of-the-line",
-      "king's-squire",
+      "king-s-squire",
       "makhaira-aquamarine"
     ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
@@ -488,7 +502,8 @@
       "prospectors-drill",
       "range-gauge",
       "song-of-stillness",
-      "sword-of-narzissenkreuz"
+      "sword-of-narzissenkreuz",
+      "verdict"
     ],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "echoes-of-the-deep-tides",
@@ -519,7 +534,7 @@
     "weapons": [
       "splendor-of-tranquil-waters",
       "tome-of-the-eternal",
-      "flow-finale-of-the deep",
+      "finale-of-the-deep",
       "flowing-purity",
       "the-dockhands-assistant"
     ],
@@ -554,7 +569,8 @@
       "ballad-of-the-fjords",
       "portable-power-saw",
       "rightful-reward",
-      "tidal-shadow"
+      "tidal-shadow",
+      "ultimate-overlord-s-mega-magic-sword"
     ],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "echoes-of-the-deep-tides",
