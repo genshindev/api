@@ -1,0 +1,43 @@
+{
+  "name": "Everlasting Lord of Arcane Wisdom",
+  "description": "Shouki no Kami, as an artificial divinity created using all the might of Sumeru's Six Darshans, has power that rivals that of true gods.\nBut those of this world who call such a being a \"false deity\" misunderstand the true meaning of the word.\nShouki no Kami now understands countless things and shoulders unassailable might, and may be said to surpass mortals.\nIf gods must love mortals,\nThen Shouki no Kami, who grants failure in equal measure to humanity, loves them also.\nIf gods must watch over humanity,\nThen Shouki no Kami, who has borne witness to infinite love, hatred, partings, grudges, and maddening anger — thus does he watch over mortals.\n\"Too much happiness you have had!\"\n\"It has made you foolish. Arrogant. Horrifying in your greed.\"\n\"Let this era end!\"\n\"Let the new god announce the defeat of the old.\"\n\"Foolish mortal... There is yet time for you to kneel.\"",
+  "drops": [
+    {
+      "name": "Puppet Strings",
+      "rarity": 5,
+      "source": "Lv. 70+ Shouki no Kami, the Prodigal Challenge Reward"
+    },
+    {
+      "name": "Mirror of Mushin",
+      "rarity": 5,
+      "source": "Lv. 70+ Shouki no Kami, the Prodigal Challenge Reward"
+    },
+    {
+      "name": "Daka's Bell",
+      "rarity": 5,
+      "source": "Lv. 70+ Shouki no Kami, the Prodigal Challenge Reward"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "Berserker",
+      "max_rarity": 4
+    },
+    {
+      "name": "Instructor",
+      "max_rarity": 4
+    },
+    {
+      "name": "The Exile",
+      "max_rarity": 4
+    },
+    {
+      "name": "Gladiator's Finale",
+      "max_rarity": 5
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "max_rarity": 5
+    }
+  ]
+}
