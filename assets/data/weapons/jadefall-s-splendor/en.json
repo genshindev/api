@@ -1,0 +1,11 @@
+{
+  "name": "Jadefall's Splendor",
+  "type": "Catalyst",
+  "rarity": 5,
+  "baseAttack": 46,
+  "subStat": "HP",
+  "passiveName": "Primordial Jade Regalia",
+  "passiveDesc": "For 3s after using an Elemental Burst or creating a shield, the equipping character can gain the Primordial Jade Regalia effect: Restore 4.5/5/5.5/6/6.5 Energy every 2.5s, and gain 0.3/0.5/0.7/0.9/1.1% Elemental DMG Bonus for their corresponding Elemental Type for every 1,000 Max HP they possess, up to 12/20/28/36/44%. Primordial Jade Regalia will still take effect even if the equipping character is not on the field.",
+  "location": "Gacha",
+  "ascensionMaterial": "guyun"
+}
