@@ -12,6 +12,15 @@ import chalk from 'chalk';
 
 const cache = new keyv();
 
+export async function containsFolders(path: string):Promise<boolean>
+{
+  try {
+    return (await fs.readdir(`assets/data/${path}`, { withFileTypes: true }))[0].isDirectory();
+  } catch (e) {
+    return false;
+  }
+}
+
 export async function getTypes(): Promise<string[]> {
   const found = await cache.get('types');
   if (found) return found;
