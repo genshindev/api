@@ -15,7 +15,7 @@ import { readFile } from 'fs/promises';
 const router = new Router();
 
 router.get('/', async (ctx) => {
-  const types = await getTypes();
+  const types = (await getTypes()).filter((_type) => _type != 'docs');
   ctx.body = {
     types,
   };
