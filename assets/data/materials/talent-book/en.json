@@ -96,7 +96,16 @@
     ]
   },
   "prosperity": {
-    "characters": ["keqing", "ningguang", "qiqi", "traveler-geo", "xiao", "shenhe", "yelan", "gaming"],
+    "characters": [
+      "keqing",
+      "ningguang",
+      "qiqi",
+      "traveler-geo",
+      "xiao",
+      "shenhe",
+      "yelan",
+      "gaming"
+    ],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "taishan-mansion",
     "items": [
@@ -180,7 +189,14 @@
     ]
   },
   "transience": {
-    "characters": ["kokomi", "thoma", "traveler-electro", "yoimiya", "kirara", "heizou"],
+    "characters": [
+      "kokomi",
+      "thoma",
+      "traveler-electro",
+      "yoimiya",
+      "kirara",
+      "heizou"
+    ],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "violet-court",
     "items": [
@@ -202,7 +218,14 @@
     ]
   },
   "elegance": {
-    "characters": ["arataki-itto", "ayaka", "sara", "traveler-electro", "ayato", "kuki-shinobu"],
+    "characters": [
+      "arataki-itto",
+      "ayaka",
+      "sara",
+      "traveler-electro",
+      "ayato",
+      "kuki-shinobu"
+    ],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "violet-court",
     "items": [
@@ -268,7 +291,14 @@
     ]
   },
   "ingenuity": {
-    "characters": ["alhaitham", "dori", "layla", "kaveh", "nahida", "traveler-dendro"],
+    "characters": [
+      "alhaitham",
+      "dori",
+      "layla",
+      "kaveh",
+      "nahida",
+      "traveler-dendro"
+    ],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "steeple-of-ignorance",
     "items": [

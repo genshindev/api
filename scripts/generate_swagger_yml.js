@@ -17,7 +17,6 @@ function createSwaggerForFolder(path) {
         name: 'OSL 3.0',
         url: 'https://github.com/genshindev/api/blob/mistress/LICENSE',
       },
-      version: '1.0.0',
     },
     servers: [
       {
@@ -108,7 +107,7 @@ function createSwaggerForFolder(path) {
               schema: {
                 type: 'string',
               },
-            }
+            },
           ],
           responses: {
             200: {
