@@ -11,7 +11,8 @@
     "watch": "tsc -w",
     "dev": "nodemon",
     "format": "prettier --write .",
-    "lint": "eslint . --ext .js,.ts && prettier --check ."
+    "lint": "eslint . --ext .js,.ts && prettier --check .",
+    "gen:swagger": "node scripts/generate_swagger_yml.js"
   },
   "repository": {
     "type": "git",
@@ -62,6 +63,7 @@
     "file-loader": "^6.2.0",
     "forever": "^4.0.3",
     "gulp-cli": "^2.3.0",
+    "js-yaml": "^4.1.0",
     "json-loader": "^0.5.7",
     "keyv": "^4.5.2",
     "koa": "^2.14.1",
@@ -69,7 +71,7 @@
     "koa-helmet": "^6.1.0",
     "koa-router": "^10.1.1",
     "mime-types": "^2.1.35",
-    "sharp": "^0.26.3"
+    "swagger-ui-dist": "^5.11.8"
   },
   "prettier": {
     "endOfLine": "lf",

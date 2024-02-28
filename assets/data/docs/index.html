@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://unpkg.com 'unsafe-inline' 'unsafe-eval';">
+
+  <title>Genshin.dev API</title>
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/swagger-ui-dist@4.2.1/swagger-ui.css">
+</head>
+
+<body>
+  <div id="swagger-ui"></div>
+  <script src="https://unpkg.com/swagger-ui-dist@4.2.1/swagger-ui-bundle.js"></script>
+  <script src="https://unpkg.com/swagger-ui-dist@4.2.1/swagger-ui-standalone-preset.js"></script>
+  <script src="https://unpkg.com/js-yaml/dist/js-yaml.min.js"></script>
+  
+  <script>
+    fetch('/docs/yml')
+      .then(response => response.text())
+      .then(swaggerYaml => {
+        const swaggerJson = jsyaml.load(swaggerYaml);
+
+        const ui = SwaggerUIBundle({
+          spec: swaggerJson,
+          dom_id: '#swagger-ui',
+          deepLinking: true,
+          presets: [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset],
+          plugins: [SwaggerUIBundle.plugins.DownloadUrl],
+        });
+
+      });
+  </script>
+</body>
+</html>

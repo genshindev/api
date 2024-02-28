@@ -10,6 +10,7 @@ import {
   getImage,
   getTypes,
 } from '../modules/filesystem';
+import { readFile } from 'fs/promises';
 
 const router = new Router();
 
@@ -23,8 +24,14 @@ router.get('/', async (ctx) => {
 router.get('/:type', async (ctx) => {
   const { type } = ctx.params;
   try {
-    const entityNames = await getAvailableEntities(type);
-    ctx.body = entityNames;
+    if (type == 'docs') {
+      ctx.type = 'text/html';
+      const swaggerDoc = await readFile('assets/data/docs/index.html', 'utf8');
+      ctx.body = swaggerDoc;
+    } else {
+      const entityNames = await getAvailableEntities(type);
+      ctx.body = entityNames;
+    }
   } catch (e) {
     ctx.status = 404;
     const availableTypes = await getTypes();
@@ -82,7 +89,13 @@ router.get('/:type/:id', async (ctx) => {
     const { lang } = ctx.query;
     const { type, id } = ctx.params;
 
-    ctx.body = await getEntity(type, id, lang as string);
+    if (id == 'yml' && type == 'docs') {
+      ctx.type = 'text/yml';
+      const swaggerYml = await readFile('assets/data/docs/swagger.yml', 'utf8');
+      ctx.body = swaggerYml;
+    } else {
+      ctx.body = await getEntity(type, id, lang as string);
+    }
   } catch (e) {
     ctx.status = 404;
     ctx.body = { error: e.message };

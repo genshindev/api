@@ -27,7 +27,11 @@ if (sentryDsn && sentryDsn.length > 0) {
   const port = process.env.PORT || 5000;
 
   app.use(koaBody());
-  app.use(helmet());
+  app.use(
+    helmet({
+      contentSecurityPolicy: false,
+    }),
+  );
   app.use(cors());
 
   app.use(router.routes());
