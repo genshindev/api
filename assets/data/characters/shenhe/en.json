@@ -89,5 +89,15 @@
     }
   ],
   "vision_key": "CRYO",
-  "weapon_type": "POLEARM"
+  "weapon_type": "POLEARM",
+  "outfits": [
+    {
+      "type": "Themed",
+      "name": "Frostflower Dew",
+      "description": "This Lantern Rite gift that Shenhe received is a set of elegant formal attire that her master, Cloud Retainer had commissioned for her. Red ropes still adorn her arms, but the bitter cold in Shenhe's heart has faded.",
+      "rarity": 5,
+      "price": 1680,
+      "image": "outfit-frostflower-dew"
+    }
+  ]
 }
