@@ -179,5 +179,15 @@
     }
   ],
   "vision_key": "CRYO",
-  "weapon_type": "BOW"
+  "weapon_type": "BOW",
+  "outfits": [
+    {
+      "type": "Themed",
+      "name": "Twilight Blossom",
+      "description": "A light and graceful festive outfit accented mainly in black nightshade and cerulean blue. Its hair accessory is as radiant as the Qingxin — a pairing that Ganyu is most fond of.",
+      "rarity": 5,
+      "price": 1680,
+      "image": "outfit-twilight-blossom"
+    }
+  ]
 }

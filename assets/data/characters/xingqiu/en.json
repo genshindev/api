@@ -163,5 +163,14 @@
     }
   ],
   "vision_key": "HYDRO",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "outfits": [
+    {
+      "type": "Themed",
+      "name": "Bamboo Rain",
+      "description": "Formal wear prepared by the Feiyun Commerce Guild for Xingqiu. The bamboo prints are refined and the cut is most flattering, but Xingqiu's favorite aspect of the outfit is its inner pockets, into which a thinner novel might be stuffed.",
+      "rarity": 4,
+      "image": "outfit-bamboo-rain"
+    }
+  ]
 }
