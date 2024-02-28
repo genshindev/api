@@ -68,7 +68,7 @@ function createSwaggerForFolder(path) {
       .readdirSync(path, { withFileTypes: true })
       .filter((dirent) => dirent.isDirectory())
       .map((dirent) => dirent.name)
-      .filter((dirname) => dirname != 'docs');
+      .filter((dirname) => !['docs', 'boss'].includes(dirname));
 
     folders.forEach((folder) => {
       const returnJson = fs
@@ -99,15 +99,17 @@ function createSwaggerForFolder(path) {
         get: {
           tags: ['Specific information'],
           summary: `Get information about specific ${folder}`,
-          parameters: {
-            in: 'path',
-            name: 'id',
-            description: `Name from ${folder}.`,
-            required: true,
-            schema: {
-              type: 'string',
-            },
-          },
+          parameters: [
+            {
+              name: 'id',
+              in: 'path',
+              description: `Name from ${folder}.`,
+              required: true,
+              schema: {
+                type: 'string',
+              },
+            }
+          ],
           responses: {
             200: {
               description: 'Successful operation',
