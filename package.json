@@ -71,6 +71,7 @@
     "koa-helmet": "^6.1.0",
     "koa-router": "^10.1.1",
     "mime-types": "^2.1.35",
+    "sharp": "^0.26.3",
     "swagger-ui-dist": "^5.11.8"
   },
   "prettier": {
