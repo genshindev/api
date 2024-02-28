@@ -33,8 +33,15 @@
     {
       "id": "windwheel-aster",
       "name": "Windwheel Aster",
-      "characters": ["bennett", "sucrose", "traveler-anemo", "traveler-geo", 
-        "traveler-electro", "traveler-dendro","traveler-hydro"]
+      "characters": [
+        "bennett",
+        "sucrose",
+        "traveler-anemo",
+        "traveler-geo",
+        "traveler-electro",
+        "traveler-dendro",
+        "traveler-hydro"
+      ]
     },
     {
       "id": "wolfhook",
