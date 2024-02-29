@@ -1,0 +1,6 @@
+{
+  "name": "Golden Troupe",
+  "max_rarity": 5,
+  "2-piece_bonus": "Increases Elemental Skill DMG by 20%.",
+  "4-piece_bonus": "Increases Elemental Skill DMG by 25%. Additionally, when not on the field, Elemental Skill DMG will be further increased by 25%. This effect will be cleared 2s after taking the field."
+}
