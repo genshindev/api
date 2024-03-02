@@ -1,5 +1,6 @@
 {
   "name": "Amber Catalyst",
+  "id": "amber-catalyst",
   "type": "Catalyst",
   "rarity": 3,
   "baseAttack": 40,

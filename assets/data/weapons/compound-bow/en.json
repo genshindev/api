@@ -1,5 +1,6 @@
 {
   "name": "Compound Bow",
+  "id": "compound-bow",
   "type": "Bow",
   "rarity": 4,
   "baseAttack": 41,

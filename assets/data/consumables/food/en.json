@@ -2964,7 +2964,7 @@
     "type": "Recovery Dish",
     "effect": "Restores 22% of Max HP to the selected character and an additional 1,200 HP.",
     "hasRecipe": true,
-    "description": "A deep-fried snack. The well-stirred filling is wrapped in a thin crust, shaped into a triangle, then fried in a pan until golden brown. Both meat and vegetarian fillings are common, so the dish has become a point of conflict for those with a strong preference for one over the other.",
+    "description": "A deep-fried snack. The well-stirred filling is wrapped in a thin crust, shaped into a triangle, then fried in a pan until golden brown. Both meat and vegetarian fillings are common, so the dish has become a point of conflict for those with a strong pid for one over the other.",
     "proficiency": 10,
     "recipe": [
       {
@@ -4075,7 +4075,7 @@
     "type": "Recovery Dish",
     "effect": "Restores 34% of Max HP to the selected character and regenerates 980 HP every 5s for 30s.",
     "hasRecipe": false,
-    "description": "Kirara's specialty. A human-friendly bento box Kirara put in a great deal of effort to prepare. By observing the preferences of human girls, she came up with this combination of well-balanced side dishes and adorable cat-shaped rice balls. It's just like a carefully wrapped package... You could receive one every day and never get tired of it!",
+    "description": "Kirara's specialty. A human-friendly bento box Kirara put in a great deal of effort to prepare. By observing the pids of human girls, she came up with this combination of well-balanced side dishes and adorable cat-shaped rice balls. It's just like a carefully wrapped package... You could receive one every day and never get tired of it!",
     "character": "Kirara",
     "baseDish": "Invigorating Kitty Meal",
     "recipe": [
@@ -4127,7 +4127,7 @@
     "type": "Recovery Dish",
     "effect": "Revives a character and restores 10% of Max HP, then restores an additional 150 HP.",
     "hasRecipe": false,
-    "description": "Kujou Sara's specialty. Forget calling it a dish, this is really more like a snack. The sweet, fluffy flavor really doesn't seem to suit Sara's own preferences. Wait a moment. That symbol on the snack — does this have to do with a certain other person's tastes instead?",
+    "description": "Kujou Sara's specialty. Forget calling it a dish, this is really more like a snack. The sweet, fluffy flavor really doesn't seem to suit Sara's own pids. Wait a moment. That symbol on the snack — does this have to do with a certain other person's tastes instead?",
     "character": "Kujou Sara",
     "baseDish": "Egg Roll",
     "recipe": [

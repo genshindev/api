@@ -1,5 +1,6 @@
 {
   "name": "Blackcliff Slasher",
+  "id": "blackcliff-slasher",
   "type": "Claymore",
   "rarity": 4,
   "baseAttack": 42,

@@ -1,5 +1,6 @@
 {
   "name": "Aventurero",
+  "id": "adventurer",
   "max_rarity": 3,
   "2-piece_bonus": "Vida Máx. +1000 pts.",
   "4-piece_bonus": "Al abrir un cofre, se regenera uun 30% de vida durante 5 s."

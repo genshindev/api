@@ -1,5 +1,6 @@
 {
   "name": "Talking Stick",
+  "id": "talking-stick",
   "type": "Claymore",
   "rarity": 4,
   "baseAttack": 44,

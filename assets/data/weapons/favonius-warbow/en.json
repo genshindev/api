@@ -1,5 +1,6 @@
 {
   "name": "Favonius Warbow",
+  "id": "favonius-warbow",
   "type": "Bow",
   "rarity": 4,
   "baseAttack": 41,

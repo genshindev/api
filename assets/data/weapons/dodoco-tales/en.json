@@ -1,5 +1,6 @@
 {
   "name": "Dodoco Tales",
+  "id": "dodoco-tales",
   "type": "Catalyst",
   "rarity": 4,
   "baseAttack": 41,

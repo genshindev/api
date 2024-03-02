@@ -1,5 +1,6 @@
 {
   "name": "Slingshot",
+  "id": "slingshot",
   "type": "Bow",
   "rarity": 3,
   "baseAttack": 38,

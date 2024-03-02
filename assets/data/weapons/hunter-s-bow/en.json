@@ -1,5 +1,6 @@
 {
   "name": "Hunter's Bow",
+  "id": "hunter-s-bow",
   "type": "Bow",
   "rarity": 1,
   "baseAttack": 23,

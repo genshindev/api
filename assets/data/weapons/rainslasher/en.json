@@ -1,5 +1,6 @@
 {
   "name": "Rainslasher",
+  "id": "rainslasher",
   "type": "Claymore",
   "rarity": 4,
   "baseAttack": 42,

@@ -1,5 +1,6 @@
 {
   "name": "Hakushin Ring",
+  "id": "hakushin-ring",
   "type": "Catalyst",
   "rarity": 4,
   "baseAttack": 44,

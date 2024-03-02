@@ -1,5 +1,6 @@
 {
   "name": "Debate Club",
+  "id": "debate-club",
   "type": "Claymore",
   "rarity": 3,
   "baseAttack": 39,

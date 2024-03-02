@@ -1,5 +1,6 @@
 {
   "name": "Prayers to Springtime",
+  "id": "prayers-to-springtime",
   "max_rarity": 4,
   "1-piece_bonus": "Affected by Cryo for 40% less time."
 }

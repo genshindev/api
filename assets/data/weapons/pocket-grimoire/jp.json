@@ -1,5 +1,6 @@
 {
   "name": "ポケット魔導書",
+  "id": "pocket-grimoire",
   "type": "Catalyst",
   "rarity": 2,
   "baseAttack": 33,

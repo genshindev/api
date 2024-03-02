@@ -1,5 +1,6 @@
 {
   "name": "Ritual del Destino",
+  "id": "prayers-for-destiny",
   "max_rarity": 4,
   "1-piece_bonus": "Reduce el tiempo afectado por Hydro un 40%."
 }

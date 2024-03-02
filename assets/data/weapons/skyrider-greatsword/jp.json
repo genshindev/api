@@ -1,5 +1,6 @@
 {
   "name": "飛天大御剣",
+  "id": "skyrider-greatsword",
   "type": "Claymore",
   "rarity": 3,
   "baseAttack": 39,

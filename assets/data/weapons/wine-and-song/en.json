@@ -1,5 +1,6 @@
 {
   "name": "Wine and Song",
+  "id": "wine-and-song",
   "type": "Catalyst",
   "rarity": 4,
   "baseAttack": 42,

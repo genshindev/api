@@ -1,5 +1,6 @@
 {
   "name": "Primordial Jade Cutter",
+  "id": "primordial-jade-cutter",
   "type": "Sword",
   "rarity": 5,
   "BaseAttack": 44,

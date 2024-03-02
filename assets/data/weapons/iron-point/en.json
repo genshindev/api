@@ -1,5 +1,6 @@
 {
   "name": "Iron Point",
+  "id": "iron-point",
   "type": "Polearm",
   "rarity": 2,
   "baseAttack": 33,

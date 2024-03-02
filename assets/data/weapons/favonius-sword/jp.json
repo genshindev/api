@@ -1,5 +1,6 @@
 {
   "name": "西風剣",
+  "id": "favonius-sword",
   "type": "Sword",
   "rarity": 4,
   "baseAttack": 41,

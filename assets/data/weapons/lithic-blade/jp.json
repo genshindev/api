@@ -1,5 +1,6 @@
 {
   "name": "千岩古剣",
+  "id": "lithic-blade",
   "type": "Claymore",
   "rarity": 4,
   "baseAttack": 42,

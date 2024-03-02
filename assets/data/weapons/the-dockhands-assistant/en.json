@@ -1,5 +1,6 @@
 {
   "name": "The Dockhand's Assistant",
+  "id": "the-dockhands-assistant",
   "type": "Sword",
   "rarity": 4,
   "baseAttack": 42,

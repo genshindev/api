@@ -1,5 +1,6 @@
 {
   "name": "旧貴族大剣",
+  "id": "royal-greatsword",
   "type": "Claymore",
   "rarity": 4,
   "baseAttack": 44,

@@ -1,6 +1,7 @@
 {
   "name": "Dendro",
   "key": "DENDRO",
+  "id": "dendro",
   "reactions": [
     {
       "name": "Burning",

@@ -1,5 +1,6 @@
 {
   "name": "Iron Sting",
+  "id": "iron-sting",
   "type": "Sword",
   "rarity": 4,
   "baseAttack": 42,

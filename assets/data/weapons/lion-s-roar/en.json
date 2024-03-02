@@ -1,5 +1,6 @@
 {
   "name": "Lion's Roar",
+  "id": "lion-s-roar",
   "type": "Sword",
   "rarity": 4,
   "baseAttack": 42,

@@ -1,5 +1,6 @@
 {
   "name": "暗鉄剣",
+  "id": "dark-iron-sword",
   "type": "Sword",
   "rarity": 3,
   "baseAttack": 39,

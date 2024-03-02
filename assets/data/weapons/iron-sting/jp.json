@@ -1,5 +1,6 @@
 {
   "name": "鉄蜂の刺し",
+  "id": "iron-sting",
   "type": "Sword",
   "rarity": 4,
   "baseAttack": 42,

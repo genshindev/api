@@ -1,5 +1,6 @@
 {
   "name": "Silver Sword",
+  "id": "silver-sword",
   "type": "Sword",
   "rarity": 2,
   "baseAttack": 33,

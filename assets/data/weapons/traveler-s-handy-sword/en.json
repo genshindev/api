@@ -1,5 +1,6 @@
 {
   "name": "Traveler's Handy Sword",
+  "id": "traveler-s-handy-sword",
   "type": "Sword",
   "rarity": 3,
   "baseAttack": 40,

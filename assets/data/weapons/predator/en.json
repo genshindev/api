@@ -1,5 +1,6 @@
 {
   "name": "Predator",
+  "id": "predator",
   "type": "Bow",
   "rarity": 4,
   "baseAttack": 42,

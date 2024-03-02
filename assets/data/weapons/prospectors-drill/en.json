@@ -1,5 +1,6 @@
 {
   "name": "Prospector's Drill",
+  "id": "prospectors-drill",
   "type": "Polearm",
   "rarity": 4,
   "baseAttack": 44,

@@ -1,5 +1,6 @@
 {
   "name": "Ibis Piercer",
+  "id": "ibis-piercer",
   "type": "Bow",
   "rarity": 4,
   "baseAttack": 44,

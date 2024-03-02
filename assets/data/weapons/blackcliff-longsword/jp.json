@@ -1,5 +1,6 @@
 {
   "name": "黒岩の長剣",
+  "id": "blackcliff-longsword",
   "type": "Sword",
   "rarity": 4,
   "baseAttack": 44,

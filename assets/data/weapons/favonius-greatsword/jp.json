@@ -1,5 +1,6 @@
 {
   "name": "西風大剣",
+  "id": "favonius-greatsword",
   "type": "Claymore",
   "rarity": 4,
   "baseAttack": 41,

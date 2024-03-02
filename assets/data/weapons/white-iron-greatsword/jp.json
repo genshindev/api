@@ -1,5 +1,6 @@
 {
   "name": "白鉄の大剣",
+  "id": "white-iron-greatsword",
   "type": "Claymore",
   "rarity": 3,
   "baseAttack": 39,

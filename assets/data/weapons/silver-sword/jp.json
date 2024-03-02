@@ -1,5 +1,6 @@
 {
   "name": "銀の剣",
+  "id": "silver-sword",
   "type": "Sword",
   "rarity": 2,
   "baseAttack": 33,

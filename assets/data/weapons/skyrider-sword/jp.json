@@ -1,5 +1,6 @@
 {
   "name": "飛天御剣",
+  "id": "skyrider-sword",
   "type": "Sword",
   "rarity": 3,
   "baseAttack": 38,

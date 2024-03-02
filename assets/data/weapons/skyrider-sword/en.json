@@ -1,5 +1,6 @@
 {
   "name": "Skyrider Sword",
+  "id": "skyrider-sword",
   "type": "Sword",
   "rarity": 3,
   "baseAttack": 38,

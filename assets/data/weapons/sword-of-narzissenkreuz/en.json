@@ -1,5 +1,6 @@
 {
   "name": "Sword of Narzissenkreuz",
+  "id": "sword-of-narzissenkreuz",
   "type": "Sword",
   "rarity": 4,
   "baseAttack": 42,

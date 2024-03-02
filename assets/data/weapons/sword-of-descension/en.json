@@ -1,5 +1,6 @@
 {
   "name": "Sword of Descension",
+  "id": "sword-of-descension",
   "type": "Sword",
   "rarity": 4,
   "BaseAttack": 39,

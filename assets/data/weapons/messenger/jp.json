@@ -1,5 +1,6 @@
 {
   "name": "文使い",
+  "id": "messenger",
   "type": "Bow",
   "rarity": 3,
   "baseAttack": 40,

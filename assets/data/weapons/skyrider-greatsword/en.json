@@ -1,5 +1,6 @@
 {
   "name": "Skyrider Greatsword",
+  "id": "skyrider-greatsword",
   "type": "Claymore",
   "rarity": 3,
   "baseAttack": 39,

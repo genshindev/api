@@ -1,5 +1,6 @@
 {
   "name": "Quartz",
+  "id": "quartz",
   "type": "Claymore",
   "rarity": 3,
   "baseAttack": 40,

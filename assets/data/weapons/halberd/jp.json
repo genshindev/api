@@ -1,5 +1,6 @@
 {
   "name": "鉾槍",
+  "id": "halberd",
   "type": "Polearm",
   "rarity": 3,
   "baseAttack": 40,

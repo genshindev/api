@@ -1,5 +1,6 @@
 {
   "name": "訓練用大剣",
+  "id": "waster-greatsword",
   "type": "Claymore",
   "rarity": 1,
   "baseAttack": 23,

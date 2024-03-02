@@ -1,5 +1,6 @@
 {
   "name": "Sacrificial Greatsword",
+  "id": "sacrificial-greatsword",
   "type": "Claymore",
   "rarity": 4,
   "baseAttack": 44,
