@@ -1,5 +1,6 @@
 {
   "name": "Blackcliff Longsword",
+  "id": "blackcliff-longsword",
   "type": "Sword",
   "rarity": 4,
   "baseAttack": 44,

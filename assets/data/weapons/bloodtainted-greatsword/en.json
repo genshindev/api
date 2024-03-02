@@ -1,5 +1,6 @@
 {
   "name": "Bloodtainted Greatsword",
+  "id": "bloodtainted-greatsword",
   "type": "Claymore",
   "rarity": 3,
   "baseAttack": 38,

@@ -1,5 +1,6 @@
 {
   "name": "Ritual de la Iluminación",
+  "id": "prayers-for-illumination",
   "max_rarity": 4,
   "1-piece_bonus": "Reduce el tiempo afectado por Pyro un 40%."
 }

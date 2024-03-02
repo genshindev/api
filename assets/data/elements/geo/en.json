@@ -1,6 +1,7 @@
 {
   "name": "Geo",
   "key": "GEO",
+  "id": "geo",
   "reactions": [
     {
       "name": "Crystallize",

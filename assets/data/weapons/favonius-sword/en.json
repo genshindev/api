@@ -1,5 +1,6 @@
 {
   "name": "Favonius Sword",
+  "id": "favonius-sword",
   "type": "Sword",
   "rarity": 4,
   "baseAttack": 41,

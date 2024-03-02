@@ -1,5 +1,6 @@
 {
   "name": "Portable Power Saw",
+  "id": "portable-power-saw",
   "type": "Claymore",
   "rarity": 4,
   "baseAttack": 41,

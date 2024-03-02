@@ -1,5 +1,6 @@
 {
   "name": "無鋒の剣",
+  "id": "dull-blade",
   "type": "Sword",
   "rarity": 1,
   "baseAttack": 23,

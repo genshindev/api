@@ -1,5 +1,6 @@
 {
   "name": "Alley Hunter",
+  "id": "alley-hunter",
   "type": "Bow",
   "rarity": 4,
   "baseAttack": 41,

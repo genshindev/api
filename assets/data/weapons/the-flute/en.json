@@ -1,5 +1,6 @@
 {
   "name": "The Flute",
+  "id": "the-flute",
   "type": "Sword",
   "rarity": 4,
   "baseAttack": 42,

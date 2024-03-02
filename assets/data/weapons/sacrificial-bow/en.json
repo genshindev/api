@@ -1,5 +1,6 @@
 {
   "name": "Sacrificial Bow",
+  "id": "sacrificial-bow",
   "type": "Bow",
   "rarity": 4,
   "baseAttack": 44,

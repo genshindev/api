@@ -1,6 +1,7 @@
 {
   "name": "Anemo",
   "key": "ANEMO",
+  "id": "anemo",
   "reactions": [
     {
       "name": "Swirl",

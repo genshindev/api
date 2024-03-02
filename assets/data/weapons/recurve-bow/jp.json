@@ -1,5 +1,6 @@
 {
   "name": "リカーブボウ",
+  "id": "recurve-bow",
   "type": "Bow",
   "rarity": 3,
   "baseAttack": 38,

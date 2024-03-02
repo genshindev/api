@@ -1,6 +1,7 @@
 {
   "name": "Cryo",
   "key": "CRYO",
+  "id": "cryo",
   "reactions": [
     {
       "name": "Melt",

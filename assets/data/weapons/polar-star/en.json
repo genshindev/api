@@ -1,5 +1,6 @@
 {
   "name": "Polar Star",
+  "id": "polar-star",
   "type": "Bow",
   "rarity": 5,
   "baseAttack": 46,

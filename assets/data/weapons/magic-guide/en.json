@@ -1,5 +1,6 @@
 {
   "name": "Magic Guide",
+  "id": "magic-guide",
   "type": "Catalyst",
   "rarity": 3,
   "baseAttack": 38,

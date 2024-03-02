@@ -1,5 +1,6 @@
 {
   "name": "Deathmatch",
+  "id": "deathmatch",
   "type": "Polearm",
   "rarity": 4,
   "baseAttack": 41,

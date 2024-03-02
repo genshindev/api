@@ -1,5 +1,6 @@
 {
   "name": "Messenger",
+  "id": "messenger",
   "type": "Bow",
   "rarity": 3,
   "baseAttack": 40,

@@ -1,5 +1,6 @@
 {
   "name": "Favonius Codex",
+  "id": "favonius-codex",
   "type": "Catalyst",
   "rarity": 4,
   "baseAttack": 42,

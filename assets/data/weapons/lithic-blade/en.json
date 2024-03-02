@@ -1,5 +1,6 @@
 {
   "name": "Lithic Blade",
+  "id": "lithic-blade",
   "type": "Claymore",
   "rarity": 4,
   "baseAttack": 41,

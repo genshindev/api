@@ -1,5 +1,6 @@
 {
   "name": "笛の剣",
+  "id": "the-flute",
   "type": "Sword",
   "rarity": 4,
   "baseAttack": 42,

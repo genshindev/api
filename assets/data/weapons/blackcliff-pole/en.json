@@ -1,5 +1,6 @@
 {
   "name": "Blackcliff Pole",
+  "id": "blackcliff-pole",
   "type": "Polearm",
   "rarity": 4,
   "baseAttack": 42,

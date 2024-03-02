@@ -1,5 +1,6 @@
 {
   "name": "Mailed Flower",
+  "id": "mailed-flower",
   "type": "Claymore",
   "rarity": 4,
   "baseAttack": 44,

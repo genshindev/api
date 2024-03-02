@@ -1,5 +1,6 @@
 {
   "name": "Verdict",
+  "id": "verdict",
   "type": "Claymore",
   "rarity": 5,
   "baseAttack": 48,

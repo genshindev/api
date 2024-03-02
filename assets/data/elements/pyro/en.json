@@ -1,6 +1,7 @@
 {
   "name": "Pyro",
   "key": "PYRO",
+  "id": "pyro",
   "reactions": [
     {
       "name": "Vaporize",

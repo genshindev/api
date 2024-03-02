@@ -1,5 +1,6 @@
 {
   "name": "Blackcliff Agate",
+  "id": "blackcliff-agate",
   "type": "Catalyst",
   "rarity": 4,
   "baseAttack": 42,

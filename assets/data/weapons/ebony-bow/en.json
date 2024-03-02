@@ -1,5 +1,6 @@
 {
   "name": "Ebony Bow",
+  "id": "ebony-bow",
   "type": "Bow",
   "rarity": 3,
   "baseAttack": 40,

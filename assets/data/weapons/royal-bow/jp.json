@@ -1,5 +1,6 @@
 {
   "name": "旧貴族長弓",
+  "id": "royal-bow",
   "type": "Bow",
   "rarity": 4,
   "baseAttack": 42,

@@ -1,6 +1,15 @@
 {
   "slime": {
-    "characters": ["lisa", "venti", "xiangling", "zhongli", "arataki-itto", "xiao", "yaoyao", "gaming"],
+    "characters": [
+      "lisa",
+      "venti",
+      "xiangling",
+      "zhongli",
+      "arataki-itto",
+      "xiao",
+      "yaoyao",
+      "gaming"
+    ],
     "weapons": [
       "amos-bow",
       "lost-prayer-to-the-sacred-winds",
@@ -45,9 +54,21 @@
     "sources": ["Slime"]
   },
   "hilichurl-masks": {
-    "characters": ["jean", "noelle", "razor", "chongyun", "xingqiu", "sara",
-      "eula", "yun-jin", "traveler-anemo", "traveler-geo", "traveler-electro",
-      "traveler-dendro","traveler-hydro"],
+    "characters": [
+      "jean",
+      "noelle",
+      "razor",
+      "chongyun",
+      "xingqiu",
+      "sara",
+      "eula",
+      "yun-jin",
+      "traveler-anemo",
+      "traveler-geo",
+      "traveler-electro",
+      "traveler-dendro",
+      "traveler-hydro"
+    ],
     "weapons": [
       "wolf-fang",
       "apprentice-s-notes",
@@ -183,8 +204,16 @@
     "sources": ["Samachurl"]
   },
   "treasure-hoarder-insignias": {
-    "characters": ["kaeya", "bennett", "beidou", "xinyan", "yanfei", "kazuha", 
-      "shikanoin-heizou", "thoma"],
+    "characters": [
+      "kaeya",
+      "bennett",
+      "beidou",
+      "xinyan",
+      "yanfei",
+      "kazuha",
+      "shikanoin-heizou",
+      "thoma"
+    ],
     "weapons": [
       "primordial-jade-cutter",
       "the-unforged",
@@ -227,7 +256,15 @@
     "sources": ["Treasure Hoarder"]
   },
   "fatui-insignias": {
-    "characters": ["diluc", "ningguang", "tartaglia", "lyney", "mika", "rosaria", "yelan"],
+    "characters": [
+      "diluc",
+      "ningguang",
+      "tartaglia",
+      "lyney",
+      "mika",
+      "rosaria",
+      "yelan"
+    ],
     "weapons": [
       "elegy-for-the-end",
       "primordial-jade-winged-spear",
@@ -265,8 +302,16 @@
     "sources": ["Fatui Skirmisher", "Fatui Cicin Mage", "Fatui Agent"]
   },
   "whopperflower-nectar": {
-    "characters": ["mona", "sucrose", "keqing", "ganyu", "hu-tao",
-      "furina", "sayu", "shenhe"],
+    "characters": [
+      "mona",
+      "sucrose",
+      "keqing",
+      "ganyu",
+      "hu-tao",
+      "furina",
+      "sayu",
+      "shenhe"
+    ],
     "weapons": [
       "calamity-queller",
       "ballad-of-the-fjords",
@@ -372,7 +417,6 @@
       "waster-greatsword",
       "windblume-ode",
       "wine-and-song"
-
     ],
     "items": [
       {
@@ -616,9 +660,7 @@
     "sources": ["Ruin Guard", "Ruin Hunter", "Ruin Grader"]
   },
   "eremites-red": {
-    "characters": [
-      "faruzan", "dori", "alhaitham", "dehya", "candace"
-    ],
+    "characters": ["faruzan", "dori", "alhaitham", "dehya", "candace"],
     "weapons": [
       "beacon-of-the-reed-sea",
       "hunter-s-path",
@@ -678,7 +720,13 @@
         "rarity": 3
       }
     ],
-    "sources": ["Fungus", "Geoshroom", "Hydroshroom", "Cryoshroom", "Dendroshroom"]
+    "sources": [
+      "Fungus",
+      "Geoshroom",
+      "Hydroshroom",
+      "Cryoshroom",
+      "Dendroshroom"
+    ]
   },
   "clockwork-meka": {
     "characters": ["lynette", "charlotte", "chevreuse", "wriothesley"],
@@ -739,8 +787,16 @@
         "rarity": 3
       }
     ],
-    "sources": ["Angelic Sea Hare", "Armored and Sternshield Crabs", "Ball Octopus",
-      "Blubberbeast", "Hunter's Ray", "Hat Jellyfish", "Cherubic Sea Hare", "Bubbly Seahorse"]
+    "sources": [
+      "Angelic Sea Hare",
+      "Armored and Sternshield Crabs",
+      "Ball Octopus",
+      "Blubberbeast",
+      "Hunter's Ray",
+      "Hat Jellyfish",
+      "Cherubic Sea Hare",
+      "Bubbly Seahorse"
+    ]
   },
   "primal-construct-prisms": {
     "weapons": [
@@ -873,8 +929,13 @@
         "rarity": 4
       }
     ],
-    "sources": ["Consecrated Scorpion", "Consecrated Red Vulture", "Consecrated Fanged Beast",
-      "Consecrated Horned Crocodile", "Consecrated Flying Serpent"]
+    "sources": [
+      "Consecrated Scorpion",
+      "Consecrated Red Vulture",
+      "Consecrated Fanged Beast",
+      "Consecrated Horned Crocodile",
+      "Consecrated Flying Serpent"
+    ]
   },
   "fatui-operative": {
     "weapons": [
@@ -1040,7 +1101,13 @@
         "rarity": 4
       }
     ],
-    "sources": ["Fungus", "Geoshroom", "Hydroshroom", "Cryoshroom", "Dendroshroom"]
+    "sources": [
+      "Fungus",
+      "Geoshroom",
+      "Hydroshroom",
+      "Cryoshroom",
+      "Dendroshroom"
+    ]
   },
   "ruin-drakes-chaos": {
     "weapons": [

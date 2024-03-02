@@ -1,5 +1,6 @@
 {
   "name": "Fillet Blade",
+  "id": "fillet-blade",
   "type": "Sword",
   "rarity": 3,
   "baseAttack": 39,

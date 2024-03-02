@@ -1,5 +1,6 @@
 {
   "name": "Mondstadt",
+  "id": "mondstadt",
   "element": "Anemo",
   "archon": "Barbatos",
   "controllingEntity": "Die Ritter von Favonius"

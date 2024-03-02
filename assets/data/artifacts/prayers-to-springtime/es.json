@@ -1,5 +1,6 @@
 {
   "name": "Ritual de la Primavera",
+  "id": "prayers-to-springtime",
   "max_rarity": 4,
   "1-piece_bonus": "Reduce el tiempo afectado por Cryo un 40%"
 }

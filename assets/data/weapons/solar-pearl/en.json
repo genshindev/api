@@ -1,5 +1,6 @@
 {
   "name": "Solar Pearl",
+  "id": "solar-pearl",
   "type": "Catalyst",
   "rarity": 4,
   "baseAttack": 42,

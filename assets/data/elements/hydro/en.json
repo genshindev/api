@@ -1,6 +1,7 @@
 {
   "name": "Hydro",
   "key": "HYDRO",
+  "id": "hydro",
   "reactions": [
     {
       "name": "Vaporize",

@@ -1,5 +1,6 @@
 {
   "name": "Royal Spear",
+  "id": "royal-spear",
   "type": "Polearm",
   "rarity": 4,
   "baseAttack": 44,

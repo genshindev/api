@@ -1,6 +1,7 @@
 {
   "name": "Electro",
   "key": "ELECTRO",
+  "id": "electro",
   "reactions": [
     {
       "name": "Overloaded",

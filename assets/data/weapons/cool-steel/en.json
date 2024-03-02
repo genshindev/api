@@ -1,5 +1,6 @@
 {
   "name": "Cool Steel",
+  "id": "cool-steel",
   "type": "Sword",
   "rarity": 3,
   "baseAttack": 39,

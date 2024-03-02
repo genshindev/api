@@ -1,5 +1,6 @@
 {
   "name": "Missive Windspear",
+  "id": "missive-windspear",
   "type": "Polearm",
   "rarity": 4,
   "baseAttack": 42,

@@ -1,5 +1,6 @@
 {
   "name": "Dark Iron Sword",
+  "id": "dark-iron-sword",
   "type": "Sword",
   "rarity": 3,
   "baseAttack": 40,

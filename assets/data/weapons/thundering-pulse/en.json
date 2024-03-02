@@ -1,5 +1,6 @@
 {
   "name": "Thundering Pulse",
+  "id": "thundering-pulse",
   "type": "Bow",
   "rarity": 5,
   "baseAttack": 46,

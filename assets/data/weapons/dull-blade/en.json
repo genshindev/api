@@ -1,5 +1,6 @@
 {
   "name": "Dull Blade",
+  "id": "dull-blade",
   "type": "Sword",
   "rarity": 1,
   "baseAttack": 23,

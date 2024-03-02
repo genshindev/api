@@ -1,5 +1,6 @@
 {
   "name": "Staff of Homa",
+  "id": "staff-of-homa",
   "type": "Polearm",
   "rarity": 5,
   "baseAttack": 46,

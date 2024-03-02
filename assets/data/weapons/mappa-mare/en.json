@@ -1,5 +1,6 @@
 {
   "name": "Mappa Mare",
+  "id": "mappa-mare",
   "type": "Catalyst",
   "rarity": 4,
   "baseAttack": 44,

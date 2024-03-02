@@ -1,5 +1,6 @@
 {
   "name": "Skyward Blade",
+  "id": "skyward-blade",
   "type": "Sword",
   "rarity": 5,
   "baseAttack": 44,
