@@ -85,7 +85,7 @@
     {
       "name": "Valiant Hound: Mountainous Fealty",
       "unlock": "Constellation Lv. 6",
-      "description": "For 12s after using Inuzaka All-Round Defense or Juuga: Forward Unto Victory, increases the CRIT DMG of all nearby party members' Geo DMG based on the buff level of the skill's field at the time of use:\n- \"Standing Firm\": +10%\n- \"Impregnable\": +20%\n- \"Crunch\": +40%\nThis effect cannot stack and will take id from the last instance of the effect that is triggered.",
+      "description": "For 12s after using Inuzaka All-Round Defense or Juuga: Forward Unto Victory, increases the CRIT DMG of all nearby party members' Geo DMG based on the buff level of the skill's field at the time of use:\n- \"Standing Firm\": +10%\n- \"Impregnable\": +20%\n- \"Crunch\": +40%\nThis effect cannot stack and will take reference from the last instance of the effect that is triggered.",
       "level": 6
     }
   ],

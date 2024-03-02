@@ -789,7 +789,7 @@
     "name": "Laternen Ritual Spezial Gegrillter Tigerfisch",
     "rarity": 1,
     "type": "Wiederbelebendes Gericht",
-    "effect": "Stellt der gewählten Figur 10% LP sowie zusätzlich 1200 LP wieder her.	",
+    "effect": "Stellt der gewählten Figur 10% LP sowie zusätzlich 1200 LP wieder her.",
     "hasRecipe": false,
     "description": "Traditional cuisine made to celebrate Lantern Rite. The fish is a fresh catch straight from the harbor, lightly seasoned and swiftly grilled. Its aroma attracts the street cats. Indeed, freshness is the secret of flavor. Its aroma attracts the street cats. Indeed, freshness is the secret of flavor."
   },
@@ -797,7 +797,7 @@
     "name": "Laternen Ritual Spezial Juwelensuppe",
     "rarity": 2,
     "type": "VTD erhöhendes Gericht",
-    "effect": "Erhöht die VTD aller Truppenmitglieder 300 Sekunden lang um 126 Punkte.	",
+    "effect": "Erhöht die VTD aller Truppenmitglieder 300 Sekunden lang um 126 Punkte.",
     "hasRecipe": false,
     "description": "Traditional cuisine made to celebrate Lantern Rite. Snapdragon, tofu, and lotus seeds are put into boiling water and simmered. Jewelry Soup earned its luxurious name from the look of the ingredients used, but contrary to its name, the soup is commonly prepared and served in ordinary households."
   },
@@ -813,7 +813,7 @@
     "name": "Laternen Ritual Spezial Nudeln mit Fleischsoße und Pilzen",
     "rarity": 2,
     "type": "Abenteurer Gericht",
-    "effect": "Stellt 60 Punkte Ausdauer wieder her. 300 Sekunden Abklingzeit.	",
+    "effect": "Stellt 60 Punkte Ausdauer wieder her. 300 Sekunden Abklingzeit.",
     "hasRecipe": false,
     "description": "Traditional cuisine made to celebrate Lantern Rite. The sauce has a rustic flavor, and there's a generous amount of it mixed in with the noodles. A humble but enduringly popular dish."
   },
