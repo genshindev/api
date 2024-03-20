@@ -171,5 +171,15 @@
     }
   ],
   "vision_key": "ELECTRO",
-  "weapon_type": "CATALYST"
+  "weapon_type": "CATALYST",
+  "outfits": [
+    {
+      "type": "Themed",
+      "name": "A Sobriquet Under Shade",
+      "description": "An outfit Lisa had someone commission for her when she revisited Sumeru. A perfect balance between practicality and elegance, the dress bears a resemblance to Lisa's old uniform from the Akademiya days.",
+      "rarity": 4,
+      "price": 1680,
+      "image": "outfit-a-sobriquet-under-shade"
+    }
+  ]
 }

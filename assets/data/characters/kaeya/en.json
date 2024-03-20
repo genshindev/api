@@ -161,7 +161,9 @@
       "type": "Themed",
       "name": "Sailwind Shadow",
       "description": "Kaeya's outfit from his role as the 'Dagger Bandit' in the play. Though flamboyant and designed to be as eye-catching as possible, it isn't difficult to put on, though it does take some time to get all the accessories and daggers sorted.",
-      "rarity": 4
+      "rarity": 4,
+      "price": 1680,
+      "image": "outfit-sailwind-shadow"
     }
   ]
 }
