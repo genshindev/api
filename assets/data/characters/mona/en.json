@@ -178,5 +178,14 @@
     }
   ],
   "vision_key": "HYDRO",
-  "weapon_type": "CATALYST"
+  "weapon_type": "CATALYST",
+  "outfits": [
+    {
+      "type": "Alternate",
+      "name": "Pact of Stars and Moon",
+      "description": "Mona's outfit. A costume made specifically to encompass the astrological concept of \"the destined moment,\" thanks to the 30% discount ticket she got from the planetarium refund.",
+      "rarity": 5,
+      "image": "outfit-pact-of-stars-and-moon"
+    }
+  ]
 }

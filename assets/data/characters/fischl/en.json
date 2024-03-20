@@ -166,7 +166,8 @@
       "name": "Ein Immernachtstraum",
       "description": "A ceremonial outfit for the Prinzessin. May she who is noble retain her courage, sincerity, and kindness forever, such that no evil shall ever overcome her.",
       "rarity": 4,
-      "price": 1680
+      "price": 1680,
+      "image": "outfit-ein-immernachtstraum"
     }
   ]
 }

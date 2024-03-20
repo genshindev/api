@@ -180,6 +180,13 @@
       "rarity": 4,
       "price": 1680,
       "image": "outfit-sea-breeze-dandelion"
+    },
+    {
+      "type": "Alternate",
+      "name": "Gunnhildr's Legacy",
+      "description": "Jean's outfit. This classic knight's ceremonial outfit is suited to all manner of occasions.",
+      "rarity": 5,
+      "image": "outfit-gunnhildr-s-legacy"
     }
   ]
 }

@@ -159,5 +159,14 @@
     }
   ],
   "vision_key": "CRYO",
-  "weapon_type": "POLEARM"
+  "weapon_type": "POLEARM",
+  "outfits": [
+    {
+      "type": "Alternate",
+      "name": "To the Church's Free Spirit",
+      "description": "Rosaria's outfit. This seems to have been custom-made for her by the Church.",
+      "rarity": 4,
+      "image": "outfit-to-the-church-s-free-spirit"
+    }
+  ]
 }

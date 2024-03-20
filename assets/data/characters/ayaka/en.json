@@ -178,5 +178,15 @@
     }
   ],
   "vision_key": "CRYO",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "outfits": [
+    {
+      "type": "Themed",
+      "name": "Springbloom Missive",
+      "description": "Ayaka's travel outfit. Its design is based on the Fontaine dresses depicted in light novel illustrations and seems to reflect the lifestyle of proper ladies who live in that nation.",
+      "rarity": 4,
+      "price": 1680,
+      "image": "outfit-springbloom-missive"
+    }
+  ]
 }

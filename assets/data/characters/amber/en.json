@@ -164,5 +164,14 @@
     }
   ],
   "vision_key": "PYRO",
-  "weapon_type": "BOW"
+  "weapon_type": "BOW",
+  "outfits": [
+    {
+      "type": "Alternate",
+      "name": "100% Outrider",
+      "description": "Amber's outfit. This is a more formal — but no less cool — version of the Outrider's uniform!",
+      "rarity": 4,
+      "image": "outfit-100-outrider"
+    }
+  ]
 }
