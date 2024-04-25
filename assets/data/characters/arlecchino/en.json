@@ -1,0 +1,93 @@
+{
+  "name": "Arlecchino",
+  "title": "Dire Balemoon",
+  "vision": "Pyro",
+  "weapon": "Polearm",
+  "gender": "Female",
+  "nation": "Fontaine",
+  "affiliation": "Fatui",
+  "rarity": 5,
+  "release": "2024-04-24",
+  "constellation": "Ignis Purgatorius",
+  "birthday": "0000-08-22",
+  "description": "\"The Knave,\" Fourth of the Fatui Harbingers. A poised, ruthless diplomat. To the children in the House of the Hearth, she is their feared yet dependable \"Father.\"",
+  "skillTalents": [
+    {
+      "name": "Normal Attack: Invitation to a Beheading",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 6 consecutive spear strikes.\nCharged Attack\nConsumes a fixed amount of Stamina, dashing toward a nearby opponent and cleaving once.\nContinuously holding this button will cause Arlecchino to consume Stamina and engage in up to 5s of high-speed movement.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\nMasque of the Red Death\nWhen Arlecchino has a Bond of Life equal to or greater than 30% of her Max HP, she will enter the \"Masque of the Red Death\" state, where her Normal, Charged, and Plunging Attacks will be converted to deal Pyro DMG. This cannot be overridden.\nWhen in the \"Masque of the Red Death\" state, Arlecchino's Normal Attacks will deal extra DMG to opponents on hit that scales off her ATK multiplied by a certain ratio of her current Bond of Life percentage. This will consume 7.5% of said current Bond of Life. Her Bond of Life can be consumed this way every 0.03s. When her Bond of Life is consumed in this manner, All Is Ash's CD will decrease by 0.8s.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "All Is Ash",
+      "unlock": "Elemental Skill",
+      "description": "Summons forth Balemoon Bloodfire, dealing Pyro DMG to multiple nearby opponents and performing a dash-cleave against one of them, dealing AoE Pyro DMG.\nOpponents hit by the aforementioned attack will have a Blood-Debt Directive applied to them.\nBlood-Debt Directive\nLasts 30s. Every 5s, it will deal 1 instance of Pyro DMG to the opponent. Max 2 instances. This DMG will be considered Elemental Skill DMG.\nWhen Arlecchino uses a Charged Attack or her Elemental Burst, Balemoon Rising, she will absorb and clear nearby Blood-Debt Directives. Each Directive absorbed grants her a Bond of Life worth 65% of her Max HP.\nThe maximum value of the Bond of Life she can be granted through Blood-Debt Directives within 35s after using her Elemental Skill is 145% of her Max HP. Using the Elemental Skill again during this duration will restart the count on duration and the limit on the value of Bond of Life she may gain from Blood-Debt Directives.\nAs she sees it, not every grain of wheat that falls upon the earth will grow into an ear, while those who obstruct her, once burned to ashes, can certainly be used to nourish flowers.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Balemoon Rising",
+      "unlock": "Elemental Burst",
+      "description": "Arlecchino's great wings of Balemoon Bloodfire beat, absorbing and clearing Blood-Debt Directives around her, and dealing AoE Pyro DMG before clearing the CD of All Is Ash and healing her. The healing is based on her Bond of Life value and ATK.\nIt is commonly believed throughout Teyvat that moon phases other than the full moon are mere metaphors of ill-omen, used only by those who practice alchemy and astrology.\nShe saw this crimson moon in her dreams many times. Were those portents of disaster? Indeed they were, but the destined catastrophes belonged to those who enraged her.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "The Balemoon Alone May Know",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "While in combat, Arlecchino gains a 40% Pyro DMG Bonus and can only be healed through Balemoon Rising.",
+      "level": 1
+    },
+    {
+      "name": "Agony Alone May Be Repaid",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "Blood-Debt Directives have the following characteristics:\nWhen defeating an opponent with a Directive, Arlecchino will be granted a Life Bond worth 130% of her Max HP.\n5s after a Directive is applied, it will be upgraded to a Blood-Debt Due. When absorbed, it will instead grant Arlecchino a Bond of Life worth 130%.\nA Bond of Life created in the aforementioned ways cannot exceed the original limit on the value of Bonds of Life obtained through All Is Ash.",
+      "level": 4
+    },
+    {
+      "name": "Strength Alone Can Defend",
+      "unlock": "Unlocked Automatically",
+      "description": "Arlecchino gains 1% All Elemental and Physical RES for every 100 ATK she has in excess of 1,000. The maximum RES increase she can gain this way for each is 20%."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "\"All Reprisals and Arrears Are Mine to Bear...\"",
+      "unlock": "Constellation Lv. 1",
+      "description": "When using Let the People Rejoice, Furina will gain 150 Fanfare.\nAdditionally, Furina's Fanfare limit is increased by 100.",
+      "level": 1
+    },
+    {
+      "name": "\"All Rewards and Retribution, Mine to Bestow...\"",
+      "unlock": "Constellation Lv. 2",
+      "description": "Blood-Debt Directives are now already Blood-Debt Due when first applied.\nWhen Arlecchino absorbs such a Due, she unleashes Balemoon Bloodfire in front of her, dealing 900% of her ATK as AoE Pyro DMG. This effect can trigger once every 10s.\nYou must first unlock the Passive Talent \"Agony Alone May Be Repaid.\"",
+      "level": 2
+    },
+    {
+      "name": "\"You Shall Become a New Member of Our Family...\"",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Normal Attack: Invitation to a Beheading by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "\"You Shall Love and Protect Each Other Henceforth...\"",
+      "unlock": "Constellation Lv. 4",
+      "description": "When Arlecchino successfully absorbs a Blood-Debt Directive, Balemoon Rising's CD will decrease by 2s and 15 Energy will be restored to her. This effect can occur once every 10s.",
+      "level": 4
+    },
+    {
+      "name": "\"For Alone, We Are as Good as Dead...\"",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Balemoon Rising by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "\"From This Day On, We Shall Delight in New Life Together.\"",
+      "unlock": "Constellation Lv. 6",
+      "description": "The DMG of Balemoon Rising is increased by Arlecchino's ATK multiplied by 700% of Arlecchino's current Life Bond percentage.\nFor 20s after Arlecchino uses All Is Ash, both her Normal Attacks and Elemental Burst gain 10% increased CRIT Rate and 70% increased CRIT DMG. This effect can be triggered up to once every 15s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "POLEARM"
+}
