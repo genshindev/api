@@ -1068,5 +1068,28 @@
       }
     ],
     "sources": ["Ruin Drakes"]
+  },
+  "hilt": {
+    "weapons": [
+      "crimson-moon-s-semblance"
+    ],
+    "items": [
+      {
+        "id": "ruined-hilt",
+        "name": "Ruined Hilt",
+        "rarity": 2
+      },
+      {
+        "id": "splintered-hilt",
+        "name": "Splintered Hilt",
+        "rarity": 3
+      },
+      {
+        "id": "still-smoldering-hilt",
+        "name": "Still-Smoldering Hilt",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Praetorian Golem"]
   }
 }

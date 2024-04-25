@@ -139,5 +139,20 @@
     "id": "the-meaning-of-aeons",
     "name": "The Meaning of Aeons",
     "characters": ["shikanoin-heizou", "tighnari", "yae-miko"]
+  },
+  "fading-candle": {
+    "id": "fading-candle",
+    "name": "Fading Candle",
+    "characters": ["arlechino"]
+  },
+  "silken-feather": {
+    "id": "silken-feather",
+    "name": "Silken Feather",
+    "characters": []
+  },
+  "denial-and-judgment": {
+    "id": "denial-and-judgment",
+    "name": "Denial and Judgment",
+    "characters": []
   }
 }
