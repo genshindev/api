@@ -1,0 +1,26 @@
+{
+  "id": "praetorian-golem",
+  "name": "Praetorian Golem",
+  "region": "Fontaine",
+  "description": "A moving statue shaped like a warrior who will swing their sword at all who dare trespass upon the area under their guardianship. It is unclear if it is a soul or magic that powers them.\nThey say that legions of golems once conquered the nations that called the high sea home, and this might have been amongst their number. The great towers and palaces that now sleep beneath the waves once bore witness to the fate of those who stand in the path of the wheel of fate.",
+  "type": "Elite Enemies",
+  "family": "Mystical Beasts",
+  "elements": ["Geo", "Pyro"],
+  "drops": [
+    {
+      "name": "Ruined Hilt",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Splintered Hilt",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Still-Smoldering Hilt",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ]
+}
