@@ -1,0 +1,11 @@
+{
+  "name": "Song Of Stillness",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "ATK",
+  "passiveName": "Benthic Pulse",
+  "passiveDesc": "After the wielder is healed, they will deal 16% more DMG for 8s. This can be triggered even when the character is not on the field.",
+  "location": "BP Bounty",
+  "ascensionMaterial": "Fragment Of An Ancient Chord "
+}

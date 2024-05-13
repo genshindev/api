@@ -1,0 +1,161 @@
+{
+  "name": "Peak of Vindagnyr",
+  "type": "Blessing",
+  "description": "This city entombed in snow once had a proud, romantic name to call its own, just as the mountain itself was once lush and verdant in the ancient past. But after the nail that froze the skies over descended upon this mountain, the festive site where priests ascended to face the heavens can no longer hear its voice, nor will those priests ever return again.",
+  "location": "Skyfrost Nail, Dragonspine, Mondstadt",
+  "nation": "Mondstadt",
+  "requirements": [
+    {
+      "level": 1,
+      "adventureRank": 30,
+      "recommendedLevel": 59,
+      "leyLineDisorder": [
+        "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
+        "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
+        "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
+      ]
+    },
+    {
+      "level": 2,
+      "adventureRank": 35,
+      "recommendedLevel": 69,
+      "leyLineDisorder": [
+        "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
+        "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
+        "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
+      ]
+    },
+    {
+      "level": 3,
+      "adventureRank": 40,
+      "recommendedLevel": 80,
+      "leyLineDisorder": [
+        "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
+        "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
+        "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
+      ]
+    },
+    {
+      "level": 4,
+      "adventureRank": 45,
+      "recommendedLevel": 90,
+      "leyLineDisorder": [
+        "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
+        "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
+        "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
+      ]
+    }
+  ],
+  "recommendedElements": ["Pyro", "Electro", "Geo", "Anemo"],
+  "rewards": [
+    {
+      "day": "always",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Defender's Will",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Gambler",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2025,
+          "drops": [
+            {
+              "name": "Defender's Will",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Gambler",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "drops": [
+            {
+              "name": "Defender's Will",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Gambler",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Blizzard Strayer",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Heart of Depth",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2525,
+          "drops": [
+            {
+              "name": "Defender's Will",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Gambler",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Blizzard Strayer",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Heart of Depth",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

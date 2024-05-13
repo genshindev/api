@@ -1,10 +1,13 @@
 {
   "name": "Kaeya",
+  "title": "Frostwind Swordsman",
   "vision": "Cryo",
   "weapon": "Sword",
+  "gender": "Male",
   "nation": "Mondstadt",
   "affiliation": "Knights of Favonius",
   "rarity": 4,
+  "release": "2020-09-28",
   "constellation": "Pavo Ocellus",
   "birthday": "0000-11-30",
   "description": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
@@ -152,5 +155,13 @@
     }
   ],
   "vision_key": "CRYO",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "outfits": [
+    {
+      "type": "Themed",
+      "name": "Sailwind Shadow",
+      "description": "Kaeya's outfit from his role as the 'Dagger Bandit' in the play. Though flamboyant and designed to be as eye-catching as possible, it isn't difficult to put on, though it does take some time to get all the accessories and daggers sorted.",
+      "rarity": 4
+    }
+  ]
 }

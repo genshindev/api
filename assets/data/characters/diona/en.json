@@ -1,10 +1,13 @@
 {
   "name": "Diona",
+  "title": "Kätzlein Cocktail",
   "vision": "Cryo",
   "weapon": "Bow",
+  "gender": "Female",
   "nation": "Mondstadt",
   "affiliation": "The Cat's Tail",
   "rarity": 4,
+  "release": "2020-11-11",
   "constellation": "Feles",
   "birthday": "0000-01-18",
   "description": "A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.",

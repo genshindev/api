@@ -1,10 +1,13 @@
 {
   "name": "Eula",
+  "title": "Dance of the Shimmering Wave",
   "vision": "Cryo",
   "weapon": "Claymore",
+  "gender": "Female",
   "nation": "Mondstadt",
   "affiliation": "Knights of Favonius",
   "rarity": 5,
+  "release": "2021-05-18",
   "constellation": "Aphros Delos",
   "birthday": "0000-10-25",
   "description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",

@@ -1,0 +1,46 @@
+{
+  "id": "bathysmal-vishap-hatchling",
+  "name": "Bathysmal Vishap Hatchling",
+  "region": "Inazuma",
+  "description": "A mighty race of vishaps that dwell within the deep seas. That they hate light is not due to an overly fragile sense of sight. Instead, it is because they have had the selfless sunlight and the surface world taken from them that they refuse to countenance man-made light.",
+
+  "type": "Elite Enemies",
+  "family": "Mystical Beasts",
+
+  "elements": ["Cryo", "Electro", "Hydro"],
+
+  "drops": [
+    {
+      "name": "Fragile Bone Shard",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Sturdy Bone Shard",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Fossilized Bone Shard",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Bolteater Bathysmal Vishap Hatchling",
+      "description": "A vishap that dwells deep beneath the oceans. Due to certain social adaptations, it has manifested a form aligned with the Electro name. Following the fading of the Seven Sovereigns' power, a new generation of Sovereigns is presently being born. But now that the Bathysmal Vishaps have evolved in this manner, they have lost their purity. As such, the Dragon of Water will no longer be born from among their ranks. Prophecy holds that the new Dragon of Water will definitely descend in the form of a human."
+    },
+    {
+      "name": "Primordial Bathysmal Vishap Hatchling",
+      "description": "N/A"
+    },
+    {
+      "name": "Rimebiter Bathysmal Vishap Hatchling",
+      "description": "A vishap that dwells deep beneath the oceans. Due to certain social adaptations, it has manifested a form aligned with the Cryo element. The coming of humans sparked a conflict and a resultant evolution within the Bathysmal Vishaps, just as ants might divide up labor and biological characteristics, thus appearing in different forms. These vishaps are stronger than their ordinary kin."
+    }
+  ],
+
+  "mora-gained": 200
+}

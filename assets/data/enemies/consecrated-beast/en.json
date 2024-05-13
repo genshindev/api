@@ -1,0 +1,46 @@
+{
+  "id": "consecrated-beast",
+  "name": "Consecrated Beast",
+  "region": "Multiple",
+  "description": "N/A",
+
+  "type": "Elite Enemies",
+  "family": "Mystical Beasts",
+
+  "elements": ["Anemo", "Pyro", "Electro"],
+
+  "drops": [
+    {
+      "name": "Desiccated Shell",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Sturdy Shell",
+      "rarity": 3,
+      "minimum-level": 60
+    },
+    {
+      "name": "Marked Shell",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Consecrated Flying Serpent",
+      "description": "A reptile that has mutated after feeding from greater lifeforms. Though now imbued with the power of elemental manipulation, the Consecrated Beasts themselves still cannot fully digest the pieces of flesh they devoured from the immortal carcasses that they ate. Instead, the pieces slowly fused with the beasts themselves, weaving a bony shell over their body, one that shares a similar composition to a certain type of smelting material from Inazuma."
+    },
+    {
+      "name": "Consecrated Red Vulture",
+      "description": "A scavenging bird of prey that has mutated after feeding from greater lifeforms. The greater lifeforms devoured by Consecrated Beasts often have nigh-immortal consciousness that can never be fully silenced or eradicated. The very power and consciousness gained by Consecrated Beasts devouring these lifeforms will, in turn, drive them to seek more violence and carrion."
+    },
+    {
+      "name": "Consecrated Scorpion",
+      "description": "An arthropod that has mutated after feeding from greater lifeforms. Lifeforms are governed by the laws of evolution, Consecrated Beasts exploited these rules by being fortunate enough to discover a long-dead carcass of a greater being before any of their competition ever did. Animals and humans often have far more in common than the latter is willing to acknowledge."
+    }
+  ],
+
+  "mora-gained": 200
+}

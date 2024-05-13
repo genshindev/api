@@ -1,0 +1,191 @@
+{
+  "name": "Alhaitham",
+  "title": "Admonishing Instruction",
+  "vision": "Dendro",
+  "weapon": "Sword",
+  "gender": "Male",
+  "nation": "Sumeru",
+  "affiliation": "Sumeru Akademiya",
+  "rarity": 5,
+  "release": "2023-01-18",
+  "constellation": "Vultur Volans",
+  "birthday": "0000-02-11",
+  "description": "The current scribe of the Sumeru Akademiya, a man endowed with extraodinary intelligence and talent. He lives free — free from the searching eyes of ordinary people, anyway.",
+  "skillTalents": [
+    {
+      "name": "Abductive Reasoning",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "49.53%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "50.75%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "34.18% + 34.18%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "66.77%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "83.85%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "55.25% + 55.25%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "127.84% / 159.68%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Universality: An Elaboration on Form",
+      "unlock": "Elemental Skill",
+      "description": "Rushes forward, dealing Dendro DMG to nearby opponents when the rush ends, causing a Chisel-Light Mirror to form.\nHolding this skill will cause it to behave differently.\nHold\nEnters Aiming Mode to adjust the direction of Alhaitham's rush attack.\nChisel-Light Mirror\nWhen this skill is unleashed, Alhaitham will generate 1 Chisel-Light Mirror. If there are no Mirrors at this time, he will generate 1 additional Mirror.\nWhen he possesses Chisel-Light Mirrors, Alhaitham's Normal, Charged, and Plunging Attacks will be converted to Dendro DMG. This cannot be overridden.\nWhen attacks of the aforementioned kinds hit opponents, the Chisel-Light Mirrors will unleash a Projection Attack that deals AoE Dendro DMG based on the number of Mirrors on the field.\nA total of 3 Chisel-Light Mirrors can exist at once.\nThe Chisel-Light Mirrors will disappear one after the other over time, and will all disappear when Alhaitham leaves the field.",
+      "upgrades": [
+        {
+          "name": "Rush Attack DMG",
+          "value": "193.6% ATK + 154.88% Elemental Mastery"
+        },
+        {
+          "name": "Projection Attack Interval",
+          "value": "1.6s"
+        },
+        {
+          "name": "1-Mirror Projection Attack DMG",
+          "value": "67.2% ATK + 134.4% Elemental Mastery"
+        },
+        {
+          "name": "2-Mirror Projection Attack DMG",
+          "value": "(67.2% ATK + 134.4% Elemental Mastery)×2"
+        },
+        {
+          "name": "3-Mirror Projection Attack DMG",
+          "value": "(67.2% ATK + 134.4% Elemental Mastery)×3"
+        },
+        {
+          "name": "Chisel-Light Mirror Removal Interval",
+          "value": "4s"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Particular Field: Fetters of Phenomena",
+      "unlock": "Elemental Burst",
+      "description": "Creates a Particular Binding Field and deals multiple instances of AoE Dendro DMG.\nIf Chisel-Light Mirrors exist when this ability is unleashed, all such Mirrors will be consumed and increase the number of DMG instances dealt.\n2s after this ability is unleashed, if 0/1/2/3 Mirrors were consumed, Alhaitham will generate 3/2/1/0 new Mirrors in turn.",
+      "upgrades": [
+        {
+          "name": "Single-Instance DMG",
+          "value": "121.6% ATK + 97.28% Elemental Mastery"
+        },
+        {
+          "name": "Basic Attack Instances",
+          "value": "4"
+        },
+        {
+          "name": "1-Mirror Attack Instances",
+          "value": "6"
+        },
+        {
+          "name": "2-Mirror Attack Instances",
+          "value": "8"
+        },
+        {
+          "name": "3-Mirror Attack Instances",
+          "value": "10"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Four-Causal Correction",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "When Alhaitham's Charged or Plunging Attacks hit opponents, they will generate 1 Chisel-Light Mirror. This effect can be triggered once every 12s.",
+      "level": 1
+    },
+    {
+      "name": "Mysteries Laid Bare",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "Each point of Alhaitham's Elemental Mastery will increase the DMG dealt by Projection Attacks and Particular Field: Fetters of Phenomena by 0.1%.\nThe maximum DMG increase this way for both these abilities is 100%.",
+      "level": 4
+    },
+    {
+      "name": "Law of Reductive Overdetermination",
+      "unlock": "Unlocked Automatically",
+      "description": "When Alhaitham crafts Weapon Ascension Materials, he has a 10% chance to receive double the product."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Intuition",
+      "unlock": "Constellation Lv. 1",
+      "description": "When a Projection Attack hits an opponent, Universality: An Elaboration on Form's CD is decreased by 1.2s. This effect can be triggered once every 1s.",
+      "level": 1
+    },
+    {
+      "name": "Debate",
+      "unlock": "Constellation Lv. 2",
+      "description": "When Alhaitham generates a Chisel-Light Mirror, his Elemental Mastery will be increased by 50 for 8 seconds, max 4 stacks. Each stack's duration is counted independently. This effect can be triggered even when the maximum number of Chisel-Light Mirrors has been reached.",
+      "level": 2
+    },
+    {
+      "name": "Negation",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Universality: An Elaboration on Form by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Elucidation",
+      "unlock": "Constellation Lv. 4",
+      "description": "When Particular Field: Fetters of Phenomena is unleashed, the following effects will become active based on the number of Chisel-Light Mirrors consumed and created this time around:\nEach Mirror consumed will increase the Elemental Mastery of all other nearby party members by 30 for 15s.\nEach Mirror generated will grant Alhaitham a 10% Dendro DMG Bonus for 15s.\n\nThe pre-existing duration of the aforementioned effects will be cleared if you use Particular Field: Fetters of Phenomena again while they are in effect.",
+      "level": 4
+    },
+    {
+      "name": "Sagacity",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Particular Field: Fetters of Phenomena by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Structuration",
+      "unlock": "Constellation Lv. 6",
+      "description": "Alhaitham gains the following effects:\n2 seconds after Particular Field: Fetters of Phenomena is unleashed, he will generate 3 Chisel-Light Mirrors regardless of the number of mirrors consumed.\nIf Alhaitham generates Chisel-Light Mirrors when their numbers have already maxed out, his CRIT Rate and CRIT DMG will increase by 10% and 70% respectively for 6s.\n\nIf this effect is triggered again during its initial duration, the duration remaining will be increased by 6s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "DENDRO",
+  "weapon_type": "SWORD"
+}

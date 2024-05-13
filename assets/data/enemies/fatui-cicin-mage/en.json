@@ -25,6 +25,32 @@
       "name": "Mist Grass Wick",
       "rarity": 4,
       "minimum-level": 60
+    },
+    {
+      "name": "Recruit's Insignia",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Sergeant's Insignia",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Lieutenant's Insignia",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "elemental-descriptions": [
+    {
+      "element": "Cryo",
+      "description": "A Fatui mage who can command Cryo Cicins in battle. Their origins and what they look like under that mask are both mysteries. Reason dictates that those who lack Visions should not be able to control the elements as these mages do. However, in addition to using Mist Grass to control the Cryo Cicins, they also boldly wield the might of frost. Seeing them as they wander the land in their seemingly aimless way, one can't help but wonder about the duty that must compel them."
+    },
+    {
+      "element": "Electro",
+      "description": "A Fatui mage who can command Electro Cicins in battle. Their origins and what they look like under that mask are both mysteries. Similarly to the way that Electro Cicins go crazy for Mist Grass, Cicin Mages take great pleasure in toying with their prey."
     }
   ],
 

@@ -1,0 +1,78 @@
+{
+  "id": "the-black-serpent",
+  "name": "The Black Serpent",
+  "description": "Once upon a time, these were knights of the realm and carriers of significant status. The long years and a curse seems to have robbed them of their reason and memory. Now, all that remains within that armor is the will to \"fight for something, someone, and some matter.\" Depending on how much wear and tear they have undergone, they are by turns known as \"Shadowy Husks\" or \"Black Serpent Knights.\"",
+  "region": "Global",
+
+  "type": "Elite Enemies",
+  "family": "The Abyss",
+  "faction": "Abyss Order",
+
+  "elements": ["Cryo", "Hydro", "Pyro", "Anemo", "Geo"],
+
+  "drops": [
+    {
+      "name": "Gloomy Statuette",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Dark Statuette",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Deathly Statuette",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "artifacts": [
+    {
+      "name": "Blood-Soaked",
+      "set": "Berserker",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Instructor's Brooch",
+      "set": "Instructor",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Legacy",
+      "set": "The Exile",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Curative",
+      "set": "Traveling Doctor",
+      "rarity": "3"
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Shadowy Husk: Defender",
+      "description": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it is now nothing but a husk that only bears memories of battle. All shall decay in the end, and this is all that is left of the Black Serpent Knights amidst the merciless march of their sins, curses, and time itself."
+    },
+    {
+      "name": "Shadowy Husk: Line Breaker",
+      "description": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it no longer holds any \"intelliegence\" that it may still be called \"human.\" Yet the desire to destroy the foe and plunge into battle to defend others is etched into this empty suit of armor, even if no one remains to tell it where the enemy is or who or what exactly must be defended."
+    },
+    {
+      "name": "Shadowy Husk: Standard Bearer",
+      "description": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it has now lost any awareness of memory. But even so, it holds the banner of the royal house aloft into battle. Though it has forgotten its comrades or any royal blessing they may have been given, it will never lay this banner down."
+    },
+    {
+      "name": "Black Serpent Knight: Windcutter",
+      "description": "A guard of some standing in the court, sundering the foes of the nation's rulers using a sword art known as \"Truthseeker.\" The Twilight Sword was once one of their number. That realm's glory has been extinguished, never again to be reclaimed."
+    },
+    {
+      "name": "Black Serpent Knight: Rockbreaker Ax",
+      "description": "A guard of some standing in the court, sundering the foes of the nation's rulers using a sword art known as \"Truthseeker.\" Though Truthseeker is, strictly speaking, a sword art, its teachings can also be used with various other weapons — and in the realm's darkest hour, those who had to protect their homeland had little room to be fussy anyway."
+    }
+  ],
+
+  "mora-gained": 600
+}

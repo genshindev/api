@@ -1,0 +1,11 @@
+{
+  "name": "Sacrificial Jade",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 41,
+  "subStat": "CRIT Rate",
+  "passiveName": "Jade Circulation",
+  "passiveDesc": "When not on the field for more than 5s, Max HP will be increased by 32% and Elemental Mastery will be increased by 40. These effects will be canceled after the wielder has been on the field for 10s.",
+  "location": "BP Bounty",
+  "ascensionMaterial": "Luminous Sands From Guyun "
+}

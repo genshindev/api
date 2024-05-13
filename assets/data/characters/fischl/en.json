@@ -1,10 +1,13 @@
 {
   "name": "Fischl",
+  "title": "Prinzessin der Verurteilung!",
   "vision": "Electro",
   "weapon": "Bow",
+  "gender": "Female",
   "nation": "Mondstadt",
   "affiliation": "Adventurers' Guild",
   "rarity": 4,
+  "release": "2020-09-28",
   "constellation": "Corvus",
   "birthday": "0000-05-27",
   "description": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
@@ -156,5 +159,14 @@
     }
   ],
   "vision_key": "ELECTRO",
-  "weapon_type": "BOW"
+  "weapon_type": "BOW",
+  "outfits": [
+    {
+      "type": "Themed",
+      "name": "Ein Immernachtstraum",
+      "description": "A ceremonial outfit for the Prinzessin. May she who is noble retain her courage, sincerity, and kindness forever, such that no evil shall ever overcome her.",
+      "rarity": 4,
+      "price": 1680
+    }
+  ]
 }

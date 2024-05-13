@@ -1584,5 +1584,3819 @@
         "quantity": 2
       }
     ]
+  },
+  "aaru-mixed-rice": {
+    "name": "Aaru Mixed Rice",
+    "rarity": 2,
+    "type": "Adventurer's Dish",
+    "effect": "Restores 50 Stamina.",
+    "hasRecipe": true,
+    "description": "A large serving of filling staple food. In this dish that combines rice, noodles, and beans together, the secret of great taste lies in the sweet and sour flavor imparted by tomatoes. Owing to its common nature and low price, this dish is a great choice for sating one's hunger — which is one of the key reasons why this recipe has spread from Aaru Village to the rest of Sumeru.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 3
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Glabrous Beans",
+        "quantity": 2
+      },
+      {
+        "item": "Tomato",
+        "quantity": 2
+      }
+    ]
+  },
+  "activated-starshroom": {
+    "name": "Activated Starshroom",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 800 HP.",
+    "hasRecipe": false,
+    "description": "A fungus with a cap that resembles a five-pointed star. It seems to be bursting with vitality."
+  },
+  "baklava": {
+    "name": "Baklava",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 15% for 300s.",
+    "hasRecipe": true,
+    "description": "A traditional Sumeru dessert. This puff pastry contains chopped nuts and has been baked after having butter drizzled atop it — and not forgetting some syrup once it comes out of the oven. Some researchers will specially order this veritable \"fortress of sweetness\" to replenish their energies before an exam. This is also why this dish has great pride of place as the Akademiya's favorite dessert.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Ajilenakh Nut",
+        "quantity": 2
+      },
+      {
+        "item": "Butter",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "berry-mizu-manjuu": {
+    "name": "Berry Mizu Manjuu",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 20% of Max HP and regenerates 390 HP every 5 seconds for 30s.",
+    "hasRecipe": true,
+    "description": "A crystal-clear snack. The transparent skin wraps the yellow filling. It is said that some vendors will put these snacks into a small clay bowl and immerse it in water to ensure that the cool mouthfeel is retained. This dish is as transparent as water, but it will not be washed away by flowing water — this is probably the origin of the name.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 2
+      },
+      {
+        "item": "Berry",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "bird-egg-sushi": {
+    "name": "Bird Egg Sushi",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "An everyday Inazuman dish. The sliced Egg Roll is placed over seasoned rice. Simply made, yet full of flavor.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 1
+      },
+      {
+        "item": "Rice",
+        "quantity": 1
+      }
+    ]
+  },
+  "biryani": {
+    "name": "Biryani",
+    "rarity": 4,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 261 and healing effects by 8% for 300s.",
+    "hasRecipe": true,
+    "description": "An aromatic rice dish. Stir-fry the meat such that it is crispy on the outside and tender on the inside. Then stew it with condiments and long-grain rice. Sprinkle a few Padisarah petals before serving. Every grain is saturated with the aroma of fatty meat and condiments. The dish has an exquisite taste only found in Sumeru.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 4
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Spice",
+        "quantity": 2
+      },
+      {
+        "item": "Padisarah",
+        "quantity": 1
+      }
+    ]
+  },
+  "bountiful-year": {
+    "name": "Bountiful Year",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s.",
+    "hasRecipe": true,
+    "description": "Luxurious and exquisite raw fish. The fish is sliced thinly and arranged in the shape of a flower before a ring of side dishes is set all around it. Normally, the side dishes will be mixed with the raw fish according to one's taste before consumption — this act is said to ensure that things will be smooth sailing in the coming days.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 4
+      },
+      {
+        "item": "Carrot",
+        "quantity": 4
+      },
+      {
+        "item": "Onion",
+        "quantity": 2
+      },
+      {
+        "item": "Violetgrass",
+        "quantity": 1
+      }
+    ]
+  },
+  "braised-meat": {
+    "name": "Braised Meat",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' Physical DMG by 30% for 300s.",
+    "hasRecipe": true,
+    "description": "A stewed dish. The meat slices were fried first, followed by the vegetable accouterments, after which they were mixed together. The soup was then added and simmered until it thickened. After this patient, slow cooking process, the meat has become soft and tender, bringing those who eat it a down-to-earth satisfaction.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Carrot",
+        "quantity": 2
+      },
+      {
+        "item": "Potato",
+        "quantity": 2
+      },
+      {
+        "item": "Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  "butter-chicken": {
+    "name": "Butter Chicken",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": true,
+    "description": "A flavorful dish. Spice and chopped tomatoes were mixed with warm butter, and then cooked into a creamy sauce. Into it went marinated and pan-fried chicken pieces. People from Sumeru prefer eating the dish with rice or flatbread, which allows them to savor the dish's enticing flavor better.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 3
+      },
+      {
+        "item": "Tomato",
+        "quantity": 3
+      },
+      {
+        "item": "Butter",
+        "quantity": 1
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "butter-crab": {
+    "name": "Butter Crab",
+    "rarity": 4,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 261 and healing effects by 8% for 300s.",
+    "hasRecipe": true,
+    "description": "A grilled crab dish. Appropriate heat control has allowed the crab meat to stay moist and fatty. The butter has seeped into the crab meat, producing an aroma that has people salivating even from afar.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Butter",
+        "quantity": 4
+      },
+      {
+        "item": "Crab",
+        "quantity": 4
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 2
+      },
+      {
+        "item": "Matsutake",
+        "quantity": 1
+      }
+    ]
+  },
+  "candied-ajilenakh-nut": {
+    "name": "Candied Ajilenakh Nut",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 200 for 300s.",
+    "hasRecipe": true,
+    "description": "A rich dessert. First, the syrup is boiled till clear, then mixed with fillings and sesame paste from Sumeru. Then at last, the evenly-mixed syrup is poured into a mold and allowed to solidify into this crunchy form. It is said that the cold lands of Snezhnaya are a host to a similar dish, with a slightly different flavor profile. Of course, both sides naturally believe theirs to be the greatest in all Teyvat.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Ajilenakh Nut",
+        "quantity": 4
+      },
+      {
+        "item": "Almond",
+        "quantity": 2
+      },
+      {
+        "item": "Butter",
+        "quantity": 2
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 1
+      }
+    ]
+  },
+  "charcoal-baked-ajilenakh-cake": {
+    "name": "Charcoal-Baked Ajilenakh Cake",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 1,200 HP.",
+    "hasRecipe": true,
+    "description": "A dark-colored pastry. The Ajilenakh Nuts were first roasted and powdered before being sieved, added to a batter, mixed evenly, and then baked. The final product by no means looks impressive, but it exudes the fresh aroma of Ajilenakh Nuts, and it tastes better still with some jam.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Ajilenakh Nut",
+        "quantity": 2
+      },
+      {
+        "item": "Flour",
+        "quantity": 1
+      },
+      {
+        "item": "Jam",
+        "quantity": 1
+      }
+    ]
+  },
+  "chicken-tofu-pudding": {
+    "name": "Chicken Tofu Pudding",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s.",
+    "hasRecipe": true,
+    "description": "A dish made with great precision. The finely-diced chicken breast is stirred strongly and added into a soup that has various other minced meats within, before being cooked over a small flame. The result is light and elegant, and it tastes like tofu pudding. The meat has been shaped such that it is \"a chicken above chickens, yet does not look like chicken.\" This, too, is part of Liyue's culinary fine arts.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 4
+      },
+      {
+        "item": "Ham",
+        "quantity": 2
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 1
+      }
+    ]
+  },
+  "chili-mince-cornbread-buns": {
+    "name": "Chili-Mince Cornbread Buns",
+    "rarity": 4,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Shield strength by 30% and DEF by 200 for 300s.",
+    "hasRecipe": true,
+    "description": "A traditional snack from Liyue. The fresh dough is turned out into a round, rested, and then placed inside a cage to steam. The meat and vegetables are then washed, diced, before being fried quickly in an oiled wok. When eaten, the fried condiments must be placed into the empty space in the middle of the buns before they are eaten together. Between the crisp vegetables and the flavorful meat, this is solid, great flavor.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Cabbage",
+        "quantity": 2
+      },
+      {
+        "item": "Jueyun Chili",
+        "quantity": 2
+      }
+    ]
+  },
+  "crab-roe-kourayaki": {
+    "name": "Crab Roe Kourayaki",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 81 for 300s.",
+    "hasRecipe": true,
+    "description": "A crab meat dish that has been cooked directly over the flames. The meat and roe are mixed evenly, before being garnished with plump crab legs. The happiness that flows forth from that first bite imparts meaning upon your prior forbearance.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Crab",
+        "quantity": 1
+      },
+      {
+        "item": "Crab Roe",
+        "quantity": 1
+      }
+    ]
+  },
+  "crab-roe-tofu": {
+    "name": "Crab Roe Tofu",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 400 HP.",
+    "hasRecipe": true,
+    "description": "A dish with a tender mouthfeel. Crab roe is stir-fried till the oil within oozes out before being added to boiled tofu and accented with broth. Simple, yes, but gloriously fresh.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Crab Roe",
+        "quantity": 1
+      },
+      {
+        "item": "Tofu",
+        "quantity": 1
+      }
+    ]
+  },
+  "crocodile-jerky": {
+    "name": "Crocodile Jerky",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 114 for 300s.",
+    "hasRecipe": false,
+    "description": "Crocodile jerky prepared using a special recipe of the Tanit tribe. Though a bit hard to chew, the meat's ease of storage makes it a commonly consumed delicacy for tribal hunters.\nDespite tasting like fowl, the nutritional value of crocodile meat is said to be eight times more than the flesh of more typical beasts..."
+  },
+  "cured-pork-dry-hotpot": {
+    "name": "Cured Pork Dry Hotpot",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 15% for 300s.",
+    "hasRecipe": true,
+    "description": "A dish fried over a great flame. Matsutake and Ham have been sliced up, stir-fried, and garnished with some spicy condiments. The flavor of the Ham is a match for the Matsutake's crispness, and the combination grows even lovelier and more addictive as you chew. The heat-conducting wok also serves to keep it piping hot for long periods.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Ham",
+        "quantity": 2
+      },
+      {
+        "item": "Matsutake",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 1
+      },
+      {
+        "item": "Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  "curry-shrimp": {
+    "name": "Curry Shrimp",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A common household dish in Sumeru. The shrimps are first boiled until chewy, then added into the curry broth. The perfect blend of savory curry and flavors from the ocean is enough to make one's stomach growl. Though it's a common household dish, almost every family seems to have made their own variations to the recipe. Perhaps one could say that for every Sumeru household, there'll be a different version of curry shrimp.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Shrimp Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Onion",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      },
+      {
+        "item": "Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  "dango-milk": {
+    "name": "Dango Milk",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "A creative snack made by adding sticky dango to milk. It is sweet and has a dense mouthfeel. All the customers who have tried it love it.\nStill, it is dango that's been added in — drink too much and you might lose your appetite."
+  },
+  "dragon-beard-noodles": {
+    "name": "Dragon Beard Noodles",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 194 for 300s.",
+    "hasRecipe": true,
+    "description": "Noodles that are as slender as the hairs on a dragon's beard. The green onion is fried in a wok before the soup and condiments are added. Last in are the noodles, after which the lot is ladled out and plated up. The noodles must be skillfully hand-pulled multiple times before they become extremely thin — a technique that makes this dish the most challenging noodle recipe in Liyue.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 4
+      },
+      {
+        "item": "Fowl",
+        "quantity": 2
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 2
+      },
+      {
+        "item": "Ham",
+        "quantity": 1
+      }
+    ]
+  },
+  "dry-braised-salted-fish": {
+    "name": "Dry-Braised Salted Fish",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "Dried fish that has been grilled slowly over a charcoal flame. Fish air-dried overnight have a tinge of the salty sea wind and give off a tantalizing flavor when grilled. Many Inazumans who dwell near the sea know this taste well indeed.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 1
+      },
+      {
+        "item": "Salt",
+        "quantity": 1
+      }
+    ]
+  },
+  "egg-roll": {
+    "name": "Egg Roll",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 100 HP.",
+    "hasRecipe": true,
+    "description": "A fried egg dish. Beat eggs well, season and fry them slowly in a wok, roll up into a fixed shape. Pour our egg liquid in again and continue until it has all reached a certain thickness, then get ready to plate up. This is an ordinary yet welcoming Inazuman delicacy.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "fish-with-cream-sauce": {
+    "name": "Fish With Cream Sauce",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A fish dish served in sauce. Fresh fish filets were dried before pan-fried until crispy, then drizzled with a creamy white dressing and sprinkled with fresh mint. A unique dish that can be made through the simplest methods.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 3
+      },
+      {
+        "item": "Milk",
+        "quantity": 2
+      },
+      {
+        "item": "Mint",
+        "quantity": 1
+      }
+    ]
+  },
+  "five-pickled-treasures": {
+    "name": "Five Pickled Treasures",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Restores 85 Stamina.",
+    "hasRecipe": true,
+    "description": "Pickled vegetables. A round of fermentation makes food richer and also allows it to keep for longer. There were originally only four \"treasures,\" but for auspiciousness' sake, the four vegetables were mixed and plated up with one additional \"treasure\" added in, hence the name \"Five Pickled Treasures.\"",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Radish",
+        "quantity": 2
+      },
+      {
+        "item": "Carrot",
+        "quantity": 2
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 2
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 2
+      }
+    ]
+  },
+  "fruits-of-the-festival": {
+    "name": "Fruits of the Festival",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Healing Bonus by 17% for 300s.",
+    "hasRecipe": true,
+    "description": "A brightly colored non-alcoholic beverage. Freshly squeezed Sunsettia and Wolfhook juices have been poured into a cup in a specific order. The cool and refreshing flavor and vibrant color remind people of the beautiful holiday times. Do not mess the order up if you want to get the gradient effect right!",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Wolfhook",
+        "quantity": 2
+      },
+      {
+        "item": "Sunsettia",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "gilded-tajine": {
+    "name": "Gilded Tajine",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Max HP by 22% for 300s.",
+    "hasRecipe": true,
+    "description": "A stewed meat dish. The unique hat-shaped pot cover is capable of reducing the amount of moisture lost during the stewing process — a culinary secret known only to the desert folk. This delicious delicacy has followed the gilded Eremites all over Sumeru, and thus did it gain its name and fame.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Padisarah",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      },
+      {
+        "item": "Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  "grilled-unagi-fillet": {
+    "name": "Grilled Unagi Fillet",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A grilled dish. The sliced unagi has been steamed first to remove the excess fat before being grilled and sauced. There is no consensus in Inazuma as to where the name \"unagi\" came from, but everyone at least agrees that it will take a whole lifetime to master its making.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Eel Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "imported-poultry": {
+    "name": "Imported Poultry",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 15% for 300s.",
+    "hasRecipe": true,
+    "description": "A meat dish drizzled with sauce. The fowl is marinated before being covered in batter and fried, and a thick sauce is drizzled over it as a finishing touch. The accompanying vegetables are local produce, but the marinating methods and sauce are all imported, hence the name \"imported poultry.\"",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 4
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 3
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 2
+      }
+    ]
+  },
+  "invigorating-kitty-meal": {
+    "name": "Invigorating Kitty Meal",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "",
+    "hasRecipe": true,
+    "description": "",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 4
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 2
+      },
+      {
+        "item": "Rice",
+        "quantity": 1
+      }
+    ]
+  },
+  "katsu-sandwich": {
+    "name": "Katsu Sandwich",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 81 for 300s.",
+    "hasRecipe": true,
+    "description": "A nutritionally-balanced meal. The two bread slices clip a thick-cut katsu slab between them. The fragrant, slightly sweet-and-sour sauce is the key to preventing this meal from being too rich. A brilliant mix of outlander style and local flavor!",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Cabbage",
+        "quantity": 1
+      }
+    ]
+  },
+  "konda-cuisine": {
+    "name": "Konda Cuisine",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 1200 HP.",
+    "hasRecipe": true,
+    "description": "Slowly stewed local cuisine. Everyone in Konda Village knows how to make this dish. It originally had no name but would spread throughout Inazuma on account of its nutritious deliciousness. This eventually caused those from outside the village to give it its name — \"Konda Cuisine.\"",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 3
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 2
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 2
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 1
+      }
+    ]
+  },
+  "lambad-fish-roll": {
+    "name": "Lambad Fish Roll",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A grilled fish dish with a faint floral scent. It is said that Lambad once adventured far and wide in his youth. Everywhere he went, he would taste the grilled fish at local taverns. This dish was not a signature food in Sumeru, and Lambad thought it was a pity, so he invented his own fish roll. According to the gourmets who often dine at his tavern, the tales of his adventures aren't necessarily true, but his fish roll is undoubtedly delicious.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 1
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 1
+      }
+    ]
+  },
+  "masala-cheese-balls": {
+    "name": "Masala Cheese Balls",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 9% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": true,
+    "description": "An Aranara-style dish that Paimon drained her brain juice dry to improve. It is, in fact, a rather traditional recipe in Sumeru. The freshly cooked cheese balls give off a titillating aroma, for a special technique has been used to mix the spices into the dough. A small bite and you will see hot cheese oozing out immediately. Also, potatoes have been stewed till they softened properly. This creamy combination will keep you full for a long time.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Potato",
+        "quantity": 2
+      },
+      {
+        "item": "Cheese",
+        "quantity": 1
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "meat-lovers-mushroom-pizza": {
+    "name": "Meat Lovers' Mushroom Pizza",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": true,
+    "description": "A pizza freshly baked from the oven. The crust is dotted with large chunks of meat and fresh mushroom slices. The sweet, stretchy cheese further adds to the charm. You have no doubt that every slice will be snatched away the moment it is served. Speed, therefore, is a gourmet's best buddy when this pizza is on the table.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 4
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 3
+      },
+      {
+        "item": "Cheese",
+        "quantity": 2
+      }
+    ]
+  },
+  "milky-mushroom-crisp-tower": {
+    "name": "Milky Mushroom Crisp Tower",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A crunchy appetizer that's baked with mushrooms and cheese on top of bread slices. A single whiff of its amazing smell is enough to fill one with anticipation. Give it a bite, and you'll experience a pleasant burst of sweetness.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 4
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 3
+      },
+      {
+        "item": "Cheese",
+        "quantity": 2
+      },
+      {
+        "item": "Cream",
+        "quantity": 1
+      }
+    ]
+  },
+  "minty-bean-soup": {
+    "name": "Minty Bean Soup",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 100 HP.",
+    "hasRecipe": true,
+    "description": "A rich soup made with simple ingredients. Mints and beans were boiled and ground together to get a smooth texture. The soup was then left on low heat till it thickened. Finally, some beans and mints were sprinkled on the top. This refreshing delicacy tastes equally good whether served hot or cold.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Glabrous Beans",
+        "quantity": 2
+      },
+      {
+        "item": "Mint",
+        "quantity": 2
+      }
+    ]
+  },
+  "miso-soup": {
+    "name": "Miso Soup",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 9% of Max HP to the selected character and regenerates 260 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A simple and unadorned soup dish. The ingredients use here are very common and it is made simply, but this small bowl of soup has the power to ensure that you shall not grow weary on your journey, even if you travel on foot.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Tofu",
+        "quantity": 1
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 1
+      }
+    ]
+  },
+  "mixed-yakisoba": {
+    "name": "Mixed Yakisoba",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 400 HP.",
+    "hasRecipe": true,
+    "description": "One of Inazuma's common household dishes. One merely needs to stir-fry the noodles and side dishes evenly before serving, making this an easy-to-make and filling dish. It is no wonder, then, that this dish is so sought after among Inazumans.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Cabbage",
+        "quantity": 2
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 1
+      }
+    ]
+  },
+  "more-and-more": {
+    "name": "More-and-More",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' Physical DMG by 30% for 300s.",
+    "hasRecipe": true,
+    "description": "A snack grilled on an iron plate. Water is added to flour and stirred into a slurry, vegetables and meat are added, and the mix is grilled well on an iron plate before taking on a splash of sauce and a sprinkle of dried bonito flakes. This tastes delicious no matter how many ingredients one adds, and indeed it makes people feel like \"the more ingredients, the merrier\", hence the dish's name.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 43
+      },
+      {
+        "item": "Bacon",
+        "quantity": 2
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 1
+      },
+      {
+        "item": "Flour",
+        "quantity": 1
+      }
+    ]
+  },
+  "mushroom-hodgepodge": {
+    "name": "Mushroom Hodgepodge",
+    "rarity": 2,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members’ DEF by 107 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": true,
+    "description": "An Aranara-style dish that Paimon has drained her brain juice dry to improve. But in fact, it only requires a few common mushrooms from Sumeru, along with some extra seasonings. Paimon selected three types of mushrooms, and they were prepared and then cooked in a simple way, but the texture and flavor aren’t bad at all.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Rukkha­sha­va Mushrooms",
+        "quantity": 1
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 1
+      },
+      {
+        "item": "Starshroom",
+        "quantity": 1
+      }
+    ]
+  },
+  "omelette-rice": {
+    "name": "Omelette Rice",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases Stamina depleted by climbing and sprinting for all party members by 20% for 900s.",
+    "hasRecipe": true,
+    "description": "A main dish wrapped up in an egg skin. The evenly beaten egg fluids are fried into half-doneness before being poured out on top of the rice, and tomato ketchup is drizzled over top afterward once it is ready to plate up. They say that this dish was derived from another region, though this version involves a more complicated cooking method.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 4
+      },
+      {
+        "item": "Rice",
+        "quantity": 3
+      },
+      {
+        "item": "Tomato",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "oncidium-tofu": {
+    "name": "Oncidium Tofu",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Restores 85 Stamina.",
+    "hasRecipe": true,
+    "description": "A dish that is a test of one's knifework. All the ingredients were sliced into ribbons in a single go, and after being washed, they were placed into the broth and cooked till they floated. The resulting flavor is light and fresh, and would not be out of place as a chef's recommendation in a Liyue restaurant.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Tofu",
+        "quantity": 4
+      },
+      {
+        "item": "Bamboo Shoot",
+        "quantity": 2
+      },
+      {
+        "item": "Ham",
+        "quantity": 1
+      },
+      {
+        "item": "Fowl",
+        "quantity": 1
+      }
+    ]
+  },
+  "onigiri": {
+    "name": "Onigiri",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A portable dish made with rice. It is simple to make and remains delicious at room temperatures, which has made it very popular with civilians and soldiers alike.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 2
+      },
+      {
+        "item": "Rice",
+        "quantity": 1
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 2
+      },
+      {
+        "item": "Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  "padisarah-pudding": {
+    "name": "Padisarah Pudding",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' climbing and sprinting Stamina consumption by 20% for 900s.",
+    "hasRecipe": true,
+    "description": "A popular dessert in Sumeru. Juices are squeezed from the petals of Padisarahs and Sumeru Roses before being mixed with milk, gelatin, sugar, and other ingredients, and then left to solidify. Cute appearance and sweet flavor make it a common sight at celebratory events in Sumeru.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Padisarah",
+        "quantity": 2
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 1
+      },
+      {
+        "item": "Milk",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "panipuri": {
+    "name": "Panipuri",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 400 HP.",
+    "hasRecipe": true,
+    "description": "An appetizer served with a green dipping sauce. The crispy balls are first deep-fried, then stuffed with a delicious filling through a hole on the top. The bite-sized snack is a common street food in Sumeru.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Potato",
+        "quantity": 2
+      },
+      {
+        "item": "Glabrous Beans",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "pita-pocket": {
+    "name": "Pita Pocket",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A bread with varied fillings. The flat dough has puffed up in the oven, reminding you of a lovely Pufferfish. The bread is usually cut in the middle into two separate \"pockets,\" hence the name, \"Pita Pocket.\" It is said that people of Sumeru used to dip the bread in sauce. But nowadays, people usually stuff the \"pockets\" with different fillings and then take big mouthfuls.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Tomato",
+        "quantity": 2
+      },
+      {
+        "item": "Milk",
+        "quantity": 2
+      }
+    ]
+  },
+  "potato-boat": {
+    "name": "Potato Boat",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 1,200 HP.",
+    "hasRecipe": true,
+    "description": "A baked appetizer. The potato was washed clean and then baked together with cheese and Rukkhashava Mushrooms. The dish guarantees an unmatched experience when eaten hot. This explains its popularity on the streets of Sumeru. Still, be careful not to burn your tongue.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Potato",
+        "quantity": 4
+      },
+      {
+        "item": "Rukkha­sha­va Mushrooms",
+        "quantity": 2
+      },
+      {
+        "item": "Cheese",
+        "quantity": 1
+      }
+    ]
+  },
+  "radish-and-fish-stew": {
+    "name": "Radish and Fish Stew",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 9% for 300s.",
+    "hasRecipe": true,
+    "description": "A meat and vegetable dish. The de-skinned radishes have gone into the pot first to cook before large hunks of fish and seasonings are added in. The whole combination is then stewed on a low flame. The large servings of food — best served with rice — give everyone present a feeling of satisfaction.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 2
+      },
+      {
+        "item": "Radish",
+        "quantity": 2
+      },
+      {
+        "item": "Salt",
+        "quantity": 1
+      }
+    ]
+  },
+  "rainbow-aster": {
+    "name": "Rainbow Aster",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' gliding and sprinting Stamina consumption by 20% for 900s.",
+    "hasRecipe": true,
+    "description": "A unique drink. Having featured in the famous light novel \"Pretty Please, Kitsune Guuji?\", it has since been brought to life by Sailing Breeze in collaboration with Yae Publishing House, along with its fascinating flavour. As this version does not contain any bean products, it is slightly different from the special limited edition that was available during the Irodori Festival, but this also means that there is no risk of triggering any bean allergies.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Milk",
+        "quantity": 3
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 2
+      },
+      {
+        "item": "Calla Lily",
+        "quantity": 2
+      },
+      {
+        "item": "Mint",
+        "quantity": 1
+      }
+    ]
+  },
+  "rice-buns": {
+    "name": "Rice Buns",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "Soft and fluffy food. The rice and horsetail have been ground into flour and kneaded into dough before being put in a steaming basket. It can be eaten as-is or with vegetable stuffing. Portable and filling, it is a very popular dish in the Liyue region.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 1
+      },
+      {
+        "item": "Horsetail",
+        "quantity": 1
+      }
+    ]
+  },
+  "rice-cake-soup": {
+    "name": "Rice Cake Soup",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 200 for 300s.",
+    "hasRecipe": true,
+    "description": "Commonly-seen city cuisine. The ingredients have gorged themselves on the soup, making them most enticing indeed. They say that in the first, this dish only had a scant few ingredients, but more were added as time passed, resulting in its present form.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Sausage",
+        "quantity": 2
+      },
+      {
+        "item": "Tofu",
+        "quantity": 1
+      },
+      {
+        "item": "Fish",
+        "quantity": 1
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 1
+      }
+    ]
+  },
+  "rice-pudding": {
+    "name": "Rice Pudding",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Restores 85 Stamina.",
+    "hasRecipe": true,
+    "description": "A dessert made from rice. After cooking the rice beforehand, it is placed into a pot together with the other ingredients, stirred evenly, and steamed. The mouthfeel is fragrant and soft, a perfect denouement to any meal.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 3
+      },
+      {
+        "item": "Rice",
+        "quantity": 2
+      },
+      {
+        "item": "Milk",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 3
+      }
+    ]
+  },
+  "rose-custard": {
+    "name": "Rose Custard",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 20% of Max HP and regenerates 390 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A dessert made from fermented milk. Once the milk is fermented and filtered into yogurt, stir sugar in before garnishing with dried roses and chopped nuts. In the beginning, this dish was only popular among adventurers and traveling merchants, but now, it is served as breakfast and a tea-time dessert across Sumeru.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Milk",
+        "quantity": 4
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 2
+      }
+    ]
+  },
+  "sabz-meat-stew": {
+    "name": "Sabz Meat Stew",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A meat stew with a unique taste. A variety of vegetables are mixed together, then chopped into small pieces and stewed with meat. The addition of lemons gives the final product a mildly sour taste. The people of Sumeru usually enjoy this dish over rice.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 2
+      },
+      {
+        "item": "Onion",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "sakura-mochi": {
+    "name": "Sakura Mochi",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 1,200 HP.",
+    "hasRecipe": true,
+    "description": "A delicate and elegant snack. The dark green leaf adds complexity to the overall warm color palette. Just looking at it gives you a sense of its quiet beauty. 'Tis a shame that its lovely flavor is like a blooming flower in transience — yet do not let that dissuade you from taking a bite.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 4
+      },
+      {
+        "item": "Sugar",
+        "quantity": 2
+      },
+      {
+        "item": "Sakura Bloom",
+        "quantity": 2
+      }
+    ]
+  },
+  "sakura-shrimp-crackers": {
+    "name": "Sakura Shrimp Crackers",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' HP by 22% for 300s.",
+    "hasRecipe": true,
+    "description": "Crispy, crunchy crackers. Potatoes are ground into flour and added to Shrimp and Sakura Blooms before being baked in an oven. It possesses a lovely flavor profile for a snack and is beloved by people of all ages, traits that have made it a popular choice of gift.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Shrimp Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Potato",
+        "quantity": 3
+      },
+      {
+        "item": "Sakura Bloom",
+        "quantity": 2
+      }
+    ]
+  },
+  "sakura-tempura": {
+    "name": "Sakura Tempura",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Shield strength by 25% for 300s.",
+    "hasRecipe": true,
+    "description": "A dish deep-fried in oil. Incorporate the marinated sakura blossom petals into the batter before giving the fresh shrimp and vegetables an even coating, frying, and then draining the oil. This all sounds simple enough, but good tempura making is not something achieved in a mere day.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Shrimp Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 2
+      },
+      {
+        "item": "Sakura Bloom",
+        "quantity": 2
+      },
+      {
+        "item": "Flour",
+        "quantity": 1
+      }
+    ]
+  },
+  "samosa": {
+    "name": "Samosa",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 22% of Max HP to the selected character and an additional 1,200 HP.",
+    "hasRecipe": true,
+    "description": "A deep-fried snack. The well-stirred filling is wrapped in a thin crust, shaped into a triangle, then fried in a pan until golden brown. Both meat and vegetarian fillings are common, so the dish has become a point of conflict for those with a strong preference for one over the other.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 2
+      }
+    ]
+  },
+  "sangayaki": {
+    "name": "Sangayaki",
+    "rarity": 2,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' sprinting Stamina consumption by 20% for 900s.",
+    "hasRecipe": true,
+    "description": "A simple, humble fisherman's side dish. Freshly caught fish is de-skinned and sliced, minced together with Snapdragon, mixed with miso and salt to form a batter, and then finally grilled. The lovely scent enters your nose long before the food enters your mouth. Three servings later, and you're still raring to go for more.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 2
+      },
+      {
+        "item": "Salt",
+        "quantity": 1
+      }
+    ]
+  },
+  "sashimi-platter": {
+    "name": "Sashimi Platter",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s.",
+    "hasRecipe": true,
+    "description": "A seafood dish made using fresh ingredients. The fish and shellfish are cut into pieces and arranged neatly. The slices have an elegant and tender taste, providing rich and high-quality nutrition. The lingering sweet aftertaste is derived fully from the ingredients' freshness, and every bite is an enjoyment worth closing one's eyes and savoring.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 4
+      },
+      {
+        "item": "Shrimp Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Crab",
+        "quantity": 4
+      },
+      {
+        "item": "Radish",
+        "quantity": 2
+      }
+    ]
+  },
+  "scented-meat-balls": {
+    "name": "Scented Meat Balls",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Has a chance to restore 26%/32%/38% of Max HP and an additional 950/1,250/1,550 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A dish with ground meat as its base. After crushing the wheat and cooking it over a fire, ground meat was added to form the outer layer. Onions and meat were then stir-fried to make the filling. Finally, the mixture was molded into balls and deep-fried until golden. Enjoying meat by the mouthful has never been this easy!",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Mysterious Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Wheat",
+        "quantity": 2
+      },
+      {
+        "item": "Onion",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 2
+      }
+    ]
+  },
+  "scorched-starshroom": {
+    "name": "Scorched Starshroom",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 1 HP.",
+    "hasRecipe": false,
+    "description": "A fungus with a cap that resembles a five-pointed star. It seems to be a little singed."
+  },
+  "selva-salad": {
+    "name": "Selva Salad",
+    "rarity": 2,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' sprinting Stamina consumption by 20% for 900s.",
+    "hasRecipe": true,
+    "description": "An Aranara-style salad that Paimon drained her brain juice dry to improve. It is, in fact, a rather traditional recipe in Sumeru. Fresh and crispy Zaytun Peach slices and mixed with gently squeezed Sumeru Roses, which adds a touch of distinctive flavor. Mint is used instead of sugar to avoid getting a sickening sweetness. A refreshing dish that pleases both the eyes and the nose.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Zaytun Peach",
+        "quantity": 2
+      },
+      {
+        "item": "Mint",
+        "quantity": 2
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 2
+      }
+    ]
+  },
+  "shawarma-wrap": {
+    "name": "Shawarma Wrap",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 81 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": true,
+    "description": "A wrap filled with roasted meat. Meat shaved off the vertical skewer is wrapped in a flatbread together with vegetables and sauces. Plate it up, and a simple yet delicious Sumeru street food is ready.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "soba-noodles": {
+    "name": "Soba Noodles",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 9% of Max HP to the selected character and regenerates 260 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A plain and simple noodle dish. The buckwheat noodles are boiled and then cooled. Their texture is smooth and they have just the right amount of toughness. The inexpensive ingredients and simple make of this dish have made it very popular amongst Inazumans.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 1
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 1
+      }
+    ]
+  },
+  "sparkling-berry-juice": {
+    "name": "Sparkling Berry Juice",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 15% of Max HP, then restores an additional 550 HP.",
+    "hasRecipe": false,
+    "description": "An all-new non-alcoholic beverage. Valberries of varying ripeness add layers of sour-to-sweet to this juice while the cooling sparkling water refreshes the soul — a fine companion for a pleasant and leisurely time."
+  },
+  "special-mushroom-pizza": {
+    "name": "Special Mushroom Pizza",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 28% of Max HP to the selected character. Regenerates 620 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "A pancake with ample toppings. The many rare ingredients do a strange dance around one's mouth — albeit in a good way."
+  },
+  "starshroom": {
+    "name": "Starshroom",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 300 HP.",
+    "hasRecipe": false,
+    "description": "A fungus with a cap that resembles a five-pointed star. It is quite hardy indeed. Once it matures, the center of the cap will split open."
+  },
+  "stir-fried-fish-noodles": {
+    "name": "Stir-Fried Fish Noodles",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 20% of Max HP and regenerates 390 HP every 5 seconds for 30s.",
+    "hasRecipe": true,
+    "description": "A main dish with an intense flavor. Created by stir-frying rice noodles, par-cooked fish, and various side dishes in a wok on high flame. The noodles, having absorbed the flavors of various ingredients, are springy and smooth to the taste, making this dish a big hit with diners.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 2
+      },
+      {
+        "item": "Rice",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 2
+      }
+    ]
+  },
+  "stir-fried-shrimp": {
+    "name": "Stir-Fried Shrimp",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Shield strength by 25% for 300s.",
+    "hasRecipe": true,
+    "description": "A light and smooth dish. The shrimp are quickly sautéed and the sauce thickened. This method of cooking is exceedingly simple and enhances the innate freshness of the shrimp meat, granting it a place at humble home-cooked meals and lavish banquets alike.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Shrimp Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 3
+      }
+    ]
+  },
+  "sunset-berry-tea": {
+    "name": "Sunset Berry Tea",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": true,
+    "description": "A fruity drink with a pleasantly sour taste. This scented tea gives off the pleasant aroma of fresh fruit. Its cold and refreshing taste is sure to dispel the stifling heat with each gulp.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Sunsettia",
+        "quantity": 3
+      },
+      {
+        "item": "Berry",
+        "quantity": 3
+      },
+      {
+        "item": "Sugar",
+        "quantity": 2
+      }
+    ]
+  },
+  "sweet-shrimp-sushi": {
+    "name": "Sweet Shrimp Sushi",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 100 HP.",
+    "hasRecipe": true,
+    "description": "A fresh and sweet traditional dish. Cleanly bisected shrimp is laid over rice and shaped with your bare hands. The springy shrimp meat and the delicious rice highlight the flavor all the more.",
+    "proficiency": 5,
+    "recipe": [
+      {
+        "item": "Shrimp Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Rice",
+        "quantity": 1
+      }
+    ]
+  },
+  "tahchin": {
+    "name": "Tahchin",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "description": "A classic staple served in large quantities. Cooked rice is mixed with meat that was marinated in yogurt, then baked until its surface turns crispy. Don't forget to add a handful of Padisarah petals before serving! Both the rice and meat are enough to keep one's stomach full for a long time, making it a very popular dish at the Grand Bazaar.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 4
+      },
+      {
+        "item": "Fowl",
+        "quantity": 2
+      },
+      {
+        "item": "Fish",
+        "quantity": 2
+      },
+      {
+        "item": "Padisarah",
+        "quantity": 1
+      }
+    ]
+  },
+  "taiyaki": {
+    "name": "Taiyaki",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 28% of Max HP to the selected character. Regenerates 620 HP every 5s for the next 30s.",
+    "hasRecipe": true,
+    "description": "A snack shaped like a snapper. The crisp exterior wraps the sweet filling within and is very popular amongst Inazumans. It is said that in the beginning, this was just a cylindrical snack, but constant improvements wound up shaping it into the cutesy image of a fish.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Sunsettia",
+        "quantity": 3
+      },
+      {
+        "item": "Milk",
+        "quantity": 3
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 2
+      }
+    ]
+  },
+  "tandoori-roast-chicken": {
+    "name": "Tandoori Roast Chicken",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s.",
+    "hasRecipe": true,
+    "description": "A signature chicken dish of Sumeru. The chicken was first marinated with red spices, and then roasted in a tandoor. The process of making this Sumeru classic does not involve any fancy skills, and the use of such a humble clay oven might be surprising to some. In Sumeru, a tandoor to a veteran chef is as important as a trusty sword to an adventurer.",
+    "proficiency": 20,
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 3
+      },
+      {
+        "item": "Rukkha­sha­va Mushrooms",
+        "quantity": 2
+      },
+      {
+        "item": "Padisarah",
+        "quantity": 1
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "tonkotsu-ramen": {
+    "name": "Tonkotsu Ramen",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A steaming-hot noodle dish. The meat, prepared at low temperature, is laid over the noodles. Salty, fragrant, delicious soup seeps into each strand. A single bowl of these is guaranteed to restore any tired soul.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Bamboo Shoot",
+        "quantity": 2
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 1
+      }
+    ]
+  },
+  "tri-flavored-skewer": {
+    "name": "Tri-Flavored Skewer",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 194 for 300s.",
+    "hasRecipe": true,
+    "description": "A pieced-together skewer. Three different cooking processes can be tasted at a go in this dish, which has made it very popular. If you are ever at a loss at to what to pair with some wine, there's no going wrong with one of these.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 2
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 1
+      }
+    ]
+  },
+  "tricolor-dango": {
+    "name": "Tricolor Dango",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A soft, glutinous snack. Glutinous rice has been grown into powder and rolled into a ball before being steamed. The Sakura Bloom and Snapdragon colors lend an extra liveliness to these dango.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Milk",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 2
+      },
+      {
+        "item": "Sakura Bloom",
+        "quantity": 2
+      },
+      {
+        "item": "Rice",
+        "quantity": 1
+      }
+    ]
+  },
+  "tulumba": {
+    "name": "Tulumba",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' gliding and sprinting Stamina consumption by 20% for 900s.",
+    "hasRecipe": true,
+    "description": "A snack fried in oil. Shaped flour is lowered directly into the pot to be deep-fried until golden-brown before being fished out and dipped into syrup while piping hot. This treat is an inseparable companion to many in Sumeru.",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 3
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 2
+      },
+      {
+        "item": "Coffee Beans",
+        "quantity": 1
+      }
+    ]
+  },
+  "tuna-sushi": {
+    "name": "Tuna Sushi",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
+    "hasRecipe": true,
+    "description": "A traditional dish made with one's bare hands. The soft and lightly-vinegared rice is matched with the fresh fish. Locals consider this a slightly luxurious treat.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 3
+      },
+      {
+        "item": "Rice",
+        "quantity": 3
+      }
+    ]
+  },
+  "udon-noodles": {
+    "name": "Udon Noodles",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 400 HP.",
+    "hasRecipe": true,
+    "description": "Highly springy noodles. After several rounds of rising and pulling, the result is silky smooth yet springy noodles. Unlike ramen, which prizes dense flavors, udon noodles use light flavors to heal the Inazuman soul.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 1
+      },
+      {
+        "item": "Fish",
+        "quantity": 1
+      }
+    ]
+  },
+  "unagi-chazuke": {
+    "name": "Unagi Chazuke",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Healing Bonus by 17% for 300s.",
+    "hasRecipe": true,
+    "description": "A light and tasty main dish. Well-boiled tea is poured over rice with unagi on top and allowed to steep quietly until the rice grains have absorbed the fragrance of the tea. When combined with the lingering sweet aftertaste of the bowl of unagi, you can eat half a bowl before Paimon can say \"Whoa!\"",
+    "proficiency": 15,
+    "recipe": [
+      {
+        "item": "Eel Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Rice",
+        "quantity": 3
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 3
+      },
+      {
+        "item": "Salt",
+        "quantity": 1
+      }
+    ]
+  },
+  "wakatakeni": {
+    "name": "Wakatakeni",
+    "rarity": 2,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 107 for 300s.",
+    "hasRecipe": true,
+    "description": "A light-colored vegetarian dish. Broth is first poured into the pot before the bamboo shoots, and then the seaweed, are added in. The result is an elegant product with a light mouthfeel that agrees well with all palates. Suitable as a pre-meal appetizer or as a side to a main dish.",
+    "proficiency": 10,
+    "recipe": [
+      {
+        "item": "Bamboo Shoot",
+        "quantity": 3
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 2
+      }
+    ]
+  },
+  "once-upon-a-time-in-mondstadt": {
+    "name": "Once Upon a Time in Mondstadt",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 20% and CRIT DMG by 20% for 300s.",
+    "hasRecipe": true,
+    "description": "",
+    "charcter": "Diluc",
+    "proficiency": "N/A",
+    "baseDish": "Crab Roe Tofu",
+    "recipe": [
+      {
+        "item": "",
+        "quantity": 3
+      },
+      {
+        "item": "",
+        "quantity": 2
+      }
+    ]
+  },
+  "consomme-purete": {
+    "name": "Consomme Purete",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases party members' CRIT Rate by 20% and CRIT DMG by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": false,
+    "description": "Neuvillette's specialty. He claims he specifically selected the purest, chilliest waters from the highest mountains to create this exquisite and matchless treasure. Though it does have a refreshing quality, as for how the overall flavor of the soup is no different from ordinary soups... It's probably best not to mention it.",
+    "character": "Neuvillette",
+    "baseDish": "Consomme",
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 3
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 3
+      },
+      {
+        "item": "Carrot",
+        "quantity": 2
+      },
+      {
+        "item": "Marcotte",
+        "quantity": 1
+      }
+    ]
+  },
+  "my-way": {
+    "name": "My Way",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 15% of Max HP, then restores an additional 550 HP.",
+    "hasRecipe": false,
+    "description": "Yanfei's specialty is Crab Roe Tofu done to an incredible degree of regularity. Its dimensions and flavor are all faithfully rendered according to the \"Crab Roe Tofu Laws\" in the recipe, with not a single letter omitted.",
+    "character": "Yanfei",
+    "baseDish": "Crab Roe Tofu",
+    "recipe": [
+      {
+        "item": "Crab Roe",
+        "quantity": 1
+      },
+      {
+        "item": "Tofu",
+        "quantity": 1
+      }
+    ]
+  },
+  "seabird's-sojourn": {
+    "name": "Seabird's Sojourn",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 34% of Max HP to the selected character and regenerates 980 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "Freminet's specialty. He fled after leaving this pot of soup. The ingredients don't seem to come from shallow seas, which means he must've dived into the deep sea to catch them. You want to express your gratitude, but... where can you find him?",
+    "character": "Freminet",
+    "baseDish": "Poisson Seafood Soup",
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 4
+      },
+      {
+        "item": "Tomato",
+        "quantity": 2
+      },
+      {
+        "item": "Mint",
+        "quantity": 2
+      },
+      {
+        "item": "Marcotte",
+        "quantity": 2
+      }
+    ]
+  },
+  "snow-on-the-hearth": {
+    "name": "Snow on the Hearth",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 20% of Max HP, then restores an additional 1500 HP.",
+    "hasRecipe": false,
+    "description": "Kamisato Ayaka's specialty. This is almost like a small, lovely, and intricate artwork, with its pale red outer coat covering the feelings that the young maiden began to harbor from that moment on. If one had the honor of enjoying such a treat while having tea with a princess as graceful and noble as a white heron, one would surely yearn to have that moment stretch into eternity.",
+    "character": "Kamisato Ayaka",
+    "baseDish": "Sakura Mochi",
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 4
+      },
+      {
+        "item": "Sugar",
+        "quantity": 2
+      },
+      {
+        "item": "Sakura Bloom",
+        "quantity": 1
+      }
+    ]
+  },
+  "sweet-dream": {
+    "name": "Sweet Dream",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 114 for 300s.",
+    "hasRecipe": false,
+    "description": "Xiao's specialty. His dream is very simple, and it is merely a lovely dream.",
+    "character": "Xiao",
+    "baseDish": "Almond Tofu",
+    "recipe": [
+      {
+        "item": "Milk",
+        "quantity": 3
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      },
+      {
+        "item": "Almond",
+        "quantity": 1
+      }
+    ]
+  },
+  "warmth": {
+    "name": "Warmth",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 14% of Max HP to the selected character and regenerates 350 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "Thoma's specialty. The intricate appearance of this dish belies the simple ingredients used. But take a sip, and Thoma's sunshine smile comes straight to mind. Perhaps this is his special ability: warming the hearts of others using the simplest of ingredients.",
+    "character": "Thoma",
+    "baseDish": "Miso Soup",
+    "recipe": [
+      {
+        "item": "Tofu",
+        "quantity": 1
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 1
+      }
+    ]
+  },
+  "a-buoyant-breeze": {
+    "name": "A Buoyant Breeze",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' gliding and sprinting Stamina consumption by 25% for 1800s.",
+    "hasRecipe": false,
+    "description": "Venti's specialty. Other than the Cecilia flowers used for decoration, the ingredients are no different from normal. But if you taste it carefully, you can taste the flavor of \"a wind that brings hope and tiny twists of fate.\" Perhaps...this is exactly what he wants.",
+    "character": "Venti",
+    "baseDish": "Barbatos Ratatouille",
+    "recipe": [
+      {
+        "item": "Carrot",
+        "quantity": 4
+      },
+      {
+        "item": "Potato",
+        "quantity": 4
+      },
+      {
+        "item": "Onion",
+        "quantity": 4
+      }
+    ]
+  },
+  "a-leisurely-sip": {
+    "name": "A Leisurely Sip",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Healing Bonus by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": false,
+    "description": "Lynette's specialty. It was time for afternoon tea, and Lynette laid down a snack made especially for you. The image of the young lady who taking small sips from the cup and the image of the kitten-shaped dessert seemed to overlap. Your heart was filled with sweetness, but you were also a bit concerned about the state of the kitchenware...",
+    "character": "Lynette",
+    "baseDish": "Conch Madeleine",
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 3
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Butter",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "a-prize-catch": {
+    "name": "A Prize Catch",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 282 for 300s.",
+    "hasRecipe": false,
+    "description": "Tartaglia's specialty. It looks like a trapped beast floundering in an ocean of blood, its death throes an inaudible scream... But Tartaglia smiles and explains that this is something he fished out of the sea, with some products from his homeland on the side.",
+    "character": "Tartaglia",
+    "baseDish": "Calla Lily Seafood Soup",
+    "recipe": [
+      {
+        "item": "Crab",
+        "quantity": 4
+      },
+      {
+        "item": "Calla Lily",
+        "quantity": 1
+      },
+      {
+        "item": "Mint",
+        "quantity": 2
+      }
+    ]
+  },
+  "a-stunning-stratagem": {
+    "name": "A Stunning Stratagem",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 16% of Max HP and an additional 1,350 HP to the selected character.",
+    "hasRecipe": false,
+    "description": "Sangonomiya Kokomi's specialty. The egg is wrapped up almost like a package, and the fish tail at the end is both small and very cute. It really makes you wonder what's inside the package, but at the same time, you can't bear to eat such a beautiful-looking thing... You glance at the crystal-clear smile in Kokomi's eyes. Ah, darn it, you've fallen for her trick, haven't you?",
+    "character": "Sangonomiya Kokomi",
+    "baseDish": "Bird Egg Sushi",
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 1
+      },
+      {
+        "item": "Rice",
+        "quantity": 1
+      }
+    ]
+  },
+  "all-delicacy-parcels": {
+    "name": "All-Delicacy Parcels",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "Xingqiu's specialty. This dish's almost artisan appearance makes one almost reluctant to tuck in. But once you get a taste, its fresh, light and lovely sweetness will make the dish hard to put down.... Hang on a moment. Did he throw the carrots out, by any chance?",
+    "character": "Xingqiu",
+    "baseDish": "Crystal Shrimp",
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 3
+      },
+      {
+        "item": "Shrimp Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Carrot",
+        "quantity": 2
+      }
+    ]
+  },
+  "all-weather-beauty": {
+    "name": "All-Weather Beauty",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 16% of Max HP and an additional 1,350 HP to the selected character.",
+    "hasRecipe": false,
+    "description": "Kaedehara Kazuha's specialty. Made from fish that have been dried on the ship. Kazuha claims that they were completely ordinary fish. But this flavor... this must surely be the definition of free, all-embracing nature, no?",
+    "character": "Kaedehara Kazuha",
+    "baseDish": "Dry-Braised Salted Fish",
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 1
+      },
+      {
+        "item": "Salt",
+        "quantity": 1
+      }
+    ]
+  },
+  "cloud-shrouded-jade": {
+    "name": "Cloud-Shrouded Jade",
+    "rarity": 2,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' sprinting Stamina consumption by 25% for 1500s.",
+    "hasRecipe": false,
+    "description": "Yun Jin's specialty. This sweet and sticky snack will somehow not affect your throat in any negative way, which is why it's Yun Jin's favorite. The aftertaste is most elegant, not something one would get sick of quickly. Come to think of it... This is quite a decent bit more than she would usually make for herself - but who are you to question her kindness?",
+    "character": "Yun Jin",
+    "baseDish": "Lotus Seed and Bird Egg Soup",
+    "recipe": [
+      {
+        "item": "Lotus Head",
+        "quantity": 1
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "cold-noodles-with-mountain-delicacies": {
+    "name": "Cold Noodles with Mountain Delicacies",
+    "rarity": 2,
+    "type": "Adventurer's Dish",
+    "effect": "Restores 80 Stamina.",
+    "hasRecipe": false,
+    "description": "Chongyun's specialty. Though these springy noodles would be irresistible in the sweltering summer, Chongyun insists on dining on them even in the chattering cold of winter. What a guy.",
+    "character": "Chongyun",
+    "baseDish": "Noodles with Mountain Delicacies",
+    "recipe": [
+      {
+        "item": "Mushroom",
+        "quantity": 3
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      }
+    ]
+  },
+  "cubic-tricks": {
+    "name": "Cubic Tricks",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases party members' CRIT Rate by 20% and CRIT DMG by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "hasRecipe": false,
+    "description": "Lyney's specialty. He covered the fruit you picked with velvet and then uncovered it — voila! You were greeted by a colorful assortment of gummies. You sampled one and your mood immediately changed. Did the great magician cast some incredible enchantment spell to bewitch the heart while no one was watching?",
+    "character": "Lyney",
+    "baseDish": "Pate de Fruit",
+    "recipe": [
+      {
+        "item": "Bulle Fruit",
+        "quantity": 1
+      },
+      {
+        "item": "Jam",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "definitely-not-bar-food!": {
+    "name": "Definitely Not Bar Food!",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 10% of Max HP, then restores an additional 150 HP.",
+    "hasRecipe": false,
+    "description": "Diona's specialty. The fish skin is crisp, and the meat is sumptuous. Only someone with a sufficiently great love for fish would be able to bring out such lovely flavors. Now, if only there were something to drink to go with it... Uh-oh, she's looking this way!",
+    "character": "Diona",
+    "baseDish": "Mondstadt Grilled Fish",
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 1
+      },
+      {
+        "item": "Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  "der-weisheit-letzter-schluss-(life)": {
+    "name": "Der Weisheit Letzter Schluss (Life)",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 16% for 300s.",
+    "hasRecipe": false,
+    "description": "Mona's specialty. A great work from a great astrologer. Its greatest aspect lies with its cost-effectiveness in filling one's stomach.",
+    "character": "Mona",
+    "baseDish": "Satisfying Salad",
+    "recipe": [
+      {
+        "item": "Cabbage",
+        "quantity": 2
+      },
+      {
+        "item": "Apple",
+        "quantity": 2
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 1
+      },
+      {
+        "item": "Potato",
+        "quantity": 1
+      }
+    ]
+  },
+  "dew-dipped-shrimp": {
+    "name": "Dew-Dipped Shrimp",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Shield Strength by 35% for 300s.",
+    "hasRecipe": false,
+    "description": "Yelan's specialty. Amongst the ingredients here is the new tea, Dipped Dew, delivered from Qiaoying Village right to the Teahouse, which was then quickly fried together with freshly-caught river shrimp. The look is sightly, the scent of distant tea, and the taste both tender and springy... Wait a moment. Why's she coming over with that plate of chilli?",
+    "character": "Yelan",
+    "baseDish": "Stir-Fried Shrimp",
+    "recipe": [
+      {
+        "item": "Shrimp Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 3
+      }
+    ]
+  },
+  "die-heilige-sinfonie": {
+    "name": "Die Heilige Sinfonie",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' Physical DMG by 55% for 300s.",
+    "hasRecipe": false,
+    "description": "Fischl's specialty. The exquisite presentation doth seem to communicate some incomprehensible enigma. When partaking, if one were to gaze upon Fischl, one might see her expectant gaze peek though the gaps of her fingers, which she is using to cover half her face... Is this also part of the mystery?",
+    "character": "Fischl",
+    "baseDish": "Cold Cut Platter",
+    "recipe": [
+      {
+        "item": "Ham",
+        "quantity": 1
+      },
+      {
+        "item": "Bacon",
+        "quantity": 1
+      },
+      {
+        "item": "Sausage",
+        "quantity": 1
+      },
+      {
+        "item": "Mint",
+        "quantity": 1
+      }
+    ]
+  },
+  "dinner-of-judgment": {
+    "name": "Dinner of Judgment",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 30% of Max HP and an additional 1,750 HP to the selected character.",
+    "hasRecipe": false,
+    "description": "Rosaria's specialty. The seemingly dark thorns make it hard to know how to begin tucking in. After some effort, you managed to clear the ornamentation away... and to your surprise, the first taste of the tender chicken unveils a shockingly lovely taste. As Rosaria studies your reaction, she seems pleased.",
+    "character": "Rosaria",
+    "baseDish": "Sweet Madame",
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 2
+      },
+      {
+        "item": "Sweet Flower",
+        "quantity": 2
+      }
+    ]
+  },
+  "dizziness-be-gone-no-jutsu-version-2.0": {
+    "name": "Dizziness-Be-Gone no Jutsu Version 2.0",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "Sayu's specialty. The Onigiri has been kneaded by Sayu into a cutesy shape — but remember, it's a mujina, not a tanuki, got it? And now that you mention it, this must be how Sayu can sleep for a whole day after eating, right?",
+    "character": "Sayu",
+    "baseDish": "Onigiri",
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 2
+      },
+      {
+        "item": "Rice",
+        "quantity": 1
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 2
+      }
+    ]
+  },
+  "duel-soul": {
+    "name": "Duel Soul",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 34% of Max HP to the selected character and regenerates 980 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "Cyno's specialty. The golden grains of rice have been piled up like a most remarkable hill. As you scoop out a chunk and place the fragrant meat into your mouth, an impulse you cannot name rises within your chest — a desire to whip out your Genius Invokation deck and duel!",
+    "character": "Cyno",
+    "baseDish": "Tahchin",
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 4
+      },
+      {
+        "item": "Fowl",
+        "quantity": 2
+      },
+      {
+        "item": "Fish",
+        "quantity": 2
+      },
+      {
+        "item": "Padisarah",
+        "quantity": 1
+      }
+    ]
+  },
+  "energizing-bento": {
+    "name": "Energizing Bento",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 34% of Max HP to the selected character and regenerates 980 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "Kirara's specialty. A human-friendly bento box Kirara put in a great deal of effort to prepare. By observing the preferences of human girls, she came up with this combination of well-balanced side dishes and adorable cat-shaped rice balls. It's just like a carefully wrapped package... You could receive one every day and never get tired of it!",
+    "character": "Kirara",
+    "baseDish": "Invigorating Kitty Meal",
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 4
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 2
+      },
+      {
+        "item": "Rice",
+        "quantity": 1
+      }
+    ]
+  },
+  "extravagant-slumber": {
+    "name": "Extravagant Slumber",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "Layla's specialty. The scattered nuts are like stars dotted in the deep and quiet night sky. After just one bite, your body and mind after a day's work suddenly felt relaxed and peaceful. When you told Layla about that feeling, she showed a mixed expression of joy and regret - \"Th-That's great! Ah, if only it could work on me too.\"",
+    "character": "Layla",
+    "baseDish": "Rose Custard",
+    "recipe": [
+      {
+        "item": "Milk",
+        "quantity": 2
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "faith-eternal": {
+    "name": "Faith Eternal",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 10% of Max HP, then restores an additional 150 HP.",
+    "hasRecipe": false,
+    "description": "Kujou Sara's specialty. Forget calling it a dish, this is really more like a snack. The sweet, fluffy flavor really doesn't seem to suit Sara's own preferences. Wait a moment. That symbol on the snack — does this have to do with a certain other person's tastes instead?",
+    "character": "Kujou Sara",
+    "baseDish": "Egg Roll",
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "fish-flavored-toast": {
+    "name": "Fish-Flavored Toast",
+    "rarity": 2,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 151 for 300s.",
+    "hasRecipe": false,
+    "description": "Klee's specialty. By way of apology for wantonly using her bombs to scare away the fish, Jean instructed Klee to make this toast for the fishermen. It's filling and tasty. Klee will never starve again, even after a whole day of blast fishing.",
+    "character": "Klee",
+    "baseDish": "Fisherman's Toast",
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Tomato",
+        "quantity": 2
+      },
+      {
+        "item": "Onion",
+        "quantity": 1
+      },
+      {
+        "item": "Milk",
+        "quantity": 1
+      }
+    ]
+  },
+  "flash-fried-filet": {
+    "name": "Flash-Fried Filet",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 10% of Max HP, then restores an additional 150 HP.",
+    "hasRecipe": false,
+    "description": "Beidou's specialty. They say that Beidou once learned some tricks from Xiangling, making some refinements and adding more flavor to this dish. If you can clean it out in one go, perhaps you might impress her.",
+    "character": "Beidou",
+    "baseDish": "Stir-Fried Filet",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 1
+      },
+      {
+        "item": "Jueyun Chili",
+        "quantity": 1
+      }
+    ]
+  },
+  "forest-watcher's-choice": {
+    "name": "Forest Watcher's Choice",
+    "rarity": 2,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 151 for 300s.",
+    "hasRecipe": false,
+    "description": "Tighnari's specialty. The Forest Watcher personally picked out these edible mushrooms — not only the common ones but also a few mysterious-looking shrooms that you have never seen before. No condiments were added, for the limelight should go to the ingredients' unmarred freshness. It must have taken him quite some time to prepare this delicious dish.",
+    "character": "Tighnari",
+    "baseDish": "Mushroom Hodgepodge",
+    "recipe": [
+      {
+        "item": "Rukkha­sha­va Mushrooms",
+        "quantity": 1
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 1
+      },
+      {
+        "item": "Starshroom",
+        "quantity": 1
+      }
+    ]
+  },
+  "fruity-skewers": {
+    "name": "Fruity Skewers",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 16% of Max HP and an additional 1,350 HP to the selected character.",
+    "hasRecipe": false,
+    "description": "Kaeya's specialty. A chewy skewer with a rich sweet aftertaste. Wait... Is this really the smell of fruit?",
+    "character": "Kaeya",
+    "baseDish": "Chicken-Mushroom Skewer",
+    "recipe": [
+      {
+        "item": "Mushroom",
+        "quantity": 1
+      },
+      {
+        "item": "Fowl",
+        "quantity": 1
+      }
+    ]
+  },
+  "fukuuchi-udon": {
+    "name": "Fukuuchi Udon",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 15% of Max HP, then restores an additional 550 HP.",
+    "hasRecipe": false,
+    "description": "Yae Miko's specialty. The Fried Tofu in here is specially made by the solemn Lady Kitsune. It is said that if you eat it all at one go with sincerity in your heart, you will have the protection of the Great Kitsune — misfortune shall flee and fortune abound!",
+    "character": "Yae Miko",
+    "baseDish": "Udon Noodles",
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 1
+      },
+      {
+        "item": "Fish",
+        "quantity": 1
+      }
+    ]
+  },
+  "ghostly-march": {
+    "name": "Ghostly March",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 15% of Max HP, then restores an additional 550 HP.",
+    "hasRecipe": false,
+    "description": "Hu Tao's specialty. The round-faced ghouls seem quite cute, squeezed into a pile as they are. But if you were to fall to temptation and try but one of them, you may yet come to regret it for a long while... After all, this plate is full of top-quality, taste-bud-blasting—Actually, what on earth is this stuff, anyway?",
+    "character": "Hu Tao",
+    "baseDish": "Vegetarian Abalone",
+    "recipe": [
+      {
+        "item": "Matsutake",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 2
+      }
+    ]
+  },
+  "goldflame-tajine": {
+    "name": "Goldflame Tajine",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Max HP by 30% for 300s.",
+    "hasRecipe": false,
+    "description": "Dehya's specialty. As you open the unassuming lid, the supple meat that lies within is so tender one could get drunk on the sensation of it slipping between your lips... It seems that Dehya's dab kitchen hand is as steady as her sword-arm.",
+    "character": "Dehya",
+    "baseDish": "Gilded Tajine",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Padisarah",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      },
+      {
+        "item": "Onion",
+        "quantity": 1
+      }
+    ]
+  },
+  "halvamazd": {
+    "name": "Halvamazd",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 282 for 300s.",
+    "hasRecipe": false,
+    "description": "Nahida's specialty. It is said that \"mazd\" means \"wisdom\" in Sumeru, and such delicate \"wisdom\" is simply irresistible. There is a gentle smile in Nahida's eyes: \"The sea anemone has helped the little fish and witnessed its growth, so it's only natural for the little fish to give something back.\"",
+    "character": "Nahida",
+    "baseDish": "Candied Ajilenakh Nut",
+    "recipe": [
+      {
+        "item": "Ajilenakh Nut",
+        "quantity": 4
+      },
+      {
+        "item": "Almond",
+        "quantity": 2
+      },
+      {
+        "item": "Butter",
+        "quantity": 2
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 1
+      }
+    ]
+  },
+  "heartstring-noodles": {
+    "name": "Heartstring Noodles",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 274 for 300s.",
+    "hasRecipe": false,
+    "description": "Shenhe's specialty. Perhaps this comes from her desire to recreate a flavor that lives only in her memories, but Shenhe has poured much time and effort into both making and plating this dish. The smooth noodles and delectable soup make a great impression indeed, but the most indelible aspects are the dedication and heart put into this dish…",
+    "character": "Shenhe",
+    "baseDish": "Dragon Beard Noodles",
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 4
+      },
+      {
+        "item": "Fowl",
+        "quantity": 2
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 2
+      },
+      {
+        "item": "Ham",
+        "quantity": 1
+      }
+    ]
+  },
+  "heat-quelling-soup": {
+    "name": "Heat-Quelling Soup",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Healing Bonus by 25% for 300s.",
+    "hasRecipe": false,
+    "description": "Baizhu's specialty. \"This isn't actually medicine, merely something that can alleviate dryness.\" As Baizhu's concerned voice echoes in your ears, a bowl of lustrous fruit soup greets your gaze. \"This dish didn't use to have sugar, but he was worried that you wouldn't be used to the bitter taste, so he added some to it,\" added Changsheng.",
+    "character": "Baizhu",
+    "baseDish": "Jade Fruit Soup",
+    "recipe": [
+      {
+        "item": "Sunsettia",
+        "quantity": 3
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      },
+      {
+        "item": "Qingxin",
+        "quantity": 1
+      },
+      {
+        "item": "Violetgrass",
+        "quantity": 1
+      }
+    ]
+  },
+  "ideal-circumstance": {
+    "name": "Ideal Circumstance",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 40% of Max HP and an additional 2,350 HP to the selected character.",
+    "hasRecipe": false,
+    "description": "Alhaitham's specialty. A dish created through the fusion of vegetables and meat prepared in a patterned frying pan. Improvements were made to the recipe, making it taste quite different from the original dish. The words on the food mean \"contemplation.\" In the words of the creator: \"Ideally, everyone should be capable of contemplation, but practically, it doesn't seem very possible.\"",
+    "character": "Alhaitham",
+    "baseDish": "Sabz Meat Stew",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 2
+      },
+      {
+        "item": "Onion",
+        "quantity": 2
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "invigorating-pizza": {
+    "name": "Invigorating Pizza",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 34% of Max HP to the selected character and regenerates 980 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "Jean's specialty. This pizza almost seems more art than food. Just one slice is enough to have you raring to go. Is this what keeps Jean working so hard?",
+    "character": "Jean",
+    "baseDish": "Mushroom Pizza",
+    "recipe": [
+      {
+        "item": "Mushroom",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Cabbage",
+        "quantity": 2
+      },
+      {
+        "item": "Cheese",
+        "quantity": 1
+      }
+    ]
+  },
+  "lighter-than-air-pancake": {
+    "name": "Lighter-Than-Air Pancake",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 15% of Max HP, then restores an additional 550 HP.",
+    "hasRecipe": false,
+    "description": "Noelle's specialty. These thick pastries are the special afternoon snacks of the Knights of Favonius. They give people the sense that they have fallen upon a layer of fluffy clouds, and seeing Noelle's smile makes the feeling all the sweeter!",
+    "character": "Noelle",
+    "baseDish": "Tea Break Pancake",
+    "recipe": [
+      {
+        "item": "Berry",
+        "quantity": 3
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 1
+      }
+    ]
+  },
+  "mysterious-bolognese": {
+    "name": "Mysterious Bolognese",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "Lisa's specialty. With an inexplicable aurora, this bolognese is so exotic that you can never have enough. Did she actually enchant it with some kind of magic?",
+    "character": "Lisa",
+    "baseDish": "Flaming Red Bolognese",
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Tomato",
+        "quantity": 1
+      }
+    ]
+  },
+  "no-tomorrow": {
+    "name": "No Tomorrow",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 20% and CRIT DMG by 20% for 300s.",
+    "hasRecipe": false,
+    "description": "Qiqi's specialty. The neat rows of ingredients seem at once exotic and delicious, and Baizhu says that Qiqi has spent a long time creating this dish. Still, once one considers that Qiqi has no sense of taste, just putting chopsticks to the food is going to take some courage.",
+    "character": "Qiqi",
+    "baseDish": "Come and Get It",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 3
+      },
+      {
+        "item": "Fish",
+        "quantity": 3
+      },
+      {
+        "item": "Rice",
+        "quantity": 3
+      },
+      {
+        "item": "Tofu",
+        "quantity": 1
+      }
+    ]
+  },
+  "nutritious-meal-(v.593)": {
+    "name": "Nutritious Meal (V.593)",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 20% of Max HP, then restores an additional 1,500 HP.",
+    "hasRecipe": false,
+    "description": "Sucrose's specialty. It looks like some strange alchemical product at first, but Sucrose insists that it is a healthy and nutritious meal, the result of many experiments and painstaking improvements. Its healthy green color comes from a mix of cream and natural vegetable juices... Wait, vegetable juices?",
+    "character": "Sucrose",
+    "baseDish": "Crab, Ham & Veggie Bake",
+    "recipe": [
+      {
+        "item": "Crab Roe",
+        "quantity": 1
+      },
+      {
+        "item": "Ham",
+        "quantity": 1
+      },
+      {
+        "item": "Cream",
+        "quantity": 1
+      },
+      {
+        "item": "Cabbage",
+        "quantity": 1
+      }
+    ]
+  },
+  "omurice-waltz": {
+    "name": "Omurice Waltz",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 1500s.",
+    "hasRecipe": false,
+    "description": "Kuki Shinobu's specialty. The soft egg skin almost seems to dance upon a stage made from sauce, with fluffy rice wrapped under its swaying skirt. This would even be a match for the work of Uyuu Restaurant's head chef. Truly, Shinobu's chef license was not earned in vain.",
+    "character": "Kuki Shinobu",
+    "baseDish": "Omelette Rice",
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 4
+      },
+      {
+        "item": "Rice",
+        "quantity": 3
+      },
+      {
+        "item": "Tomato",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "outrider's-champion-steak!": {
+    "name": "Outrider's Champion Steak!",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 10% of Max HP, then restores an additional 150 HP.",
+    "hasRecipe": false,
+    "description": "Amber's specialty. One side is obviously uncooked. The other side gives off a subtle scent of something burnt. Close your eyes and have a big mouthful, just to keep Amber happy if nothing else.",
+    "character": "Amber",
+    "baseDish": "Steak",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      }
+    ]
+  },
+  "prosperous-peace": {
+    "name": "Prosperous Peace",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 40% of Max HP and an additional 2,350 HP to the selected character.",
+    "hasRecipe": false,
+    "description": "Ganyu's specialty. The image of a resting qilin is by itself enough to calm a person down. Ganyu has put her well-wishes for all that is lovely in this world into this dish — and she's saved some of her favorite Qingxin flowers for you, too.",
+    "character": "Ganyu",
+    "baseDish": "Universal Peace",
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 4
+      },
+      {
+        "item": "Lotus Head",
+        "quantity": 2
+      },
+      {
+        "item": "Carrot",
+        "quantity": 2
+      },
+      {
+        "item": "Berry",
+        "quantity": 2
+      }
+    ]
+  },
+  "puppy-paw-hash-brown": {
+    "name": "Puppy-Paw Hash Brown",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 40% of Max HP and an additional 2,350 HP to the selected character.",
+    "hasRecipe": false,
+    "description": "Razor's specialty. Carefully shaped to resemble a wolf's paw. You can really feel the effort he has put into trying human cooking.",
+    "character": "Razor",
+    "baseDish": "Mondstadt Hash Brown",
+    "recipe": [
+      {
+        "item": "Pinecone",
+        "quantity": 2
+      },
+      {
+        "item": "Potato",
+        "quantity": 1
+      },
+      {
+        "item": "Jam",
+        "quantity": 1
+      }
+    ]
+  },
+  "qiankun-mora-meat": {
+    "name": "Qiankun Mora Meat",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 10% of Max HP, then restores an additional 150 HP.",
+    "hasRecipe": false,
+    "description": "Ningguang's specialty. The pastry is perfectly soft and waxy, as is the consistency of the meat, and the honey-like meat juices ooze out as you squeeze it. Wherever did the high and mighty Tianquan Lady Ningguang learn to make this dish?",
+    "character": "Ningguang",
+    "baseDish": "Mora Meat",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 1
+      },
+      {
+        "item": "Flour",
+        "quantity": 1
+      }
+    ]
+  },
+  "qingce-household-dish": {
+    "name": "Qingce Household Dish",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 274 for 300s.",
+    "hasRecipe": false,
+    "description": "Yaoyao's specialty. It looks rather mundane as it is not displayed with the same luxurious aesthetic as dishes prepared by a fancy restaurant. However, as soon as you take a bite, the flavor immediately offers you a fragrant and intimate experience, certain to leave an ever-lasting impression. After a single taste, what's on your tongue will be on your heart for good. As for the reason, maybe the secret ingredient to this recipe is simply \"caring.\"",
+    "character": "Yaoyao",
+    "baseDish": "Qingce Stir Fry",
+    "recipe": [
+      {
+        "item": "Mushroom",
+        "quantity": 3
+      },
+      {
+        "item": "Lotus Head",
+        "quantity": 2
+      },
+      {
+        "item": "Jueyun Chili",
+        "quantity": 1
+      },
+      {
+        "item": "Cabbage",
+        "quantity": 1
+      }
+    ]
+  },
+  "quiet-elegance": {
+    "name": "Quiet Elegance",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Shield Strength by 35% for 300s.",
+    "hasRecipe": false,
+    "description": "Kamisato Ayato's specialty. The arrangement is exquisite and elegant, much like the manner in which Ayato handles all his affairs. Any more, and it would have been excessive. Any less, and it would have proved a sight squandered. As you sample the dish, you find that its flavor is identical to that of Uyuu Restaurant's — amazing. But as you reach your chopsticks for that crystalline camellia, Ayato stops you... \"That was something I made during sword practice. It's just a decoration.\"",
+    "character": "Kamisato Ayato",
+    "baseDish": "Sakura Tempura",
+    "recipe": [
+      {
+        "item": "Shrimp Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Lavender Melon",
+        "quantity": 2
+      },
+      {
+        "item": "Sakura Bloom",
+        "quantity": 2
+      },
+      {
+        "item": "Flour",
+        "quantity": 1
+      }
+    ]
+  },
+  "rockin'-riffin'-chicken!": {
+    "name": "Rockin' Riffin' Chicken!",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' CRIT Rate by 16% for 300s",
+    "hasRecipe": false,
+    "description": "Xinyan's specialty. Its demonic appearance hides an absolutely demonic spiciness. Eat it, tear up, eat some more, and don't stop till you drop! Surely only a demon could have invented such a dish!",
+    "character": "Xinyan",
+    "baseDish": "Jueyun Chili Chicken",
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 2
+      },
+      {
+        "item": "Jueyun Chili",
+        "quantity": 1
+      },
+      {
+        "item": "Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  "satiety-gel": {
+    "name": "Satiety Gel",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 16% of Max HP and an additional 1,350 HP to the selected character.",
+    "hasRecipe": false,
+    "description": "Aloy's specialty. The cross-section looks perfect, its shape is regular, and it gives off a cool air. At first, Aloy seemed a bit apprehensive as to whether you'd enjoy this rather unique dessert, but she was relieved when you wolfed it all down in one go...",
+    "character": "Aloy",
+    "baseDish": "Mint Jelly",
+    "recipe": [
+      {
+        "item": "Mint",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "secret-sauce-bbq-ribs": {
+    "name": "Secret Sauce BBQ Ribs",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Restores 30% of Max HP and an additional 1,750 HP to the selected character.",
+    "hasRecipe": false,
+    "description": "Wriothesley's specialty. Soon after kicking out his subordinates with the excuse, \"Feel free to leave, but I'm staying! Things are heating up in here, and it could blow!\", a meatastic delicacy greets your eyes. A full-bodied sauce slathered over flaky skin brings an extraordinary double blast of deliciousness, though as you taste it, it does seem to be practically identically to a condiment that has become awfully popular recently...",
+    "character": "Wriothesley",
+    "baseDish": "Barbeque Ribs",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Pepper",
+        "quantity": 2
+      },
+      {
+        "item": "Marcotte",
+        "quantity": 1
+      }
+    ]
+  },
+  "shimi-chazuke": {
+    "name": "Shimi Chazuke",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Healing Bonus by 25% for 300s.",
+    "hasRecipe": false,
+    "description": "Wanderer's specialty. The mildly bitter fragrance of tea and the refreshingly sweet aroma of rice are perfectly blended together, leaving you to wolf it down insatiably. How did he manage to cook something so extraordinary? Ah, your expression must have betrayed this thought to him, for his face suddenly turns grim: \"Have you finished yet? Stop gawking and go wash the dishes now.\"",
+    "character": "Wanderer",
+    "baseDish": "Unagi Chazuke",
+    "recipe": [
+      {
+        "item": "Eel Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Rice",
+        "quantity": 3
+      },
+      {
+        "item": "Seagrass",
+        "quantity": 3
+      },
+      {
+        "item": "Salt",
+        "quantity": 1
+      }
+    ]
+  },
+  "show-me-the-mora": {
+    "name": "Show Me the Mora",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 274 for 300s.",
+    "hasRecipe": false,
+    "description": "Dori's specialty. After paying a large sum of Mora, you finally got a chance to taste the dish cooked by Lord Sangemah Bay herself. Firm chicken is covered in the silky sauce with a smooth texture. With the mind-controlling charm of its great flavor, this dish is spurring an impulse in you to spend another fortune just to get another bite!",
+    "character": "Dori",
+    "baseDish": "Butter Chicken",
+    "recipe": [
+      {
+        "item": "Fowl",
+        "quantity": 3
+      },
+      {
+        "item": "Tomato",
+        "quantity": 3
+      },
+      {
+        "item": "Butter",
+        "quantity": 1
+      },
+      {
+        "item": "Spice",
+        "quantity": 1
+      }
+    ]
+  },
+  "slow-cooked-bamboo-shoot-soup": {
+    "name": "Slow-Cooked Bamboo Shoot Soup",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 34% of Max HP to the selected character and regenerates 980 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "Zhongli's specialty. The ham is a butt end selected according to Yuehai Pavilion's gourmet standards. The fresh meat is pork belly, freshly hunted in Springvale, while the bamboo shoots are the densest you'll find in Qingce Village. It is then heated, slowly, gently, and with the utmost care and technique... Such a \"particular\" taste may only be shared with those who know how to appreciate it.",
+    "character": "Zhongli",
+    "baseDish": "Bamboo Shoot Soup",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Ham",
+        "quantity": 2
+      },
+      {
+        "item": "Bamboo Shoot",
+        "quantity": 1
+      }
+    ]
+  },
+  "spicy-stew": {
+    "name": "Spicy Stew",
+    "rarity": 2,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' sprinting Stamina consumption by 25% for 1500s.",
+    "hasRecipe": false,
+    "description": "Barbara's specialty. Carrots cut into cute little stars make this dish... Wait, AHH, where did this spiciness come from!?",
+    "character": "Barbara",
+    "baseDish": "Cream Stew",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Cream",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 1
+      }
+    ]
+  },
+  "stormcrest-pie": {
+    "name": "Stormcrest Pie",
+    "rarity": 4,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Shield Strength by 40% and DEF by 282 for 300s.",
+    "hasRecipe": false,
+    "description": "Eula's specialty. It's hard to say if the unorthodox, non-full-moon shape is meant to flout tradition or express her \"tooth for a tooth\" ethos. A rich, savory, and smoky flavor emanates from beneath the golden outer crust, unlikely to be reproducible by anybody else in Mondstadt. Best not to tell her all this, though, lest she add it to her list of personal vendettas.",
+    "character": "Eula",
+    "baseDish": "Moon Pie",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 4
+      },
+      {
+        "item": "Butter",
+        "quantity": 3
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      }
+    ]
+  },
+  "summer-festival-fish": {
+    "name": "Summer Festival Fish",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 40% of Max HP and an additional 2,350 HP to the selected character.",
+    "hasRecipe": false,
+    "description": "Yoimiya's specialty. Watching the fireworks, your hands full of the snacks Yoimiya's given you, her carefree, child-like laughter in your ear as the pyrotechnic burst overhead... Amid this unique symphony of sounds, the plump goldfish in your hand almost looks like it might start swimming at any moment...",
+    "character": "Yoimiya",
+    "baseDish": "Tricolor Dango",
+    "recipe": [
+      {
+        "item": "Milk",
+        "quantity": 2
+      },
+      {
+        "item": "Snapdragon",
+        "quantity": 2
+      },
+      {
+        "item": "Sakura Bloom",
+        "quantity": 2
+      },
+      {
+        "item": "Rice",
+        "quantity": 1
+      }
+    ]
+  },
+  "surveyor's-breakfast-sandwich": {
+    "name": "Surveyor's Breakfast Sandwich",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 274 for 300s.",
+    "hasRecipe": false,
+    "description": "Mika's specialty. The luxurious spread before you is a veritable hillock of ingredients, and as you take a small bite, each clearly-demarcated layer of flavor and savory spice spreads throughout your mouth, as if you have climbed some mountain of gourmet. Are these the culinary skills he has honed while with the Knights?",
+    "character": "Mika",
+    "baseDish": "Adventurer's Breakfast Sandwich",
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Ham",
+        "quantity": 1
+      }
+    ]
+  },
+  "survival-grilled-fish": {
+    "name": "Survival Grilled Fish",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Restores 16% of Max HP and an additional 1,350 HP to the selected character.",
+    "hasRecipe": false,
+    "description": "Keqing's specialty. This dish was not grilled. Instead, it was fried from within through the delicate application of Electro. A gentle bite reveals fragrant fish under the lightly-charred skin, its taste perfectly balanced. So, is this how she survives in the wild? You really can't judge a book by its cover.",
+    "character": "Keqing",
+    "baseDish": "Grilled Tiger Fish",
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 1
+      },
+      {
+        "item": "Pepper",
+        "quantity": 1
+      }
+    ]
+  },
+  "swirling-steps": {
+    "name": "Swirling Steps",
+    "rarity": 3,
+    "type": "Adventurer's Dish",
+    "effect": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 1500s.",
+    "hasRecipe": false,
+    "description": "Nilou's specialty. The crystal-clear cup that reminds you of an ornate jewel case contains a soft, melt-in-your-mouth pudding. The reddish coloration, like a fleeing trance, reminds you ever so much of Nilou's radiant, dancing form. Ah, would that this dance might last forever.",
+    "character": "Nilou",
+    "baseDish": "Padisarah Pudding",
+    "recipe": [
+      {
+        "item": "Padisarah",
+        "quantity": 2
+      },
+      {
+        "item": "Sumeru Rose",
+        "quantity": 1
+      },
+      {
+        "item": "Milk",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "teyvat-charred-egg": {
+    "name": "Teyvat Charred Egg",
+    "rarity": 1,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 10% of Max HP, then restores an additional 150 HP.",
+    "hasRecipe": false,
+    "description": "Bennett's specialty. For some reason, every single fried egg is a little burnt around the edges. That said, the burnt crisp does lend a whole new flavor to the dish.",
+    "character": "Bennett",
+    "baseDish": "Teyvat Fried Egg",
+    "recipe": [
+      {
+        "item": "Bird Egg",
+        "quantity": 1
+      }
+    ]
+  },
+  "the-endeavor": {
+    "name": "The Endeavor",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 15% of Max HP, then restores an additional 550 HP.",
+    "hasRecipe": false,
+    "description": "Kaveh's specialty. The golden crust of the biscuit is arranged to resemble the Palace of Alcazarzaray, and the meal rises like a tower from a pure-white pond of yogurt sauce. Though the creator of the dish has placed a monumental amount of effort into its creation, he seems to have missed the fact that all the biscuits must be broken during the process of consumption.",
+    "character": "Kaveh",
+    "baseDish": "Fatteh",
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Glabrous Beans",
+        "quantity": 2
+      },
+      {
+        "item": "Milk",
+        "quantity": 2
+      },
+      {
+        "item": "Mint",
+        "quantity": 1
+      }
+    ]
+  },
+  "the-only-truth": {
+    "name": "The Only Truth",
+    "rarity": 2,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 114 for 300s.",
+    "hasRecipe": false,
+    "description": "Shikanoin Heizou's specialty. On the tender, moist scrambled eggs lies a juicy katsu fried to golden perfection, its aroma most enticing indeed... Having been tempted to gobble the dish down, you are somehow seized by the urge to let out all that is hidden in your heart — this is not some sort of secret weapon of Heizou... is it?",
+    "character": "Shikanoin Heizou",
+    "baseDish": "Katsu Sandwich",
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Cabbage",
+        "quantity": 1
+      }
+    ]
+  },
+  "traditionally-made-charcoal-baked-ajilenakh-cake": {
+    "name": "Traditionally-Made Charcoal-Baked Ajilenakh Cake",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 20% of Max HP, then restores an additional 1500 HP.",
+    "hasRecipe": false,
+    "description": "Faruzan's specialty. The dark and sweet cake, lying as it does atop a minty-green sauce bed, almost looks like some enigmatic mechanism. Your hesitation must have somehow reached Faruzan, for she then straightened up to assertively reassure you that this was a traditional dish in Sumeru and that its flavor is guaranteed. But you can't help wondering... Is it really a \"traditional\" dish that catered to the tastes of Sumeru people a hundred years ago?",
+    "character": "Faruzan",
+    "baseDish": "Charcoal-Baked Ajilenakh Cake",
+    "recipe": [
+      {
+        "item": "Ajilenakh Nut",
+        "quantity": 2
+      },
+      {
+        "item": "Flour",
+        "quantity": 1
+      },
+      {
+        "item": "Jam",
+        "quantity": 1
+      }
+    ]
+  },
+  "utmost-care": {
+    "name": "Utmost Care",
+    "rarity": 2,
+    "type": "Adventurer's Dish",
+    "effect": "Restores 80 Stamina.",
+    "hasRecipe": false,
+    "description": "Candace's specialty. The aroma of this dish hits your nose long before it can be plated up. It would seem that Candace's adept guardianship also extends to sustaining appetites... But, uh, this really is an extraordinary amount of Aaru Mixed Rice. How are you supposed to deal with this mountain of \"overflowing consideration\"?",
+    "character": "Candace",
+    "baseDish": "Aaru Mixed Rice",
+    "recipe": [
+      {
+        "item": "Rice",
+        "quantity": 3
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Glabrous Beans",
+        "quantity": 2
+      },
+      {
+        "item": "Tomato",
+        "quantity": 2
+      }
+    ]
+  },
+  "victorious-legend": {
+    "name": "Victorious Legend",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 40% of Max HP and an additional 2,350 HP to the selected character.",
+    "hasRecipe": false,
+    "description": "Gorou's specialty. The side dishes have been piled high to form a sight as moving as Gorou's own motivations. As you finish the noodles and soup all in one go and pat your stomach in satisfaction, you look up and see Gorou... smiling radiantly as his tail wags from side to side (the latter probably unbeknownst to him!)",
+    "character": "Gorou",
+    "baseDish": "Tonkotsu Ramen",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Bamboo Shoot",
+        "quantity": 2
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 1
+      }
+    ]
+  },
+  "wanmin-restaurant's-boiled-fish": {
+    "name": "Wanmin Restaurant's Boiled Fish",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 34% of Max HP to the selected character and regenerates 980 HP every 5s for 30s.",
+    "hasRecipe": false,
+    "description": "Xiangling's specialty. This is the signature dish of the Wanmin Restaurant, combining Xiangling's heartfelt passion for cuisine. Anyone who tastes it will gain a pure appreciation for gourmet food amid the hearty and addictive blend of flavors.",
+    "character": "Xiangling",
+    "baseDish": "Black-Back Perch Stew",
+    "recipe": [
+      {
+        "item": "Fish",
+        "quantity": 3
+      },
+      {
+        "item": "Jueyun Chili",
+        "quantity": 1
+      },
+      {
+        "item": "Salt",
+        "quantity": 1
+      },
+      {
+        "item": "Violetgrass",
+        "quantity": 1
+      }
+    ]
+  },
+  "way-of-the-strong": {
+    "name": "Way of the Strong",
+    "rarity": 2,
+    "type": "Recovery Dish",
+    "effect": "Revives a character and restores 15% of Max HP, then restores an additional 550 HP.",
+    "hasRecipe": false,
+    "description": "Arataki Itto's specialty. He insists that this is a \"heretofore unmatched dish\" hand-made by \"Arataki 'Number One Gourmet' Itto.\" Whether standing, sitting, or lying down, this'll fill your tummy in one shot and send you well on your way to becoming the second-mightiest being in the world. What a swell guy.",
+    "character": "Arataki Itto",
+    "baseDish": "Mixed Yakisoba",
+    "recipe": [
+      {
+        "item": "Flour",
+        "quantity": 3
+      },
+      {
+        "item": "Cabbage",
+        "quantity": 2
+      },
+      {
+        "item": "Raw Meat",
+        "quantity": 1
+      }
+    ]
+  },
+  "woodland-dream": {
+    "name": "Woodland Dream",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Shield Strength by 35% for 300s.",
+    "hasRecipe": false,
+    "description": "Albedo's specialty. The fruits and vegetables are laid out like grass, and they stand tall like trees. In this miniature world-in-a-plate, you circle the mottled city wall, follow brown alleys, and enter the light orange castle. A sweet, tender taste then bursts forth like a blooming flower. You open your eyes. There is a smile in the white-haired prince's eyes.",
+    "character": "Albedo",
+    "baseDish": "Sunshine Sprat",
+    "recipe": [
+      {
+        "item": "Butter",
+        "quantity": 3
+      },
+      {
+        "item": "Fish",
+        "quantity": 3
+      },
+      {
+        "item": "Salt",
+        "quantity": 1
+      },
+      {
+        "item": "Small Lamp Grass",
+        "quantity": 1
+      }
+    ]
+  },
+  "fruity-duet": {
+    "name": "Fruity Duet",
+    "rarity": 3,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all part members' ATK by 194 for 300s.",
+    "hasRecipe": true,
+    "proficiency": 15,
+    "description": "A dual-flavored fruity beverage. Add a thick layer of pulp at the bottom and then pour in a smoothie made out of juice and tea. Its layered flavors of fresh fruit are so tempting that no one is able to refuse the drink.",
+    "event": "New Recipe Rewards (2023-08-17)",
+    "recipe": [
+      {
+        "item": "Sunsettia",
+        "quantity": 1
+      },
+      {
+        "item": "Jam",
+        "quantity": 1
+      },
+      {
+        "item": "Qingxin",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "fruity-smoothie": {
+    "name": "Fruity Smoothie",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Revives the character and restores 1,200 HP.",
+    "hasRecipe": true,
+    "proficiency": 15,
+    "description": "A beverage with simple colors. The smoothie made out of fruit-flavored yogurt has been arranged to resemble the blue sky and white clouds. At the bottom is a thick layer of jelly and finely-cut fruit. The revitalizing flavor makes this beverage the best choice in the summer.",
+    "event": "New Recipe Rewards (2023-08-17)",
+    "recipe": [
+      {
+        "item": "Berry",
+        "quantity": 3
+      },
+      {
+        "item": "Milk",
+        "quantity": 3
+      },
+      {
+        "item": "Qingxin",
+        "quantity": 1
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "meat-lovers'-mushroom-pizza": {
+    "name": "Meat Lovers' Mushroom Pizza",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s.",
+    "hasRecipe": true,
+    "proficiency": 20,
+    "description": "A pizza freshly baked from the oven. The crust is dotted with large chunks of meat and fresh mushroom slices. The sweet, stretchy cheese further adds to the charm. You have no doubt that every slice will be snatched away the moment it is served. Speed, therefore, is a gourmet's best buddy when this pizza is on the table.",
+    "event": "New Recipe Rewards",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 4
+      },
+      {
+        "item": "Flour",
+        "quantity": 4
+      },
+      {
+        "item": "Mushroom",
+        "quantity": 3
+      },
+      {
+        "item": "Cheese",
+        "quantity": 2
+      }
+    ]
+  },
+  "minty-fruit-tea": {
+    "name": "Minty Fruit Tea",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' DEF by 200 for 300s.",
+    "hasRecipe": true,
+    "proficiency": 15,
+    "description": "A cooling and refreshing drink. The invigorating tea and the sweet-sour taste of fruit blend together and energize your taste buds, and before you know it, you've already drained your entire cup.",
+    "event": "New Recipe Rewards",
+    "recipe": [
+      {
+        "item": "Mint",
+        "quantity": 3
+      },
+      {
+        "item": "Sunsettia",
+        "quantity": 3
+      },
+      {
+        "item": "Berry",
+        "quantity": 3
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
+  },
+  "super-magnificent-pizza": {
+    "name": "Super Magnificent Pizza",
+    "rarity": 4,
+    "type": "ATK-Boosting Dish",
+    "effect": "Increases all party members' Physical DMG by 35% and CRIT Rate by 8% for 300s.",
+    "hasRecipe": true,
+    "proficiency": 20,
+    "description": "An exceedingly sumptuous pizza. First lay out a base of ham, then add in meat that has been chopped up into little bits for a dish that packs an unrivaled sense of satisfaction. Once roasted, the char of meat and the creamy flavor of the cheese are truly a tantalizing combination.",
+    "event": "New Recipe Rewards",
+    "recipe": [
+      {
+        "item": "Raw Meat",
+        "quantity": 2
+      },
+      {
+        "item": "Ham",
+        "quantity": 2
+      },
+      {
+        "item": "Flour",
+        "quantity": 2
+      },
+      {
+        "item": "Cheese",
+        "quantity": 2
+      }
+    ]
+  },
+  "lantern-rite-special-triple-layered-consommé": {
+    "name": "Lantern Rite Special Triple-Layered Consommé",
+    "rarity": 3,
+    "type": "DEF-Boosting Dish",
+    "effect": "Increases all party members' Shield strength by 30%.",
+    "hasRecipe": false,
+    "description": "Traditional cuisine made to celebrate Lantern Rite. The ham, fowl, and bamboo shoots have been sliced into threads of equal length, and they've been laid out neatly in the soup bowl after being steamed at high heat, before being covered in consommé. The layers are distinct, and the mouthfeel is salty yet fresh.",
+    "baseDish": "Triple-Layered Consommé",
+    "event": "Lantern Rite"
   }
 }

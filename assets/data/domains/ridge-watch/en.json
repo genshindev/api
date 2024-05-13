@@ -1,0 +1,153 @@
+{
+  "name": "Ridge Watch",
+  "type": "Blessing",
+  "description": "Standing proudly over the start of the ridge, these ancient city ruins overlook both north and south, both mountain and river, like a boundary marker. Legend has it that its gates and blessings are only open to those whose hearts are lit with an eternal blaze.",
+  "location": "Stone Gate, Bishui Plain, Liyue",
+  "nation": "Liyue",
+  "requirements": [
+    {
+      "level": 1,
+      "adventureRank": 30,
+      "recommendedLevel": 59,
+      "leyLineDisorder": [
+        "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s."
+      ]
+    },
+    {
+      "level": 2,
+      "adventureRank": 35,
+      "recommendedLevel": 69,
+      "leyLineDisorder": [
+        "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s."
+      ]
+    },
+    {
+      "level": 3,
+      "adventureRank": 40,
+      "recommendedLevel": 80,
+      "leyLineDisorder": [
+        "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s."
+      ]
+    },
+    {
+      "level": 4,
+      "adventureRank": 45,
+      "recommendedLevel": 90,
+      "leyLineDisorder": [
+        "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s."
+      ]
+    }
+  ],
+  "recommendedElements": ["Hydro", "Cryo", "Geo"],
+  "rewards": [
+    {
+      "day": "always",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Martial Artist",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2025,
+          "drops": [
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Martial Artist",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "drops": [
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Martial Artist",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Tenacity of the Millelith",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Pale Flame",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2525,
+          "drops": [
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Martial Artist",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Tenacity of the Millelith",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Pale Flame",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

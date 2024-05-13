@@ -1,10 +1,13 @@
 {
   "name": "Barbara",
+  "title": "Shining Idol",
   "vision": "Hydro",
   "weapon": "Catalyst",
+  "gender": "Female",
   "nation": "Mondstadt",
   "affiliation": "Church of Favonius",
   "rarity": 4,
+  "release": "2020-09-28",
   "constellation": "Crater",
   "birthday": "0000-07-05",
   "description": "Every denizen of Mondstadt adores Barbara. However, she learned the word \"idol\" from a magazine.",

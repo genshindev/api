@@ -1,10 +1,13 @@
 {
   "name": "Sangonomiya Kokomi",
+  "title": "Pearl of Wisdom",
   "vision": "Hydro",
   "weapon": "Catalyst",
+  "gender": "Female",
   "nation": "Inazuma",
   "affiliation": "Watatsumi Island",
   "rarity": 5,
+  "release": "2021-09-21",
   "constellation": "Dracaena Somnolenta",
   "birthday": "0000-02-22",
   "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",

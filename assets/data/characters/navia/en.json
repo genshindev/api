@@ -1,0 +1,93 @@
+{
+  "name": "Navia",
+  "title": "Helm of the Radiant Rose",
+  "vision": "Geo",
+  "weapon": "Claymore",
+  "gender": "Female",
+  "nation": "Fontaine",
+  "affiliation": "Spina di Rosula",
+  "rarity": 5,
+  "release": "2023-12-20",
+  "constellation": "Rosa Multiflora",
+  "birthday": "0000-08-16",
+  "description": "The current President of Spina di Rosula, who is lovely, dutiful, and a great boss.",
+  "skillTalents": [
+    {
+      "name": "Blunt Refusal",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, performs a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Ceremonial Crystalshot",
+      "unlock": "Elemental Skill",
+      "description": "When a character in the party obtains an Elemental Shard created from the Crystallize reaction, Navia will gain 1 Crystal Shrapnel stack. Navia can have up to 6 stacks of Crystal Shrapnel at once. Each time Crystal Shrapnel gain is triggered, the duration of the Crystal Shrapnel stacks you already have will be reset.\nWhen she fires, Navia will consume all Crystal Shrapnel stacks and open her elegant yet lethal Gunbrella, firing multiple Rosula Shardshots that can penetrate opponents, dealing Geo DMG to opponents hit.\nWhen 0/1/2/3 or more stacks of Crystal Shrapnel are consumed,5/7/9/11 Rosula Shardshots will be fired respectively. The more Rosula Shardshots that strike a single opponent, the greater the DMG dealt to them. When all 11 Rosula Shardshots strike, 200% of the original amount of DMG is dealt.\nIn addition, when more than 3 stacks of Crystal Shrapnel are consumed, every stack consumed beyond those 3 will increase the DMG dealt by this Gunbrella attack by an additional 15%.\nHold\nEnter Aiming Mode, continually collecting nearby Elemental Shards created by Crystallize reactions. When released, fire Rosula Shardshots with the same effect as when the skill is Tapped.\nTwo initial charges.\nArkhe: Ousia\nPeriodically, when Navia fires her Gunbrella, a Surging Blade will be summoned, dealing Ousia-aligned Geo DMG.\n\"Maintaining the appropriate distance with those whom distance should be maintained is an essential part of etiquette. Naturally, there are also many ways to do this...\"",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "As the Sunlit Sky's Singing Salute",
+      "unlock": "Elemental Burst",
+      "description": "On the orders of the President of the Spina di Rosula, call for a magnificent Rosula Dorata Salute. Unleashes a massive cannon bombardment on opponents in front of her, dealing AoE Geo DMG and providing Cannon Fire Support for a duration afterward, periodically dealing Geo DMG to nearby opponents.\nWhen cannon attacks hit opponents, Navia will gain 1 stack of Crystal Shrapnel. This effect can be triggered up to once every 2.4s.\n\"The Spina di Rosula's salute is a preemptive celebration of the successful conclusion of our negotiations and is fired just before talks begin. Don't misunderstand, it isn't in any way, shape, or form some kind of threat.\"",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Painstaking Transaction",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Gains 25% more rewards when dispatched on a Fontaine Expedition for 20 hours.",
+      "level": 1
+    },
+    {
+      "name": "Undisclosed Distribution Channels",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "For 4s after using Ceremonial Crystalshot, the DMG dealt by Navia's Normal Attacks, Charged Attacks, and Plunging Attacks will be converted into Geo DMG which cannot be overridden by other Elemental infusions, and the DMG dealt by Navia's Normal Attacks, Charged Attacks, and Plunging Attacks will be increased by 40%.",
+      "level": 4
+    },
+    {
+      "name": "Mutual Assistance Network",
+      "unlock": "Unlocked Automatically",
+      "description": "For each Pyro/Electro/Cryo/Hydro party member, Navia gains 20% increased ATK. This effect can stack up to 2 times."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "A Lady's Rules for Keeping a Courteous Distance",
+      "unlock": "Constellation Lv. 1",
+      "description": "Each stack of Crystal Shrapnel consumed when Navia uses Ceremonial Crystalshot will restore 3 Energy to her and decrease the CD of As the Sunlit Sky's Singing Salute by 1s. Up to 9 Energy can be gained this way, and the CD of \"As the Sunlit Sky's Singing Salute\" can be decreased by up to 3s.",
+      "level": 1
+    },
+    {
+      "name": "The President's Pursuit of Victory",
+      "unlock": "Constellation Lv. 2",
+      "description": "Each stack of Crystal Shrapnel consumed will increase the CRIT Rate of this Ceremonial Crystalshot instance by 12%. CRIT Rate can be increased by up to 36% in this way.\nIn addition, when Ceremonial Crystalshot hits an opponent, one Cannon Fire Support shot from As the Sunlit Sky's Singing Salute will strike near the location of the hit. Up to one instance of Cannon Fire Support can be triggered each time Ceremonial Crystalshot is used, and DMG dealt by said Cannon Fire Support this way is considered Elemental Burst DMG.",
+      "level": 2
+    },
+    {
+      "name": "Businesswoman's Broad Vision",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Ceremonial Crystalshot by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "The Oathsworn Never Capitulate",
+      "unlock": "Constellation Lv. 4",
+      "description": "When As the Sunlit Sky's Singing Salute hits an opponent, that opponent's Geo RES will be decreased by 20% for 8s.",
+      "level": 4
+    },
+    {
+      "name": "Negotiator's Resolute Negotiations",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of As the Sunlit Sky's Singing Salute by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "The Flexible Finesse of the Spina's President",
+      "unlock": "Constellation Lv. 6",
+      "description": "If more than 3 stacks of Crystal Shrapnel are consumed when using Ceremonial Crystalshot, each stack consumed beyond the first 3 increases the CRIT DMG of that Ceremonial Crystalshot by 45%, and any stacks consumed beyond the first 3 are returned to Navia.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "CLAYMORE"
+}

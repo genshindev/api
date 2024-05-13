@@ -1,0 +1,6 @@
+{
+  "name": "Nymph's Dream",
+  "max_rarity": 5,
+  "2-piece_bonus": "Hydro DMG Bonus +15%",
+  "4-piece_bonus": "After Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts hit opponents, 1 stack of Mirrored Nymph will be triggered, lasting 8s. When under the effect of 1, 2, or 3, or more Mirrored Nymph stacks, ATK will be increased by 7%/16%/25%, and Hydro DMG will be increased by 4%/9%/15%. Mirrored Nymph stacks created by Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts exist independently."
+}

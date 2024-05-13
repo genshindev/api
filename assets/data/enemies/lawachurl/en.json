@@ -40,5 +40,7 @@
     "name": "Frostarm Lawachurl",
     "description": "",
     "region": "Dragonspine"
-  }
+  },
+
+  "mora-gained": 600
 }

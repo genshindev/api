@@ -1,10 +1,13 @@
 {
   "name": "Venti",
+  "title": "Windborne Bard",
   "vision": "Anemo",
   "weapon": "Bow",
+  "gender": "Male",
   "nation": "Mondstadt",
   "affiliation": "Mondstadt",
   "rarity": 5,
+  "release": "2020-09-28",
   "constellation": "Carmen Dei",
   "birthday": "0000-06-16",
   "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",

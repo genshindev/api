@@ -1,10 +1,13 @@
 {
   "name": "Kaedehara Kazuha",
+  "title": "Scarlet Leaves Pursue Wild Waves",
   "vision": "Anemo",
   "weapon": "Sword",
+  "gender": "Male",
   "nation": "Inazuma",
   "affiliation": "The Crux",
   "rarity": 5,
+  "release": "2021-06-29",
   "constellation": "Acer Palmatum",
   "birthday": "0000-10-29",
   "description": "If one's heart is empty, all under heaven is empty. But if one's heart is pure, all under heaven is pure.",

@@ -1,10 +1,13 @@
 {
   "name": "Albedo",
+  "title": "Kreideprinz",
   "vision": "Geo",
   "weapon": "Sword",
+  "gender": "Male",
   "nation": "Mondstadt",
   "affiliation": "Knights of Favonius",
   "rarity": 5,
+  "release": "2020-12-23",
   "constellation": "Princeps Cretaceus",
   "birthday": "0000-09-13",
   "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
@@ -13,18 +16,92 @@
       "name": "Favonius Bladework - Weiss",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerform up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "36.7%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "36.7%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "47.5%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "49.8%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "62.1%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "47.3%+60.2%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.9%"
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "value": "128%/160%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Abiogenesis: Solar Isotoma",
       "unlock": "Elemental Skill",
       "description": "Albedo creates a Solar Isotoma using alchemy, which deals AoE Geo DMG on appearance.\nSolar Isotoma\n\nWhen enemies within the Solar Isotoma zone are hit, the Solar Isotoma will generate Transient Blossoms which deal AoE Geo DMG. DMG dealt scales off Albedo's DEF.\nTransient Blossoms can only be generated once every 2s.\nWhen a character is located at the locus of the Solar Isotoma, the Solar Isotoma will accumulate Geo power to form a crystallized platform that lifts the character up to a certain height. Only one crystallized platform can exist at a time.\nSolar Isotoma is considered a Geo construct.\n\nHold to designate the location of the skill.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "130.4%"
+        },
+        {
+          "name": "Transient Blossom DMG",
+          "value": "134% DEF"
+        },
+        {
+          "name": "Duration",
+          "value": "30"
+        },
+        {
+          "name": "Skill CD",
+          "value": "4s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Rite of Progeniture: Tectonic Tide",
       "unlock": "Elemental Burst",
       "description": "Under Albedo's command, Geo crystals surge and burst forth, dealing AoE Geo DMG in front of him.\nIf a Solar Isotoma created by Albedo himself is on the field, 7 Fatal Blossoms will be generated in the Solar Isotoma field, bursting violently into bloom and dealing AoE Geo DMG\nTecotonic Tide DMG and Fatal Blossom DMG will not generate Transient Blossoms.",
+      "upgrades": [
+        {
+          "name": "Elemental Burst DMG",
+          "value": "367.2%"
+        },
+        {
+          "name": "Fatal Blossom DMG",
+          "value": "72% each"
+        },
+        {
+          "name": "CD",
+          "value": "12s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "40"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],

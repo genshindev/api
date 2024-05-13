@@ -1,10 +1,13 @@
 {
   "name": "Bennett",
+  "title": "Trial by Fire",
   "vision": "Pyro",
   "weapon": "Sword",
+  "gender": "Male",
   "nation": "Mondstadt",
   "affiliation": "Adventurers' Guild",
   "rarity": 4,
+  "release": "2020-09-28",
   "constellation": "Rota Calamitas",
   "birthday": "0000-02-29",
   "description": "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",

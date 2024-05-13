@@ -1,0 +1,12 @@
+{
+    "name": "King's Squire",
+    "type": "Bow",
+    "rarity": 4,
+    "baseAttack": 41,
+    "subStat": "ATK",
+    "passiveName": "Labyrinth Lord's Instruction",
+    "passiveDesc": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by 60 for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal 100% of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s.",
+    "location": "Crafting",
+    "ascensionMaterial": "scorching"
+  }
+  

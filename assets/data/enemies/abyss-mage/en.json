@@ -8,7 +8,7 @@
   "family": "The Abyss",
   "faction": "Abyss Order",
 
-  "elements": ["Hydro", "Pyro", "Cryo"],
+  "elements": ["Hydro", "Pyro", "Cryo", "Electro"],
 
   "drops": [
     {
@@ -63,6 +63,10 @@
     {
       "element": "Cryo",
       "description": "Abyss creatures that call upon Cryo in battle. Though they dabble with great power and can even create icicles by condensing and freezing water vapor in the atmosphere, their bodies are very vulnerable in and of themselves. Once their protective barrier has been broken, they are at your mercy."
+    },
+    {
+      "element": "Electro",
+      "description": "Abyss creatures that utilize Electro in battles. While studying at the Akademiya, researcher Alva Nikola once conducted a systematic study of the methods by which Electro Abyss Mages manipulate Electro and came up with a theoretical weapon known as the Nikola Coil. However, it has yet to be put into practice. Some say that his research materials were eaten during a fungal infestation."
     }
   ],
 

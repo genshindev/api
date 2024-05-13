@@ -1,10 +1,13 @@
 {
   "name": "Kamisato Ayaka",
+  "title": "Frostflake Heron",
   "vision": "Cryo",
   "weapon": "Sword",
+  "gender": "Female",
   "nation": "Inazuma",
   "affiliation": "Yashiro Commission",
   "rarity": 5,
+  "release": "2021-07-21",
   "constellation": "Grus Nivis",
   "birthday": "0000-09-28",
   "description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",

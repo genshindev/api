@@ -1,0 +1,81 @@
+{
+  "id": "abyss-herald",
+  "name": "Abyss Heralds",
+  "description": "N/A",
+  "region": "Global",
+
+  "type": "Elite Enemies",
+  "family": "The Abyss",
+  "faction": "Abyss Order",
+
+  "elements": ["Hydro", "Cryo"],
+
+  "drops": [
+    {
+      "name": "Dead Ley Line Branch",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Dead Ley Line Leaves",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Ley Line Sprout",
+      "rarity": 4,
+      "minimum-level": 60
+    },
+    {
+      "name": "Gloomy Statuette",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Dark Statuette",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Deathly Statuette",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "artifacts": [
+    {
+      "name": "Blood-Soaked",
+      "set": "Berserker",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Instructor's Brooch",
+      "set": "Instructor",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Legacy",
+      "set": "The Exile",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Curative",
+      "set": "Traveling Doctor",
+      "rarity": "3"
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Abyss Herald: Wicked Torrents",
+      "description": "Servants of the Abyss Order that use Hydro in combat. These silent figures are the vanguard of the Abyss, brandishing Tidal Blades that can engulf everything in an instant, crumpling armor and obliterating heretics. They shall bring preordained damnation upon the foolish masses."
+    },
+    {
+      "name": "Abyss Herald: Frost Fall",
+      "description": "A monster from the Abyss Order that wields frigid, icy blades in battle. Just as there are saints who will spread and glorify the profound gospel, there are envoys who must correct any twisted strains and remove any dissonance. People often say that steel feels like ice as it pierces the body, but this dark frost is said to freeze even the soul."
+    }
+  ],
+
+  "mora-gained": 600
+}

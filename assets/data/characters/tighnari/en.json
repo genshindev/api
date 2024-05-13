@@ -1,0 +1,171 @@
+{
+  "name": "Tighnari",
+  "title": "Verdant Strider",
+  "vision": "Dendro",
+  "weapon": "Bow",
+  "gender": "Male",
+  "nation": "Sumeru",
+  "affiliation": "Gandharva Ville",
+  "rarity": 5,
+  "release": "2022-08-24",
+  "constellation": "Leptailurus Cervarius",
+  "birthday": "0000-12-29",
+  "description": "\"A message for you. I brought back a specialty from the desert, two packs of honeyed dates, which helps to replenish your energy, whether in the morning or at night. Thank you for your patience in teaching and taking care of Collei. Good luck with your work and best wishes for Collei's studies.\"\n—An anonymously written message left inside a candy box, placed on the watcher's table.",
+  "skillTalents": [
+    {
+      "name": "Khanda Barrier-Buster",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerform up to 4 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\nWhile aiming, the power of Dendro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\nCharge Level 1: Fires off an arrow carrying the power of flora that deals Dendro DMG.\nCharge Level 2: Fires off a Wreath Arrow that deals Dendro DMG. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal Dendro DMG.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "44.6%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "42.0%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "26.4%×2"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "68.6%"
+        },
+        {
+          "name": "Aimed Shot DMG",
+          "value": "43.9%"
+        },
+        {
+          "name": "Level 1 Aimed Shot DMG",
+          "value": "124%"
+        },
+        {
+          "name": "Wreath Arrow DMG",
+          "value": "87.2%"
+        },
+        {
+          "name": "Clusterbloom Arrow DMG",
+          "value": "218%"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.8%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "114% / 142%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Vijnana-Phala Mine",
+      "unlock": "Elemental Skill",
+      "description": "Tighnari throws a Vijnana Stormheart ahead that deals AoE Dendro DMG, creating a Vijnana-Khanda Field that creates mysterious illusions that taunt opponents and draw their fir\nAdditionally, Tighnari gains the Vijnana Suffusion effect, which will decrease the Wreath Arrow's charging time by 2.4s. This effect will dissipate once the skill duration ends or after Tighnari has fired 3 Wreath Arrows.\n\"If sees whither apart from the soil, they will remain a single seed. But if returned to the soil, they shall multiply ten-million fold.\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "149.6%"
+        },
+        {
+          "name": "Vijnana-Khanda Field Duration",
+          "value": "8.0s"
+        },
+        {
+          "name": "Vijnana Suffusion Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "12.0s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Fashioner's Tanglevine Shaft",
+      "unlock": "Elemental Burst",
+      "description": "Combines the power of all seeds to fire 6 Tanglevine Shafts that can track opponents and deal Dendro DMG.\nAfter they hit, the Tanglevine Shafts will create a secondary wave of Tanglevine Shafts that can also track opponents and deal Dendro DMG on hit.\n\"Do not seek to escape so easily. The vines grow and regrow ever on. Things might get dicey if you don't clear every last one of them out.\"",
+      "upgrades": [
+        {
+          "name": "Tanglevine Shaft DMG",
+          "value": "12.0s"
+        },
+        {
+          "name": "Secondary Tanglevine Shaft DMG",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "12.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "40"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Keen Sight",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "After Tighnari fires a Wreath Arrow, his Elemental Mastery is increased by 50 for 4s.",
+      "level": 1
+    },
+    {
+      "name": "Scholarly Blade",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "For every point of Elemental Mastery Tighnari possesses, his Charged Attack and Fashioner's Tanglevine Shaft DMG are increased by 0.06%.\nThe maximum DMG Bonus obtainable this way is 60%.",
+      "level": 4
+    },
+    {
+      "name": "Encyclopedic Knowledge",
+      "unlock": "Unlocked Automatically",
+      "description": "Displays the location of nearby resources unique to Sumeru on the mini-map."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Beginnings Determined at the Roots",
+      "unlock": "Constellation Lv. 1",
+      "description": "Tighnari's Charged Attack CRIT Rate is increased by 15%.",
+      "level": 1
+    },
+    {
+      "name": "Origins Known From the Stem",
+      "unlock": "Constellation Lv. 2",
+      "description": "When there are opponents within the Vijnana-Khanda Field created by Vijnana-Phala Mine, Tighnari gains 20% Dendro DMG Bonus.\nThe effect will last up to 6s if the field's duration ends or if it no longer has opponents with it.",
+      "level": 2
+    },
+    {
+      "name": "Fortunes Read Amongst the Branches",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Fashioner's Tanglevine Shaft by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Withering Glimpsed in the Leaves",
+      "unlock": "Constellation Lv. 4",
+      "description": "When Fashioner's Tanglevine Shaft is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration.",
+      "level": 4
+    },
+    {
+      "name": "Comprehension Amidst the Flowers",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the level of Vijnana-Phala Mine by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Karma Adjudged From the Leaden Fruit",
+      "unlock": "Constellation Lv. 6",
+      "description": "Wreath Arrow's charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG.",
+      "level": 6
+    }
+  ],
+  "vision_key": "DENDRO",
+  "weapon_type": "BOW"
+}

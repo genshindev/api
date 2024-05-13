@@ -1,0 +1,153 @@
+{
+  "name": "Slumbering Court",
+  "type": "Blessing",
+  "description": "This great hall stood when Seirai Island neither had the name it has now, nor had it yet been stained with the color of thunder. The scenery within will probably never change, either.",
+  "location": "Seirai Island, Inazuma",
+  "nation": "Inazuma",
+  "requirements": [
+    {
+      "level": 1,
+      "adventureRank": 30,
+      "recommendedLevel": 59,
+      "leyLineDisorder": [
+        "All characters in the party gain a 40% Electro DMG Bonus. When an active character triggers Electro-Charged on opponents, they will trigger a shockwave that will deal True DMG to opponents. A shockwave can be triggered in this manner once every 3s."
+      ]
+    },
+    {
+      "level": 2,
+      "adventureRank": 35,
+      "recommendedLevel": 69,
+      "leyLineDisorder": [
+        "All characters in the party gain a 40% Electro DMG Bonus. When an active character triggers Electro-Charged on opponents, they will trigger a shockwave that will deal True DMG to opponents. A shockwave can be triggered in this manner once every 3s."
+      ]
+    },
+    {
+      "level": 3,
+      "adventureRank": 40,
+      "recommendedLevel": 80,
+      "leyLineDisorder": [
+        "All characters in the party gain a 40% Electro DMG Bonus. When an active character triggers Electro-Charged on opponents, they will trigger a shockwave that will deal True DMG to opponents. A shockwave can be triggered in this manner once every 3s."
+      ]
+    },
+    {
+      "level": 4,
+      "adventureRank": 45,
+      "recommendedLevel": 90,
+      "leyLineDisorder": [
+        "All characters in the party gain a 40% Electro DMG Bonus. When an active character triggers Electro-Charged on opponents, they will trigger a shockwave that will deal True DMG to opponents. A shockwave can be triggered in this manner once every 3s."
+      ]
+    }
+  ],
+  "recommendedElements": ["Electro", "Hydro"],
+  "rewards": [
+    {
+      "day": "always",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Defender's Will",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2025,
+          "drops": [
+            {
+              "name": "Defender's Will",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "drops": [
+            {
+              "name": "Defender's Will",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Husk of Opulent Dreams",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Ocean-Hued Clam",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2525,
+          "drops": [
+            {
+              "name": "Defender's Will",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Husk of Opulent Dreams",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Ocean-Hued Clam",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

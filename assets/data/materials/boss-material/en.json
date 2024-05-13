@@ -27,7 +27,7 @@
   "everflame-seed": {
     "name": "Everflame Seed",
     "source": "Pyro Regisvine",
-    "characters": ["amber", "bennett", "diluc", "klee", "xiangling", "Xinyan"]
+    "characters": ["amber", "bennett", "diluc", "klee", "xiangling", "xinyan"]
   },
   "juvenile-jade": {
     "name": "Juvenile Jade",
@@ -57,7 +57,7 @@
   "dew-of-repudiation": {
     "name": "Dew of Repudiation",
     "source": "Hydro Hypostasis",
-    "characters": ["kokomi"]
+    "characters": ["kokomi", "ayato"]
   },
   "storm-beads": {
     "name": "Storm Beads",
@@ -73,5 +73,80 @@
     "name": "Dragonheir's False Fin",
     "source": "Coral Defenders",
     "characters": ["shenhe", "yae-miko"]
+  },
+  "perpetual-caliber": {
+    "name": "Perpetual Caliber",
+    "source": "Aeonblight Drake",
+    "characters": ["layla", "nilou", "wanderer"]
+  },
+  "majestic-hooked-beak": {
+    "name": "Majestic Hooked Beak",
+    "source": "Jadeplume Terrorshroom",
+    "characters": ["collei", "tighnari"]
+  },
+  "thunderclap-fruitcore": {
+    "name": "Thunderclap Fruitcore",
+    "source": "Electro Regisvine",
+    "characters": ["cyno", "dori"]
+  },
+  "light-guiding-tetrahedron": {
+    "name": "Light Guiding Tetrahedron",
+    "source": "Algorithm of Semi-Intransient Matrix of Overseer Network",
+    "characters": ["candace", "faruzan", "dehya"]
+  },
+  "tourbillon-device": {
+    "name": "Tourbillon Device",
+    "source": "Prototype Cal. Breguet",
+    "characters": ["charlotte", "wriothesley"]
+  },
+  "evergloom-ring": {
+    "name": "Evergloom Ring",
+    "source": "Iniquitous Baptist",
+    "characters": ["kirara", "baizhu"]
+  },
+  "quelled-creeper": {
+    "name": "Quelled Creeper",
+    "source": "Dendro Hypostasis",
+    "characters": ["nahida", "yaoyao", "kaveh"]
+  },
+  "pseudo-stamens": {
+    "name": "Pseudo-Stamens",
+    "source": "Setekh Wenut",
+    "characters": ["mika", "alhaitham"]
+  },
+  "emperor-s-resolution": {
+    "name": "Emperor's Resolution",
+    "source": "Emperor of Fire and Iron",
+    "characters": ["lyney", "gaming"]
+  },
+  "coppelia": {
+    "name": "Artificed Spare Clockwork Component — Coppelia",
+    "source": "Icewind Suite",
+    "characters": ["lynette"]
+  },
+  "coppelius": {
+    "name": "Artificed Spare Clockwork Component — Coppelius",
+    "source": "Icewind Suite",
+    "characters": ["navia", "freminet"]
+  },
+  "runic-fang": {
+    "name": "Runic Fang",
+    "source": "Ruin Serpent",
+    "characters": ["yelan", "shikanoin-heizou", "kuki-shinobu"]
+  },
+  "fontemer-unihorn": {
+    "name": "Fontemer Unihorn",
+    "source": "Millennial Pearl Seahorse",
+    "characters": ["chevreuse", "neuvillette"]
+  },
+  "water-that-failed-to-transcend": {
+    "name": "Water That Failed To Transcend",
+    "source": "Hydro Tulpa",
+    "characters": ["furina"]
+  },
+  "cloudseam-scale": {
+    "name": "Cloudseam Scale",
+    "source": "Solitary Suanni",
+    "characters": ["xianyun"]
   }
 }

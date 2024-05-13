@@ -2,11 +2,11 @@
   "id": "ruin-grader",
   "name": "Ruin Grader",
   "description": "A giant war machine resembling a Ruin Guard. They are far more stronger and faster than their brethren.",
-  "region": "Dragonspine",
+  "region": "Multiple",
 
   "type": "Elite Enemies",
   "family": "Automatons",
-  "faction": "Abyss Order",
+  "faction": "Humanoid Ruin Machines",
 
   "elements": ["Pyro"],
 

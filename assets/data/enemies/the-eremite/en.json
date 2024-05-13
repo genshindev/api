@@ -1,0 +1,80 @@
+{
+  "id": "the-eremite",
+  "name": "The Eremite",
+  "region": "Sumeru",
+  "description": "N/A",
+
+  "type": "Common Enemies",
+  "family": "Other Human Factions",
+
+  "elements": ["Electro", "Pyro", "Cryo", "Hydro", "Geo", "Anemo", "Dendro"],
+
+  "drops": [
+    {
+      "name": "Faded Red Satin",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Trimmed Red Silk",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Rich Red Brocade",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Axe Vanguard",
+      "description": "A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good. These ax-wielding ladies often wade into the slaughter without fear, creating openings for their comrades to capitalize on. They will sometimes sit by the fireside in their sand-swept homeland and play songs that were lost in that golden sea."
+    },
+    {
+      "name": "Crossbow",
+      "description": "A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good. The Eremite tradition is to use bows to engage their foes, but ever since the Akademiya permitted them to buy crossbows at the bazaars, only the proudest shooters would still use bows, which take many years of practice to master."
+    },
+    {
+      "name": "Ravenbeak Halberdier",
+      "description": "A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good. These warriors use Ravenbeak Halberds in battle. It is said that ascetics who served the deity of the desert would carry these halberds as symbols of their office. These weapons once had a true name, but it has long been lost to the desert sands."
+    },
+    {
+      "name": "Linebreaker",
+      "description": "A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good. This warrior wields a unique fist blade and joined the Eremites to seek out stronger foes. Rather than the pay, these warriors fight more to attain greater martial might."
+    },
+    {
+      "name": "Sword-Dancer",
+      "description": "A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good. This desert warrior wields a large curved blade in battle. The skills such fighters boast of have been passed down since the days when their now-lost civilization was still extant, and are not only techniques to be used in battle, but also serve well as a performing art popular in various lands. It is said that this sword art was once practiced from horseback."
+    },
+    {
+      "name": "Daythunder",
+      "description": "A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good. A true scion of a warrior tribe, such warriors see battle as their ordained purpose, and unlike some barbarian who wields a large ax with ease, these tribespeople are also quite well-versed in the lore and songs of the desert ruins. An ominous, fragmented spirit is sealed within the weapon they use, awakening in moments of peril. Once it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe."
+    },
+    {
+      "name": "Sunfrost",
+      "description": "A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good. A professional mercenary who cares about nothing outside of work and the mission at hand. To such people, their only game plan is to complete the mission, and their high asking prices on the market match that committment. An ominous, fragmented spirit is sealed within the weapon they use, awakening in moments of peril. Once it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe."
+    },
+    {
+      "name": "Desert Clearwater",
+      "description": "A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good. A young lady lost in the ancient dream of the desert songs. To her, the thrill of bloody battle is her true reward. Legend has it that the women of this tribe are often afflicted by the wandering spirits of the desert, a condition that leads many of them to an early end. Perhaps this one can only be free of these apparitions when her blood is up in combat. An ominous, fragmented spirit is sealed within the weapon she uses, awakening in moments of peril. Once it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe."
+    },
+    {
+      "name": "Stone Enchanter",
+      "description": "A person hailing from the loosely-organized mercenary bands of the desert. Will work for anyone as long as the pay is good. In ancient days, these heavily-equipped warriors were the domain of the personal, trusted guards of the Lord of the Blazing Sun. It is perhaps on this account that they gleam like the golden sun itself to this day. Ominous, fragmented spirits are sealed within the weapons they use, awakening in moments of peril. Once these weapons awaken, they can only be silenced by the cries of the vanquished — whether that be their wielders or their wielders' foes."
+    },
+    {
+      "name": "Galehunter",
+      "description": "A person hailing from the loosely-organized mercenary bands of the desert. Will work for anyone as long as the pay is good. In this age where crossbows are in widespread use, only the most experienced of Eremite warriors know how to use a longbow in battle. They do not even need their eyes — merely their ears with which they sense the flow of wind and sand alike — to judge the location of their foes. Ominous, fragmented spirits are sealed within the weapons they use, awakening in moments of peril. Once these weapons awaken, they can only be silenced by the cries of the vanquished — whether that be their wielders or their wielders' foes."
+    },
+    {
+      "name": "Scorching Loremaster",
+      "description": "A person hailing from the loosely-organized mercenary bands of the desert. Even though they will work for anyone as long as the pay is good, they will never forget their roots in the Great Red Sand. After the collapse of its civilizations, the stories of the desert were passed down generation after generation in oral tradition just like the sparks in the wind and the rain in the clouds. As time passed, some stories were lost while others survived, albeit with significant changes. \"The Eremites\" is the umbrella term given to the tribes of the desert by those too ignorant or disdainful to learn the tribes' myriad differences. Within those referred to as the Eremites, many have also indeed already forgotten the tales of the desert. Fear not, however, for those who still remember will never betray the spirit of the sands yet flowing through their veins."
+    },
+    {
+      "name": "Floral Ring-Dancer",
+      "description": "A person hailing from the loosely-organized mercenary bands of the desert. They will work for anyone as long as the pay is good. The children of the desert have a rich tradition of song and dance. Originally used to praise and serve the gods, the crafts were later adapted for battle and the seduction of kings. Many tales of the sands feature dancers who murdered kings relaxed in their beds or standing atop high towers. Even though all such gods and kings have now faded into the flowing sands, the memory of dance yet persists in the desert-dwellers' veins. Ominous, fragmented spirits are sealed within the weapons they use, awakening in moments of peril. Once these weapons awaken, they can only be silenced by the cries of the vanquished — whether that be their wielders or their wielders' foes."
+    }
+  ]
+}

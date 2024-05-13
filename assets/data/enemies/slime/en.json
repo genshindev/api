@@ -30,23 +30,31 @@
   "elemental-descriptions": [
     {
       "element": "Anemo",
-      "description": "A wizened, mumbling hilichurl, one that spreads the message of Anemo. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. Their ability to command the flowing winds stems from dark, forgotten memories."
+      "description": "A small monster created by the coalescing of Anemo dispersed throughout nature. It is able to float in the air due to the power of Anemo."
     },
     {
       "element": "Geo",
-      "description": "A wizened, mumbling hilichurl, one that listens to the strength of Geo. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. To the persevering mountains, these old hilichurls are but children, but their memories and experiences have guided them towards gaining power over rock and stone."
+      "description": "Small monsters created through the buildup of Geo within the earth. Generally speaking, the crust of the earth is filled with Geo energy. Geo Slimes that are formed this way have a similarly \"down-to-earth\" sort of feeling."
     },
     {
       "element": "Dendro",
-      "description": "A wizened, mumbling hilichurl, one that awakens the might of Dendro. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. A grudge stirs beneath that mask, and poison ivy sprouts as hateful whispers issue forth from it."
+      "description": "A slime that has undergone ecological changes due to abundant Dendro in its environment. It has also taken on the weaknesses of the Dendro element, and will burn intensely the moment it meets a bright flame."
     },
     {
       "element": "Hydro",
-      "description": "A wizened, mumbling hilichurl, one that chants of the power of Hydro. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. What sort of life would lead to such simple creatures being able to summon water and rains?"
+      "description": "A small monster created by the sedimentation of Hydro dispersed throughout nature. Legend has it that some people would use Hydro Slimes as an emergency water source, packing them in preparation for travels through dry regions or deep domains. But due to the high concentration of Hydro within these slimes, direct ingestion is, in fact, harmful to the human body."
     },
     {
       "element": "Cryo",
-      "description": "A wizened, mumbling hilichurl, one that calls upon the bite of Cryo. Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. These shamans remember the frosty chants and are even more skilled in the art of using them to entrap their foes."
+      "description": "A small monster created through the coagulation of Cryo in the natural environment. Competitors once spread malicious rumors that the Dawn Winery used Cryo Slimes to control the temperature of their wine cellar and preserve the quality of their alcohol."
+    },
+    {
+      "element": "Electro",
+      "description": "A small monster created by the coalescing of Electro dispersed throughout nature. According to analyses, the jumping of Electro Slimes reflects the electric potential difference in the ground. In areas brimming over with Electro, their unusual movements can be observed and used to avoid danger."
+    },
+    {
+      "element": "Pyro",
+      "description": "A small monster created by the sedimentation of Pyro dispersed throughout nature. Its intelligence is very basic, but its uses are just as broad–well, for hilichurls, that is."
     }
   ]
 }

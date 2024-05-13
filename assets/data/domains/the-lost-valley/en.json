@@ -1,0 +1,153 @@
+{
+  "name": "The Lost Valley",
+  "type": "Blessing",
+  "description": "The ancient ritual grounds were buried beneath the earth amidst a cataclysm that tore heaven and earth asunder before being uplifted by the descent of an alien object, and finally unveiled by a destructive battle that resulted from a betrayal. Nonetheless, those who once frequented this place are no more.",
+  "location": "Fuao Vale, The Chasm, Liyue",
+  "nation": "Liyue",
+  "requirements": [
+    {
+      "level": 1,
+      "adventureRank": 30,
+      "recommendedLevel": 59,
+      "leyLineDisorder": [
+        "When characters use Elemental Skills, a shockwave will be unleashed, dealing True Damage."
+      ]
+    },
+    {
+      "level": 2,
+      "adventureRank": 35,
+      "recommendedLevel": 69,
+      "leyLineDisorder": [
+        "When characters use Elemental Skills, a shockwave will be unleashed, dealing True Damage."
+      ]
+    },
+    {
+      "level": 3,
+      "adventureRank": 40,
+      "recommendedLevel": 80,
+      "leyLineDisorder": [
+        "When characters use Elemental Skills, a shockwave will be unleashed, dealing True Damage."
+      ]
+    },
+    {
+      "level": 4,
+      "adventureRank": 45,
+      "recommendedLevel": 90,
+      "leyLineDisorder": [
+        "When characters use Elemental Skills, a shockwave will be unleashed, dealing True Damage."
+      ]
+    }
+  ],
+  "recommendedElements": ["Pyro", "Electro", "Geo", "Anemo"],
+  "rewards": [
+    {
+      "day": "always",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Martial Artist",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Gambler",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2025,
+          "drops": [
+            {
+              "name": "Martial Artist",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Gambler",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "drops": [
+            {
+              "name": "Martial Artist",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Gambler",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Vermillion Hereafter",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Echoes of an Offering",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2525,
+          "drops": [
+            {
+              "name": "Martial Artist",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Gambler",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Vermillion Hereafter",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Echoes of an Offering",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

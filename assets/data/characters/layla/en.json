@@ -1,0 +1,163 @@
+{
+  "name": "Layla",
+  "title": "Fantastical Evening Star",
+  "vision": "Cryo",
+  "weapon": "Sword",
+  "gender": "Female",
+  "nation": "Sumeru",
+  "affiliation": "Sumeru Akademiya",
+  "rarity": 4,
+  "release": "2022-11-02",
+  "constellation": "Luscinia",
+  "birthday": "0000-11-18",
+  "description": "A Rtawahist student who specializes in Theoretical Astrology. Heavily prone to somnambulism and locked in a grinding war with sleep deprivation, the problem of restful slumber is a most troubling one to her.",
+  "skillTalents": [
+    {
+      "name": "Sword of the Radiant Path",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 3 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "51.22%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "48.48%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "72.97%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "47.73% + 52.55%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "127.84% / 159.68%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Nights of Formal Focus",
+      "unlock": "Elemental Skill",
+      "description": "Puts forth a shield known as the Curtain of Slumber, dealing AoE Cryo DMG.\nThe Curtain of Slumber's DMG Absorption is based on Layla's Max HP and absorbs Cryo DMG with 250% effectiveness. When the shield is deployed, Layla will have Cryo applied to her briefly.\nNight Stars and Shooting Stars\nWhile the Curtain of Slumber is active, it will create 1 Night Star that will be attached to it every 1.5s. When a character protected by this shield uses an Elemental Skill, 2 Night Stars will be created. Night Stars can be created once every 0.3s in this way. A maximum of 4 Night Stars can be accumulated at any one time.\nOnce the Curtain of Slumber has accumulated 4 Night Stars and there are opponents nearby, these Night Stars will transform into homing Shooting Stars that will be fired off in sequence, dealing Cryo DMG to any opponents hit.\nIf the Curtain of Slumber's duration ends or it is destroyed, the Night Stars will disappear. If they are already being fired off as Shooting Stars, these Shooting Stars will last until this wave of shots ends.\nNew Night Stars cannot be created until the previous wave of Shooting Stars has been fired completely.",
+      "upgrades": [
+        {
+          "name": "Skill DMG ",
+          "value": "12.8%"
+        },
+        {
+          "name": "Shooting Star DMG",
+          "value": "14.72%"
+        },
+        {
+          "name": "Base Shield DMG Absorption",
+          "value": "10.8% Max HP + 1040"
+        },
+        {
+          "name": "Shield Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "12s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Dream of the Star-Stream Shaker",
+      "unlock": "Elemental Burst",
+      "description": "Unleashes a Celestial Dreamsphere that constantly fires Starlight Slugs at opponents within its AoE, dealing Cryo DMG.\nWhen a Starlight Slug hits, it will generate 1 Night Star for nearby Curtains of Slumber. Each Curtain of Slumber can gain 1 Night Star this way every 0.5s.",
+      "upgrades": [
+        {
+          "name": "Starlight Slug DMG",
+          "value": "4.65% Max HP"
+        },
+        {
+          "name": "Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "12s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "40"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Like Nascent Light",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "While the Curtain of Slumber is active, the Deep Sleep effect will activate each time the Curtain gains 1 Night Star:\nThe Shield Strength of a character under the effect of the Curtain of Slumber increases by 6%.\nThis effect can have a maximum of 4 stacks and persists until the Curtain of Slumber disappears.",
+      "level": 1
+    },
+    {
+      "name": "Sweet Slumber Undisturbed",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "The DMG dealt by the Shooting Stars fired by Nights of Formal Focus is increased by 1.5% of Layla's Max HP.",
+      "level": 4
+    },
+    {
+      "name": "Shadowy Dream-Signs",
+      "unlock": "Unlocked Automatically",
+      "description": "When Layla crafts Character Talent Materials, she has a 10% chance to receive double the product."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Fortress of Fantasy",
+      "unlock": "Constellation Lv. 1",
+      "description": "The Shield Absorption of the Curtain of Slumber generated by Nights of Formal Focus is increased by 20%.\nAdditionally, when unleashing Nights of Formal Focus, she will generate a shield for any nearby party members who are not being protected by a Curtain of Slumber. This shield will have 35% of the absorption of a Curtain of Slumber, will last for 12s, and will absorb Cryo DMG with 250% effectiveness.",
+      "level": 1
+    },
+    {
+      "name": "Light's Remit",
+      "unlock": "Constellation Lv. 2",
+      "description": "When Shooting Stars from Nights of Formal Focus strike opponents, they will each restore 1 Energy to Layla. Each Shooting Star can restore Energy to her in this manner once.",
+      "level": 2
+    },
+    {
+      "name": "Secrets of the Night",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Nights of Formal Focus by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Starry Illumination",
+      "unlock": "Constellation Lv. 4",
+      "description": "When Nights of Formal Focus starts to fire off Shooting Stars, it will grant all nearby party members the Dawn Star effect, causing their Normal and Charged Attack DMG to increase based on 5% of Layla's Max HP.\nDawn Star can last up to 3s and will be removed 0.05s after dealing Normal or Charged Attack DMG.",
+      "level": 4
+    },
+    {
+      "name": "Stream of Consciousness",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Dream of the Star-Stream Shaker by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Radiant Soulfire",
+      "unlock": "Constellation Lv. 6",
+      "description": "Shooting Stars from Nights of Formal Focus deal 40% increased DMG, and Starlight Slugs from Dream of the Star-Stream Shaker deal 40% increased DMG.\nAdditionally, the interval between the creation of Night Stars via Nights of Formal Focus is decreased by 20%.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "SWORD"
+}

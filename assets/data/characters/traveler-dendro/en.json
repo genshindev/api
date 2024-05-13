@@ -1,0 +1,156 @@
+{
+  "name": "Traveler",
+  "vision": "Dendro",
+  "weapon": "Sword",
+  "nation": "Outlander",
+  "affiliation": "Not affilated to any Nation",
+  "rarity": 5,
+  "release": "2022-08-24",
+  "constellation": "Viator/Viatrix",
+  "birthday": "Unknown",
+  "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+  "skillTalents": [
+    {
+      "name": "Foreign Fieldcleaver",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "44.5%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "43.4%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "53.0%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "58.3%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "70.8%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "Male: 55.9% + 72.2%\nFemale: 55.9% + 60.7%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.9%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "128% / 160%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Razorgrass Blade",
+      "unlock": "Elemental Skill",
+      "description": "With a flourish of your blade, you unleash a spray of razor-sharp leaves that go before you and deal Dendro DMG.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "230%"
+        },
+        {
+          "name": "CD",
+          "value": "8.0s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Surgent Manifestation",
+      "unlock": "Elemental Burst",
+      "description": "Calling upon the might of the flora all around you, you create a Lea Lotus Lamp. This Lamp will deal continuous Dendro DMG to opponents within its AoE.\nLotuslight Transfiguration\nThe Lea Lotus Lamp will undergo the following changes after it comes into contact with Hydro/Electro/Pyro:\nHydro: the Lamp's AoE and the AoE of its atacks are increased.\nElectro: the Lamp's ATK SPD is increased.\nPyro: the Lamp will explode after a short delay and then disappear, dealing AoE Dendro DMG.\n\n\nThe Lea Lotus Lamp can only undergo one Lotuslight Transfiguration in its duration.\n Only one Lamp created by the Traveler can exist at any one time.",
+      "upgrades": [
+        {
+          "name": "Lea Lotus Lamp Attack DMG",
+          "value": "80.2%"
+        },
+        {
+          "name": "Explosion DMG",
+          "value": "400.8%"
+        },
+        {
+          "name": "Lea Lotus Lamp Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "20.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Verdant Luxury",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Every point of Elemental Mastery the Traveler possesses increases the DMG dealt by Razorgrass Blade by 0.15% and the DMG dealt by Surgent Manifestation by 0.1%.",
+      "level": 1
+    },
+    {
+      "name": "Verdant Overgrowth",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "Lea Lotus Lamp will obtain one level of Overflowing Lotuslight every second it is on the field, increasing the Elemental Mastery of active character(s) within its AoE by 6. Overflowing Lotuslight has a maximum of 10 stacks.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Parasitic Creeper",
+      "unlock": "Constellation Lv. 1",
+      "description": "After Razorgrass Blade hits an opponent, it will regenerate 3.5 Energy for the Traveler.",
+      "level": 1
+    },
+    {
+      "name": "Green Resilience",
+      "unlock": "Constellation Lv. 2",
+      "description": "Lea Lotus Lamp's duration is increased by 3s.",
+      "level": 2
+    },
+    {
+      "name": "Whirling Weeds",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Razorgrass Blade by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Treacle Grass",
+      "unlock": "Constellation Lv. 4",
+      "description": "After the Lea Lotus Lamp triggers a Lotuslight Transfiguration, it will obtain 5 stacks of the Overflowing Lotuslight effect from the Passive Talent \"Verdant Overgrowth.\"\nYou must have unlocked this Passive Talent first.",
+      "level": 4
+    },
+    {
+      "name": "Viridian Transience",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Surgent Manifestation by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Withering Aggregation",
+      "unlock": "Constellation Lv. 6",
+      "description": "The Dendro DMG Bonus of the character under the effect of Overflowing Lotuslight as created by the Lea Lotus Lamp is increased by 12%. If the Lamp has experienced a Lotuslight Transfiguration previously, the character will also gain 12% DMG Bonus for the corresponding element.",
+      "level": 6
+    }
+  ],
+  "vision_key": "DENDRO",
+  "weapon_type": "SWORD"
+}

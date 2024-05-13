@@ -1,10 +1,13 @@
 {
   "name": "Razor",
+  "title": "Wolf Boy",
   "vision": "Electro",
   "weapon": "Claymore",
+  "gender": "Male",
   "nation": "Mondstadt",
   "affiliation": "Wolvendom",
   "rarity": 4,
+  "release": "2020-09-28",
   "constellation": "Lupus Minor",
   "birthday": "0000-09-09",
   "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",

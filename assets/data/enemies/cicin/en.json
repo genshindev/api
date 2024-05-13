@@ -1,0 +1,28 @@
+{
+  "id": "cicin",
+  "name": "Cicin",
+  "region": "Multiple",
+  "description": "N/A",
+
+  "type": "Common Enemies",
+  "family": "Mystical Beasts",
+
+  "elements": ["Cryo", "Electro", "Hydro"],
+
+  "drops": "None",
+
+  "elemental-descriptions": [
+    {
+      "element": "Cryo",
+      "description": "Little creatures that can ever so slightly manipulate Cryo. They and other such creatures are known collectively as Cicins. They are individually very weak, but it is precisely because they are weak that they have evolved unique methods of movement that allow them to avoid predators."
+    },
+    {
+      "element": "Electro",
+      "description": "Little creatures that can ever so slightly manipulate Electro. They and other such creatures are known collectively as Cicins, and though they are individually weak, they can cause significant damage under the right circumstances."
+    },
+    {
+      "element": "Hydro",
+      "description": "Little creatures that can ever so slightly manipulate Hydro. They and other such creatures are known collectively as Cicins, and they truly adore the rare and wonderful Mist Grass plant. It is by exploiting this relationship that the Fatui Mages have sought to commandeer Cicins in battle."
+    }
+  ]
+}

@@ -1,10 +1,13 @@
 {
   "name": "Keqing",
+  "title": "Driving Thunder",
   "vision": "Electro",
   "weapon": "Sword",
+  "gender": "Female",
   "nation": "Liyue",
   "affiliation": "Liyue Qixing",
   "rarity": 5,
+  "release": "2020-09-28",
   "constellation": "Trulla Cementarii",
   "birthday": "0000-11-20",
   "description": "The Yuheng of the Liyue Qixing. Has much to say about Rex Lapis' unilateral approach to policymaking in Liyue - but in truth, gods admire skeptics such as her quite a lot.",

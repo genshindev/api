@@ -1,0 +1,93 @@
+{
+  "name": "Mika",
+  "title": "Coordinates of Clear Frost",
+  "vision": "Cryo",
+  "weapon": "Polearm",
+  "gender": "Male",
+  "nation": "Mondstadt",
+  "affiliation": "Knights of Favonius",
+  "rarity": 4,
+  "release": "2023-03-21",
+  "constellation": "Palumbus",
+  "birthday": "0000-08-11",
+  "description": "A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.",
+  "skillTalents": [
+    {
+      "name": "Spear of Favonius - Arrow's Passage",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 5 consecutive strikes using his crossbow and spear.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Starfrost Swirl",
+      "unlock": "Elemental Skill",
+      "description": "Mika uses his crossbow to attack, granting all nearby characters in your party Soulwind. When characters in the Soulwind state are on the field, their ATK SPD will be increased.\nWill take effect in different ways if Tapped or Held.\nTap\nFires a Flowfrost Arrow that can pierce through opponents, dealing Cryo DMG to enemies it comes into contact with.\nHold\nGoes into Aiming Mode, locking on to an opponent and firing a Rimestar Flare at them, dealing Cryo DMG. When the Rimestar Flare hits, it will rise before exploding, launching Rimestar Shards into a maximum of 3 other opponents, dealing Cryo DMG.\nStars burst 'neath the frosted skies.",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Skyfeather Song",
+      "unlock": "Elemental Burst",
+      "description": "Derives the ability to spur his teammates on from the recited prayers of the knightly order, regenerating HP for all nearby party members. This healing is based on Mika's Max HP and will grant them the Eagleplume state.\nEagleplume\nWhen the Normal Attacks of active characters affected by Eagleplume hit an opponent, Mika will help them regenerate HP based on his Max HP.\nCharacters affected by this state can only regenerate HP in this way once per short interval of time.\n\"Carry hope when in dire straits, and keep vigil when all is well... For that pure white plume shall at last guide the lost wayfarers.\"",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Demarcation",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Displays the location of nearby resources unique to Mondstadt on the mini-map.",
+      "level": 1
+    },
+    {
+      "name": "Suppressive Barrage",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "Per the following circumstances, the Soulwind state caused by Starfrost Swirl will grant characters the Detector effect, increasing their Physical DMG by 10% when they are on the field.\nIf the Flowfrost Arrow hits more than one opponent, each additional opponent hit will generate 1 Detector stack.\nWhen a Rimestar Shard hits an opponent, it will generate 1 Detector stack. Each Rimestar Shard can trigger the effect 1 time.\nThe Soulwind state can have a maximum of 3 Detector stacks, and if Starfrost Swirl is cast again during this duration, the pre-existing Soulwind state and all its Detector stacks will be cleared.",
+      "level": 4
+    },
+    {
+      "name": "Topographical Mapping",
+      "unlock": "Unlocked Automatically",
+      "description": "When an active character affected by both Skyfeather Song's Eagleplume and Starfrost Swirl's Soulwind at once scores a CRIT Hit with their attacks, Soulwind will grant them 1 stack of Detector from Suppressive Barrage. During a single instance of Soulwind, 1 Detector stack can be gained in this manner.\nAdditionally, the maximum number of stacks that can be gained through Soulwind alone is increased by 1.\nRequires Suppressive Barrage to be unlocked first."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Factor Confluence",
+      "unlock": "Constellation Lv. 1",
+      "description": "The Soulwind state of Starfrost Swirl can decrease the healing interval between instances caused by Skyfeather Song's Eagleplume state. This decrease percentage is equal to the ATK SPD increase provided by Soulwind.",
+      "level": 1
+    },
+    {
+      "name": "Companion's Ingress",
+      "unlock": "Constellation Lv. 2",
+      "description": "When Starfrost Swirl's Flowfrost Arrow first hits an opponent, or its Rimestar Flare hits an opponent, 1 Detector stack from Passive Talent \"Suppressive Barrage\" will be generated.\nYou must have unlocked the Passive Talent \"Suppressive Barrage\" first.",
+      "level": 2
+    },
+    {
+      "name": "Reconnaissance Experience",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Skyfeather Song by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Sunfrost Encomium",
+      "unlock": "Constellation Lv. 4",
+      "description": "When Mika's own Skyfeather Song's Eagleplume state heals party members, this will restore 3 Energy to Mika. This form of Energy restoration can occur 5 times during the Eagleplume state created by 1 use of Skyfeather Song.",
+      "level": 4
+    },
+    {
+      "name": "Signal Arrow",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Starfrost Swirl by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Companion's Counsel",
+      "unlock": "Constellation Lv. 6",
+      "description": "The maximum number of Detector stacks that Starfrost Swirl's Soulwind can gain is increased by 1. You need to have unlocked the Passive Talent \"Suppressive Barrage\" first.\nAdditionally, active characters affected by Soulwind will deal 60% more Physical CRIT DMG.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "POLEARM"
+}

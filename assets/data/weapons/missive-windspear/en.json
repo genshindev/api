@@ -1,0 +1,11 @@
+{
+  "name": "Missive Windspear",
+  "type": "Polearm",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "ATK",
+  "passiveName": "The Wind Unattained",
+  "passiveDesc": "Within 10s after an Elemental Reaction is triggered, ATK is increased by 12/15/18/21/24% and Elemental Mastery is increased by 48/60/72/84/96.",
+  "location": "Event: Of Ballads and Brews",
+  "ascensionMaterial": "boreal"
+}

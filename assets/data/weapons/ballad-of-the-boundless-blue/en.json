@@ -1,0 +1,11 @@
+{
+  "name": "Ballad of the Boundless Blue",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "Energy Recharge",
+  "passiveName": "Azure Skies",
+  "passiveDesc": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by 8/10/12/14/16% and Charged Attack DMG will be increased by 6/7.5/9/10.5/12%. Max 3 stacks. This effect can be triggered once every 0.3s.",
+  "location": "Event: Waterborne Poetry",
+  "ascensionMaterial": "boreal"
+}

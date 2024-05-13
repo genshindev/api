@@ -1,0 +1,183 @@
+{
+  "name": "Valley of Remembrance",
+  "type": "Blessing",
+  "description": "After a period of time, the people of the continent lost track of the past. They attempt to explore downwards, searching for the things that they had forgotten. On the other side of the ancient tree's hollow, the secrets of yesterday have become today's treasures.",
+  "location": "Dawn Winery, Windwail Highland, Mondstadt",
+  "nation": "Mondstadt",
+  "requirements": [
+    {
+      "level": 1,
+      "adventureRank": 25,
+      "recommendedLevel": 47,
+      "leyLineDisorder": [
+        "Physical DMG dealt by all party members increased by 75%."
+      ]
+    },
+    {
+      "level": 2,
+      "adventureRank": 30,
+      "recommendedLevel": 59,
+      "leyLineDisorder": [
+        "Physical DMG dealt by all party members increased by 75%."
+      ]
+    },
+    {
+      "level": 3,
+      "adventureRank": 35,
+      "recommendedLevel": 69,
+      "leyLineDisorder": [
+        "Physical DMG dealt by all party members increased by 75%."
+      ]
+    },
+    {
+      "level": 4,
+      "adventureRank": 40,
+      "recommendedLevel": 80,
+      "leyLineDisorder": [
+        "Physical DMG dealt by all party members increased by 75%.",
+        "The opponents in this challenge have decreased Physical RES. Use characters who excel in dealing Physical DMG to decrease challenge difficulty."
+      ]
+    },
+    {
+      "level": 5,
+      "adventureRank": 45,
+      "recommendedLevel": 90,
+      "leyLineDisorder": [
+        "Physical DMG dealt by all party members increased by 75%.",
+        "The opponents in this challenge have decreased Physical RES. Use characters who excel in dealing Physical DMG to decrease challenge difficulty."
+      ]
+    }
+  ],
+  "recommendedElements": ["None"],
+  "rewards": [
+    {
+      "day": "always",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1700,
+          "drops": [
+            {
+              "name": "Traveling Doctor",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Tiny Miracle",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Tiny Miracle",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Viridescent Venerer",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Maiden Beloved",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2025,
+          "drops": [
+            {
+              "name": "Tiny Miracle",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Viridescent Venerer",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Maiden Beloved",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "drops": [
+            {
+              "name": "Tiny Miracle",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Viridescent Venerer",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Maiden Beloved",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2525,
+          "drops": [
+            {
+              "name": "Tiny Miracle",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Viridescent Venerer",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Maiden Beloved",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

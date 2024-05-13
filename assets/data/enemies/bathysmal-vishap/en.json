@@ -1,0 +1,38 @@
+{
+  "id": "bathysmal-vishap",
+  "name": "Bathysmal Vishap",
+  "region": "Inazuma",
+  "description": "A mighty race of vishaps that dwell within the deep seas. That they hate light is not due to an overly fragile sense of sight. Instead, it is because they have had the selfless sunlight and the surface world taken from them that they refuse to countenance man-made light.",
+
+  "type": "Elite Enemies",
+  "family": "Mystical Beasts",
+
+  "elements": ["Hydro"],
+
+  "drops": [
+    {
+      "name": "Fragile Bone Shard",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Sturdy Bone Shard",
+      "rarity": 3,
+      "minimum-level": 60
+    },
+    {
+      "name": "Fossilized Bone Shard",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Primordial Bathysmal Vishap",
+      "description": "A vishap that dwells deep beneath the oceans. They were once the dominant race in the depths - and indeed, dragons were the overlords of the whole world in an even earlier age. But their former seven Sovereigns were defeated by a power from the heavens, withering one by one."
+    }
+  ],
+
+  "mora-gained": 600
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ibis Piercer",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "ATK",
+  "passiveName": "Secret Wisdom's Favor",
+  "passiveDesc": "The character's Elemental Mastery will increase by 40/50/60/70/80 within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can triggered once every 0.5s.",
+  "location": "Event: Duel! The Summoners' Summit!",
+  "ascensionMaterial": "talisman"
+}

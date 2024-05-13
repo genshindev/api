@@ -1,0 +1,93 @@
+{
+  "name": "Kirara",
+  "title": "Cat Upon the Eaves",
+  "vision": "Dendro",
+  "weapon": "Sword",
+  "gender": "Female",
+  "nation": "Inazuma",
+  "affiliation": "Komaniya Express",
+  "rarity": 4,
+  "release": "2023-05-24",
+  "constellation": "Arcella",
+  "birthday": "0000-01-22",
+  "description": "A courier for Komaniya Express, a delivery company in Inazuma. A nekomata who loves her job and human society.",
+  "skillTalents": [
+    {
+      "name": "Boxcutter",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 4 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 3 rapid claw strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Meow-teor Kick",
+      "unlock": "Elemental Skill",
+      "description": "Press\nLeaps into the air with all the agility of a cat passing through the bushes, and thwacks her foes with a flying kick that deals AoE Dendro DMG while creating a Shield of Safe Transport. This will also briefly apply Dendro to Kirara. The shield will absorb Dendro DMG with 250% effectiveness. The shield's DMG absorption will be based on Kirara's Max HP and will not exceed a certain percentage of that Max HP. The remaining DMG absorption on a Shield of Safe Transport will stack on a new one when it is created, and its duration will reset.\nHold\nOut of her desire to \"deliver within half a day,\" Kirara deploys a Shield of Safe Transport identical to the one that can be created by pressing the skill. She will also curl up into a special express delivery box, entering the Urgent Neko Parcel state in order to move and fight more swiftly.\nUrgent Neko Parcel\nDeals Dendro DMG to opponents she crashes into. This effect can be triggered once on each opponent every 0.5s.\nWhen in this state, Kirara's movement speed, climbing speed, and jumping power are all increased, and her Stamina Consumption from climbing is increased.\nWhen the duration ends or the skill is used again, a Flipclaw Strike more powerful than the attack in the Press Mode will be unleashed, dealing AoE Dendro DMG.\nThe Urgent Neko Parcel state lasts a maximum of 10s. When the state ends, the skill will enter CD. The longer Kirara spends in this state, the longer the CD will be.\nSprinting or actively canceling climbing will end this state early.\n\"So you wanna know the secret to speedy deliveries? Well, it's all in the legs!\"",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Secret Art: Surprise Dispatch",
+      "unlock": "Elemental Burst",
+      "description": "Smash opponents with a Special Delivery Package used for punishing parcel thieves, dealing AoE Dendro DMG. After the Special Delivery Package explodes, it will split up into many Cat Grass Cardamoms that will explode either upon contact with opponents or after a period of time, dealing AoE Dendro DMG.\n\"Hehe, that's right, this stuff was made to deal with those parcel thieves! Remember to leave a 5-star rating once you've received yours!\"",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Cat's Creeping Carriage",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "When Kirara is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them.",
+      "level": 1
+    },
+    {
+      "name": "Bewitching, Betwitching Tails",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "When Kirara is in the Urgent Neko Parcel state of Meow-teor Kick, each impact against an opponent will grant her a stack of Reinforced Packaging. This effect can be triggered once for each opponent hit every 0.5s. Max 3 stacks. When the Urgent Neko Parcel state ends, each stack of Reinforced Packaging will create 1 Shield of Safe Transport for Kirara. The shields that are created this way will have 20% of the DMG absorption that the Shield of Safe Transport produced by Meow-teor Kick would have. If Kirara is already protected by a Shield of Safe Transport created by Meow-teor Kick, its DMG absorption will stack with these shields and its duration will reset.",
+      "level": 4
+    },
+    {
+      "name": "Pupillary Variance",
+      "unlock": "Unlocked Automatically",
+      "description": "Every 1,000 Max HP Kirara possesses will increase the DMG dealt by Meow-teor Kick by 0.4%, and the DMG dealt by Secret Art: Surprise Dispatch by 0.3%."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Material Circulation",
+      "unlock": "Constellation Lv. 1",
+      "description": "Every 8,000 Max HP Kirara possesses will cause her to create 1 extra Cat Grass Cardamom when she uses Secret Art: Surprise Dispatch. A maximum of 4 extra can be created this way.",
+      "level": 1
+    },
+    {
+      "name": "Perfectly Packaged",
+      "unlock": "Constellation Lv. 2",
+      "description": "When Kirara is in the Urgent Neko Parcel state of Meow-teor Kick, she will grant other party members she crashes into Critical Transport Shields.\nThe DMG absorption of Critical Transport Shield is 40% of the maximum absorption Meow-teor Kick's normal Shields of Safe Transport are capable of, and will absorb Dendro DMG with 250% effectiveness.\nCritical Transport Shields last 12s and can be triggered once on each character every 10s.",
+      "level": 2
+    },
+    {
+      "name": "Universal Recognition",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Meow-teor Kick by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Steed of Skanda",
+      "unlock": "Constellation Lv. 4",
+      "description": "After active character(s) protected by Shields of Safe Transport or Critical Transport Shields hit opponents with Normal, Charged, or Plunging Attacks, Kirara will perform a coordinated attack with them using Small Cat Grass Cardamoms, dealing 200% of her ATK as Dendro DMG. DMG dealt this way is considered Elemental Burst DMG. This effect can be triggered once every 3.8s. This CD is shared between all party members.",
+      "level": 4
+    },
+    {
+      "name": "A Thousand Miles in a Day",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Secret Art: Surprise Dispatch by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Countless Sights to See",
+      "unlock": "Constellation Lv. 6",
+      "description": "All nearby party members will gain 12% All Elemental DMG Bonus within 15s after Kirara uses her Elemental Skill or Burst.",
+      "level": 6
+    }
+  ],
+  "vision_key": "DENDRO",
+  "weapon_type": "SWORD"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "large-slime",
+  "name": "Large Slimes",
+  "region": "Global",
+  "description": "A pudgy elemental life form. It's said that desserts made from slimes of different elements will have incredibly distinctive flavors.",
+
+  "type": "Common Enemies",
+  "family": "Slime",
+
+  "elements": [
+    "Anemo",
+    "Geo",
+    "Dendro",
+    "Hydro",
+    "Cyro",
+    "Mutant",
+    "Pyro",
+    "Electro"
+  ],
+
+  "drops": [
+    {
+      "name": "Slime Condensate",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Slime Secretions",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Slime Concentrate",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "elemental-descriptions": [
+    {
+      "element": "Anemo",
+      "description": "A monster created by the coalescing of Anemo dispersed throughout nature.Owing to being comprised of a greater concentration of Anemo, their flotation abilities are stronger than that of Anemo Slimes. The hilichurls living out in the wilds have made use of this special characteristic, creating special vehicles that use Large Anemo Slimes as a form of locomotion to transport goods from unknown sources."
+    },
+    {
+      "element": "Geo",
+      "description": "Monsters created through the buildup of Geo within the earth.They can harden the energy within their bodies into a carapace of stone that protects them and prevents damage. The legend of a \"Golden Geo Slime King\" once circulated among the Treasure Hoarders. They believed that since gemstones and ores have Geo energy in them, Geo Slimes, which also contain Geo energy, may also be a type of gemstone or ore."
+    },
+    {
+      "element": "Dendro",
+      "description": "A slime that has undergone ecological changes due to abundant Dendro in its environment. There are some who see it as something similar to the Whopperflowers, hiding its true form to trick and hunt its prey, and some regard it as a slime that has been parasitized by some special plant. From this point of view, might some cultures also see these slimes as having some special medicinal value?"
+    },
+    {
+      "element": "Hydro",
+      "description": "A monster created by the sedimentation of Hydro dispersed throughout nature. A larger and more powerful Hydro Slime that can create bubbles to entrap its enemies. It is said that they can grow to truly staggering sizes if given an energy-rich environment. Eyewitnesses have supposedly seen Hydro Slimes as large as a small mound in Wolvendom."
+    },
+    {
+      "element": "Cryo",
+      "description": "A monster created through the coagulation of Cryo in the natural environment. These slimes can use the abundant Cryo energies within themselves to freeze the moisture in the atmosphere and form a protective shell around themselves. They can also utilize a similar principle to freeze the water around them. On some level, this can be considered to be the freest species of slime, as it can cross oceans and seas with ease."
+    },
+    {
+      "element": "Electro",
+      "description": "A monster created by the coalescing of Electro dispersed throughout nature. Due to the abundant Electro within its form, it will deliver an electric shock to its surroundings from time to time. At present, some have attempted to harness this energy to aid in production activities. Perhaps some new science will be born from this...?"
+    },
+    {
+      "element": "Pyro",
+      "description": "A monster created by the sedimentation of Pyro dispersed throughout nature. Though its intelligence has not increased with its size, it is very hot. During dry seasons, it can cause wildfires. It will spit forth blazing fireballs when angered, and will turn dark when it is feeling down. A most expressive slime, indeed."
+    },
+    {
+      "element": "Mutant",
+      "description": "A monster created by the coalescing of Electro dispersed throughout nature. Electro Slimes can undergo mutations to become a bright yellow. Due to the abundant Electro within its form, it will deliver an electric shock to its surroundings from time to time, and it can even cause nearby Electro Slimes to release electric arcs. This arc lightning will not bounce between purple Electro Slimes, which shows that Electro Slimes have two different polarities. One wonders if some great new science could emerge from the study of such phenomena..."
+    }
+  ]
+}

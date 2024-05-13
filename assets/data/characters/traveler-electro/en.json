@@ -5,7 +5,9 @@
   "nation": "Outlander",
   "affiliation": "Not affilated to any Nation",
   "rarity": 5,
-  "constellation": "Viatrix",
+  "release": "2021-07-21",
+  "constellation": "Viator/Viatrix",
+  "birthday": "Unknown",
   "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
   "skillTalents": [
     {
@@ -35,7 +37,7 @@
         },
         {
           "name": "Charged Attack DMG",
-          "value": "55.9% + 72.2%"
+          "value": "Male: 55.9% + 60.7%\nFemale: 55.9% + 72.2%"
         },
         {
           "name": "Charged Attack Stamina Cost",
@@ -49,7 +51,8 @@
           "name": "Low / High Plunge DMG",
           "value": "128% / 160%"
         }
-      ],"type": "NORMAL_ATTACK"
+      ],
+      "type": "NORMAL_ATTACK"
     },
     {
       "name": "Lightning Blade",
@@ -57,26 +60,31 @@
       "description": "Unleashes three swift thunder shadows that deal Electro DMG to opponents and leave an Abundance Amulet behind after hitting an opponent.\n2 Abundance Amulets can be created initially. Using this skill will reset any Abundance Amulets that were generated.\n\nAbundance Amulets\nWhen a character is near an Abundance Amulet, they will absorb it and obtain the following effects:\nRestores Elemental Energy\nIncreases Energy Recharge during the Abundance Amulet's duration.",
       "upgrades": [
         {
-          "name": "Skill DMG%",
+          "name": "Skill DMG",
           "value": "78.7%"
         },
         {
           "name": "Energy Regeneration",
-          "value": "3 per Amulet"
+          "value": "3 Per Amulet"
         },
         {
-          "name": "Energy Recharge Increase%",
+          "name": "Energy Recharge Increase",
           "value": "20%"
         },
         {
           "name": "Duration",
-          "value": "6 / 15s"
+          "value": "6s"
+        },
+        {
+          "name": "Abundance Amulet Duration",
+          "value": "15"
         },
         {
           "name": "CD",
           "value": "13.5s"
         }
-      ],"type": "ELEMENTAL_SKILL"
+      ],
+      "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Bellowing Thunder",
@@ -84,11 +92,11 @@
       "description": "You call upon the protection of lightning, knocking nearby opponents back and dealing Electro DMG to them.\nLightning Shroud\nWhen your active character's Normal or Charged Attacks hit opponents, they will call Falling Thunder forth, dealing Electro DMG.\nWhen Falling Thunder hits opponents, it will regenerate Energy for that character.\nOne instance of Falling Thunder can be generated every 0.5s.",
       "upgrades": [
         {
-          "name": "Skill DMG%",
+          "name": "Skill DMG",
           "value": "114.4%"
         },
         {
-          "name": "Falling Thunder DMG%",
+          "name": "Falling Thunder DMG",
           "value": "32.8%"
         },
         {
@@ -107,7 +115,8 @@
           "name": "Energy Cost",
           "value": "80"
         }
-      ],"type": "ELEMENTAL_BURST"
+      ],
+      "type": "ELEMENTAL_BURST"
     }
   ],
   "passiveTalents": [

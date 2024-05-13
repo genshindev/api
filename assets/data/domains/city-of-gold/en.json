@@ -1,0 +1,153 @@
+{
+  "name": "City of Gold",
+  "type": "Blessing",
+  "description": "This stronghold, once protected by seven mighty battlements, crumbled overnight when King Deshret fell and an age of chaos ensued. Where gold-eyed warriors once stood guard over watchtowers of gilded luster, now, only a desiccated temple built upon sundered rocks remains, more akin to a tomb for an age of radiance long lost.",
+  "location": "Eye of the Sands, Land of Lower Setekh, Great Red Sand, Sumeru",
+  "nation": "Sumeru",
+  "requirements": [
+    {
+      "level": 1,
+      "adventureRank": 22,
+      "recommendedLevel": 59,
+      "leyLineDisorder": [
+        "After a character triggers a Swirl reaction, all party members gain a 50% Anemo DMG Bonus for 10s."
+      ]
+    },
+    {
+      "level": 2,
+      "adventureRank": 22,
+      "recommendedLevel": 69,
+      "leyLineDisorder": [
+        "After a character triggers a Swirl reaction, all party members gain a 50% Anemo DMG Bonus for 10s."
+      ]
+    },
+    {
+      "level": 3,
+      "adventureRank": 22,
+      "recommendedLevel": 80,
+      "leyLineDisorder": [
+        "After a character triggers a Swirl reaction, all party members gain a 50% Anemo DMG Bonus for 10s."
+      ]
+    },
+    {
+      "level": 4,
+      "adventureRank": 22,
+      "recommendedLevel": 90,
+      "leyLineDisorder": [
+        "After a character triggers a Swirl reaction, all party members gain a 50% Anemo DMG Bonus for 10s."
+      ]
+    }
+  ],
+  "recommendedElements": ["Anemo"],
+  "rewards": [
+    {
+      "day": "always",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Resolution of Sojourner",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2025,
+          "drops": [
+            {
+              "name": "Resolution of Sojourner",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "drops": [
+            {
+              "name": "Resolution of Sojourner",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Desert Pavilion Chronicle",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Flower of Paradise Lost",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2525,
+          "drops": [
+            {
+              "name": "Resolution of Sojourner",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Desert Pavilion Chronicle",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Flower of Paradise Lost",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

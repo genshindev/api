@@ -1,0 +1,93 @@
+{
+  "name": "Wriothesley",
+  "title": "Emissary of Solitary Iniquity",
+  "vision": "Cryo",
+  "weapon": "Catalyst",
+  "gender": "Male",
+  "nation": "Fontaine",
+  "affiliation": "Fortress of Meropide",
+  "rarity": 5,
+  "release": "2023-10-17",
+  "constellation": "Cerberus",
+  "birthday": "0000-11-23",
+  "description": "Duke of the Fortress of Meropide, Lord Incognito of the murky depths.",
+  "skillTalents": [
+    {
+      "name": "Forceful Fists of Frost",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nCoalescing frost about his fist, Wriothesley will unleash powerful Repelling Fists, performing up to 5 rapid attacks that deal Cryo DMG.\nApart from this, Normal Attack combo count will not reset for a short time after using Icefang Rush or sprinting.\nCharged Attack\nConsumes a fixed amount of Stamina to leap and unleash a Vaulting Fist, dealing AoE Cryo DMG.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE Cryo DMG upon impact.",
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Icefang Rush",
+      "unlock": "Elemental Skill",
+      "description": "Adjusting his breathing, rhythm, and pace, Wriothesley sprints forward a short distance, entering the Chilling Penalty state and unleashing more powerful attacks than before.\nChilling Penalty\nIncreases Wriothesley's interruption resistance\nWhen his HP is above 50%, it will enhance the Repelling Fists of Normal Attack: Forceful Fists of Frost and increase its DMG. When such an attack hits, it will consume a fixed amount of Wriothesley's HP. HP can be lost this way once every 0.1s.\nThis effect will be canceled should Wriothesley leave the field.\n\"Past convictions are past. It is our future choices that we must grasp.\"\n\"Defy your fate, or else this glutton be, to pay your fate's due, by the crime and thee.\"",
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Darkgold Wolfbite",
+      "unlock": "Elemental Burst",
+      "description": "Activating his boxing gloves, Wriothesley strikes out with an icy straight, then uses Icicle Impact to cause multiple instances of AoE Cryo DMG in a frontal area.\nArkhe: Ousia\nAfter Icicle Impact ends, a Surging Blade will descend upon the opponent's position, dealing Ousia-aligned Cryo DMG.\nThere are some things that even the Duke of the Fortress of Meropide can do little about — for example, complicated paperwork, the trivialities of a supervisor, or even... little kids pasting a whole host of cute but difficult-to-remove stickers on his boxing gloves.",
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "The Duke's Grace",
+      "unlock": "Unlocked Automatically",
+      "description": "When Wriothesley crafts Weapon Ascension Materials, he has a 10% chance to receive double the product."
+    },
+    {
+      "name": "There Shall Be a Plea for Justice",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "When Wriothesley's HP is less than 60%, he will obtain a Gracious Rebuke. The next Charged Attack of his Normal Attack: Forceful Fists of Frost will be enhanced to become Rebuke: Vaulting Fist. It will not consume Stamina, will deal 50% increased DMG, and after hitting will restore HP for Wriothesley equal to 30% of his Max HP.\nYou can gain a Gracious Rebuke this way once every 5s.",
+      "level": 1
+    },
+    {
+      "name": "There Shall Be a Reckoning for Sin",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "When Wriothesley's current HP increases or decreases, if he is in the Chilling Penalty state conferred by Icefang Rush, Chilling Penalty will gain one stack of Prosecution Edict. Max 5 stacks. Each stack will increase Wriothesley's ATK by 6%.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Terror for the Evildoers",
+      "unlock": "Constellation Lv. 1",
+      "description": "The Gracious Rebuke from the Passive Talent \"There Shall Be a Plea for Justice\" is changed to this:\nWhen Wriothesley's HP is less than 60% or while he is in the Chilling Penalty state caused by Icefang Rush, when the fifth attack of Repelling Fists hits, it will create a Gracious Rebuke. 1 Gracious Rebuke effect can be obtained every 2.5s.\nAdditionally, Rebuke: Vaulting Fist will obtain the following enhancement:\nThe DMG Bonus gained will be further increased to 200%.\nWhen it hits while Wriothesley is in the Chilling Penalty state, that state's duration is extended by 4s. 1 such extension can occur per 1 Chilling Penalty duration.\nYou must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
+      "level": 1
+    },
+    {
+      "name": "Shackles for the Arrogant",
+      "unlock": "Constellation Lv. 2",
+      "description": "When using Darkgold Wolfbite, each Prosecution Edict stack from the Passive Talent \"There Shall Be a Reckoning for Sin\" will increase said ability's DMG dealt by 40%.\nYou must first unlock the Passive Talent \"There Shall Be a Reckoning for Sin.\"",
+      "level": 2
+    },
+    {
+      "name": "Punishment for the Frauds",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Normal Attack: Forceful Fists of Frost by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Redemption for the Suffering",
+      "unlock": "Constellation Lv. 4",
+      "description": "The HP restored to Wriothesley through Rebuke: Vaulting Fist will be increased to 50% of his Max HP. You must first unlock the Passive Talent \n\"There Shall Be a Plea for Justice.\"\nAdditionally, when Wriothesley is healed, if the amount of healing overflows, the following effects will occur depending on whether he is on the field or not. If he is on the field, his ATK SPD will be increased by 20% for 4s. If he is off-field, all of your own party members' ATK SPD will be increased by 10% for 6s. These two methods of increasing ATK SPD cannot stack.",
+      "level": 4
+    },
+    {
+      "name": "Mercy for the Wronged",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Darkgold Wolfbite by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Esteem for the Innocent",
+      "unlock": "Constellation Lv. 6",
+      "description": "The CRIT Rate of Rebuke: Vaulting Fist will be increased by 10%, and its CRIT DMG by 80%. When unleashed, it will also create an additional icicle that deals 100% of Rebuke: Vaulting Fist's Base DMG as Cryo DMG. DMG dealt this way is regarded as Charged Attack DMG.\nYou must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "CATALYST"
+}

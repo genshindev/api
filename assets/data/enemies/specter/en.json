@@ -1,0 +1,60 @@
+{
+  "id": "specters",
+  "name": "Specters",
+  "region": "Inazuma",
+  "description": "A pudgy elemental life form. It's said that desserts made from slimes of different elements will have incredibly distinctive flavors.",
+
+  "type": "Common Enemies",
+  "family": "Elemental Lifeforms",
+
+  "elements": ["Anemo", "Geo", "Dendro", "Hydro", "Cyro", "Pyro", "Electro"],
+
+  "drops": [
+    {
+      "name": "Spectral Husk",
+      "rarity": 1,
+      "minimum-level": 1
+    },
+    {
+      "name": "Spectral Heart",
+      "rarity": 2,
+      "minimum-level": 40
+    },
+    {
+      "name": "Spectral Nucleus",
+      "rarity": 3,
+      "minimum-level": 60
+    }
+  ],
+
+  "elemental-descriptions": [
+    {
+      "element": "Anemo",
+      "description": "A monster birthed from a high concentration of Anemo that can float in the air. As reason might dictate, monsters made from coalesced Anemo already come equipped with the ability to float. As such, their petal-like wings are most likely to be a mimetic organ first and foremost."
+    },
+    {
+      "element": "Geo",
+      "description": "A monster birthed from a high concentration of Geo that can float in the air. Geo Specters mimic the fruit of certain plants when their wings are closed together. As such, they are held by some ancient tales to be the fruit of a giant tree in the sky, and are regarded as having mysterious medical value."
+    },
+    {
+      "element": "Dendro",
+      "description": "A monster born from high-density Dendro energy that can float in the air. A researcher from Vahumana once did research into the ecological peculiarities of Dendro Specters, finding them to be quite similar to the legendary \"Aranara.\" His conclusion was that the Aranara were actually Dendro Specters. This researcher would become a little-known writer of fairy tales."
+    },
+    {
+      "element": "Hydro",
+      "description": "A monster birthed from a high concentration of Hydro that can float in the air. On moonlit nights, Hydro Specters will give off a ghostly glow as they float by the riverbank. Their furtive forms are often mistaken by passers-by for wandering spirits, which has made them mainstays in quite a few folktales."
+    },
+    {
+      "element": "Cryo",
+      "description": "A monster born from highly-concentrated Cryo elements that can float in the air. A certain alchemist once studied these beings, speculating that they might be a kind of Slime or the Traveler, as none of the above needed a Vision to use the elements. He was reprimanded by his teacher."
+    },
+    {
+      "element": "Electro",
+      "description": "A monster born from hightly-concentrated Electro elements that can float in the air. A certain researcher once studied these creatures. He believed they must be Hypostases of some kind. After all, both had elemental peculiarties and were birthed from areas saturated with elemental energy, right? By the way, he was later investigated for academic corruption."
+    },
+    {
+      "element": "Pyro",
+      "description": "A monster born from highly-concentrated Pyro elements that can float in the air. There was once an Akademiya student who conducted research into their behavior. He believed that Specters were a form of Crystalfly; since they both had powers of flight and both were birthed in areas saturated with elemental energy. He has not graduated yet."
+    }
+  ]
+}

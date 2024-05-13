@@ -1,10 +1,13 @@
 {
   "name": "Raiden Shogun",
+  "title": "Plane of Euthymia",
   "vision": "Electro",
   "weapon": "Polearm",
+  "gender": "Female",
   "nation": "Inazuma",
   "affiliation": "Inazuma City",
   "rarity": 5,
+  "release": "2021-09-01",
   "constellation": "Imperatrix Umbrosa",
   "birthday": "0000-06-26",
   "description": "Her Excellency, the Almighty, Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",

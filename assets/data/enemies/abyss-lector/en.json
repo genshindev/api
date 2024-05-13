@@ -1,0 +1,81 @@
+{
+  "id": "abyss-lector",
+  "name": "Abyss Lector",
+  "description": "N/A",
+  "region": "Global",
+
+  "type": "Elite Enemies",
+  "family": "The Abyss",
+  "faction": "Abyss Order",
+
+  "elements": ["Pyro", "Electro"],
+
+  "drops": [
+    {
+      "name": "Dead Ley Line Branch",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Dead Ley Line Leaves",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Ley Line Sprout",
+      "rarity": 4,
+      "minimum-level": 60
+    },
+    {
+      "name": "Gloomy Statuette",
+      "rarity": 2,
+      "minimum-level": 1
+    },
+    {
+      "name": "Dark Statuette",
+      "rarity": 3,
+      "minimum-level": 40
+    },
+    {
+      "name": "Deathly Statuette",
+      "rarity": 4,
+      "minimum-level": 60
+    }
+  ],
+
+  "artifacts": [
+    {
+      "name": "Blood-Soaked",
+      "set": "Berserker",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Instructor's Brooch",
+      "set": "Instructor",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Legacy",
+      "set": "The Exile",
+      "rarity": "3/4"
+    },
+    {
+      "name": "Curative",
+      "set": "Traveling Doctor",
+      "rarity": "3"
+    }
+  ],
+
+  "descriptions": [
+    {
+      "name": "Abyss Lector: Fathomless Flames",
+      "description": "Wielders of abyssal fire who pursue the meaning behind texts and scriptures. Is a member of the Abyss Order. The surface people have a slightly distorted understanding of what their name means, calling them \"Lectors\" when their name can also mean \"exegete.\" Reading the word of grace grants them great power."
+    },
+    {
+      "name": "Abyss Lector: Violet Lightning",
+      "description": "A monster who serves the Abyss Order and commands lightning while singing the praises of the darkness. These are the evangelists and the scholars of the Abyss. Their violent lightning strikes the hearts of unbelievers with dark wisdom, warped by the shadowy depths of an eternal night, its violet glow proclaiming the existence of a great power that corrodes human intellect."
+    }
+  ],
+
+  "mora-gained": 600
+}

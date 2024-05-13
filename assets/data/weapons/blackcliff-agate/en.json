@@ -1,0 +1,12 @@
+{
+    "name": "Blackcliff Agate",
+    "type": "Catalyst",
+    "rarity": 4,
+    "baseAttack": 42,
+    "subStat": "CRIT DMG",
+    "passiveName": "Press the Advantage",
+    "passiveDesc": "After defeating an opponent, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+    "location": "Starglitter Exchange",
+    "ascensionMaterial": "guyun"
+  }
+  

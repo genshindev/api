@@ -6,6 +6,16 @@
       "name": "Burning",
       "elements": ["Pyro"],
       "description": "When Dendro meets Pyro, it triggers Burning, which continuously deals Pyro DMG until it wears off."
+    },
+    {
+      "name": "Bloom",
+      "elements": ["Hydro"],
+      "description": "When creatures are affected by Hydro and Dendro, the Bloom reaction will be triggered, creating Dendro Cores."
+    },
+    {
+      "name": "Catalyze",
+      "elements": ["Electro"],
+      "description": "When creatures are affected by Electro and Dendro, Quicken will occur, which will render them Quickened."
     }
   ]
 }

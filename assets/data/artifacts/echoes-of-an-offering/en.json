@@ -1,0 +1,6 @@
+{
+  "name": "Echoes of an Offering",
+  "max_rarity": 5,
+  "2-piece_bonus": "ATK +18%",
+  "4-piece_bonus": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. \nThis effect will be dispelled 0.05s after a Normal Attack deals DMG. \nIf a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. \nThis trigger can occur once every 0.2s."
+}

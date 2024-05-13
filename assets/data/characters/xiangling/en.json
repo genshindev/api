@@ -1,10 +1,13 @@
 {
   "name": "Xiangling",
+  "title": "Exquisite Delicacy",
   "vision": "Pyro",
   "weapon": "Polearm",
+  "gender": "Female",
   "nation": "Liyue",
   "affiliation": "Wanmin Restaurant",
   "rarity": 4,
+  "release": "2020-09-28",
   "constellation": "Trulla",
   "birthday": "0000-11-02",
   "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",

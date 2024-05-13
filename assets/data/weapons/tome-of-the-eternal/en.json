@@ -1,0 +1,11 @@
+{
+  "name": "Tome of the Eternal Flow",
+  "type": "Catalyst",
+  "rarity": 5,
+  "baseAttack": 44,
+  "subStat": "CRIT DMG",
+  "passiveName": "Aeon Wave",
+  "passiveDesc": "HP is increased by 16/20/24/28/32%. When current HP increases or decreases, Charged Attack DMG will be increased by 14/18/22/26/30% for 4s. Max 3 stacks, can be triggered once every 0.3s. When you have 3 stacks or refresh a third stack's duration, 8/9/10/11/12 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
+  "location": "Gacha",
+  "ascensionMaterial": "pure-sacred-dewdrop"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hunter's Path",
+  "type": "Bow",
+  "rarity": 5,
+  "baseAttack": 44,
+  "subStat": "CRIT Rate",
+  "passiveName": "At the End of the Beast-Paths",
+  "passiveDesc": "Gain 12% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by 160% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
+  "location": "Gacha Banner",
+  "ascensionMaterial": "Echo of Scorching Might"
+}

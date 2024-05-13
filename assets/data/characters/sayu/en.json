@@ -1,10 +1,13 @@
 {
   "name": "Sayu",
+  "title": "Mujina Ninja",
   "vision": "Anemo",
   "weapon": "Claymore",
+  "gender": "Female",
   "nation": "Inazuma",
   "affiliation": "Shuumatsuban",
   "rarity": 4,
+  "release": "2021-08-10",
   "constellation": "Nyctereutes Minor",
   "birthday": "0000-10-19",
   "description": "A pint-sized ninja attached to the Shuumatsuban, who always seems to be lacking sleep.",
