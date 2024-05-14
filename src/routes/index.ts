@@ -68,8 +68,6 @@ router.get('/:type*/list', async (ctx) => {
   const id = type.substring(type.lastIndexOf("/") + 1);
   type = type.substring(0, type.lastIndexOf("/"));
   try {
-    if(await containsFolders(ctx.params.type))
-      throw new Error(`No images for ${ctx.params.type}/lista exist`);
     ctx.body = await getAvailableImages(type, id);
   } catch (e) {
     ctx.status = 404;
