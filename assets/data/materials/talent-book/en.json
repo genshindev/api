@@ -189,14 +189,7 @@
     ]
   },
   "transience": {
-    "characters": [
-      "kokomi",
-      "thoma",
-      "traveler-electro",
-      "yoimiya",
-      "kirara",
-      "heizou"
-    ],
+    "characters": ["kokomi", "thoma", "traveler-electro", "yoimiya", "kirara", "shikanoin-heizou"],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "violet-court",
     "items": [
