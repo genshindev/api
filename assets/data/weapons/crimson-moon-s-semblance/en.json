@@ -5,7 +5,7 @@
   "baseAttack": 48,
   "subStat": "CRIT Rate",
   "passiveName": "Ashen Sun's Shadow",
-  "passiveDesc": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life. they gain a 12/16/20/24/28% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 24/32/40/48/56% DMG",
+  "passiveDesc": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 12/16/20/24/28% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 24/32/40/48/56% DMG",
   "location": "Gacha",
   "ascensionMaterial": "pristine-sea"
 }
