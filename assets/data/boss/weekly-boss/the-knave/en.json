@@ -1,0 +1,43 @@
+{
+  "name": "The Knave",
+  "description": "This courtyard was once a wonder to behold, but now lies desolate.\nThe previous battle has been buried like the dying light, but the next duel shall come, as long as the \"Family\" endures...",
+  "drops": [
+    {
+      "name": "Fading Candle",
+      "rarity": 5,
+      "source": "Lv. 70+ The Knave Challenge Reward"
+    },
+    {
+      "name": "Silken Feather",
+      "rarity": 5,
+      "source": "Lv. 70+ The Knave Challenge Reward"
+    },
+    {
+      "name": "Denial and Judgment",
+      "rarity": 5,
+      "source": "Lv. 70+ The Knave Challenge Reward"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "Berserker",
+      "max_rarity": 4
+    },
+    {
+      "name": "Instructor",
+      "max_rarity": 4
+    },
+    {
+      "name": "The Exile",
+      "max_rarity": 4
+    },
+    {
+      "name": "Gladiator's Finale",
+      "max_rarity": 5
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "max_rarity": 5
+    }
+  ]
+}

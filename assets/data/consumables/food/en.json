@@ -5398,5 +5398,32 @@
     "description": "Traditional cuisine made to celebrate Lantern Rite. The ham, fowl, and bamboo shoots have been sliced into threads of equal length, and they've been laid out neatly in the soup bowl after being steamed at high heat, before being covered in consommé. The layers are distinct, and the mouthfeel is salty yet fresh.",
     "baseDish": "Triple-Layered Consommé",
     "event": "Lantern Rite"
+  },
+  "bulle-souffle": {
+    "name": "Bulle Souffle",
+    "rarity": 3,
+    "type": "Recovery Dish",
+    "effect": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
+    "hasRecipe": true,
+    "proficiency": 15,
+    "description": "A very small cake nestled within a Bulle Fruit skin. Pour the beaten egg whites into a Bulle Fruit skin that has been scraped empty, and bake it until the souffle has evenly expanded. The word \"Bulle\" isn't a part of the name just because it's in the ingredient list, but because the finished product allows the tongue to delight in bubble-like spongy softness.",
+    "recipe": [
+      {
+        "item": "Bulle Fruit",
+        "quantity": 3
+      },
+      {
+        "item": "Bird Egg",
+        "quantity": 2
+      },
+      {
+        "item": "Milk",
+        "quantity": 2
+      },
+      {
+        "item": "Sugar",
+        "quantity": 1
+      }
+    ]
   }
 }
