@@ -224,7 +224,7 @@
     ]
   },
   "light": {
-    "characters": ["gorou", "raiden", "sayu", "traveler-electro", "yae-miko"],
+    "characters": ["chiori", "gorou", "raiden", "sayu", "traveler-electro", "yae-miko"],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "violet-court",
     "items": [
@@ -356,7 +356,7 @@
     ]
   },
   "order": {
-    "characters": ["lynette", "traveler-hydro", "wriothesley", "chevreuse"],
+    "characters": ["arlecchino", "chevreuse", "lynette", "traveler-hydro", "wriothesley"],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "pale-of-forgotten-glory",
     "items": [
