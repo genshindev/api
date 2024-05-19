@@ -1,0 +1,11 @@
+{
+	"name": "Dialogues of the Desert Sages",
+	"type": "Polearm",
+	"rarity": 4,
+	"baseAttack": 42,
+	"subStat": "HP",
+	"passiveName": "Principle of Equilibrium",
+	"passiveDesc": "When the wielder performs healing, restore 8 Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
+	"location": "Event: Alchemical Ascension",
+	"ascensionMaterial": "talisman"
+}

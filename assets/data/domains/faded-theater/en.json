@@ -1,0 +1,153 @@
+{
+  "name": "Faded Theater",
+  "type": "Blessing",
+  "description": "Under the direction of an immortal musician, a certain ancient troupe once performed the elegies of an ancient civilization. With the passage of time, the ancient plays became legend. Legend became myth. ...Until one day, by chance, it was deliberately picked up once more, and became the prelude to a new dream.",
+  "location": "Nostoi Region, Fontaine",
+  "nation": "Fontaine",
+  "requirements": [
+    {
+      "level": 1,
+      "adventureRank": 30,
+      "recommendedLevel": 59,
+      "leyLineDisorder": [
+        "When a Bond of Life gains or loses value, the character gains a 15% All Elemental and Physical DMG Bonus for 10s. This effect can stack 4 times. The duration of each stack is counted independently."
+      ]
+    },
+    {
+      "level": 2,
+      "adventureRank": 35,
+      "recommendedLevel": 69,
+      "leyLineDisorder": [
+        "When a Bond of Life gains or loses value, the character gains a 15% All Elemental and Physical DMG Bonus for 10s. This effect can stack 4 times. The duration of each stack is counted independently."
+      ]
+    },
+    {
+      "level": 3,
+      "adventureRank": 40,
+      "recommendedLevel": 80,
+      "leyLineDisorder": [
+        "When a Bond of Life gains or loses value, the character gains a 15% All Elemental and Physical DMG Bonus for 10s. This effect can stack 4 times. The duration of each stack is counted independently."
+      ]
+    },
+    {
+      "level": 4,
+      "adventureRank": 45,
+      "recommendedLevel": 90,
+      "leyLineDisorder": [
+        "When a Bond of Life gains or loses value, the character gains a 15% All Elemental and Physical DMG Bonus for 10s. This effect can stack 4 times. The duration of each stack is counted independently."
+      ]
+    }
+  ],
+  "recommendedElements": ["Pyro", "Electro", "Geo"],
+  "rewards": [
+    {
+      "day": "always",
+      "details": [
+        {
+          "level": 1,
+          "adventureExperience": 100,
+          "companionshipExperience": 15,
+          "mora": 1850,
+          "drops": [
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 6,
+              "drop_max": 8
+            },
+            {
+              "name": "Scholar",
+              "rarity": "3/4",
+              "drop_min": 6,
+              "drop_max": 8
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2025,
+          "drops": [
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 6,
+              "drop_max": 8
+            },
+            {
+              "name": "Scholar",
+              "rarity": "3/4",
+              "drop_min": 6,
+              "drop_max": 8
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2200,
+          "drops": [
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 5,
+              "drop_max": 7
+            },
+            {
+              "name": "Scholar",
+              "rarity": "3/4",
+              "drop_min": 5,
+              "drop_max": 7
+            },
+            {
+              "name": "Unfinished Reverie",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            },
+            {
+              "name": "Fragment of Harmonic Whimsy",
+              "rarity": "4/5",
+              "drop_min": 0,
+              "drop_max": 1
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "adventureExperience": 100,
+          "companionshipExperience": 20,
+          "mora": 2525,
+          "drops": [
+            {
+              "name": "Brave Heart",
+              "rarity": "3/4",
+              "drop_min": 5,
+              "drop_max": 7
+            },
+            {
+              "name": "Scholar",
+              "rarity": "3/4",
+              "drop_min": 5,
+              "drop_max": 7
+            },
+            {
+              "name": "Unfinished Reverie",
+              "rarity": "4/5",
+              "drop_min": 1,
+              "drop_max": 2
+            },
+            {
+              "name": "Fragment of Harmonic Whimsy",
+              "rarity": "4/5",
+              "drop_min": 1,
+              "drop_max": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Toukabou Shigure",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "Elemental Mastery",
+  "passiveName": "Kaidan: Rainfall Earthbinder",
+  "passiveDesc": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal 16/20/24/28/32% more DMG to the opponent affected by Cursed Parasol.",
+  "location": "Akitsu Kimodameshi Event",
+  "ascensionMaterial": "narukami"
+}

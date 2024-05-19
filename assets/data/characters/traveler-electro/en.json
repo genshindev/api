@@ -37,7 +37,7 @@
         },
         {
           "name": "Charged Attack DMG",
-          "value": "Male: 55.9% + 72.2%\nFemale: 55.9% + 60.7%"
+          "value": "Male: 55.9% + 60.7%\nFemale: 55.9% + 72.2%"
         },
         {
           "name": "Charged Attack Stamina Cost",
@@ -93,11 +93,11 @@
       "upgrades": [
         {
           "name": "Skill DMG",
-          "value": "80.8%"
+          "value": "114.4%"
         },
         {
           "name": "Falling Thunder DMG",
-          "value": "24.8%"
+          "value": "32.8%"
         },
         {
           "name": "Energy Regeneration",

@@ -1,0 +1,11 @@
+{
+  "name": "Ultimate Overlord's Mega Magic Sword",
+  "type": "Claymore",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "Energy Recharge",
+  "passiveName": "Melussistance!",
+  "passiveDesc": "ATK increased by 12/15/18/21/24%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 12/15/18/21/24%.",
+  "location": "Event: Roses and Muskets",
+  "ascensionMaterial": "pristine-sea"
+}
