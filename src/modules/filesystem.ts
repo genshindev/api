@@ -12,10 +12,11 @@ import chalk from 'chalk';
 
 const cache = new keyv();
 
-export async function containsFolders(path: string):Promise<boolean>
-{
+export async function containsFolders(path: string): Promise<boolean> {
   try {
-    return (await fs.readdir(`assets/data/${path}`, { withFileTypes: true }))[0].isDirectory();
+    return (
+      await fs.readdir(`assets/data/${path}`, { withFileTypes: true })
+    )[0].isDirectory();
   } catch (e) {
     return false;
   }
@@ -80,7 +81,12 @@ export async function getEntity(
 
   const file = await fs.readFile(filePath);
   try {
-    const entity = JSON.parse(file.toString('utf-8'));
+    const entity = {
+      ...JSON.parse(file.toString('utf-8')),
+      // Add ID to every entity so that after requesting an (...)/all endpoint
+      // client can request individual images for any of returned entities
+      id,
+    };
     await cache.set(cacheId, entity);
     console.log(
       chalk.blue('[Cache-Data]'),
