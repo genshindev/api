@@ -1,3 +1,3 @@
-import generateSmallCharacterIcons from "./generateSmallCharacterIcons";
+import generateSmallCharacterIcons from './generateSmallCharacterIcons';
 
-generateSmallCharacterIcons()
+generateSmallCharacterIcons();
