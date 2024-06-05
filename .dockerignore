@@ -11,7 +11,13 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-README.md 
+README.md
 .env.example
 
 LICENSE
+
+# MacOS rubbish files
+.DS_Store
+
+# Programmatically generated files
+/assets/images/characters/**/icon

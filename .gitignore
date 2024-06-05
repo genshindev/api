@@ -5,7 +5,7 @@ dist/
 # ides
 .vscode
 .idea
-.vs 
+.vs
 
 *.log
 npm-debug.log*
@@ -15,3 +15,9 @@ lerna-debug.log*
 
 nodemon.json
 package-lock.json
+
+# MacOS rubbish files
+.DS_Store
+
+# Programmatically generated files
+/assets/images/characters/**/icon
