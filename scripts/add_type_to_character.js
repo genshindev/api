@@ -31,7 +31,7 @@ readDirectoryRecursiveWithFilter('', '../assets/data/characters', (file) => {
   const parsed = JSON.parse(content);
 
   if (parsed.vision) {
-    parsed.vision_key = elements[parsed.vision];
+    parsed.visionKey = elements[parsed.vision];
     const encoded = JSON.stringify(parsed, undefined, 2);
     fs.writeFileSync('../assets/data/characters' + file, encoded);
   }

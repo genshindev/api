@@ -87,6 +87,6 @@
       "level": 6
     }
   ],
-  "vision_key": "DENDRO",
-  "weapon_type": "CATALYST"
+  "visionKey": "DENDRO",
+  "weaponType": "CATALYST"
 }

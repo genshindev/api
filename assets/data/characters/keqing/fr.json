@@ -88,8 +88,8 @@
       "level": 6
     }
   ],
-  "vision_key": "ELECTRO",
-  "weapon_type": "SWORD",
+  "visionKey": "ELECTRO",
+  "weaponType": "SWORD",
   "outfits": [
     {
       "type": "Formel",

@@ -176,6 +176,6 @@
       "level": 6
     }
   ],
-  "vision_key": "ELECTRO",
-  "weapon_type": "CLAYMORE"
+  "visionKey": "ELECTRO",
+  "weaponType": "CLAYMORE"
 }

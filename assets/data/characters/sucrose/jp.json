@@ -152,6 +152,6 @@
       "level": 6
     }
   ],
-  "vision_key": "ANEMO",
-  "weapon_type": "CATALYST"
+  "visionKey": "ANEMO",
+  "weaponType": "CATALYST"
 }

@@ -91,6 +91,6 @@
       "level": 6
     }
   ],
-  "vision_key": "CRYO",
-  "weapon_type": "SWORD"
+  "visionKey": "CRYO",
+  "weaponType": "SWORD"
 }

@@ -169,6 +169,6 @@
       "level": 6
     }
   ],
-  "vision_key": "GEO",
-  "weapon_type": "POLEARM"
+  "visionKey": "GEO",
+  "weaponType": "POLEARM"
 }

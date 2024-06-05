@@ -156,6 +156,6 @@
       "level": 6
     }
   ],
-  "vision_key": "CRYO",
-  "weapon_type": "POLEARM"
+  "visionKey": "CRYO",
+  "weaponType": "POLEARM"
 }

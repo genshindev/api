@@ -86,6 +86,6 @@
       "level": 6
     }
   ],
-  "vision_key": "PYRO",
-  "weapon_type": "SWORD"
+  "visionKey": "PYRO",
+  "weaponType": "SWORD"
 }

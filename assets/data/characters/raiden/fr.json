@@ -94,6 +94,6 @@
       "level": 6
     }
   ],
-  "vision_key": "ELECTRO",
-  "weapon_type": "POLEARM"
+  "visionKey": "ELECTRO",
+  "weaponType": "POLEARM"
 }
