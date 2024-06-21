@@ -183,7 +183,7 @@
     "sources": ["Samachurl"]
   },
   "treasure-hoarder-insignias": {
-    "characters": ["kaeya", "bennett", "beidou", "xinyan", "yanfei", "kazuha", 
+    "characters": ["kaeya", "bennett", "beidou", "xinyan", "yanfei", "kazuha",
       "shikanoin-heizou", "thoma"],
     "weapons": [
       "primordial-jade-cutter",
@@ -711,7 +711,7 @@
     "sources": ["Clockwork Mek"]
   },
   "fontemer-aberrant": {
-    "characters": ["navia", "freminet", "neuvillette"],
+    "characters": ["navia", "freminet", "neuvillette", "sigewinne"],
     "weapons": [
       "cashflow-supervision",
       "splendor-of-tranquil-waters",

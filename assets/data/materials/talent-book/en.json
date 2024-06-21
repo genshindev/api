@@ -312,7 +312,7 @@
     ]
   },
   "equity": {
-    "characters": ["lyney", "neuvillette", "traveler-hydro", "navia"],
+    "characters": ["lyney", "neuvillette", "traveler-hydro", "navia", "sigewinne"],
     "availability": ["Monday", "Thursday", "Sunday"],
     "source": "pale-of-forgotten-glory",
     "items": [
