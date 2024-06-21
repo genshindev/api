@@ -334,7 +334,7 @@
     ]
   },
   "justice": {
-    "characters": ["charlotte", "freminet", "furina", "traveler-hydro"],
+    "characters": ["charlotte", "freminet", "furina", "traveler-hydro", "clorinde"],
     "availability": ["Tuesday", "Friday", "Sunday"],
     "source": "pale-of-forgotten-glory",
     "items": [
