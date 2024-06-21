@@ -83,7 +83,7 @@
   "everamber": {
     "id": "everamber",
     "name": "Everamber",
-    "characters": ["lynette", "neuvillette", "kirara"]
+    "characters": ["lynette", "neuvillette", "kirara", "clorinde"]
   },
   "primordial-greenbloom": {
     "id": "primordial-greenbloom",
@@ -108,12 +108,12 @@
   "lightless-eye-of-the-maelstrom": {
     "id": "lightless-eye-of-the-maelstrom",
     "name": "Lightless Eye of the Maelstrom",
-    "characters": ["chevreuse", "xianyun"]
+    "characters": ["chevreuse", "xianyun", "sigewinne"]
   },
   "daka-s-bell": {
     "id": "daka-s-bell",
     "name": "Daka's Bell",
-    "characters": ["wanderer", "yaoyao"]
+    "characters": ["wanderer", "yaoyao", "sethos"]
   },
   "puppet-strings": {
     "id": "puppet-strings",

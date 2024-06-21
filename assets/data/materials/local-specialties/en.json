@@ -33,7 +33,7 @@
     {
       "id": "windwheel-aster",
       "name": "Windwheel Aster",
-      "characters": ["bennett", "sucrose", "traveler-anemo", "traveler-geo", 
+      "characters": ["bennett", "sucrose", "traveler-anemo", "traveler-geo",
         "traveler-electro", "traveler-dendro","traveler-hydro"]
     },
     {
@@ -176,6 +176,11 @@
       "id": "padisarah",
       "name": "Padisarah",
       "characters": ["nilou"]
+    },
+    {
+      "id": "trishiraite",
+      "name": "Trishiraite",
+      "characters": ["sethos"]
     }
   ],
   "fontaine": [
@@ -187,12 +192,12 @@
     {
       "id": "lumitoile",
       "name": "Lumitoile",
-      "characters": ["neuvillette"]
+      "characters": ["neuvillette", "clorinde"]
     },
     {
       "id": "romaritime-flower",
       "name": "Romaritime Flower",
-      "characters": ["freminet"]
+      "characters": ["freminet", "sigewinne"]
     },
     {
       "id": "spring-of-the-first-dewdrop",

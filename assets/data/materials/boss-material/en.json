@@ -137,17 +137,17 @@
   "fontemer-unihorn": {
     "name": "Fontemer Unihorn",
     "source": "Millennial Pearl Seahorse",
-    "characters": ["chevreuse", "neuvillette"]
+    "characters": ["chevreuse", "neuvillette", "clorinde"]
   },
   "water-that-failed-to-transcend": {
     "name": "Water That Failed To Transcend",
     "source": "Hydro Tulpa",
-    "characters": ["furina"]
+    "characters": ["furina", "sigewinne"]
   },
   "cloudseam-scale": {
     "name": "Cloudseam Scale",
     "source": "Solitary Suanni",
-    "characters": ["xianyun"]
+    "characters": ["xianyun", "sethos"]
   },
   "fragment-of-a-golden-melody": {
     "id": "Fragment of a Golden Melody",
