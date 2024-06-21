@@ -616,9 +616,7 @@
     "sources": ["Ruin Guard", "Ruin Hunter", "Ruin Grader"]
   },
   "eremites-red": {
-    "characters": [
-      "faruzan", "dori", "alhaitham", "dehya", "candace"
-    ],
+    "characters": ["faruzan", "dori", "alhaitham", "dehya", "candace", "sethos"],
     "weapons": [
       "beacon-of-the-reed-sea",
       "hunter-s-path",

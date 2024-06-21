@@ -176,6 +176,11 @@
       "id": "padisarah",
       "name": "Padisarah",
       "characters": ["nilou"]
+    },
+    {
+      "id": "trishiraite",
+      "name": "Trishiraite",
+      "characters": ["sethos"]
     }
   ],
   "fontaine": [

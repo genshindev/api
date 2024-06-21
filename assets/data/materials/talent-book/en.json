@@ -290,7 +290,7 @@
     ]
   },
   "praxis": {
-    "characters": ["collei", "nilou", "traveler-dendro", "wanderer", "dehya"],
+    "characters": ["collei", "nilou", "traveler-dendro", "wanderer", "dehya", "sethos"],
     "availability": ["Wednesday", "Saturday", "Sunday"],
     "source": "steeple-of-ignorance",
     "items": [

@@ -113,7 +113,7 @@
   "daka-s-bell": {
     "id": "daka-s-bell",
     "name": "Daka's Bell",
-    "characters": ["wanderer", "yaoyao"]
+    "characters": ["wanderer", "yaoyao", "sethos"]
   },
   "puppet-strings": {
     "id": "puppet-strings",
