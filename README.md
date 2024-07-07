@@ -79,6 +79,8 @@ npm run dev
 
 ## Contributing
 
+[![GitHub repo Good Issues for newbies](https://img.shields.io/github/issues/genshindev/api/good%20first%20issue?style=flat&logo=github&logoColor=green&label=Good%20First%20issues)](https://github.com/genshindev/api/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) [![GitHub Help Wanted issues](https://img.shields.io/github/issues/genshindev/api/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20issues)](https://github.com/genshindev/api/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) [![GitHub Help Wanted PRs](https://img.shields.io/github/issues-pr/genshindev/api/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/genshindev/api/pulls?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) [![GitHub repo Issues](https://img.shields.io/github/issues/genshindev/api?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/genshindev/api/issues?q=is%3Aopen)
+
 Contributing is pretty simple if you want to just add new characters, nations, new entity types, translations etc, which will be explained in the following sections. \
 Then simply [create a new Pull Request](https://github.com/genshindev/api/pulls) with your changes and we will have a look at it as soon as we have time!
 
