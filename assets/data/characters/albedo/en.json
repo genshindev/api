@@ -54,7 +54,49 @@
           "value": "128%/160%"
         }
       ],
-      "type": "NORMAL_ATTACK"
+      "type": "NORMAL_ATTACK",
+      "attribute-scaling" : [
+        {
+          "name" : "1-Hit DMG (%)",
+          "value" : "36.74 39.73 42.72 46.99 49.98 53.4 58.1 62.8 67.5 72.62 78.5"
+        },
+        {
+          "name" : "2-Hit DMG (%)",
+          "value" : "36.74 39.73 42.72 46.99 49.98 53.4 58.1 62.8 67.5 72.62 78.5"
+        },
+        {
+          "name" : "3-Hit DMG (%)",
+          "value" : "47.45 51.32 55.18 60.7 64.56 68.97 75.04 81.11 87.18 93.81 101.39"
+        },
+        {
+          "name" : "4-Hit DMG (%)",
+          "value" : "49.75 53.8 57.85 63.63 67.68 72.31 78.68 85.04 91.4 98.34 106.3"
+        },
+        {
+          "name" : "5-Hit DMG (%)",
+          "value" : "62.07 67.13 72.18 79.4 84.45 90.22 98.16 106.1 114.04 122.7 132.63"
+        },
+        {
+          "name" : "Charged Attack DMG (%)",
+          "value" : "47.3+60.2 51.15+65.1 55+70 60.5+77 64.35+81.9 68.75+87.5 74.8+95.2 80.85+102.9 86.9+110.6 93.5+119 101.06+128.63"
+        },
+        {
+          "name" : "Charged Attack Stamina Cost",
+          "value" : "20"
+        },
+        {
+          "name" : "Plunge DMG (%)",
+          "value" : "63.93 69.14 74.34 81.77 86.98 92.92 101.1 109.28 117.46 126.38 135.3"
+        },
+        {
+          "name" : "Low Plunge DMG (%)",
+          "value" : "127.84 138.24 148.65 163.51 173.92 185.81 202.16 218.51 234.86 252.7 270.54"
+        },
+        {
+          "name" : "High Plunge DMG (%)",
+          "value" : "159.68 172.67 185.67 204.24 217.23 232.09 252.51 272.93 293.36 315.64 337.92"
+        }
+      ]
     },
     {
       "name": "Abiogenesis: Solar Isotoma",
@@ -78,7 +120,22 @@
           "value": "4s"
         }
       ],
-      "type": "ELEMENTAL_SKILL"
+      "type": "ELEMENTAL_SKILL",
+      "attribute-scaling": [
+        {
+          "name" : "Skill DMG (%)",
+          "value" : "130.4 140.18 149.96 163 172.78 182.56 195.6 208.64 221.68 234.72 247.76 260.8 277.1 293.4"
+        },{
+          "name" : "Transient Blossom DMG (% DEF)",
+          "value" : "133.6 143.62 153.64 167 177.02 187.04 200.4 213.76 227.12 240.48 253.84 267.2 283.9 300.6"
+        },{
+          "name" : "Duration",
+          "value" : "30"
+        },{
+          "name" : "Skill CD",
+          "value" : "4"
+        }
+      ]
     },
     {
       "name": "Rite of Progeniture: Tectonic Tide",
@@ -102,7 +159,25 @@
           "value": "40"
         }
       ],
-      "type": "ELEMENTAL_BURST"
+      "type": "ELEMENTAL_BURST",
+      "attribute-scaling": [
+        {
+          "name" : "Elemental Burst DMG (%)",
+          "value" : "367.2 394.74 422.28 459 486.54 514.08 550.8 587.52 624.24 660.96 697.68 734.4 780.3 826"
+        },
+        {
+          "name" : "Fatal Blossom DMG (%)",
+          "value" : "72 77.4 82.8 90 95.4 100.8 108 115.2 122.4 129.6 136.8 144 153 162"
+        },
+        {
+          "name" : "CD",
+          "value" : "12"
+        },
+        {
+          "name" : "Energy Cost",
+          "value" : "40"
+        }
+      ]
     }
   ],
   "passiveTalents": [
