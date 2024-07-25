@@ -54,7 +54,49 @@
           "value": "127.84% / 159.68%"
         }
       ],
-      "type": "NORMAL_ATTACK"
+      "type": "NORMAL_ATTACK",
+      "attribute-scaling" : [
+        {
+          "name" : "1-Hit DMG (%)",
+          "value" : "49.53 53.56 57.59 63.35 67.38 71.98 78.32 84.65 90.99 97.9 104.81"
+        },
+        {
+          "name" : "2-Hit DMG (%)",
+          "value" : "50.75 54.88 59.01 64.91 69.04 73.76 80.25 86.75 93.24 100.32 107.4"
+        },
+        {
+          "name" : "3-Hit DMG (%)",
+          "value" : "34.18+34.18 36.96+36.96 39.74+39.74 43.72+43.72 46.5+46.5 49.68+49.68 54.05+54.05 58.42+58.42 62.79+62.79 67.56+67.56 72.33+72.33"
+        },
+        {
+          "name" : "4-Hit DMG (%)",
+          "value" : "66.77 72.2 77.64 85.4 90.84 97.05 105.59 114.13 122.67 131.98 141.3"
+        },
+        {
+          "name" : "5-Hit DMG (%)",
+          "value" : "83.85 90.68 97.5 107.25 114.08 121.88 132.6 143.33 154.05 165.75 177.45"
+        },
+        {
+          "name" : "Charged Attack DMG (%)",
+          "value" : "55.25+55.25 59.75+59.75 64.25+64.25 70.67+70.67 75.17+75.17 80.31+80.31 87.38+87.38 94.45+94.45 101.52+101.52 109.22+109.22 116.93+116.93"
+        },
+        {
+          "name" : "Charged Attack Stamina Cost",
+          "value" : "20"
+        },
+        {
+          "name" : "Plunge DMG (%)",
+          "value" : "63.93 69.14 74.34 81.77 86.98 92.92 101.1 109.28 117.46 126.38 135.3"
+        },
+        {
+          "name" : "Low Plunge DMG (%)",
+          "value" : "127.84 138.24 148.65 163.51 173.92 185.81 202.16 218.51 234.86 252.7 270.54"
+        },
+        {
+          "name" : "High Plunge DMG (%)",
+          "value" : "159.68 172.67 185.67 204.24 217.23 232.09 252.51 272.93 293.36 315.64 337.92"
+        }
+      ]
     },
     {
       "name": "Universality: An Elaboration on Form",
@@ -90,7 +132,37 @@
           "value": "18s"
         }
       ],
-      "type": "ELEMENTAL_SKILL"
+      "type": "ELEMENTAL_SKILL",
+      "attribute-scaling": [
+        {
+          "name" : "Rush Attack DMG",
+          "value" : "193.6 ATK+154.88 Elemental Mastery 208.12 ATK+166.5 Elemental Mastery 222.64 ATK+178.11 Elemental Mastery 242 ATK+193.6 Elemental Mastery 256.52 ATK+205.22 Elemental Mastery 271.04 ATK+216.83 Elemental Mastery 290.4 ATK+232.32 Elemental Mastery 309.76 ATK+247.81 Elemental Mastery 329.12 ATK+263.3 Elemental Mastery 348.48 ATK+278.78 Elemental Mastery 367.84 ATK+294.27 Elemental Mastery 387.2 ATK+309.76 Elemental Mastery 411.4 ATK+329.12 Elemental Mastery"
+        },
+        {
+          "name" : "Projection Attack Interval",
+          "value" : "1.6"
+        },
+        {
+          "name" : "1-Mirror Projection Attack DMG",
+          "value" : "67.2 ATK+134.4 Elemental Mastery 72.24 ATK+144.48 Elemental Mastery 77.28 ATK+154.56 Elemental Mastery 84 ATK+168 Elemental Mastery 89.04 ATK+178.08 Elemental Mastery 94.08 ATK+188.16 Elemental Mastery 100.8 ATK+201.6 Elemental Mastery 107.52 ATK+215.04 Elemental Mastery 114.24 ATK+228.48 Elemental Mastery 120.96 ATK+241.92 Elemental Mastery 127.68 ATK+255.36 Elemental Mastery 134.4 ATK+268.8 Elemental Mastery 142.8 ATK+285.6 Elemental Mastery"
+        },
+        {
+          "name" : "2-Mirror Projection Attack DMG",
+          "value" : "(67.2 ATK+134.4 Elemental Mastery)×2 (72.24 ATK+144.48 Elemental Mastery)×2 (77.28 ATK+154.56 Elemental Mastery)×2 (84 ATK+168 Elemental Mastery)×2 (89.04 ATK+178.08 Elemental Mastery)×2 (94.08 ATK+188.16 Elemental Mastery)×2 (100.8 ATK+201.6 Elemental Mastery)×2 (107.52 ATK+215.04 Elemental Mastery)×2 (114.24 ATK+228.48 Elemental Mastery)×2 (120.96 ATK+241.92 Elemental Mastery)×2 (127.68 ATK+255.36 Elemental Mastery)×2 (134.4 ATK+268.8 Elemental Mastery)×2 (142.8 ATK+285.6 Elemental Mastery)×2"
+        },
+        {
+          "name" : "3-Mirror Projection Attack DMG",
+          "value" : "(67.2 ATK+134.4 Elemental Mastery)×3 (72.24 ATK+144.48 Elemental Mastery)×3 (77.28 ATK+154.56 Elemental Mastery)×3 (84 ATK+168 Elemental Mastery)×3 (89.04 ATK+178.08 Elemental Mastery)×3 (94.08 ATK+188.16 Elemental Mastery)×3 (100.8 ATK+201.6 Elemental Mastery)×3 (107.52 ATK+215.04 Elemental Mastery)×3 (114.24 ATK+228.48 Elemental Mastery)×3 (120.96 ATK+241.92 Elemental Mastery)×3 (127.68 ATK+255.36 Elemental Mastery)×3 (134.4 ATK+268.8 Elemental Mastery)×3 (142.8 ATK+285.6 Elemental Mastery)×3"
+        },
+        {
+          "name" : "Chisel-Light Mirror Removal Interval",
+          "value" : "4"
+        },
+        {
+          "name" : "CD",
+          "value" : "18"
+        }
+      ]
     },
     {
       "name": "Particular Field: Fetters of Phenomena",
@@ -126,7 +198,37 @@
           "value": "70"
         }
       ],
-      "type": "ELEMENTAL_BURST"
+      "type": "ELEMENTAL_BURST",
+      "attribute-scaling": [
+        {
+          "name" : "Single-Instance DMG",
+          "value" : "121.6 ATK+97.28 Elemental Mastery 130.72 ATK+104.58 Elemental Mastery 139.84 ATK+111.87 Elemental Mastery 152 ATK+121.6 Elemental Mastery 161.12 ATK+128.9 Elemental Mastery 170.24 ATK+136.19 Elemental Mastery 182.4 ATK+145.92 Elemental Mastery 194.56 ATK+155.65 Elemental Mastery 206.72 ATK+165.38 Elemental Mastery 218.88 ATK+175.1 Elemental Mastery 231.04 ATK+184.83 Elemental Mastery 243.2 ATK+194.56 Elemental Mastery 258.4 ATK+206.72 Elemental Mastery"
+        },
+        {
+          "name" : "Basic Attack Instances",
+          "value" : "4"
+        },
+        {
+          "name" : "1-Mirror Attack Instances",
+          "value" : "6"
+        },
+        {
+          "name" : "2-Mirror Attack Instances",
+          "value" : "8"
+        },
+        {
+          "name" : "3-Mirror Attack Instances",
+          "value" : "10"
+        },
+        {
+          "name" : "CD",
+          "value" : "18"
+        },
+        {
+          "name" : "Energy Cost",
+          "value" : "70"
+        }
+      ]
     }
   ],
   "passiveTalents": [
