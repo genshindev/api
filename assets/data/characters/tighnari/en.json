@@ -236,6 +236,6 @@
       "level": 6
     }
   ],
-  "vision_key": "DENDRO",
-  "weapon_type": "BOW"
+  "visionKey": "DENDRO",
+  "weaponType": "BOW"
 }

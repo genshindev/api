@@ -86,6 +86,6 @@
       "level": 6
     }
   ],
-  "vision_key": "ANEMO",
-  "weapon_type": "CLAYMORE"
+  "visionKey": "ANEMO",
+  "weaponType": "CLAYMORE"
 }

@@ -186,6 +186,6 @@
       "level": 6
     }
   ],
-  "vision_key": "DENDRO",
-  "weapon_type": "ESPADA"
+  "visionKey": "DENDRO",
+  "weaponType": "ESPADA"
 }

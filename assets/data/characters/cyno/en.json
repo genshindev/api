@@ -190,7 +190,7 @@
       "level": 6
     }
   ],
-  "vision_key": "ELECTRO",
+  "visionKey": "ELECTRO",
   "name_key": "cyno",
-  "weapon_type": "POLEARM"
+  "weaponType": "POLEARM"
 }

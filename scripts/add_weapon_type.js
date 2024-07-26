@@ -22,8 +22,8 @@ readDirectoryRecursiveWithFilter('', '../assets/data/characters', (file) => {
   const parsed = JSON.parse(content);
 
   if (parsed.weapon && file.endsWith('en.json')) {
-    parsed.weapon_type = parsed.weapon.toUpperCase();
-    map[parsed.name] = parsed.weapon_type;
+    parsed.weaponType = parsed.weapon.toUpperCase();
+    map[parsed.name] = parsed.weaponType;
     const encoded = JSON.stringify(parsed, undefined, 2);
     fs.writeFileSync('../assets/data/characters' + file, encoded);
   }
@@ -33,7 +33,7 @@ readDirectoryRecursiveWithFilter('', '../assets/data/characters', (file) => {
   const parsed = JSON.parse(content);
 
   if (!file.endsWith('en.json')) {
-    parsed.weapon_type = map[parsed.name];
+    parsed.weaponType = map[parsed.name];
 
     const encoded = JSON.stringify(parsed, undefined, 2);
     fs.writeFileSync('../assets/data/characters' + file, encoded);

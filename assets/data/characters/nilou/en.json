@@ -170,6 +170,6 @@
       "level": 6
     }
   ],
-  "vision_key": "HYDRO",
-  "weapon_type": "SWORD"
+  "visionKey": "HYDRO",
+  "weaponType": "SWORD"
 }

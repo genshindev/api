@@ -170,6 +170,6 @@
       "level": 6
     }
   ],
-  "vision_key": "PYRO",
-  "weapon_type": "POLEARM"
+  "visionKey": "PYRO",
+  "weaponType": "POLEARM"
 }

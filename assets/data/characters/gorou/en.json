@@ -88,6 +88,6 @@
       "level": 6
     }
   ],
-  "vision_key": "GEO",
-  "weapon_type": "BOW"
+  "visionKey": "GEO",
+  "weaponType": "BOW"
 }

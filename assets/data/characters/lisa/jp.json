@@ -168,6 +168,6 @@
       "level": 6
     }
   ],
-  "vision_key": "ELECTRO",
-  "weapon_type": "CATALYST"
+  "visionKey": "ELECTRO",
+  "weaponType": "CATALYST"
 }

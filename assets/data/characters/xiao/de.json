@@ -156,6 +156,6 @@
       "level": 6
     }
   ],
-  "vision_key": "ANEMO",
-  "weapon_type": "POLEARM"
+  "visionKey": "ANEMO",
+  "weaponType": "POLEARM"
 }

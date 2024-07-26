@@ -160,6 +160,6 @@
       "level": 6
     }
   ],
-  "vision_key": "CRYO",
-  "weapon_type": "CLAYMORE"
+  "visionKey": "CRYO",
+  "weaponType": "CLAYMORE"
 }
