@@ -171,5 +171,14 @@
     }
   ],
   "vision_key": "HYDRO",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "outfits": [
+    {
+      "type": "Themed",
+      "name": "Breeze of Sabaa",
+      "description": "An elegant outfit for Nilou, this featherweight dress is seemingly woven of countless flowers, and with it drifts a light fragrance like the east wind at dawn, carrying beauteous blessings from a fairytale land.",
+      "rarity": 4,
+      "image": "outfit-breeze-of-sabaa"
+    }
+  ]
 }
