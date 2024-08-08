@@ -1,0 +1,11 @@
+{
+  "name": "Lumidouce Elegy",
+  "type": "Polearm",
+  "rarity": 5,
+  "baseAttack": 46,
+  "subStat": "CRIT Rate",
+  "passiveName": "Bright Dawn Overture",
+  "passiveDesc": "ATK increased by 15%. After the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 18%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration is refreshed at 2 stacks, restore 12 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
+  "location": "Gacha",
+  "ascensionMaterial": "pristine-sea"
+}
