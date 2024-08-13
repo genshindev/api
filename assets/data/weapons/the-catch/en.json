@@ -6,5 +6,6 @@
   "subStat": "Energy Recharge",
   "passiveName": "Shanty",
   "passiveDesc": "Increases Elemental Burst DMG by 16/20/24/28/32% and Elemental Burst CRIT Rate by 6/7.5/9/10.5/12%.",
-  "location": "Inazuma Fishing Association"
+  "location": "Inazuma Fishing Association",
+    "ascensionMaterial": "mask"
 }
