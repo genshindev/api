@@ -16,18 +16,96 @@
       "name": "The Classics of Acupuncture",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 4 attacks that deal Dendro DMG to opponents in front of him.\nCharged Attack\nConsumes a certain amount of Stamina to deal AoE Dendro DMG to opponents in front of him after a short casting time.\nPlunging Attack\nCalling upon the might of Dendro, Baizhu plunges towards the ground from mid-air, damaging all opponents in his path. Deals AoE Dendro DMG upon impact with the ground.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "37.37%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "36.42%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "22.54% * 2"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "54.14%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "121.04%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83%"
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "value": "113.63%/141.93%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Universal Diagnosis",
       "unlock": "Elemental Skill",
       "description": "Controls a Gossamer Sprite that cruises and attacks nearby opponents, dealing Dendro DMG.\nAfter it performs 3 attacks or if there are no opponents nearby, the Sprite will return, healing all nearby party members based on Baizhu's Max HP.\nThose in the medical field who can read true signs of illness from false ones may even cure people before any symptoms can show.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "79.2%"
+        },
+        {
+          "name": "Healing",
+          "value": "8% Max HP + 770.3755"
+        },
+        {
+          "name": "CD",
+          "value": "10s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Holistic Revivification",
       "unlock": "Elemental Burst",
       "description": "Enters the Pulsing Clarity state, creating a Seamless Shield that absorbs Dendro DMG with 250% effectiveness.\nWhile in this state, Baizhu will generate a new Seamless Shield every 2.5s.\nThe Seamless Shield will heal your own active character based on Baizhu's Max HP and attack opponents by unleashing Spiritveins, dealing Dendro DMG under the following circumstances:\nWhen a character is under the protection of a Seamless Shield and a new Seamless Shield is generated.\nWhen the Seamless Shield's effects expire, or when it is shattered.\nIf you can perceive the heavens and the earth, defend against malignant auras with the flow of qi, and keep your mind clear, surely nothing can hinder you.",
+      "upgrades": [
+        {
+          "name": "Seamless Shield DMG Absorption",
+          "value": "0.8% Max HP + 77.03752"
+        },
+        {
+          "name": "Seamless Shield Duration",
+          "value": "2.5s"
+        },
+        {
+          "name": "Seamless Shield Healing",
+          "value": "5.2% Max HP + 500.74408"
+        },
+        {
+          "name": "Spiritvein DMG",
+          "value": "97.06%"
+        },
+        {
+          "name": "Pulsing Clarity Duration",
+          "value": "14s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],

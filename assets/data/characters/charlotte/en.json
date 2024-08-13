@@ -16,18 +16,128 @@
       "name": "Cool-Color Capture",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nTaking aim at targets using Monsieur Verite, her custom Kamera, Charlotte performs up to 3 consecutive attacks, dealing Cryo DMG.\nCharged Attack\nConsumes a fixed amount of Stamina, and after a moment's preparation, will deploy Monsieur Verite to deal AoE Cryo DMG.\nPlunging Attack\nGathering the power of Cryo, Charlotte plunges toward the ground, dealing DMG to all opponents in her path and dealing AoE Cryo DMG upon landing.\nArkhe: Pneuma\nAt certain intervals, upon using a Charged Attack, Charlotte will cause a Spiritbreath Thorn to descend and pierce opponents, dealing Pneuma-aligned AoE Cryo DMG.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "49.85%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "43.38%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "64.6"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "100.51%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83%"
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "value": "113.63%/141.93%"
+        },
+        {
+          "name": "Spiritbreath Thorn DMG",
+          "value": "11.17%"
+        },
+        {
+          "name": "Spiritbreath Thorn DMG Interval",
+          "value": "6s"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Framing: Freezing Point Composition",
       "unlock": "Elemental Skill",
       "description": "Using the keen instincts of an ace reporter, Charlotte uses her photography skills to produce different effects based on whether the ability is Tapped or Held.\nTap\nTakes a snapshot using Monsieur Verite, dealing AoE Cryo DMG to opponents in front of her and applying Snappy Silhouette to a maximum of 5 opponents. During this effect's duration, it will deal Cryo DMG to affected opponents at intervals.\nHold\nPopping Monsieur Verite's viewfinder open, Charlotte enters Composition Mode, and during this time, the viewfinder will expand as you hold until you reach a Finisher Frame state. In this state, Charlotte can move and change direction freely.\nWhen the hold state ends, Monsieur Verite will deal Cryo DMG to all opponents locked on within the viewfinder, and apply the same Snappy Silhouette as Tap Mode does to them. If you unleash this ability only after reaching Finisher Frame, you will instead apply Focused Impression, which lasts longer and deals more DMG, although the Skill CD will be longer.\nComposition Mode lasts a maximum of 15s and allows a maximum of 5 opponents to be selected.\n\"Press photography requires simple shots with exceptional theming, but most of all, you need to have a knack for capturing the moment!\"",
+      "upgrades": [
+        {
+          "name": "Photo DMG (Press)",
+          "value": "67.2%"
+        },
+        {
+          "name": "Photo DMG (Hold)",
+          "value": "139.2%"
+        },
+        {
+          "name": "'Snappy Silhouette' Mark DMG",
+          "value": "39.2%"
+        },
+        {
+          "name": "'Snappy Silhouette' Mark Trigger Interval",
+          "value": "1.5s"
+        },
+        {
+          "name": "'Snappy Silhouette' Mark Duration",
+          "value": "6s"
+        },
+        {
+          "name": "'Focused Impression' Mark DMG",
+          "value": "40.6%"
+        },
+        {
+          "name": "'Focused Impression' Mark Trigger Interval",
+          "value": "1.5s"
+        },
+        {
+          "name": "'Focused Impression' Mark Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "1ss"
+        },
+        {
+          "name": "Finisher Frame Cast CD",
+          "value": "18s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Still Photo: Comprehensive Confirmation",
       "unlock": "Elemental Burst",
       "description": "Condensing ice to create The Steambird's signature, Charlotte creates a Newsflash Field that will deal AoE Cryo DMG and restores HP for all nearby party members based on Charlotte's ATK.\nNewsflash Field\nWhile the ability is active, Monsieur Verite will deal Cryo DMG at intervals to opponents within its AoE.\nWill continuously restore HP to active character(s) within its AoE based on Charlotte's ATK.\n\"Hearing stories from multiple perspectives to recreate what really happened is key to a good report... I mean, that's how you can pick the best angle for your article!\"",
+      "upgrades": [
+        {
+          "name": "Cast Healing",
+          "value": "256.57% ATK + 1608"
+        },
+        {
+          "name": "Skill DMG",
+          "value": "77.62%"
+        },
+        {
+          "name": "Kamera Continuous Regeneration",
+          "value": "9.22% ATK + 57"
+        },
+        {
+          "name": "Kamera DMG",
+          "value": "6.47%"
+        },
+        {
+          "name": "Newsflash Field Duration",
+          "value": "4s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
