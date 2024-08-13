@@ -179,5 +179,135 @@
     }
   ],
   "vision_key": "ELECTRO",
-  "weapon_type": "CLAYMORE"
+  "weapon_type": "CLAYMORE",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "value": 1
+      },
+      {
+        "name": "Noctilucous Jade",
+        "value": 3
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 3
+      },
+      {
+        "name": "Lightning Prism",
+        "value": 2
+      },
+      {
+        "name": "Noctilucous Jade",
+        "value": 10
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "value": 4
+      },
+      {
+        "name": "Noctilucous Jade",
+        "value": 20
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 3
+      },
+      {
+        "name": "Lightning Prism",
+        "value": 8
+      },
+      {
+        "name": "Noctilucous Jade",
+        "value": 30
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "value": 12
+      },
+      {
+        "name": "Noctilucous Jade",
+        "value": 45
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "value": 20
+      },
+      {
+        "name": "Noctilucous Jade",
+        "value": 60
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }
