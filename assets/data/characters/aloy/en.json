@@ -260,45 +260,132 @@
   "weapon_type": "BOW",
   "ascension_materials": {
     "level_20": [
-      {"name": "Shivada Jade Sliver", "value": 1},
-      {"name": "Crystal Marrow", "value": 3},
-      {"name": "Spectral Husk", "value": 3},
-      {"name": "Mora", "value": 20000}
+      {
+        "name": "Shivada Jade Sliver",
+        "value": 1
+      },
+      {
+        "name": "Crystal Marrow",
+        "value": 3
+      },
+      {
+        "name": "Spectral Husk",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
     ],
     "level_40": [
-      {"name": "Shivada Jade Fragment", "value": 3},
-      {"name": "Crystalline Bloom", "value": 2},
-      {"name": "Crystal Marrow", "value": 10},
-      {"name": "Spectral Husk", "value": 15},
-      {"name": "Mora", "value": 40000}
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 3
+      },
+      {
+        "name": "Crystalline Bloom",
+        "value": 2
+      },
+      {
+        "name": "Crystal Marrow",
+        "value": 10
+      },
+      {
+        "name": "Spectral Husk",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
     ],
     "level_50": [
-      {"name": "Shivada Jade Fragment", "value": 6},
-      {"name": "Crystalline Bloom", "value": 4},
-      {"name": "Crystal Marrow", "value": 20},
-      {"name": "Spectral Heart", "value": 12},
-      {"name": "Mora", "value": 60000}
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 6
+      },
+      {
+        "name": "Crystalline Bloom",
+        "value": 4
+      },
+      {
+        "name": "Crystal Marrow",
+        "value": 20
+      },
+      {
+        "name": "Spectral Heart",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
     ],
     "level_60": [
-      {"name": "Shivada Jade Chunk", "value": 3},
-      {"name": "Crystalline Bloom", "value": 8},
-      {"name": "Crystal Marrow", "value": 30},
-      {"name": "Spectral Heart", "value": 18},
-      {"name": "Mora", "value": 80000}
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 3
+      },
+      {
+        "name": "Crystalline Bloom",
+        "value": 8
+      },
+      {
+        "name": "Crystal Marrow",
+        "value": 30
+      },
+      {
+        "name": "Spectral Heart",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
     ],
     "level_70": [
-      {"name": "Shivada Jade Chunk", "value": 6},
-      {"name": "Crystalline Bloom", "value": 12},
-      {"name": "Crystal Marrow", "value": 45},
-      {"name": "Spectral Nucleus", "value": 12},
-      {"name": "Mora", "value": 100000}
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 6
+      },
+      {
+        "name": "Crystalline Bloom",
+        "value": 12
+      },
+      {
+        "name": "Crystal Marrow",
+        "value": 45
+      },
+      {
+        "name": "Spectral Nucleus",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
     ],
     "level_80": [
-      {"name": "Shivada Jade Gemstone", "value": 6},
-      {"name": "Crystalline Bloom", "value": 20},
-      {"name": "Crystal Marrow", "value": 60},
-      {"name": "Spectral Nucleus", "value": 24},
-      {"name": "Mora", "value": 120000}
+      {
+        "name": "Shivada Jade Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Crystalline Bloom",
+        "value": 20
+      },
+      {
+        "name": "Crystal Marrow",
+        "value": 60
+      },
+      {
+        "name": "Spectral Nucleus",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
     ]
   }
 }

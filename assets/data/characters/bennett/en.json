@@ -175,5 +175,135 @@
     }
   ],
   "vision_key": "PYRO",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Agnidus Agate Sliver",
+        "value": 1
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 3
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 2
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 10
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 4
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 20
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 8
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 30
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 12
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 45
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Agnidus Agate Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 20
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 60
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }
