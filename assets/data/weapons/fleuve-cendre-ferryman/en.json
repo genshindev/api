@@ -7,5 +7,5 @@
   "passiveName": "Ironbone",
   "passiveDesc": "Increases Elemental Skill CRIT Rate by 8%. Additionally, increases Energy Recharge by 16% for 5s after using an Elemental Skill.s",
   "location": "Fontaine Fishing Association",
-  "ascensionMaterial": "Fragment Of An Ancient Chord"
+  "ascensionMaterial": "ancient-chord"
 }

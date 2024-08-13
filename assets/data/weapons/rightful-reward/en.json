@@ -7,5 +7,5 @@
   "passiveName": "Tip of the Spear",
   "passiveDesc": "When the wielder is healed, restore 8 Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
   "location": "BP Bounty",
-  "ascensionMaterial": "Broken Goblet Of The Pristine Sea"
+  "ascensionMaterial": "pristine-sea"
 }
