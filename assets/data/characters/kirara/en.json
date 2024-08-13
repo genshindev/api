@@ -89,5 +89,14 @@
     }
   ],
   "vision_key": "DENDRO",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "outfits": [
+    {
+      "type": "Themed",
+      "name": "Phantom in Boots",
+      "description": "Kirara's outfit. The swashbuckling feline of fairytale fame, the crafty courier of dearly-held dreams... is pleased to make your acquaintance!",
+      "rarity": 4,
+      "image": "outfit-phantom-in-boots"
+    }
+  ]
 }
