@@ -16,18 +16,96 @@
       "name": "Ripping Fang Fletching",
       "unlock": "Normal attack",
       "description": "Normal Attack\nPerform up to 4 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\nWhile aiming, stone crystals will accumulate on the arrowhead. A fully charged crystalline arrow will deal Geo DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "37.75%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "36.15%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "49.45%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "59%"
+        },
+        {
+          "name": "Aimed Shot",
+          "value": "43.86%"
+        },
+        {
+          "name": "Fully-Charged Aimed Shot",
+          "value": "124%"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83%"
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "value": "113.63%/141.93%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Inuzaka All-Round Defense",
       "unlock": "Elemental skill",
       "description": "Deals AoE Geo DMG and sets up a General's War Banner.\nGeneral's War Banner\nProvides up to 3 buffs to active characters within the skill's AoE based on the number of Geo characters in the party at the time of casting:\n- 1 Geo character: Adds \"Standing Firm\" - DEF Bonus.\n- 2 Geo characters: Adds \"Impregnable\" - Increased resistance to interruption.\n- 3 Geo characters: Adds \"Crunch\" - Geo DMG Bonus.\nGorou can deploy only 1 General's War Banner on the field at any one time. Characters can only benefit from 1 General's War Banner at a time. When a party member leaves the field, the active buff will last for 2s.\nHold\nAdjust the location of the skill.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "107.2%"
+        },
+        {
+          "name": "DEF Increase",
+          "value": "206.16"
+        },
+        {
+          "name": "Geo DMG Bonus",
+          "value": "15%"
+        },
+        {
+          "name": "Duration",
+          "value": "10s"
+        },
+        {
+          "name": "CD",
+          "value": "10s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Juuga: Forward Unto Victory",
       "unlock": "Elemental burst",
       "description": "Displaying his valor as a general, Gorou deals AoE Geo DMG and creates a field known as General's Glory to embolden his comrades.\nGeneral's Glory\nThis field has the following properties:\n- Like the General's War Banner created by Inuzaka All-Round Defense, provides buffs to active characters within the skill's AoE based on the number of Geo characters in the party. Also moves together with your active character.\n- Generates 1 Crystal Collapse every 1.5s that deals AoE Geo DMG to 1 opponent within the skill's AoE.\n- Pulls 1 elemental shard in the skill's AoE to your active character's position every 1.5s (elemental shards are created by Crystallize reactions).\nIf a General's War Banner created by Gorou currently exists on the field when this ability is used, it will be destroyed. In addition, for the duration of General's Glory, Gorou's Elemental Skill \"Inuzaka All-Round Defense\" will not create the General's War Banner.\nIf Gorou falls, the effects of General's Glory will be cleared.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "98.22% DEF"
+        },
+        {
+          "name": "Crystal Collapse DMG",
+          "value": "61.3% DEF"
+        },
+        {
+          "name": "Duration",
+          "value": "9s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],

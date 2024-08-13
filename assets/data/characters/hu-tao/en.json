@@ -16,18 +16,112 @@
       "name": "Secret Spear of Wangsheng",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 6 consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "46.89%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "48.25%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "61.05%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "65.64%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "33.27% + 35.2%"
+        },
+        {
+          "name": "6-Hit DMG",
+          "value": "85.96%"
+        },
+        {
+          "name": "Charged Attack",
+          "value": "135.96%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "65.42%"
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "value": "130.81%/163.39%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Guide to Afterlife",
       "unlock": "Elemental Skill",
       "description": "Paramita Papilio\nIncreases Hu Tao's ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao's Base ATK.\nConverts attack DMG to Pyro DMG, which cannot be overridden by any other elemental infusion.\nIncreases Hu Tao's resistance to interruption.\n\nBlood Blossom\nEnemies affected by Blood Blossom will take Pyro DMG every 4s. This DMG is considered Elemental Skill DMG.\nEach enemy can be affected by only one Blood Blossom effect at a time, and its duration may only be refreshed by Hu Tao herself.\n\nParamita Papilio ends when its duration is over, or Hu Tao has left the battlefield or fallen.",
+      "upgrades": [
+        {
+          "name": "Activation Cost",
+          "value": "30% Current HP"
+        },
+        {
+          "name": "ATK Increase",
+          "value": "3.84% Max HP"
+        },
+        {
+          "name": "Blood Blossom DMG",
+          "value": "64%"
+        },
+        {
+          "name": "Blood Blossom Duration",
+          "value": "8s"
+        },
+        {
+          "name": "Duration",
+          "value": "9s"
+        },
+        {
+          "name": "CD",
+          "value": "16s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Spirit Soother",
       "unlock": "Elemental Burst",
       "description": "Commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.\nUpon striking the enemy, regenerates a percentage of Hu Tao's Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit. If Hu Tao's HP is below or equal to 50% when the enemy is hit, both the DMG and HP Regeneration are increased.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "303.27%"
+        },
+        {
+          "name": "Low HP Skill DMG",
+          "value": "379.09%"
+        },
+        {
+          "name": "Skill HP Regeneration",
+          "value": "6.26% Max HP"
+        },
+        {
+          "name": "Low HP Skill Regeneration",
+          "value": "8.35% Max HP"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],

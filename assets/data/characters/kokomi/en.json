@@ -16,18 +16,100 @@
       "name": "The Shape of Water",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 3 consecutive attacks that take the form of swimming fish, dealing Hydro DMG.\nCharged Attack\nConsumes a certain amount of Stamina to deal AoE Hydro DMG after a short casting time.\nPlunging Attack\nGathering the might of Hydro, Kokomi plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "68.38%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "61.54%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "94.31%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "148.32%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83%"
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "value": "113.63%/141.93%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Kurage's Oath",
       "unlock": "Elemental Skill",
       "description": "Summons a \"bake-kurage\" created from water that can heal her allies.\nUsing this skill will apply the Wet status to Sangonomiya Kokomi.\n\nBake-Kurage:\nDeals Hydro DMG to surrounding opponents and heal nearby active characters at fixed intervals. This healing is based on Kokomi's Max HP.",
+      "upgrades": [
+        {
+          "name": "Regeneration",
+          "value": "4.4% Max HP + 423.70"
+        },
+        {
+          "name": "Ripple DMG",
+          "value": "109.19%"
+        },
+        {
+          "name": "Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Nereid's Ascension",
       "unlock": "Elemental Burst",
       "description": "The might of Watatsumi descends, dealing Hydro DMG to surrounding opponents, before robing Kokomi in a Ceremonial Garment made from the flowing waters of Sangonomiya.\n\nCeremonial Garment\nSangonomiya Kokomi's Normal Attack, Charged Attack and Bake-Kurage DMG are increased based on her Max HP.\nWhen her Normal and Charged Attacks hit opponents, Kokomi will restore HP for all nearby party members, and the amount restored is based on her Max HP.\nIncreases Sangonomiya Kokomi's resistance to interruption and allows her to move on the water's surface.\n\nThese effects will be cleared once Sangonomiya Kokomi leaves the field.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "10.42% Max HP"
+        },
+        {
+          "name": "Normal Attack DMG Bonus",
+          "value": "4.84% Max HP"
+        },
+        {
+          "name": "Charged Attack DMG Bonus",
+          "value": "6.78% Max HP"
+        },
+        {
+          "name": "Bake-Kurage DMG Bonus",
+          "value": "7.1% Max HP"
+        },
+        {
+          "name": "HP Regeneration Per Hit",
+          "value" :"0.81% Max HP + 77.03"
+        },
+        {
+          "name": "Duration",
+          "value": "10s"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],

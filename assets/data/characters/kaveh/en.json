@@ -16,18 +16,92 @@
       "name": "Schematic Setup",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nUses Mehrak to perform up to 4 consecutive attacks.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, performs a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "76.19%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "69.64%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "84.26%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "102.69%"
+        },
+        {
+          "name": "Charged Attack Cyclic DMG",
+          "value": "53.15%"
+        },
+        {
+          "name": "Charged Attack Final DMG",
+          "value": "96.15%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "40/s"
+        },
+        {
+          "name": "Max Duration",
+          "value": "5s"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "74.59%"
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "value": "149.14%/186.29%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Artistic Ingenuity",
       "unlock": "Elemental Skill",
       "description": "Uses Mehrak's mapping ability for offensive purposes, initiating a radial scan that deals AoE Dendro DMG. It will also scan all Dendro Cores in its AoE and cause them to immediately burst.\nMehrak was created through the modification of ancient technology and may have some other functions apart from mapping work...",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "204%"
+        },
+        {
+          "name": "CD",
+          "value": "6s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Painted Dome",
       "unlock": "Elemental Burst",
       "description": "Completely unleashes Mehrak's energy and creates a cubic scanned space, dealing AoE Dendro DMG to all opponents within it, causing all Dendro Cores in its AoE to immediately burst, and granting Kaveh the following enhanced combat abilities for a specific duration:\nIncreases Kaveh's Normal, Charged, and Plunging Attack AoE, and converts his attack DMG to Dendro DMG that cannot be overridden.\nAll Dendro Cores created by all your own party members through Bloom reactions will deal additional DMG when they burst.\nIncreases Kaveh's resistance to interruption.\nThese effects will be canceled once Kaveh leaves the field.\n\"Every building style includes the architect's unique worldview, and from this angle, one can say that the buildings themselves are coalescences of human memories.\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "160%"
+        },
+        {
+          "name": "Duration",
+          "value": "12s"
+        },
+        {
+          "name": "Dendro Core Burst DMG Bonus",
+          "value": "27.49%"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
