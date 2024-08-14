@@ -175,5 +175,135 @@
     }
   ],
   "vision_key": "HYDRO",
-  "weapon_type": "POLEARM"
+  "weapon_type": "POLEARM",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Varunada Lazurite Sliver",
+        "value": 1
+      },
+      {
+        "name": "Henna Berry",
+        "value": 3
+      },
+      {
+        "name": "Faded Red Satin",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Varunada Lazurite Fragment",
+        "value": 3
+      },
+      {
+        "name": "Light Guiding Tetrahedron",
+        "value": 2
+      },
+      {
+        "name": "Henna Berry",
+        "value": 10
+      },
+      {
+        "name": "Faded Red Satin",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Varunada Lazurite Fragment",
+        "value": 6
+      },
+      {
+        "name": "Light Guiding Tetrahedron",
+        "value": 4
+      },
+      {
+        "name": "Henna Berry",
+        "value": 20
+      },
+      {
+        "name": "Trimmed Red Silk",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Varunada Lazurite Chunk",
+        "value": 3
+      },
+      {
+        "name": "Light Guiding Tetrahedron",
+        "value": 8
+      },
+      {
+        "name": "Henna Berry",
+        "value": 30
+      },
+      {
+        "name": "Trimmed Red Silk",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Varunada Lazurite Chunk",
+        "value": 6
+      },
+      {
+        "name": "Light Guiding Tetrahedron",
+        "value": 12
+      },
+      {
+        "name": "Henna Berry",
+        "value": 45
+      },
+      {
+        "name": "Rich Red Brocade",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Varunada Lazurite Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Light Guiding Tetrahedron",
+        "value": 20
+      },
+      {
+        "name": "Henna Berry",
+        "value": 60
+      },
+      {
+        "name": "Rich Red Brocade",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }
