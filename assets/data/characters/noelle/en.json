@@ -183,5 +183,135 @@
     }
   ],
   "vision_key": "GEO",
-  "weapon_type": "CLAYMORE"
+  "weapon_type": "CLAYMORE",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Prithiva Topaz Sliver",
+        "value": 1
+      },
+      {
+        "name": "Valberry",
+        "value": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Prithiva Topaz Fragment",
+        "value": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 2
+      },
+      {
+        "name": "Valberry",
+        "value": 10
+      },
+      {
+        "name": "Damaged Mask",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Prithiva Topaz Fragment",
+        "value": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 4
+      },
+      {
+        "name": "Valberry",
+        "value": 20
+      },
+      {
+        "name": "Stained Mask",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Prithiva Topaz Chunk",
+        "value": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 8
+      },
+      {
+        "name": "Valberry",
+        "value": 30
+      },
+      {
+        "name": "Stained Mask",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Prithiva Topaz Chunk",
+        "value": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 12
+      },
+      {
+        "name": "Valberry",
+        "value": 45
+      },
+      {
+        "name": "Ominous Mask",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 20
+      },
+      {
+        "name": "Valberry",
+        "value": 60
+      },
+      {
+        "name": "Ominous Mask",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }
