@@ -171,15 +171,15 @@
   "ascension_materials": {
     "level_20": [
       {
-        "name": "Shivada Jade Sliver",
+        "name": "Vajrada Amethyst Sliver",
         "value": 1
       },
       {
-        "name": "Calla Lily",
+        "name": "Kalpalata Lotus",
         "value": 3
       },
       {
-        "name": "Firm Arrowhead",
+        "name": "Faded Red Satin",
         "value": 3
       },
       {
@@ -189,19 +189,19 @@
     ],
     "level_40": [
       {
-        "name": "Shivada Jade Fragment",
+        "name": "Vajrada Amethyst Fragment",
         "value": 3
       },
       {
-        "name": "Hoarfrost Core",
+        "name": "Thunderclap Fruitcore",
         "value": 2
       },
       {
-        "name": "Calla Lily",
+        "name": "Kalpalata Lotus",
         "value": 10
       },
       {
-        "name": "Firm Arrowhead",
+        "name": "Faded Red Satin",
         "value": 15
       },
       {
@@ -211,19 +211,19 @@
     ],
     "level_50": [
       {
-        "name": "Shivada Jade Fragment",
+        "name": "Vajrada Amethyst Fragment",
         "value": 6
       },
       {
-        "name": "Hoarfrost Core",
+        "name": "Thunderclap Fruitcore",
         "value": 4
       },
       {
-        "name": "Calla Lily",
+        "name": "Kalpalata Lotus",
         "value": 20
       },
       {
-        "name": "Sharp Arrowhead",
+        "name": "Trimmed Red Silk",
         "value": 12
       },
       {
@@ -233,19 +233,19 @@
     ],
     "level_60": [
       {
-        "name": "Shivada Jade Chunk",
+        "name": "Vajrada Amethyst Chunk",
         "value": 3
       },
       {
-        "name": "Hoarfrost Core",
+        "name": "Thunderclap Fruitcore",
         "value": 8
       },
       {
-        "name": "Calla Lily",
+        "name": "Kalpalata Lotus",
         "value": 30
       },
       {
-        "name": "Sharp Arrowhead",
+        "name": "Trimmed Red Silk",
         "value": 18
       },
       {
@@ -255,19 +255,19 @@
     ],
     "level_70": [
       {
-        "name": "Shivada Jade Chunk",
+        "name": "Vajrada Amethyst Chunk",
         "value": 6
       },
       {
-        "name": "Hoarfrost Core",
+        "name": "Thunderclap Fruitcore",
         "value": 12
       },
       {
-        "name": "Calla Lily",
+        "name": "Kalpalata Lotus",
         "value": 45
       },
       {
-        "name": "Weathered Arrowhead",
+        "name": "Rich Red Brocade",
         "value": 12
       },
       {
@@ -277,19 +277,19 @@
     ],
     "level_80": [
       {
-        "name": "Shivada Jade Gemstone",
+        "name": "Vajrada Amethyst Gemstone",
         "value": 6
       },
       {
-        "name": "Hoarfrost Core",
+        "name": "Thunderclap Fruitcore",
         "value": 20
       },
       {
-        "name": "Calla Lily",
+        "name": "Kalpalata Lotus",
         "value": 60
       },
       {
-        "name": "Weathered Arrowhead",
+        "name": "Rich Red Brocade",
         "value": 24
       },
       {
