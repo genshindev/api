@@ -167,5 +167,135 @@
     }
   ],
   "vision_key": "PYRO",
-  "weapon_type": "CLAYMORE"
+  "weapon_type": "CLAYMORE",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Agnidus Agate Sliver",
+        "value": 1
+      },
+      {
+        "name": "Starconch",
+        "value": 3
+      },
+      {
+        "name": "Slime Condensate",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 3
+      },
+      {
+        "name": "Emperor's Resolution",
+        "value": 2
+      },
+      {
+        "name": "Starconch",
+        "value": 10
+      },
+      {
+        "name": "Slime Condensate",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 6
+      },
+      {
+        "name": "Emperor's Resolution",
+        "value": 4
+      },
+      {
+        "name": "Starconch",
+        "value": 20
+      },
+      {
+        "name": "Slime Secretions",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 3
+      },
+      {
+        "name": "Emperor's Resolution",
+        "value": 8
+      },
+      {
+        "name": "Starconch",
+        "value": 30
+      },
+      {
+        "name": "Slime Secretions",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 6
+      },
+      {
+        "name": "Emperor's Resolution",
+        "value": 12
+      },
+      {
+        "name": "Starconch",
+        "value": 45
+      },
+      {
+        "name": "Slime Concentrate",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Agnidus Agate Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Emperor's Resolution",
+        "value": 20
+      },
+      {
+        "name": "Starconch",
+        "value": 60
+      },
+      {
+        "name": "Slime Concentrate",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }

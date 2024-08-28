@@ -89,5 +89,135 @@
     }
   ],
   "vision_key": "ELECTRO",
-  "weapon_type": "POLEARM"
+  "weapon_type": "POLEARM",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "value": 1
+      },
+      {
+        "name": "Amakumo Fruit",
+        "value": 3
+      },
+      {
+        "name": "Old Handguard",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 3
+      },
+      {
+        "name": "Storm Beads",
+        "value": 2
+      },
+      {
+        "name": "Amakumo Fruit",
+        "value": 10
+      },
+      {
+        "name": "Old Handguard",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 6
+      },
+      {
+        "name": "Storm Beads",
+        "value": 4
+      },
+      {
+        "name": "Amakumo Fruit",
+        "value": 20
+      },
+      {
+        "name": "Kageuchi Handguard",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 3
+      },
+      {
+        "name": "Storm Beads",
+        "value": 8
+      },
+      {
+        "name": "Amakumo Fruit",
+        "value": 30
+      },
+      {
+        "name": "Kageuchi Handguard",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 6
+      },
+      {
+        "name": "Storm Beads",
+        "value": 12
+      },
+      {
+        "name": "Amakumo Fruit",
+        "value": 45
+      },
+      {
+        "name": "Famed Handguard",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Storm Beads",
+        "value": 20
+      },
+      {
+        "name": "Amakumo Fruit",
+        "value": 60
+      },
+      {
+        "name": "Famed Handguard",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }

@@ -188,5 +188,135 @@
       "rarity": 4,
       "image": "outfit-phantom-in-boots"
     }
-  ]
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Nagadus Emerald Sliver",
+        "value": 1
+      },
+      {
+        "name": "Amakumo Fruit",
+        "value": 3
+      },
+      {
+        "name": "Spectral Husk",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Nagadus Emerald Fragment",
+        "value": 3
+      },
+      {
+        "name": "Evergloom Ring",
+        "value": 2
+      },
+      {
+        "name": "Amakumo Fruit",
+        "value": 10
+      },
+      {
+        "name": "Spectral Husk",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Nagadus Emerald Fragment",
+        "value": 6
+      },
+      {
+        "name": "Evergloom Ring",
+        "value": 4
+      },
+      {
+        "name": "Amakumo Fruit",
+        "value": 20
+      },
+      {
+        "name": "Spectral Heart",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Nagadus Emerald Chunk",
+        "value": 3
+      },
+      {
+        "name": "Evergloom Ring",
+        "value": 8
+      },
+      {
+        "name": "Amakumo Fruit",
+        "value": 30
+      },
+      {
+        "name": "Spectral Heart",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Nagadus Emerald Chunk",
+        "value": 6
+      },
+      {
+        "name": "Evergloom Ring",
+        "value": 12
+      },
+      {
+        "name": "Amakumo Fruit",
+        "value": 45
+      },
+      {
+        "name": "Spectral Nucleus",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Nagadus Emerald Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Evergloom Ring",
+        "value": 20
+      },
+      {
+        "name": "Amakumo Fruit",
+        "value": 60
+      },
+      {
+        "name": "Spectral Nucleus",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }

@@ -153,5 +153,135 @@
       "price": 1680,
       "image": "outfit-orchids-evening-gown"
     }
-  ]
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Prithiva Topaz Sliver",
+        "value": 1
+      },
+      {
+        "name": "Glaze Lily",
+        "value": 3
+      },
+      {
+        "name": "Recruit's Insignia",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Prithiva Topaz Fragment",
+        "value": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 2
+      },
+      {
+        "name": "Glaze Lily",
+        "value": 10
+      },
+      {
+        "name": "Recruit's Insignia",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Prithiva Topaz Fragment",
+        "value": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 4
+      },
+      {
+        "name": "Glaze Lily",
+        "value": 20
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Prithiva Topaz Chunk",
+        "value": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 8
+      },
+      {
+        "name": "Glaze Lily",
+        "value": 30
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Prithiva Topaz Chunk",
+        "value": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 12
+      },
+      {
+        "name": "Glaze Lily",
+        "value": 45
+      },
+      {
+        "name": "Lieutenant's Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 20
+      },
+      {
+        "name": "Glaze Lily",
+        "value": 60
+      },
+      {
+        "name": "Lieutenant's Insignia",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }

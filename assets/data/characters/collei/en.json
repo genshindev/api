@@ -155,5 +155,135 @@
     }
   ],
   "vision_key": "DENDRO",
-  "weapon_type": "BOW"
+  "weapon_type": "BOW",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Nagadus Emerald Sliver",
+        "value": 1
+      },
+      {
+        "name": "Rukkhashava Mushrooms",
+        "value": 3
+      },
+      {
+        "name": "Firm Arrowhead",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Nagadus Emerald Fragment",
+        "value": 3
+      },
+      {
+        "name": "Majestic Hooked Beak",
+        "value": 2
+      },
+      {
+        "name": "Rukkhashava Mushrooms",
+        "value": 10
+      },
+      {
+        "name": "Firm Arrowhead",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Nagadus Emerald Fragment",
+        "value": 6
+      },
+      {
+        "name": "Majestic Hooked Beak",
+        "value": 4
+      },
+      {
+        "name": "Rukkhashava Mushrooms",
+        "value": 20
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Nagadus Emerald Chunk",
+        "value": 3
+      },
+      {
+        "name": "Majestic Hooked Beak",
+        "value": 8
+      },
+      {
+        "name": "Rukkhashava Mushrooms",
+        "value": 30
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Nagadus Emerald Chunk",
+        "value": 6
+      },
+      {
+        "name": "Majestic Hooked Beak",
+        "value": 12
+      },
+      {
+        "name": "Rukkhashava Mushrooms",
+        "value": 45
+      },
+      {
+        "name": "Weathered Arrowhead",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Nagadus Emerald Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Majestic Hooked Beak",
+        "value": 20
+      },
+      {
+        "name": "Rukkhashava Mushrooms",
+        "value": 60
+      },
+      {
+        "name": "Weathered Arrowhead",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }

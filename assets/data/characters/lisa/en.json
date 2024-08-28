@@ -181,5 +181,135 @@
       "price": 1680,
       "image": "outfit-a-sobriquet-under-shade"
     }
-  ]
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "value": 1
+      },
+      {
+        "name": "Valberry",
+        "value": 3
+      },
+      {
+        "name": "Slime Condensate",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 3
+      },
+      {
+        "name": "Lightning Prism",
+        "value": 2
+      },
+      {
+        "name": "Valberry",
+        "value": 10
+      },
+      {
+        "name": "Slime Condensate",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "value": 4
+      },
+      {
+        "name": "Valberry",
+        "value": 20
+      },
+      {
+        "name": "Slime Secretions",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 3
+      },
+      {
+        "name": "Lightning Prism",
+        "value": 8
+      },
+      {
+        "name": "Valberry",
+        "value": 30
+      },
+      {
+        "name": "Slime Secretions",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "value": 12
+      },
+      {
+        "name": "Valberry",
+        "value": 45
+      },
+      {
+        "name": "Slime Concentrate",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "value": 20
+      },
+      {
+        "name": "Valberry",
+        "value": 60
+      },
+      {
+        "name": "Slime Concentrate",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }

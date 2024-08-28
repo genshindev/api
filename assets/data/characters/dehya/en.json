@@ -183,5 +183,135 @@
     }
   ],
   "vision_key": "PYRO",
-  "weapon_type": "CLAYMORE"
+  "weapon_type": "CLAYMORE",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Agnidus Agate Sliver",
+        "value": 1
+      },
+      {
+        "name": "Sand Grease Pupa",
+        "value": 3
+      },
+      {
+        "name": "Faded Red Satin",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 3
+      },
+      {
+        "name": "Light Guiding Tetrahedron",
+        "value": 2
+      },
+      {
+        "name": "Sand Grease Pupa",
+        "value": 10
+      },
+      {
+        "name": "Faded Red Satin",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 6
+      },
+      {
+        "name": "Light Guiding Tetrahedron",
+        "value": 4
+      },
+      {
+        "name": "Sand Grease Pupa",
+        "value": 20
+      },
+      {
+        "name": "Trimmed Red Silk",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 3
+      },
+      {
+        "name": "Light Guiding Tetrahedron",
+        "value": 8
+      },
+      {
+        "name": "Sand Grease Pupa",
+        "value": 30
+      },
+      {
+        "name": "Trimmed Red Silk",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 6
+      },
+      {
+        "name": "Light Guiding Tetrahedron",
+        "value": 12
+      },
+      {
+        "name": "Sand Grease Pupa",
+        "value": 45
+      },
+      {
+        "name": "Rich Red Brocade",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Agnidus Agate Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Light Guiding Tetrahedron",
+        "value": 20
+      },
+      {
+        "name": "Sand Grease Pupa",
+        "value": 60
+      },
+      {
+        "name": "Rich Red Brocade",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }

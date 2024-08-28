@@ -175,5 +175,135 @@
     }
   ],
   "vision_key": "CRYO",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Shivada Jade Sliver",
+        "value": 1
+      },
+      {
+        "name": "Violetgrass",
+        "value": 3
+      },
+      {
+        "name": "Divining Scroll",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 3
+      },
+      {
+        "name": "Hoarfrost Core",
+        "value": 2
+      },
+      {
+        "name": "Violetgrass",
+        "value": 10
+      },
+      {
+        "name": "Divining Scroll",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 6
+      },
+      {
+        "name": "Hoarfrost Core",
+        "value": 4
+      },
+      {
+        "name": "Violetgrass",
+        "value": 20
+      },
+      {
+        "name": "Sealed Scroll",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 3
+      },
+      {
+        "name": "Hoarfrost Core",
+        "value": 8
+      },
+      {
+        "name": "Violetgrass",
+        "value": 30
+      },
+      {
+        "name": "Sealed Scroll",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 6
+      },
+      {
+        "name": "Hoarfrost Core",
+        "value": 12
+      },
+      {
+        "name": "Violetgrass",
+        "value": 45
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Shivada Jade Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Hoarfrost Core",
+        "value": 20
+      },
+      {
+        "name": "Violetgrass",
+        "value": 60
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }

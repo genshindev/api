@@ -167,5 +167,135 @@
     }
   ],
   "vision_key": "GEO",
-  "weapon_type": "BOW"
+  "weapon_type": "BOW",
+  "ascension_materials" : {
+    "level_20": [
+      {
+        "name": "Prithiva Topaz Sliver",
+        "value": 1
+      },
+      {
+        "name": "Sango Pearl",
+        "value": 3
+      },
+      {
+        "name": "Spectral Husk",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Prithiva Topaz Fragment",
+        "value": 3
+      },
+      {
+        "name": "Perpetual Heart",
+        "value": 2
+      },
+      {
+        "name": "Sango Pearl",
+        "value": 10
+      },
+      {
+        "name": "Spectral Husk",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Prithiva Topaz Fragment",
+        "value": 6
+      },
+      {
+        "name": "Perpetual Heart",
+        "value": 4
+      },
+      {
+        "name": "Sango Pearl",
+        "value": 20
+      },
+      {
+        "name": "Spectral Heart",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Prithiva Topaz Chunk",
+        "value": 3
+      },
+      {
+        "name": "Perpetual Heart",
+        "value": 8
+      },
+      {
+        "name": "Sango Pearl",
+        "value": 30
+      },
+      {
+        "name": "Spectral Heart",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Prithiva Topaz Chunk",
+        "value": 6
+      },
+      {
+        "name": "Perpetual Heart",
+        "value": 12
+      },
+      {
+        "name": "Sango Pearl",
+        "value": 45
+      },
+      {
+        "name": "Spectral Nucleus",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Perpetual Heart",
+        "value": 20
+      },
+      {
+        "name": "Sango Pearl",
+        "value": 60
+      },
+      {
+        "name": "Spectral Nucleus",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }
