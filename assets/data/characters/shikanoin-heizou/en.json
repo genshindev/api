@@ -167,5 +167,135 @@
     }
   ],
   "vision_key": "ANEMO",
-  "weapon_type": "CATALYST"
+  "weapon_type": "CATALYST",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Vayuda Turquoise Sliver",
+        "value": 1
+      },
+      {
+        "name": "Onikabuto",
+        "value": 3
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 3
+      },
+      {
+        "name": "Runic Fang",
+        "value": 2
+      },
+      {
+        "name": "Onikabuto",
+        "value": 10
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 6
+      },
+      {
+        "name": "Runic Fang",
+        "value": 4
+      },
+      {
+        "name": "Onikabuto",
+        "value": 20
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 3
+      },
+      {
+        "name": "Runic Fang",
+        "value": 8
+      },
+      {
+        "name": "Onikabuto",
+        "value": 30
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 6
+      },
+      {
+        "name": "Runic Fang",
+        "value": 12
+      },
+      {
+        "name": "Onikabuto",
+        "value": 45
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Vayuda Turquoise Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Runic Fang",
+        "value": 20
+      },
+      {
+        "name": "Onikabuto",
+        "value": 60
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 24
+      }
+    ]
+  }
 }
