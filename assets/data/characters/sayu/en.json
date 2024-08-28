@@ -89,5 +89,135 @@
     }
   ],
   "vision_key": "ANEMO",
-  "weapon_type": "CLAYMORE"
+  "weapon_type": "CLAYMORE",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Vayuda Turquoise Sliver",
+        "value": 1
+      },
+      {
+        "name": "Crystal Marrow",
+        "value": 3
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 3
+      },
+      {
+        "name": "Marionette Core",
+        "value": 2
+      },
+      {
+        "name": "Crystal Marrow",
+        "value": 10
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 6
+      },
+      {
+        "name": "Marionette Core",
+        "value": 4
+      },
+      {
+        "name": "Crystal Marrow",
+        "value": 20
+      },
+      {
+        "name": "Shimmering Nectar",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 3
+      },
+      {
+        "name": "Marionette Core",
+        "value": 8
+      },
+      {
+        "name": "Crystal Marrow",
+        "value": 30
+      },
+      {
+        "name": "Shimmering Nectar",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 6
+      },
+      {
+        "name": "Marionette Core",
+        "value": 12
+      },
+      {
+        "name": "Crystal Marrow",
+        "value": 45
+      },
+      {
+        "name": "Energy Nectar",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Vayuda Turquoise Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Marionette Core",
+        "value": 20
+      },
+      {
+        "name": "Crystal Marrow",
+        "value": 60
+      },
+      {
+        "name": "Energy Nectar",
+        "value": 24
+      }
+    ]
+  }
 }

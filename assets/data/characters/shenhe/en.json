@@ -99,5 +99,135 @@
       "price": 1680,
       "image": "outfit-frostflower-dew"
     }
-  ]
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Shivada Jade Sliver",
+        "value": 1
+      },
+      {
+        "name": "Qingxin",
+        "value": 3
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 3
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "value": 2
+      },
+      {
+        "name": "Qingxin",
+        "value": 10
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 6
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "value": 4
+      },
+      {
+        "name": "Qingxin",
+        "value": 20
+      },
+      {
+        "name": "Shimmering Nectar",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 3
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "value": 8
+      },
+      {
+        "name": "Qingxin",
+        "value": 30
+      },
+      {
+        "name": "Shimmering Nectar",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 6
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "value": 12
+      },
+      {
+        "name": "Qingxin",
+        "value": 45
+      },
+      {
+        "name": "Energy Nectar",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Shivada Jade Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "value": 20
+      },
+      {
+        "name": "Qingxin",
+        "value": 60
+      },
+      {
+        "name": "Energy Nectar",
+        "value": 24
+      }
+    ]
+  }
 }
