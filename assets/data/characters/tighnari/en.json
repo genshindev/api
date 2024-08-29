@@ -237,5 +237,135 @@
     }
   ],
   "vision_key": "DENDRO",
-  "weapon_type": "BOW"
+  "weapon_type": "BOW",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Nagadus Emerald Sliver",
+        "value": 1
+      },
+      {
+        "name": "Nilotpala Lotus",
+        "value": 3
+      },
+      {
+        "name": "Fungal Spores",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Nagadus Emerald Fragment",
+        "value": 3
+      },
+      {
+        "name": "Majestic Hooked Beak",
+        "value": 2
+      },
+      {
+        "name": "Nilotpala Lotus",
+        "value": 10
+      },
+      {
+        "name": "Fungal Spores",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Nagadus Emerald Fragment",
+        "value": 6
+      },
+      {
+        "name": "Majestic Hooked Beak",
+        "value": 4
+      },
+      {
+        "name": "Nilotpala Lotus",
+        "value": 20
+      },
+      {
+        "name": "Luminescent Pollen",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Nagadus Emerald Chunk",
+        "value": 3
+      },
+      {
+        "name": "Majestic Hooked Beak",
+        "value": 8
+      },
+      {
+        "name": "Nilotpala Lotus",
+        "value": 30
+      },
+      {
+        "name": "Luminescent Pollen",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Nagadus Emerald Chunk",
+        "value": 6
+      },
+      {
+        "name": "Majestic Hooked Beak",
+        "value": 12
+      },
+      {
+        "name": "Nilotpala Lotus",
+        "value": 45
+      },
+      {
+        "name": "Crystalline Cyst Dust",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Nagadus Emerald Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Majestic Hooked Beak",
+        "value": 20
+      },
+      {
+        "name": "Nilotpala Lotus",
+        "value": 60
+      },
+      {
+        "name": "Crystalline Cyst Dust",
+        "value": 24
+      }
+    ]
+  }
 }
