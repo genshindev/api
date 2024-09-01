@@ -155,5 +155,135 @@
     }
   ],
   "vision_key": "ANEMO",
-  "weapon_type": "CATALYST"
+  "weapon_type": "CATALYST",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Vayuda Turquoise Sliver",
+        "value": 1
+      },
+      {
+        "name": "Rukkhashava Mushrooms",
+        "value": 3
+      },
+      {
+        "name": "Old Handguard",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 3
+      },
+      {
+        "name": "Perpetual Caliber",
+        "value": 2
+      },
+      {
+        "name": "Rukkhashava Mushrooms",
+        "value": 10
+      },
+      {
+        "name": "Old Handguard",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 6
+      },
+      {
+        "name": "Perpetual Caliber",
+        "value": 4
+      },
+      {
+        "name": "Rukkhashava Mushrooms",
+        "value": 20
+      },
+      {
+        "name": "Kageuchi Handguard",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 3
+      },
+      {
+        "name": "Perpetual Caliber",
+        "value": 8
+      },
+      {
+        "name": "Rukkhashava Mushrooms",
+        "value": 30
+      },
+      {
+        "name": "Kageuchi Handguard",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 6
+      },
+      {
+        "name": "Perpetual Caliber",
+        "value": 12
+      },
+      {
+        "name": "Rukkhashava Mushrooms",
+        "value": 45
+      },
+      {
+        "name": "Famed Handguard",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Vayuda Turquoise Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Perpetual Caliber",
+        "value": 20
+      },
+      {
+        "name": "Rukkhashava Mushrooms",
+        "value": 60
+      },
+      {
+        "name": "Famed Handguard",
+        "value": 24
+      }
+    ]
+  }
 }
