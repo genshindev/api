@@ -89,5 +89,135 @@
     }
   ],
   "vision_key": "CRYO",
-  "weapon_type": "CATALYST"
+  "weapon_type": "CATALYST",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Shivada Jade Sliver",
+        "value": 1
+      },
+      {
+        "name": "Subdetection Unit",
+        "value": 3
+      },
+      {
+        "name": "Meshing Gear",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 3
+      },
+      {
+        "name": "Tourbillon Device",
+        "value": 2
+      },
+      {
+        "name": "Subdetection Unit",
+        "value": 10
+      },
+      {
+        "name": "Meshing Gear",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 6
+      },
+      {
+        "name": "Tourbillon Device",
+        "value": 4
+      },
+      {
+        "name": "Subdetection Unit",
+        "value": 20
+      },
+      {
+        "name": "Mechanical Spur Gear",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 3
+      },
+      {
+        "name": "Tourbillon Device",
+        "value": 8
+      },
+      {
+        "name": "Subdetection Unit",
+        "value": 30
+      },
+      {
+        "name": "Mechanical Spur Gear",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 6
+      },
+      {
+        "name": "Tourbillon Device",
+        "value": 12
+      },
+      {
+        "name": "Subdetection Unit",
+        "value": 45
+      },
+      {
+        "name": "Artificed Dynamic Gear",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Shivada Jade Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Tourbillon Device",
+        "value": 20
+      },
+      {
+        "name": "Subdetection Unit",
+        "value": 60
+      },
+      {
+        "name": "Artificed Dynamic Gear",
+        "value": 24
+      }
+    ]
+  }  
 }
