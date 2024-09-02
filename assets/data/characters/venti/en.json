@@ -171,5 +171,135 @@
     }
   ],
   "vision_key": "ANEMO",
-  "weapon_type": "BOW"
+  "weapon_type": "BOW",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Vayuda Turquoise Sliver",
+        "value": 1
+      },
+      {
+        "name": "Cecilia",
+        "value": 3
+      },
+      {
+        "name": "Slime Condensate",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 3
+      },
+      {
+        "name": "Hurricane Seed",
+        "value": 2
+      },
+      {
+        "name": "Cecilia",
+        "value": 10
+      },
+      {
+        "name": "Slime Condensate",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 6
+      },
+      {
+        "name": "Hurricane Seed",
+        "value": 4
+      },
+      {
+        "name": "Cecilia",
+        "value": 20
+      },
+      {
+        "name": "Slime Secretions",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 3
+      },
+      {
+        "name": "Hurricane Seed",
+        "value": 8
+      },
+      {
+        "name": "Cecilia",
+        "value": 30
+      },
+      {
+        "name": "Slime Secretions",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 6
+      },
+      {
+        "name": "Hurricane Seed",
+        "value": 12
+      },
+      {
+        "name": "Cecilia",
+        "value": 45
+      },
+      {
+        "name": "Slime Concentrate",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Vayuda Turquoise Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Hurricane Seed",
+        "value": 20
+      },
+      {
+        "name": "Cecilia",
+        "value": 60
+      },
+      {
+        "name": "Slime Concentrate",
+        "value": 24
+      }
+    ]
+  }
 }

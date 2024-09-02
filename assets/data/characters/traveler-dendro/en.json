@@ -152,5 +152,115 @@
     }
   ],
   "vision_key": "DENDRO",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Brilliant Diamond Sliver",
+        "value": 1
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Brilliant Diamond Fragment",
+        "value": 3
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 10
+      },
+      {
+        "name": "Damaged Mask",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Brilliant Diamond Fragment",
+        "value": 6
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 20
+      },
+      {
+        "name": "Stained Mask",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Brilliant Diamond Chunk",
+        "value": 3
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 30
+      },
+      {
+        "name": "Stained Mask",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Brilliant Diamond Chunk",
+        "value": 6
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 45
+      },
+      {
+        "name": "Ominous Mask",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Brilliant Diamond Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 60
+      },
+      {
+        "name": "Ominous Mask",
+        "value": 24
+      }
+    ]
+  }
 }

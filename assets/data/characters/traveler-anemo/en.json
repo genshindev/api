@@ -194,10 +194,6 @@
         "value": 3
       },
       {
-        "name": "Hurricane Seed",
-        "value": 2
-      },
-      {
         "name": "Windwheel Aster",
         "value": 10
       },
@@ -214,10 +210,6 @@
       {
         "name": "Brilliant Diamond Fragment",
         "value": 6
-      },
-      {
-        "name": "Hurricane Seed",
-        "value": 4
       },
       {
         "name": "Windwheel Aster",
@@ -238,10 +230,6 @@
         "value": 3
       },
       {
-        "name": "Hurricane Seed",
-        "value": 8
-      },
-      {
         "name": "Windwheel Aster",
         "value": 30
       },
@@ -258,10 +246,6 @@
       {
         "name": "Brilliant Diamond Chunk",
         "value": 6
-      },
-      {
-        "name": "Hurricane Seed",
-        "value": 12
       },
       {
         "name": "Windwheel Aster",
@@ -282,10 +266,6 @@
         "value": 6
       },
       {
-        "name": "Hurricane Seed",
-        "value": 20
-      },
-      {
         "name": "Windwheel Aster",
         "value": 60
       },
@@ -294,5 +274,5 @@
         "value": 24
       }
     ]
-  }  
+  }
 }
