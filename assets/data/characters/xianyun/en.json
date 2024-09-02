@@ -177,7 +177,7 @@
   "vision_key": "ANEMO",
   "weapon_type": "CATALYST",
   "ascension_materials": {
-    "Ascension 1": [
+    "level_20": [
       {
         "name": "Mora",
         "value": 20000
@@ -195,7 +195,7 @@
         "value": 3
       }
     ],
-    "Ascension 2": [
+    "level_40": [
       {
         "name": "Mora",
         "value": 40000
@@ -217,7 +217,7 @@
         "value": 15
       }
     ],
-    "Ascension 3": [
+    "level_50": [
       {
         "name": "Mora",
         "value": 60000
@@ -239,7 +239,7 @@
         "value": 12
       }
     ],
-    "Ascension 4": [
+    "level_60": [
       {
         "name": "Mora",
         "value": 80000
@@ -261,7 +261,7 @@
         "value": 18
       }
     ],
-    "Ascension 5": [
+    "level_70": [
       {
         "name": "Mora",
         "value": 100000
@@ -283,7 +283,7 @@
         "value": 12
       }
     ],
-    "Ascension 6": [
+    "level_80": [
       {
         "name": "Mora",
         "value": 120000
