@@ -171,5 +171,135 @@
     }
   ],
   "vision_key": "DENDRO",
-  "weapon_type": "POLEARM"
+  "weapon_type": "POLEARM",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Nagadus Emerald Sliver",
+        "value": 1
+      },
+      {
+        "name": "Lakelight Lily",
+        "value": 3
+      },
+      {
+        "name": "Meshing Gear",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Nagadus Emerald Fragment",
+        "value": 3
+      },
+      {
+        "name": "Fragment of a Golden Melody",
+        "value": 2
+      },
+      {
+        "name": "Lakelight Lily",
+        "value": 10
+      },
+      {
+        "name": "Faded Red Satin",
+        "value": 15
+      },
+      {
+        "name": "Meshing Gear",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Nagadus Emerald Fragment",
+        "value": 6
+      },
+      {
+        "name": "Fragment of a Golden Melody",
+        "value": 4
+      },
+      {
+        "name": "Lakelight Lily",
+        "value": 20
+      },
+      {
+        "name": "Mechanical Spur Gear",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Nagadus Emerald Chunk",
+        "value": 3
+      },
+      {
+        "name": "Fragment of a Golden Melody",
+        "value": 8
+      },
+      {
+        "name": "Lakelight Lily",
+        "value": 30
+      },
+      {
+        "name": "Mechanical Spur Gear",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Nagadus Emerald Chunk",
+        "value": 6
+      },
+      {
+        "name": "Fragment of a Golden Melody",
+        "value": 12
+      },
+      {
+        "name": "Lakelight Lily",
+        "value": 45
+      },
+      {
+        "name": "Artificed Dynamic Gear",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Nagadus Emerald Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Fragment of a Golden Melody",
+        "value": 20
+      },
+      {
+        "name": "Lakelight Lily",
+        "value": 60
+      },
+      {
+        "name": "Artificed Dynamic Gear",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }
