@@ -89,5 +89,135 @@
     }
   ],
   "vision_key": "HYDRO",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Varunada Lazurite Sliver",
+        "value": 1
+      },
+      {
+        "name": "Lakelight Lily",
+        "value": 3
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Varunada Lazurite Fragment",
+        "value": 3
+      },
+      {
+        "name": "Water That Failed To Transcend",
+        "value": 2
+      },
+      {
+        "name": "Lakelight Lily",
+        "value": 10
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Varunada Lazurite Fragment",
+        "value": 6
+      },
+      {
+        "name": "Water That Failed To Transcend",
+        "value": 4
+      },
+      {
+        "name": "Lakelight Lily",
+        "value": 20
+      },
+      {
+        "name": "Shimmering Nectar",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Varunada Lazurite Chunk",
+        "value": 3
+      },
+      {
+        "name": "Water That Failed To Transcend",
+        "value": 8
+      },
+      {
+        "name": "Lakelight Lily",
+        "value": 30
+      },
+      {
+        "name": "Shimmering Nectar",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Varunada Lazurite Chunk",
+        "value": 6
+      },
+      {
+        "name": "Water That Failed To Transcend",
+        "value": 12
+      },
+      {
+        "name": "Lakelight Lily",
+        "value": 45
+      },
+      {
+        "name": "Energy Nectar",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Varunada Lazurite Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Water That Failed To Transcend",
+        "value": 20
+      },
+      {
+        "name": "Lakelight Lily",
+        "value": 60
+      },
+      {
+        "name": "Energy Nectar",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }
