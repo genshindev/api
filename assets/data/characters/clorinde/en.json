@@ -89,5 +89,135 @@
     }
   ],
   "vision_key": "ELECTRO",
-  "weapon_type": "SWORD"
+  "weapon_type": "SWORD",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "value": 1
+      },
+      {
+        "name": "Lumitoile",
+        "value": 3
+      },
+      {
+        "name": "Transoceanic Pearl",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 3
+      },
+      {
+        "name": "Fontemer Unihorn",
+        "value": 2
+      },
+      {
+        "name": "Lumitoile",
+        "value": 10
+      },
+      {
+        "name": "Transoceanic Pearl",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 6
+      },
+      {
+        "name": "Fontemer Unihorn",
+        "value": 4
+      },
+      {
+        "name": "Lumitoile",
+        "value": 20
+      },
+      {
+        "name": "Transoceanic Chunk",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 3
+      },
+      {
+        "name": "Fontemer Unihorn",
+        "value": 8
+      },
+      {
+        "name": "Lumitoile",
+        "value": 30
+      },
+      {
+        "name": "Transoceanic Chunk",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 6
+      },
+      {
+        "name": "Fontemer Unihorn",
+        "value": 12
+      },
+      {
+        "name": "Lumitoile",
+        "value": 45
+      },
+      {
+        "name": "Xenochromatic Crystal",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Fontemer Unihorn",
+        "value": 20
+      },
+      {
+        "name": "Lumitoile",
+        "value": 60
+      },
+      {
+        "name": "Xenochromatic Crystal",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }
