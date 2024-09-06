@@ -1,0 +1,229 @@
+{
+    "name": "Kinich",
+    "title": "Turnfire Hunt",
+    "vision": "Dendro",
+    "weapon": "Claymore",
+    "gender": "Male",
+    "nation": "Natlan",
+    "affiliation": "Scions of the Canopy",
+    "rarity": 5,
+    "release": "",
+    "constellation": "Chimaera Alebriius",
+    "birthday": "",
+    "description": "He is the representative of the Scions of the Canopy and is accompanied by the self-proclaimed \"Almighty Dragonlord\" K'uhul Ajaw.",
+    "skillTalents": [
+      {
+        "name": "",
+        "unlock": "Normal Attack",
+        "description": "",
+        "type": "NORMAL_ATTACK"
+      },
+      {
+        "name": "Canopy Hunter: Riding High",
+        "unlock": "Elemental Skill",
+        "description": "Kinich can swing in mid-air using a grappling hook. When the grappling hook hits an enemy, it attaches to enemies and Kinich will fire Loop Shots. When Nightsoul points are at max, he can use the Elemental Skill to fire a powerful \"Scalespiker Cannon\" and deal Dendro DMG to enemies.",
+        "type": "ELEMENTAL_SKILL"
+      },
+      {
+        "name": "Hail to the Almighty Dragonlord",
+        "unlock": "Elemental Burst",
+        "description": "Unleashes the power of the Almighty Dragonlord, K'uhul Ajaw. Ajaw will unleash his Dragon Breath at intervals, dealing AoE Dendro DMG.",
+        "type": "ELEMENTAL_BURST"
+      }
+    ],
+    "passiveTalents": [
+      {
+        "name": "",
+        "unlock": "Unlocked at Ascension 1",
+        "description": "",
+        "level": 1
+      },
+      {
+        "name": "",
+        "unlock": "Unlocked at Ascension 4",
+        "description": "",
+        "level": 4
+      },
+      {
+        "name": "",
+        "unlock": "Night Realm's Gift Passive",
+        "description": ""
+      },
+      {
+        "name": "",
+        "unlock": "Unlocked Automatically",
+        "description": ""
+      }
+    ],
+    "constellations": [
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 1",
+        "description": "",
+        "level": 1
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 2",
+        "description": "",
+        "level": 2
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 3",
+        "description": "",
+        "level": 3
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 4",
+        "description": "",
+        "level": 4
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 5",
+        "description": "",
+        "level": 5
+      },
+      {
+        "name": "",
+        "unlock": "Constellation Lv. 6",
+        "description": "",
+        "level": 6
+      }
+    ],
+    "vision_key": "DENDRO",
+    "weapon_type": "CLAYMORE",
+    "ascension_materials":  {
+      "level_20": [
+        {
+          "name": "Nagadus Emerald Sliver",
+          "value": 1
+        },
+        {
+          "name": "Saurian Claw Succulent",
+          "value": 3
+        },
+        {
+          "name": "Juvenile Fang",
+          "value": 3
+        },
+        {
+          "name": "Mora",
+          "value": 20000
+        }
+      ],
+      "level_40": [
+        {
+          "name": "Nagadus Emerald Fragment",
+          "value": 3
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 2
+        },
+        {
+          "name": "Saurian Claw Succulent",
+          "value": 10
+        },
+        {
+          "name": "Juvenile Fang",
+          "value": 15
+        },
+        {
+          "name": "Mora",
+          "value": 40000
+        }
+      ],
+      "level_50": [
+        {
+          "name": "Nagadus Emerald Fragment",
+          "value": 6
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 4
+        },
+        {
+          "name": "Saurian Claw Succulent",
+          "value": 20
+        },
+        {
+          "name": "Seasoned Fang",
+          "value": 12
+        },
+        {
+          "name": "Mora",
+          "value": 60000
+        }
+      ],
+      "level_60": [
+        {
+          "name": "Nagadus Emerald Chunk",
+          "value": 3
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 8
+        },
+        {
+          "name": "Saurian Claw Succulent",
+          "value": 30
+        },
+        {
+          "name": "Seasoned Fang",
+          "value": 18
+        },
+        {
+          "name": "Mora",
+          "value": 80000
+        }
+      ],
+      "level_70": [
+        {
+          "name": "Nagadus Emerald Chunk",
+          "value": 6
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 12
+        },
+        {
+          "name": "Saurian Claw Succulent",
+          "value": 45
+        },
+        {
+          "name": "Tyrant's Fang",
+          "value": 12
+        },
+        {
+          "name": "Mora",
+          "value": 100000
+        }
+      ],
+      "level_80": [
+        {
+          "name": "Nagadus Emerald Gemstone",
+          "value": 6
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 20
+        },
+        {
+          "name": "Saurian Claw Succulent",
+          "value": 60
+        },
+        {
+          "name": "Tyrant's Fang",
+          "value": 24
+        },
+        {
+          "name": "Mora",
+          "value": 120000
+        }
+      ]
+    }
+  }
+  
