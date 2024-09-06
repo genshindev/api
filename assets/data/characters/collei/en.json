@@ -13,9 +13,9 @@
   "description": "Oh, you're going to Sumeru? Can you give my regards to Collei? Well... it's been so long, I wonder if her hair has grown out and if she's taller?\n— Amber",
   "skillTalents": [
     {
-      "name": "",
+      "name": "Supplicant's Bowmanship",
       "unlock": "Normal Attack",
-      "description": "",
+      "description": "Normal Attack\nPerforms up to 4 consecutive shots with a bow.\n\nCharged Attack\nPerforms a more precise Aimed Shot with increased DMG.\nWhile aiming, Dendro energy will accumulate on the arrowhead. A fully charged arrow will deal Dendro DMG.\n\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
