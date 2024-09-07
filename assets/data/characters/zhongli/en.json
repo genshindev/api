@@ -89,5 +89,135 @@
     }
   ],
   "vision_key": "GEO",
-  "weapon_type": "POLEARM"
+  "weapon_type": "POLEARM",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Prithiva Topaz Sliver",
+        "value": 1
+      },
+      {
+        "name": "Cor Lapis",
+        "value": 3
+      },
+      {
+        "name": "Slime Condensate",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "value": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 2
+      },
+      {
+        "name": "Cor Lapis",
+        "value": 10
+      },
+      {
+        "name": "Slime Condensate",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "value": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 4
+      },
+      {
+        "name": "Cor Lapis",
+        "value": 20
+      },
+      {
+        "name": "Slime Secretions",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "value": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 8
+      },
+      {
+        "name": "Cor Lapis",
+        "value": 30
+      },
+      {
+        "name": "Slime Secretions",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "value": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 12
+      },
+      {
+        "name": "Cor Lapis",
+        "value": 45
+      },
+      {
+        "name": "Slime Concentrate",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "value": 20
+      },
+      {
+        "name": "Cor Lapis",
+        "value": 60
+      },
+      {
+        "name": "Slime Concentrate",
+        "value": 24
+      }
+    ]
+  }  
 }

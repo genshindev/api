@@ -176,5 +176,135 @@
     }
   ],
   "vision_key": "PYRO",
-  "weapon_type": "POLEARM"
+  "weapon_type": "POLEARM",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Agnidus Agate Sliver",
+        "value": 1
+      },
+      {
+        "name": "Rainbow Rose",
+        "value": 3
+      },
+      {
+        "name": "Recruit's Insignia",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 3
+      },
+      {
+        "name": "Fragment of a Golden Melody",
+        "value": 2
+      },
+      {
+        "name": "Rainbow Rose",
+        "value": 10
+      },
+      {
+        "name": "Recruit's Insignia",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 6
+      },
+      {
+        "name": "Fragment of a Golden Melody",
+        "value": 4
+      },
+      {
+        "name": "Rainbow Rose",
+        "value": 20
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 3
+      },
+      {
+        "name": "Fragment of a Golden Melody",
+        "value": 8
+      },
+      {
+        "name": "Rainbow Rose",
+        "value": 30
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 6
+      },
+      {
+        "name": "Fragment of a Golden Melody",
+        "value": 12
+      },
+      {
+        "name": "Rainbow Rose",
+        "value": 45
+      },
+      {
+        "name": "Lieutenant's Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Agnidus Agate Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Fragment of a Golden Melody",
+        "value": 20
+      },
+      {
+        "name": "Rainbow Rose",
+        "value": 60
+      },
+      {
+        "name": "Lieutenant's Insignia",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }

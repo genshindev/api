@@ -171,5 +171,135 @@
     }
   ],
   "vision_key": "GEO",
-  "weapon_type": "POLEARM"
+  "weapon_type": "POLEARM",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Prithiva Topaz Sliver",
+        "value": 1
+      },
+      {
+        "name": "Glaze Lily",
+        "value": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "value": 3
+      },
+      {
+        "name": "Riftborn Regalia",
+        "value": 2
+      },
+      {
+        "name": "Glaze Lily",
+        "value": 10
+      },
+      {
+        "name": "Damaged Mask",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "value": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "value": 4
+      },
+      {
+        "name": "Glaze Lily",
+        "value": 20
+      },
+      {
+        "name": "Stained Mask",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "value": 3
+      },
+      {
+        "name": "Riftborn Regalia",
+        "value": 8
+      },
+      {
+        "name": "Glaze Lily",
+        "value": 30
+      },
+      {
+        "name": "Stained Mask",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "value": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "value": 12
+      },
+      {
+        "name": "Glaze Lily",
+        "value": 45
+      },
+      {
+        "name": "Ominous Mask",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "value": 20
+      },
+      {
+        "name": "Glaze Lily",
+        "value": 60
+      },
+      {
+        "name": "Ominous Mask",
+        "value": 24
+      }
+    ]
+  }  
 }
