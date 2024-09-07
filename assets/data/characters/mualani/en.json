@@ -16,19 +16,93 @@
         "name": "Cooling Treatment",
         "unlock": "Normal Attack",
         "description": "Normal Attack\nPerforms up to 3 attacks that deal Hydro DMG.\n\nCharged Attack\nConsumes a certain amount of Stamina to smack a Pufferball into the air that deals AoE Hydro DMG upon landing.\n\nPlunging Attack\nGathers the power of Hydro and plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.",
-        "type": "NORMAL_ATTACK"
+        "type": "NORMAL_ATTACK",
+        "upgrades": [
+          {
+            "name": "1-Hit DMG",
+            "value": "51.4%"
+          },
+          {
+            "name": "2-Hit DMG",
+            "value": "44.63%"
+          },
+          {
+            "name": "3-Hit DMG",
+            "value": "70.03%"
+          },
+          {
+            "name": "Charged Attack DMG",
+            "value": "142.88%"
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "50"
+          },
+          {
+            "name": "Plunge DMG",
+            "value": "56.83%"
+          },
+          {
+            "name": "Low Plunge DMG",
+            "value": "113.63%"
+          },
+          {
+            "name": "High Plunge DMG",
+            "value": "141.93%"
+          }
+        ]
       },
       {
         "name": "Surfshark Wavebreaker",
         "unlock": "Elemental Skill",
         "description": "Combining her mastery of speed and the waves and water, Mualani can surf anytime, anywhere.\nAfter using this skill, Mualani will gain 60 Nightsoul points and enter the Nightsoul's Blessing state.\n\nNightsoul's Blessing: Mualani\nContinuously consume Nightsoul points. When they are depleted or when the skill is used again, Mualani's Nightsoul's Blessing will end. The state itself has the following traits:\nMualani mounts her Sharky Surfboard, increasing Mualani's Movement SPD and interruption resistance. Mualani can move on water and liquid Phlogiston while this state is active, and she will take no DMG from the latter.\nNormal Attacks will be converted to Sharky's Bites, dealing Nightsoul-aligned Hydro DMG based on Mualani's Max HP. Sharky's Bites can be used in mid-air. DMG dealt this way is considered Normal Attack DMG.\nWhen she makes contact with opponents in this state, Mualani applies 'Marked as Prey' to them and gains 1 Wave Momentum stack. Max 3 stacks. 1 stack can be gained from the same opponent every 0.7s.\n\nWave Momentum and Marked as Prey\nWhen Mualani uses Sharky's Bite, her DMG dealt increases based on Wave Momentum stacks. When she has 3 stacks, a Normal Attack will use Sharky's Surging Bite instead, further increasing her DMG and removing all her stacks afterward.\nWhen Sharky's Bites hit opponents Marked as Prey, that mark is removed, and she will fire Shark Missiles at up to 5 nearby opponents Marked as Prey, dealing DMG to them equal to this Sharky's Bite instance and clearing their Marks. If more than 1 opponent is the target of Sharky's Bite and Shark Missiles, the DMG dealt will decrease, with 28% being the maximum decrease when at least 3 opponents are targeted.",
-        "type": "ELEMENTAL_SKILL"
+        "type": "ELEMENTAL_SKILL",
+        "upgrades": [
+          {
+            "name": "Sharky's Bite Base DMG (Max HP%)",
+            "value": "8.68"
+          },
+          {
+            "name": "Wave Momentum DMG Bonus (Max HP%/Stack)",
+            "value": "4.34"
+          },
+          {
+            "name": "Sharky's Surging Bite Additional DMG Bonus (Max HP%)",
+            "value": "21.7"
+          },
+          {
+            "name": "Sharky's Bite CD",
+            "value": "1.8s"
+          },
+          {
+            "name": "Nightsoul Point Limit",
+            "value": "60"
+          },
+          {
+            "name": "CD",
+            "value": "6s"
+          }
+        ]
       },
       {
         "name": "Boomsharka-laka",
         "unlock": "Elemental Burst",
         "description": "Fires a Super Shark Missile that can track opponents, dealing Nightsoul-aligned AoE Hydro DMG based on Mualani's Max HP.",
-        "type": "ELEMENTAL_BURST"
+        "type": "ELEMENTAL_BURST",
+        "upgrades": [
+          {
+            "name": "Skill DMG (Max HP%)",
+            "value": "58.44"
+          },
+          {
+            "name": "CD",
+            "value": "15s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "60"
+          }
+        ]
       }
     ],
     "passiveTalents": [
