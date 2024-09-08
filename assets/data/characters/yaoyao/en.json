@@ -175,5 +175,135 @@
     }
   ],
   "vision_key": "DENDRO",
-  "weapon_type": "POLEARM"
+  "weapon_type": "POLEARM",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Nagadus Emerald Sliver",
+        "value": 1
+      },
+      {
+        "name": "Jueyun Chili",
+        "value": 3
+      },
+      {
+        "name": "Slime Condensate",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Nagadus Emerald Fragment",
+        "value": 3
+      },
+      {
+        "name": "Quelled Creeper",
+        "value": 2
+      },
+      {
+        "name": "Jueyun Chili",
+        "value": 10
+      },
+      {
+        "name": "Slime Condensate",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Nagadus Emerald Fragment",
+        "value": 6
+      },
+      {
+        "name": "Quelled Creeper",
+        "value": 4
+      },
+      {
+        "name": "Jueyun Chili",
+        "value": 20
+      },
+      {
+        "name": "Slime Secretions",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Nagadus Emerald Chunk",
+        "value": 3
+      },
+      {
+        "name": "Quelled Creeper",
+        "value": 8
+      },
+      {
+        "name": "Jueyun Chili",
+        "value": 30
+      },
+      {
+        "name": "Slime Secretions",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Nagadus Emerald Chunk",
+        "value": 6
+      },
+      {
+        "name": "Quelled Creeper",
+        "value": 12
+      },
+      {
+        "name": "Jueyun Chili",
+        "value": 45
+      },
+      {
+        "name": "Slime Concentrate",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Nagadus Emerald Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Quelled Creeper",
+        "value": 20
+      },
+      {
+        "name": "Jueyun Chili",
+        "value": 60
+      },
+      {
+        "name": "Slime Concentrate",
+        "value": 24
+      }
+    ]
+  }  
 }

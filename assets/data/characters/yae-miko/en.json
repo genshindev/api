@@ -163,5 +163,135 @@
     }
   ],
   "vision_key": "ELECTRO",
-  "weapon_type": "CATALYST"
+  "weapon_type": "CATALYST",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "value": 1
+      },
+      {
+        "name": "Sea Ganoderma",
+        "value": 3
+      },
+      {
+        "name": "Old Handguard",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 3
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "value": 2
+      },
+      {
+        "name": "Sea Ganoderma",
+        "value": 10
+      },
+      {
+        "name": "Old Handguard",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 6
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "value": 4
+      },
+      {
+        "name": "Sea Ganoderma",
+        "value": 20
+      },
+      {
+        "name": "Kageuchi Handguard",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 3
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "value": 8
+      },
+      {
+        "name": "Sea Ganoderma",
+        "value": 30
+      },
+      {
+        "name": "Kageuchi Handguard",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 6
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "value": 12
+      },
+      {
+        "name": "Sea Ganoderma",
+        "value": 45
+      },
+      {
+        "name": "Famed Handguard",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "value": 20
+      },
+      {
+        "name": "Sea Ganoderma",
+        "value": 60
+      },
+      {
+        "name": "Famed Handguard",
+        "value": 24
+      }
+    ]
+  }  
 }
