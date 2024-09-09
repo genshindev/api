@@ -1089,5 +1089,59 @@
       }
     ],
     "sources": ["Praetorian Golem"]
+  },
+  "whistle": {
+    "characters": ["kachina", "mualani"],
+    "weapons": [
+      "earth-shaker",
+      "footprint-of-the-rainbow"
+    ],
+    "items": [
+      {
+        "id": "sentry-s-wooden-whistle",
+        "name": "Senry's Wooden Whistle",
+        "rarity": 2
+      },
+      {
+        "id": "warriors-s-metal-whistle",
+        "name": "Warriors's Metal Whistle",
+        "rarity": 3
+      }
+      ,
+      {
+        "id": "saurian-crowned-warrior-s-golden-whistle",
+        "name": "Saurian-Crowned Warriors's Golden Whistle",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Flowing Blade", "Forged Sand", "Koholasaurus Warrior", "Swiftstep", "Tepetlisaurus Warrior", "Yumkasaurus Warrior"]
+  },
+  "fang": {
+    "characters": ["kinich"],
+    "weapons": [
+      "surf-s-up",
+      "ash-graven-drinking-horn",
+      "chain-breaker",
+      "flute-of-ezpitzal"
+    ],
+    "items": [
+      {
+        "id": "juvenile-fang",
+        "name": "Juvenile Fang",
+        "rarity": 2
+      },
+      {
+        "id": "seasoned-fang",
+        "name": "Seasoned Fang",
+        "rarity": 3
+      }
+      ,
+      {
+        "id": "tyrant-s-fang",
+        "name": "Tyrant's Fang",
+        "rarity": 4
+      }
+    ],
+    "sources": ["Koholasaurus","Tepetlisaurus", "Yumkasaurus"]
   }
 }

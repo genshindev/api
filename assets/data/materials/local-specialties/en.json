@@ -224,5 +224,22 @@
       "name": "Rainbow Rose",
       "characters": ["lyney"]
     }
+  ],
+  "natlan": [
+    {
+      "id": "quenepa-berry",
+      "name": "Quenepa Berry",
+      "characters": ["kachina"]
+    },
+    {
+      "id": "sprayfeather-gill",
+      "name": "Sprayfeather Gill",
+      "characters": ["mualani"]
+    },
+    {
+      "id": "saurian-claw-succulent",
+      "name": "Saurian Claw Succulent",
+      "characters": ["kinich"]
+    }
   ]
 }
