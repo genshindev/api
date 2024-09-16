@@ -150,8 +150,19 @@
     "characters": ["xianyun", "sethos"]
   },
   "fragment-of-a-golden-melody": {
-    "id": "Fragment of a Golden Melody",
+    "name": "Fragment of a Golden Melody",
     "source": "Statue of Marble and Brass",
     "characters": ["arlecchino"]
+  },
+  "overripe-flamegranate": {
+    "name": "Overripe Flamegranate",
+    "source": "Kongamato",
+    "characters": ["kachina", "kinich"]
+  },
+  "mark-of-the-binding-blessing": {
+    "name": "Mark of the Binding Blessing",
+    "source": "Holawaqa Ngoubou",
+    "characters": ["mualani"]
   }
+
 }

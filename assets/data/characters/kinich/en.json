@@ -1,0 +1,303 @@
+{
+    "name": "Kinich",
+    "title": "Turnfire Hunt",
+    "vision": "Dendro",
+    "weapon": "Claymore",
+    "gender": "Male",
+    "nation": "Natlan",
+    "affiliation": "Scions of the Canopy",
+    "rarity": 5,
+    "release": "2024-09-18",
+    "constellation": "Chimaera Alebriius",
+    "birthday": "0000-11-11",
+    "description": "He is the representative of the Scions of the Canopy and is accompanied by the self-proclaimed \"Almighty Dragonlord\" K'uhul Ajaw.",
+    "skillTalents": [
+      {
+        "name": "Nightsun Style",
+        "unlock": "Normal Attack",
+        "description": "Normal Attack\nPerforms up to 3 rapid strikes.\nAfter using his Elemental Skill 'Canopy Hunter: Riding High's' mid-air swing, he can perform a Normal Attack in mid-air before landing.\n\nCharged Attack\nConsumes a certain amount to spin and throw his Claymore forward to attack opponents.\n\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "type": "NORMAL_ATTACK",
+        "upgrades": [
+          {
+            "name": "1-Hit DMG",
+            "value": "98.99%"
+          },
+          {
+            "name": "2-Hit DMG",
+            "value": "82.9%"
+          },
+          {
+            "name": "3-Hit DMG",
+            "value": "123.5%"
+          },
+          {
+            "name": "Mid-Air Normal Attack DMG",
+            "value": "167.7%"
+          },
+          {
+            "name": "Charged Attack DMG",
+            "value": "48.42% × 3"
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "50"
+          },
+          {
+            "name": "Plunge DMG",
+            "value": "74.59%"
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "value": "149.14% / 186.29%"
+          }
+        ]
+      },
+      {
+        "name": "Canopy Hunter: Riding High",
+        "unlock": "Elemental Skill",
+        "description": "Kinich can swing in mid-air using a grappling hook. When the grappling hook hits an enemy, it attaches to enemies and Kinich will fire Loop Shots. When Nightsoul points are at max, he can use the Elemental Skill to fire a powerful \"Scalespiker Cannon\" and deal Dendro DMG to enemies.",
+        "type": "ELEMENTAL_SKILL",
+        "upgrades": [
+          {
+            "name": "Loop Shot DMG",
+            "value": "57.28% × 2"
+          },
+          {
+            "name": "Scalespiker Cannon DMG",
+            "value": "687.44%"
+          },
+          {
+            "name": "Nightsoul Point Limit",
+            "value": "20"
+          },
+          {
+            "name": "CD",
+            "value": "18s"
+          }
+        ]
+      },
+      {
+        "name": "Hail to the Almighty Dragonlord",
+        "unlock": "Elemental Burst",
+        "description": "Unleashes the power of the Almighty Dragonlord, K'uhul Ajaw. Ajaw will unleash his Dragon Breath at intervals, dealing AoE Dendro DMG.",
+        "type": "ELEMENTAL_BURST",
+        "upgrades": [
+          {
+            "name": "Skill DMG",
+            "value": "134%"
+          },
+          {
+            "name": "Dragon Breath DMG",
+            "value": "120.74%"
+          },
+          {
+            "name": "Duration",
+            "value": "15s"
+          },
+          {
+            "name": "CD",
+            "value": "18s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "70"
+          }
+        ]
+      }
+    ],
+    "passiveTalents": [
+      {
+        "name": "The Price of Desolation",
+        "unlock": "Unlocked at Ascension 1",
+        "description": "When Kinich is in Nightsoul's Blessing state, opponents hit by his Elemental Skill will enter the Desolation state, and when affected by Burning or Burgeon reaction DMG, they will restore 7 Nightsoul points to him. Nightsoul points can be gained this way once every 0.8s. The Desolation state will persist until this instance of Kinich's Nightsoul's Blessing state ends.",
+        "level": 1
+      },
+      {
+        "name": "Flame Spirit Pact",
+        "unlock": "Unlocked at Ascension 4",
+        "description": "After a nearby party member triggers a Nightsoul Burst, Kinich will gain 1 stack of Hunter's Experience that lasts 15s. Max 2 stacks. When Kinich uses Canopy Hunter: Riding High's Scalespiker Cannon, all stacks of Hunter's Experience will be consumed, with each stack consumed increasing the DMG dealt by this Cannon shot by 320% of Kinich's ATK.",
+        "level": 4
+      },
+      {
+        "name": "Repaid in Full",
+        "unlock": "Night Realm's Gift Passive",
+        "description": "When Kinich is in the air following Canopy Hunter: Riding High's mid-air swing, he can consume 10 Phlogiston points to perform another mid-air swing.\nWhile in an area with Phlogiston Mechanics within Natlan, he can use Nightsoul Transmission: Kinich. When the current active character is sprinting, in movement states that result from specific Talents, or in the air, when you switch to Kinich: Kinich will perform one of the following actions depending on the conditions met:\n·When facing a Coilgrass Sigil that can be interacted with: He will fire a grappling hook towards it to move;\n·When there are nearby opponents and you are in combat: Kinich will use Canopy Hunter: Riding High in the direction of the opponents;\nOtherwise, Kinich will fire a grappling hook and swing, prioritizing valid Coilgrass Sigils as grapple targets.\nNightsoul Transmission can be triggered once every 10s by your own party.\n\nWhen interacting with Coilgrass Sigils and other items that Yumkasaurs can interact with, 'Canopy Hunter: Riding High' will be converted to 'Yumkasaur Mimesis,' which causes interactions with such items to follow rules applicable to Yumkasaurs, and which will not put Canopy Hunter: Riding High on CD."
+      },
+      {
+        "name": "Swift Envoy",
+        "unlock": "Unlocked Automatically",
+        "description": "While in an area with Phlogiston Mechanics within Natlan, interacting with some harvestable items will increase your own party members' Movement SPD by 15% for 10s. Additionally, the location of nearby resources unique to Natlan will appear on your mini-map."
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Parrot's Beak",
+        "unlock": "Constellation Lv. 1",
+        "description": "After Kinich lands from Canopy Hunter: Riding High's mid-air swing, his Movement SPD will increase by 30% for 6s.\nAdditionally, Scalespiker Cannon's CRIT DMG is increased by 100%.",
+        "level": 1
+      },
+      {
+        "name": "Tiger Beetle's Palm",
+        "unlock": "Constellation Lv. 2",
+        "description": "When Kinich's Elemental Skill hits an opponent, it will decrease their Dendro RES by 30% for 6s.\nAdditionally, the first Scalespiker Cannon Kinich fires after entering Nightsoul's Blessing has increased AoE, and its DMG increases by 100%.",
+        "level": 2
+      },
+      {
+        "name": "Protosuchian's Claw",
+        "unlock": "Constellation Lv. 3",
+        "description": "Increases the Level of Canopy Hunter: Riding High by 3.\nMaximum upgrade level is 15.",
+        "level": 3
+      },
+      {
+        "name": "Hummingbird's Feather",
+        "unlock": "Constellation Lv. 4",
+        "description": "When in Nightsoul's Blessing, Kinich will restore 5 Energy after using his Loop Shots or after unleashing the Scalespiker Cannon. Energy can be regenerated this way once every 2.8s.\nAdditionally, Hail to the Almighty Dragonlord deals 70% more DMG.",
+        "level": 4
+      },
+      {
+        "name": "Howler Monkey's Tail",
+        "unlock": "Constellation Lv. 5",
+        "description": "Increases the Level of Hail to the Almighty Dragonlord by 3.\nMaximum upgrade level is 15.",
+        "level": 5
+      },
+      {
+        "name": "Auspicious Beast's Shape",
+        "unlock": "Constellation Lv. 6",
+        "description": "After Scalespiker Cannon hits an opponent, it will bounce between opponents once, dealing 700% of Kinich's ATK as Dendro DMG.\nIf this Scalespiker Cannon triggers the buffs that Passive Talent \"Flame Spirit Pact\" or the Constellation \"Tiger Beetle's Palm\" grant to the Cannon, the bouncing attack will also obtain the relevant buffs.",
+        "level": 6
+      }
+    ],
+    "vision_key": "DENDRO",
+    "weapon_type": "CLAYMORE",
+    "ascension_materials":  {
+      "level_20": [
+        {
+          "name": "Nagadus Emerald Sliver",
+          "value": 1
+        },
+        {
+          "name": "Saurian Claw Succulent",
+          "value": 3
+        },
+        {
+          "name": "Juvenile Fang",
+          "value": 3
+        },
+        {
+          "name": "Mora",
+          "value": 20000
+        }
+      ],
+      "level_40": [
+        {
+          "name": "Nagadus Emerald Fragment",
+          "value": 3
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 2
+        },
+        {
+          "name": "Saurian Claw Succulent",
+          "value": 10
+        },
+        {
+          "name": "Juvenile Fang",
+          "value": 15
+        },
+        {
+          "name": "Mora",
+          "value": 40000
+        }
+      ],
+      "level_50": [
+        {
+          "name": "Nagadus Emerald Fragment",
+          "value": 6
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 4
+        },
+        {
+          "name": "Saurian Claw Succulent",
+          "value": 20
+        },
+        {
+          "name": "Seasoned Fang",
+          "value": 12
+        },
+        {
+          "name": "Mora",
+          "value": 60000
+        }
+      ],
+      "level_60": [
+        {
+          "name": "Nagadus Emerald Chunk",
+          "value": 3
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 8
+        },
+        {
+          "name": "Saurian Claw Succulent",
+          "value": 30
+        },
+        {
+          "name": "Seasoned Fang",
+          "value": 18
+        },
+        {
+          "name": "Mora",
+          "value": 80000
+        }
+      ],
+      "level_70": [
+        {
+          "name": "Nagadus Emerald Chunk",
+          "value": 6
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 12
+        },
+        {
+          "name": "Saurian Claw Succulent",
+          "value": 45
+        },
+        {
+          "name": "Tyrant's Fang",
+          "value": 12
+        },
+        {
+          "name": "Mora",
+          "value": 100000
+        }
+      ],
+      "level_80": [
+        {
+          "name": "Nagadus Emerald Gemstone",
+          "value": 6
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 20
+        },
+        {
+          "name": "Saurian Claw Succulent",
+          "value": 60
+        },
+        {
+          "name": "Tyrant's Fang",
+          "value": 24
+        },
+        {
+          "name": "Mora",
+          "value": 120000
+        }
+      ]
+    }
+  }
+  

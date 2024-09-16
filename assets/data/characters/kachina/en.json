@@ -1,0 +1,298 @@
+{
+    "name": "Kachina",
+    "title": "Mottled Gold Yet Unsmelted",
+    "vision": "Geo",
+    "weapon": "Polearm",
+    "gender": "Female",
+    "nation": "Natlan",
+    "affiliation": "Nanatzcayan",
+    "rarity": 4,
+    "release": "2024-08-28",
+    "constellation": "Ochotona Princeps",
+    "birthday": "0000-04-22",
+    "description": "Bearing the Ancient Name of \"Uthabiti\", Kachina is a young warrior belonging to the Children of Echoes who is determined to become strong in spite of the numerous failures she has experienced.",
+    "skillTalents": [
+      {
+        "name": "Cragbiter",
+        "unlock": "Normal Attack",
+        "description": "Normal Attack\nPerforms up to 4 consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "upgrades": [
+          {
+            "name": "1-Hit DMG",
+            "value": "49.4%"
+          },
+          {
+            "name": "2-Hit DMG",
+            "value": "27.57 + 30.63%"
+          },
+          {
+            "name": "3-Hit DMG",
+            "value": "70.43%"
+          },
+          {
+            "name": "4-Hit DMG",
+            "value": "77.44%"
+          },
+          {
+            "name": "Charged Attack DMG",
+            "value": "112.66%"
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25"
+          },
+          {
+            "name": "Plunge DMG",
+            "value": "63.93%"
+          },
+          {
+            "name": "Low / High Plunge DMG",
+            "value": "127.84% / 159.68%"
+          }
+        ],
+        "type": "NORMAL_ATTACK"
+      },
+      {
+        "name": "Go, Go Turbo Twirly!",
+        "unlock": "Elemental Skill",
+        "description": "Fight alongside the turbo trusty Turbo Twirly!\nSummons Turbo Twirly. When the skill is Held and released, Kachina will summon and ride Turbo Twirly.\nAfter the Skill is used, Kachina will gain 60 Nightsoul points and enter the Nightsoul's Blessing state.\n\nNightsoul's Blessing: Kachina\nTurbo Twirly's various actions consume Kachina's Nightsoul points.\nThe Nightsoul's Blessing state will end when these points have been depleted.\n\nTurbo Twirly\nCan exist independently or be ridden and operated by Kachina. When Turbo Twirly is present, Kachina's Elemental Skill, 'Go, Go Turbo Twirly!', will change to an option to Mount/Dismount Turbo Twirly.\nWhen present independent of Kachina, it will slam the ground at intervals, dealing Nightsoul-aligned AoE Geo DMG based on Kachina's DEF.\nWhen Kachina is riding Turbo Twirly, she can control it to move and climb swiftly, and use Normal Attacks to slam the ground, dealing Nightsoul-aligned AoE Geo DMG based on Kachina's DEF.\n\nTurbo Twirly will disappear once Kachina's Nightsoul's Blessing state ends, and it is considered a Geo Construct. 1 Turbo Twirly can exist on the field at any one time.",
+        "upgrades": [
+          {
+            "name": "Turbo Twirly Mounted DMG (%DEF)",
+            "value": "87.76%"
+          },
+          {
+            "name": "Turbo Twirly Independent DMG (%DEF)",
+            "value": "63.76%"
+          },
+          {
+            "name": "Nightsoul Point Limit",
+            "value": "60"
+          },
+          {
+            "name": "CD",
+            "value": "20s"
+          }
+        ],
+        "type": "ELEMENTAL_SKILL"
+      },
+      {
+        "name": "Time to Get Serious!",
+        "unlock": "Elemental Burst",
+        "description": "Striking the ground, Kachina deals AoE Geo DMG based on her DEF and creates a Turbo Drill Field.\nThe Field increases Turbo Twirly's attack AoE and its movement speed when Kachina is riding it.\n\nIf Kachina's own Turbo Twirly is present when this is used, Turbo Twirly will be summoned to her side.",
+        "upgrades": [
+          {
+            "name": "Skill DMG (%DEF)",
+            "value": "380.57%"
+          },
+          {
+            "name": "Field Duration",
+            "value": "12s"
+          },
+          {
+            "name": "CD",
+            "value": "18s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "70"
+          }
+        ],
+        "type": "ELEMENTAL_BURST"
+      }
+    ],
+    "passiveTalents": [
+      {
+        "name": "Mountain Echoes",
+        "unlock": "Unlocked at Ascension 1",
+        "description": "When nearby party members trigger a Nightsoul Burst, Kachina's Geo DMG Bonus increases by 20% for 12s.",
+        "level": 1
+      },
+      {
+        "name": "The Weight of Stone",
+        "unlock": "Unlocked at Ascension 4",
+        "description": "Turbo Twirly's DMG is increased by 20% of Kachina's DEF.",
+        "level": 4
+      },
+      {
+        "name": "Heart of Unity",
+        "unlock": "Night Realm's Gift Passive",
+        "description": "After her Nightsoul points are depleted, Kachina will switch to consuming Phlogiston to maintain her Nightsoul's Blessing.\nWhile in an area with Phlogiston Mechanics within Natlan, she can use Nightsoul Transmission: Kachina. When the active character is currently sprinting, climbing, in a movement mode caused by certain Talents, or at a certain height in the air, the following will trigger when switching to Kachina: Kachina will enter the Nightsoul's Blessing state and ride Turbo Twirly when taking the field while gaining 30 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own team.\n\nAdditionally, while in Natlan, Kachina will consume 90% less Stamina when climbing while riding Turbo Twirly."
+      },
+      {
+        "name": "Boon of Crystal Flame",
+        "unlock": "Unlocked Automatically",
+        "description": "While in an area with Phlogiston Mechanics within Natlan, 20 Stamina will be restored when interacting with some harvestable items. Additionally, the location of nearby resources unique to Natlan will appear on your mini-map."
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Shards Are Gems Too",
+        "unlock": "Constellation Lv. 1",
+        "description": "When Kachina mounts or dismounts Turbo Twirly, she will absorb nearby Elemental Shards created by Crystallize.\nAdditionally, when a party member picks up such a Shard, 3 Energy will be restored to Kachina. Energy can be restored this way once every 5s.",
+        "level": 1
+      },
+      {
+        "name": "Never Leave Home Without... Turbo Twirly",
+        "unlock": "Constellation Lv. 2",
+        "description": "When Kachina uses \"Time to Get Serious!\", she will regain 20 Nightsoul points. If there is no Turbo Twirly belonging to her on the field, she will enter Nightsoul's Blessing and summon one.",
+        "level": 2
+      },
+      {
+        "name": "Improved Stabilizer",
+        "unlock": "Constellation Lv. 3",
+        "description": "Increases the Level of Go, Go Turbo Twirly! by 3.\nMaximum upgrade level is 15.",
+        "level": 3
+      },
+      {
+        "name": "More Foes, More Caution",
+        "unlock": "Constellation Lv. 4",
+        "description": "When there are 1/2/3/4 (or more) opponents within the Turbo Drill Field created by \"Time to Get Serious!\", the active character within the field gains 8%/12%/16%/20% increased DEF.",
+        "level": 4
+      },
+      {
+        "name": "All I've Collected Till Now",
+        "unlock": "Constellation Lv. 5",
+        "description": "Increases the Level of Time to Get Serious! by 3.\nMaximum upgrade level is 15.",
+        "level": 5
+      },
+      {
+        "name": "This Time, I've Gotta Win",
+        "unlock": "Constellation Lv. 6",
+        "description": "When your active character's shield is replaced or destroyed for any reason, Kachina will deal 200% of her DEF as AoE Geo DMG. This effect can be triggered once every 5s.",
+        "level": 6
+      }
+    ],
+    "vision_key": "GEO",
+    "weapon_type": "POLEARM",
+    "ascension_materials":  {
+      "level_20": [
+        {
+          "name": "Prithiva Topaz Sliver",
+          "value": 1
+        },
+        {
+          "name": "Quenepa Berry",
+          "value": 3
+        },
+        {
+          "name": "Sentry's Wooden Whistle",
+          "value": 3
+        },
+        {
+          "name": "Mora",
+          "value": 20000
+        }
+      ],
+      "level_40": [
+        {
+          "name": "Prithiva Topaz Fragment",
+          "value": 3
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 2
+        },
+        {
+          "name": "Quenepa Berry",
+          "value": 10
+        },
+        {
+          "name": "Sentry's Wooden Whistle",
+          "value": 15
+        },
+        {
+          "name": "Mora",
+          "value": 40000
+        }
+      ],
+      "level_50": [
+        {
+          "name": "Prithiva Topaz Fragment",
+          "value": 6
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 4
+        },
+        {
+          "name": "Quenepa Berry",
+          "value": 20
+        },
+        {
+          "name": "Warrior's Metal Whistle",
+          "value": 12
+        },
+        {
+          "name": "Mora",
+          "value": 60000
+        }
+      ],
+      "level_60": [
+        {
+          "name": "Prithiva Topaz Chunk",
+          "value": 3
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 8
+        },
+        {
+          "name": "Quenepa Berry",
+          "value": 30
+        },
+        {
+          "name": "Warrior's Metal Whistle",
+          "value": 18
+        },
+        {
+          "name": "Mora",
+          "value": 80000
+        }
+      ],
+      "level_70": [
+        {
+          "name": "Prithiva Topaz Chunk",
+          "value": 6
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 12
+        },
+        {
+          "name": "Quenepa Berry",
+          "value": 45
+        },
+        {
+          "name": "Saurian-Crowned Warrior's Golden Whistle",
+          "value": 12
+        },
+        {
+          "name": "Mora",
+          "value": 100000
+        }
+      ],
+      "level_80": [
+        {
+          "name": "Prithiva Topaz Gemstone",
+          "value": 6
+        },
+        {
+          "name": "Overripe Flamegranate",
+          "value": 20
+        },
+        {
+          "name": "Quenepa Berry",
+          "value": 60
+        },
+        {
+          "name": "Saurian-Crowned Warrior's Golden Whistle",
+          "value": 24
+        },
+        {
+          "name": "Mora",
+          "value": 120000
+        }
+      ]
+    }
+  }

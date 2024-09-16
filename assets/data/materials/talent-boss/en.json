@@ -103,7 +103,7 @@
   "lightless-mass": {
     "id": "lightless-mass",
     "name": "Lightless Mass",
-    "characters": ["furina", "gaming"]
+    "characters": ["furina", "gaming", "mualani"]
   },
   "lightless-eye-of-the-maelstrom": {
     "id": "lightless-eye-of-the-maelstrom",
@@ -143,7 +143,7 @@
   "fading-candle": {
     "id": "fading-candle",
     "name": "Fading Candle",
-    "characters": ["arlechino"]
+    "characters": ["arlechino", "kachina"]
   },
   "silken-feather": {
     "id": "silken-feather",
@@ -153,6 +153,6 @@
   "denial-and-judgment": {
     "id": "denial-and-judgment",
     "name": "Denial and Judgment",
-    "characters": []
+    "characters": ["kinich"]
   }
 }
