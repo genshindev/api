@@ -89,5 +89,135 @@
     }
   ],
   "vision_key": "CRYO",
-  "weapon_type": "CLAYMORE"
+  "weapon_type": "CLAYMORE",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Shivada Jade Sliver",
+        "value": 1
+      },
+      {
+        "name": "Romaritime Flower",
+        "value": 3
+      },
+      {
+        "name": "Transoceanic Pearl",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 3
+      },
+      {
+        "name": "Artificed Spare Clockwork Component — Coppelius",
+        "value": 2
+      },
+      {
+        "name": "Romaritime Flower",
+        "value": 10
+      },
+      {
+        "name": "Transoceanic Pearl",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 6
+      },
+      {
+        "name": "Artificed Spare Clockwork Component — Coppelius",
+        "value": 4
+      },
+      {
+        "name": "Romaritime Flower",
+        "value": 20
+      },
+      {
+        "name": "Transoceanic Chunk",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 3
+      },
+      {
+        "name": "Artificed Spare Clockwork Component — Coppelius",
+        "value": 8
+      },
+      {
+        "name": "Romaritime Flower",
+        "value": 30
+      },
+      {
+        "name": "Transoceanic Chunk",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 6
+      },
+      {
+        "name": "Artificed Spare Clockwork Component — Coppelius",
+        "value": 12
+      },
+      {
+        "name": "Romaritime Flower",
+        "value": 45
+      },
+      {
+        "name": "Xenochromatic Crystal",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Shivada Jade Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Artificed Spare Clockwork Component — Coppelius",
+        "value": 20
+      },
+      {
+        "name": "Romaritime Flower",
+        "value": 60
+      },
+      {
+        "name": "Xenochromatic Crystal",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }
