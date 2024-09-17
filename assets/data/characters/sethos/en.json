@@ -89,5 +89,135 @@
     }
   ],
   "vision_key": "ELECTRO",
-  "weapon_type": "BOW"
+  "weapon_type": "BOW",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "value": 1
+      },
+      {
+        "name": "Trishiraite",
+        "value": 3
+      },
+      {
+        "name": "Faded Red Satin",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 3
+      },
+      {
+        "name": "Cloudseam Scale",
+        "value": 2
+      },
+      {
+        "name": "Trishiraite",
+        "value": 10
+      },
+      {
+        "name": "Faded Red Satin",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 6
+      },
+      {
+        "name": "Cloudseam Scale",
+        "value": 4
+      },
+      {
+        "name": "Trishiraite",
+        "value": 20
+      },
+      {
+        "name": "Trimmed Red Silk",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 3
+      },
+      {
+        "name": "Cloudseam Scale",
+        "value": 8
+      },
+      {
+        "name": "Trishiraite",
+        "value": 30
+      },
+      {
+        "name": "Trimmed Red Silk",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 6
+      },
+      {
+        "name": "Cloudseam Scale",
+        "value": 12
+      },
+      {
+        "name": "Trishiraite",
+        "value": 45
+      },
+      {
+        "name": "Rich Red Brocade",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Cloudseam Scale",
+        "value": 20
+      },
+      {
+        "name": "Trishiraite",
+        "value": 60
+      },
+      {
+        "name": "Rich Red Brocade",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
 }
