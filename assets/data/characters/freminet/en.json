@@ -112,6 +112,24 @@
       "name": "Shadowhunter's Ambush",
       "unlock": "Elemental Burst",
       "description": "Unleashes a wave of untouchable cold, dealing AoE Cryo DMG, resetting the CD of the Elemental Skill \"Pressurized Floe,\" and causing Freminet to enter the Subnautical Hunter mode for 10s.\nWhile in Subnautical Hunter mode, his interruption resistance will increase, and Pressurized Floe will obtain the following buffs:\nCD decreased by 70%.\nNormal Attacks will give Pers 1 additional Pressure stack, and the frost released by his Normal Attacks deal 200% of their original DMG.\nThis effect will be canceled when Freminet leaves the field.\n\"Now... I have no need of any extraneous noise.\"",
+      "upgrades": [
+        {
+            "name": "Skill DMG",
+            "value": "318.4%"
+        },
+        {
+            "name": "Duration",
+            "value": "10s"
+        },
+        {
+            "name": "CD",
+            "value": "15s"
+        },
+        {
+            "name": "Energy Cost",
+            "value": "60"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
