@@ -64,6 +64,48 @@
       "name": "Salon Solitaire",
       "unlock": "Elemental Skill",
       "description": "Invites the guests of the Salon Solitaire to come forth and abet in Furina's performance. Will summon either the Salon Members or the Singer of Many Waters based on Furina's current Arkhe alignment.\nOusia\nFoaming bubbles like celebrants shall dance, dealing AoE Hydro DMG based on Furina's Max HP and summoning 3 Salon Members: the Ball Octopus-shaped Gentilhomme Usher, the Bubbly Seahorse-shaped Surintendante Chevalmarin, and the Armored Crab-shaped Mademoiselle Crabaletta.\nThey will attack nearby opponents at intervals, prioritizing the target of the active character, dealing Hydro DMG based on Max HP.\nWhen they attack, if character(s) with more than 50% HP are nearby, the Members will increase their current attack's power based on the number of such characters, and consume said characters' HP. If 1/2/3/4 (or more) characters meet these requirements, the Members' attacks will deal 110%/120%/130%/140% of their original DMG.\nPneuma\nSummons the Singer of Many Waters, who will heal nearby active character(s) based on Max HP at intervals.\nThe Salon Members and Singer of Many Waters share a duration, and when Furina uses her Charged Attack to change the guest type, the new guests will inherit the initial duration.\nWhile the Salon Members or the Singer of Many Waters is on the field, Furina can move on the water's surface.\nA fixed roster of regulars frequent Furina's Salon Solitaire. At other times, Mademoiselle Crabaletta, Surintendante Chevalmarin, and Gentilhomme Usher shall visit, and on gloomy Wednesdays, it is the singer who comes by.",
+      "upgrades": [
+        {
+          "name": "Ousia Bubble DMG",
+          "value": "7.86% Max HP"
+        },
+        {
+          "name": "Duration",
+          "value": "30s"
+        },
+        {
+          "name": "Gentilhomme Usher DMG",
+          "value": "5.96% Max HP"
+        },
+        {
+          "name": "Surintendante Chevalmarin DMG",
+          "value": "3.23% Max HP"
+        },
+        {
+          "name": "Mademoiselle Crabaletta DMG",
+          "value": "8.29% Max HP"
+        },
+        {
+          "name": "Gentilhomme Usher HP Consumption",
+          "value": "2.4% Max HP"
+        },
+        {
+          "name": "Surintendante Chevalmarin HP Consumption",
+          "value": "1.6% Max HP"
+        },
+        {
+          "name": "Mademoiselle Crabaletta HP Consumption",
+          "value": "3.6% Max HP"
+        },
+        {
+          "name": "Singer of Many Waters Healing",
+          "value": "4.8% Max HP + 462"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
