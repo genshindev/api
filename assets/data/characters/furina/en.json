@@ -16,6 +16,48 @@
       "name": "Soloist's Solicitation",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash a solo dance, dealing Physical DMG to nearby opponents and changing her Arkhe alignment. If Salon Members or Singer of Many Waters summoned by her Elemental Skill \"Salon Solitaire\" are present, their lineup will switch in response.\nArkhe: Seats Sacred and Secular\nAt intervals, when Furina's Normal Attacks hit, a Spiritbreath Thorn or a Surging Blade will descend based on her current alignment, dealing Hydro DMG based on her current alignment.\nWhen Furina takes the field, her starting Arkhe will be Ousia.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "48.39%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "43.73%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "55.12%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "73.3%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "74.22%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "127.84% / 159.68%"
+        },
+        {
+          "name": "Spiritbreath Thorn / Surging Blade DMG",
+          "value": "9.46%"
+        },
+        {
+          "name": "Spiritbreath Thorn / Surging Blade DMG Interval",
+          "value": "6s / 6s"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
