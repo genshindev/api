@@ -16,18 +16,104 @@
       "name": "Line Bayonet Thrust EX",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 4 consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+            "name": "1-Hit DMG",
+            "value": "53.1%"
+        },
+        {
+            "name": "2-Hit DMG",
+            "value": "49.3%"
+        },
+        {
+            "name": "3-Hit DMG",
+            "value": "27.6% + 32.5%"
+        },
+        {
+            "name": "4-Hit DMG",
+            "value": "77.3%"
+        },
+        {
+            "name": "Charged Attack DMG",
+            "value": "121.7%"
+        },
+        {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25"
+        },
+        {
+            "name": "Plunge DMG",
+            "value": "63.9%"
+        },
+        {
+            "name": "Low/High Plunge DMG",
+            "value": "128% / 160%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Short-Range Rapid Interdiction Fire",
       "unlock": "Elemental Skill",
       "description": "Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing AoE Pyro DMG.\nFor a short duration after Chevreuse fires a shot, she will continuously restore HP to the active character on the field. The amount healed is based on her Max HP.\nHold to fire in a different fashion.\nHold\nEnter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater Pyro DMG in a larger area.\nChevreuse gains 1 Overcharged Ball every time a nearby character in the party triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time.\nArkhe: Ousia\nPeriodically, after Chevreuse's Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals Ousia-aligned Pyro DMG.\n\"Actually, training regulations only had the phrase \"interdiction fire,\n\" but the protagonist of this novel believes that even how stylish your terminology is can affect how motivated your troops are, which can put your opponents on the back foot right from the get-go... I think that's a good point, so I changed the regulations!\"",
+      "upgrades": [
+        {
+            "name": "Press DMG",
+            "value": "115.2%"
+        },
+        {
+            "name": "Hold DMG",
+            "value": "172.8%"
+        },
+        {
+            "name": "Overcharged Ball DMG",
+            "value": "282.4%"
+        },
+        {
+            "name": "HP Regeneration Over Time",
+            "value": "2.67% Max HP + 257"
+        },
+        {
+            "name": "Healing Duration",
+            "value": "12s"
+        },
+        {
+            "name": "Surging Blade DMG",
+            "value": "28.8%"
+        },
+        {
+            "name": "Surging Blade Interval",
+            "value": "10s"
+        },
+        {
+            "name": "CD",
+            "value": "15s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Ring of Bursting Grenades",
       "unlock": "Elemental Burst",
       "description": "Chevreuse fires an explosive grenade at opponents with her musket, dealing AoE Pyro DMG. After the projectile hits, it will split into many secondary explosive shells.\nThe secondary explosive shells will burst after a short interval, dealing Pyro DMG to nearby opponents.\n\"Theoretically, a rectangular blast would be most efficient at destroying enemy formations. Unfortunately, the cross-section of an explosive shock wave is round, like most cakes. So, the secondary explosive shells can only be arranged like the fruit on a cake, forming a ring around the edge.",
+      "upgrades": [
+        {
+            "name": "Explosive Grenade DMG",
+            "value": "368.16%"
+        },
+        {
+            "name": "Secondary Explosive Shell DMG",
+            "value": "49.09%"
+        },
+        {
+            "name": "CD",
+            "value": "15s"
+        },
+        {
+            "name": "Energy Cost",
+            "value": "60"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
