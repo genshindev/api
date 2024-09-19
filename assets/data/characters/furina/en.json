@@ -112,6 +112,36 @@
       "name": "Let the People Rejoice",
       "unlock": "Elemental Burst",
       "description": "Rouses the impulse to revel, creating a stage of foam that will deal AoE Hydro DMG based on Furina's Max HP and cause nearby party members to enter the Universal Revelry state: During this time, when nearby party members' HP increases or decreases, 1 Fanfare point will be granted to Furina for each percentage point of their Max HP by which their HP changes.\nAt the same time, Furina will increase the DMG dealt by and Incoming Healing Bonus of all nearby party members based on the amount of Fanfare she has.\nWhen the duration ends, Furina's Fanfare points will be cleared.\n\"Cheer! Give praise! Be awed! Raise your glasses! Every night bereft of banqueting is a sordid squandering of sore, sober daylight... And, uh, those who are not yet of age may have grape juice instead!\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "11.41% Max HP"
+        },
+        {
+          "name": "Duration",
+          "value": "18s"
+        },
+        {
+          "name": "Maximum Fanfare",
+          "value": "300"
+        },
+        {
+          "name": "Fanfare to DMG Increase Conversion Ratio",
+          "value": "0.07%"
+        },
+        {
+          "name": "Fanfare to Increasing Healing Bonus Conversion Ratio",
+          "value": "0.01%"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
