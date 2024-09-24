@@ -92,6 +92,32 @@
       "name": "Skyfeather Song",
       "unlock": "Elemental Burst",
       "description": "Derives the ability to spur his teammates on from the recited prayers of the knightly order, regenerating HP for all nearby party members. This healing is based on Mika's Max HP and will grant them the Eagleplume state.\nEagleplume\nWhen the Normal Attacks of active characters affected by Eagleplume hit an opponent, Mika will help them regenerate HP based on his Max HP.\nCharacters affected by this state can only regenerate HP in this way once per short interval of time.\n\"Carry hope when in dire straits, and keep vigil when all is well... For that pure white plume shall at last guide the lost wayfarers.\"",
+      "upgrades": [
+        {
+          "name": "Cast Healing",
+          "value": "12.17% Max HP + 1172"
+        },
+        {
+          "name": "Eagleplume Healing",
+          "value": "2.43% Max HP + 234"
+        },
+        {
+          "name": "Eagleplume Healing Interval",
+          "value": "2.5s"
+        },
+        {
+          "name": "Eagleplume Duration",
+          "value": "15s"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
