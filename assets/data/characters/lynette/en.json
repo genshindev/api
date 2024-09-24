@@ -92,6 +92,32 @@
       "name": "Magic Trick: Astonishing Shift",
       "unlock": "Elemental Burst",
       "description": "Lynette raises her mantle high, dealing AoE Anemo DMG, using skillful sleight of hand to make a giant Bogglecat Box appear!\nBogglecat Box\nTaunts nearby opponents, attracting their attacks.\nDeals Anemo DMG to nearby opponents at intervals.\nWhen the Bogglecat Box comes into contact with Hydro/Pyro/Cryo/Electro, it will gain the corresponding element and additionally fire Vivid Shots that will deal DMG from that element at intervals.\nElemental Absorption of this kind will only occur once during this ability's duration.\n\"Look this way, and look closely. This is a time for miracles, just for us.\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "83.2%"
+        },
+        {
+          "name": "Bogglecat Box DMG",
+          "value": "51.2%"
+        },
+        {
+          "name": "Vivid Shot DMG",
+          "value": "45.6%"
+        },
+        {
+          "name": "Bogglecat Box Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
