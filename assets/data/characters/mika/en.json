@@ -60,6 +60,32 @@
       "name": "Starfrost Swirl",
       "unlock": "Elemental Skill",
       "description": "Mika uses his crossbow to attack, granting all nearby characters in your party Soulwind. When characters in the Soulwind state are on the field, their ATK SPD will be increased.\nWill take effect in different ways if Tapped or Held.\nTap\nFires a Flowfrost Arrow that can pierce through opponents, dealing Cryo DMG to enemies it comes into contact with.\nHold\nGoes into Aiming Mode, locking on to an opponent and firing a Rimestar Flare at them, dealing Cryo DMG. When the Rimestar Flare hits, it will rise before exploding, launching Rimestar Shards into a maximum of 3 other opponents, dealing Cryo DMG.\nStars burst 'neath the frosted skies.",
+      "upgrades": [
+        {
+          "name": "Flowfrost Arrow DMG",
+          "value": "67.2%"
+        },
+        {
+          "name": "Rimestar Flare DMG",
+          "value": "84%"
+        },
+        {
+          "name": "Rimestar Shard DMG",
+          "value": "25.2%"
+        },
+        {
+          "name": "ATK SPD Bonus",
+          "value": "13%"
+        },
+        {
+          "name": "Soulwind Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
