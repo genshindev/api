@@ -56,6 +56,36 @@
       "name": "Enigmatic Feint",
       "unlock": "Elemental Skill",
       "description": "Flicks her mantle and executes an Enigma Thrust, dealing Anemo DMG.\nWhen the Enigma Thrust hits an opponent, it will restore Lynette's HP based on her Max HP, and in the 4s afterward, she will lose a certain amount of HP per second.\nBased on whether you press or hold this ability, she will use Enigma Thrust differently.\nPress\nShe swiftly uses an Enigma Thrust.\nHold\nLynette will enter a high-speed Pilfering Shadow state and apply Shadowsign to a nearby opponent.\nWhen this high-speed state ends, Lynette will unleash her Enigma Thrust. If there is an opponent with Shadowsign applied to them nearby, Lynette will approach them in a flash before using Enigma Thrust.\nA maximum of 1 opponent can have Shadowsign at any one time. When this opponent gets too far from Lynette, the Shadowsign will be canceled.\nArkhe: Ousia\nAt specific intervals, Lynette will unleash a Surging Blade when she uses Enigma Thrust, dealing Ousia-aligned Anemo DMG.\n\"Now then, turn your eyes to the stage and continue to enjoy the performance. When I next appear, I'll be where you least expect.\"",
+      "upgrades": [
+        {
+          "name": "Enigma Thrust DMG",
+          "value": "268%"
+        },
+        {
+          "name": "Surging Blade DMG",
+          "value": "31.2%"
+        },
+        {
+          "name": "Surging Blade Interval",
+          "value": "10s"
+        },
+        {
+          "name": "HP Regeneration",
+          "value": "25% Max HP"
+        },
+        {
+          "name": "HP Cost",
+          "value": "6% Current HP/s"
+        },
+        {
+          "name": "Hold Max Duration",
+          "value": "2.5s"
+        },
+        {
+          "name": "CD",
+          "value": "12s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
