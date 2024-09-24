@@ -16,6 +16,44 @@
       "name": "Spear of Favonius - Arrow's Passage",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 5 consecutive strikes using his crossbow and spear.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "43.26%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "41.5%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "54.5%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "27.61% + 27.61%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "70.87%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "112.75%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "127.84% / 159.68%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
