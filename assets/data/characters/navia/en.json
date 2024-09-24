@@ -92,6 +92,28 @@
       "name": "As the Sunlit Sky's Singing Salute",
       "unlock": "Elemental Burst",
       "description": "On the orders of the President of the Spina di Rosula, call for a magnificent Rosula Dorata Salute. Unleashes a massive cannon bombardment on opponents in front of her, dealing AoE Geo DMG and providing Cannon Fire Support for a duration afterward, periodically dealing Geo DMG to nearby opponents.\nWhen cannon attacks hit opponents, Navia will gain 1 stack of Crystal Shrapnel. This effect can be triggered up to once every 2.4s.\n\"The Spina di Rosula's salute is a preemptive celebration of the successful conclusion of our negotiations and is fired just before talks begin. Don't misunderstand, it isn't in any way, shape, or form some kind of threat.\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "75.2%"
+        },
+        {
+          "name": "Cannon Fire Support DMG",
+          "value": "43.15%"
+        },
+        {
+          "name": "Cannon Fire Support Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
