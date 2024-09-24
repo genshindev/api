@@ -84,6 +84,24 @@
       "name": "Bewildering Lights",
       "unlock": "Elemental Skill",
       "description": "Lyney does a flourish with his hat, unleashing a firework surprise!\nWhen used, he will clear all current Prop Surplus stacks and deal AoE Pyro DMG to opponents in front of him. DMG will be increased according to the stacks cleared, and this will also regenerate Lyney's HP based on his Max HP.\nWhen a Grin-Malkin Hat created by Lyney is on the field, the fireworks will cause it to explode, dealing AoE Pyro DMG equal to that of a Pyrotechnic Strike.\nThe DMG dealt through the Grin-Malkin Hat in this way is considered Charged Attack DMG.\n\"Everyone knows that magicians will intentionally misdirect the audience... Ah, yes, while you were looking my way, the hat and assistant over there have both disappeared... Fascinating, is it not?\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "167.2%"
+        },
+        {
+          "name": "Skill DMG Bonus",
+          "value": "53.2% ATK / Stack"
+        },
+        {
+          "name": "HP Regeneration",
+          "value": "20% / Stack"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
