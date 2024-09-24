@@ -16,18 +16,112 @@
       "name": "Oath of Hunting Shadows",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina and fires Suppressing Shots in a fan pattern with her pistolet.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+            "name": "1-Hit DMG",
+            "value": "54.06%"
+        },
+        {
+            "name": "2-Hit DMG",
+            "value": "51.63%"
+        },
+        {
+            "name": "3-Hit DMG",
+            "value": "34.19% + 34.19%"
+        },
+        {
+            "name": "4-Hit DMG",
+            "value": "23.13% + 23.13% + 23.13%"
+        },
+        {
+            "name": "5-Hit DMG",
+            "value": "90.01%"
+        },
+        {
+            "name": "Charged Attack DMG",
+            "value": "128.14%"
+        },
+        {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20"
+        },
+        {
+            "name": "Plunge DMG",
+            "value": "63.93%"
+        },
+        {
+            "name": "Low/High Plunge DMG",
+            "value": "127.84% / 159.68%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Hunter's Vigil",
       "unlock": "Elemental Skill",
       "description": "Preparing her pistolet, she enters the \"Night Vigil\" state, using steel and shot together. In this state, Clorinde's Normal Attacks will be transformed into \"Swift Hunt\" pistolet attacks, and the DMG dealt is converted into Electro DMG that cannot be overridden by infusions, and she will be unable to use Charged Attacks. Using her Elemental Skill will transform it into \"Impale the Night\": Perform a lunging attack, dealing Electro DMG. The DMG done through the aforementioned method is considered Normal Attack DMG.\nSwift Hunt\nWhen her Bond of Life is equal to or greater than 100% of her max HP: Performs a pistolet shot.\nWhen her Bond of Life is less than 100%, firing her pistolet will grant her Bond of Life, with the amount gained based on her max HP. The shots she fires can pierce opponents, and DMG dealt to opponents in their path is increased.\nImpale the Night\nThe current percentage value of Clorinde's Bond of Life determines its effect:\nWhen the Bond of Life value is 0%, perform a normal lunging strike;\nWhen the Bond of Life value is less than 100% of her max HP, Clorinde is healed based on the Bond of Life value, and the AoE of the lunging attack and the DMG dealt is increased;\nWhen the value of the Bond of Life is equal to or greater than 100% of her max HP, use Impale the Night: Pact. The healing multiplier is increased, and the AoE and DMG dealt by the lunge is increased even further.\nIn addition, when Clorinde is in the Night Vigil state, healing effects other than Impale the Night will not take effect and will instead be converted into a Bond of Life that is a percentage of the healing that would have been received.\nClorinde will exit the \"Night Vigil\" state when she leaves the field.\nArkhe: Ousia\nPeriodically, when Clorinde's Swift Hunt shots strike opponents, she will summon a Surging Blade at the position hit that deals Ousia-aligned Electro DMG.\nThough the evil that lurked in the shadows of the night had been purged across thousands of years, a shadow that the light could not reach clouded human hearts.\nEven now, the warning left by the Golden Hunter is etched into her memory: Those of the Night Vigil, carrying aloft lit candles against the blackness, have greater need still to remain vigilant. Be not corrupted by the cold dark.",
+      "upgrades": [
+        {
+            "name": "Swift Hunt DMG",
+            "value": "26.76% / 38.79%"
+        },
+        {
+            "name": "Swift Hunt Bond of Life Gain",
+            "value": "35% Max HP"
+        },
+        {
+            "name": "Impale The Night DMG",
+            "value": "32.97% / 43.96% / 25.11% x 3"
+        },
+        {
+            "name": "Impale The Night Healing",
+            "value": "0% / 104% / 110% Bond of Life"
+        },
+        {
+            "name": "Bond of Life Conversion",
+            "value": "80% Healing"
+        },
+        {
+            "name": "Surging Blade DMG",
+            "value": "43.2%"
+        },
+        {
+            "name": "Surging Blade Interval",
+            "value": "10s"
+        },
+        {
+            "name": "Night Vigil Duration",
+            "value": "7.5s"
+        },
+        {
+            "name": "CD",
+            "value": "16s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Last Lightfall",
       "unlock": "Elemental Burst",
       "description": "Grants herself a Bond of Life based upon her own max HP before swiftly evading and striking with saber and sidearm as one, dealing AoE Electro DMG.\nIt is said the legacy of the ancient art of resisting non-human beings with but a mortal body can be traced back to the Lochknights who resisted the Remurian Empire.\nBe that as it may, so long as one can find a way to control the level of force used, it's not as if it cannot be used in duels against ordinary opponents.",
+      "upgrades": [
+        {
+            "name": "Skill DMG",
+            "value": "126.88% x 5"
+        },
+        {
+            "name": "Bond of Life Gain",
+            "value": "66% Max HP"
+        },
+        {
+            "name": "CD",
+            "value": "15s"
+        },
+        {
+            "name": "Energy Cost",
+            "value": "60"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
