@@ -16,6 +16,40 @@
       "name": "Rapid Ritesword",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 4 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "43.08%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "37.61%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "27.86% + 21.59%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "63.15%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "44.2% + 61.4%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "127.84% / 159.68%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
