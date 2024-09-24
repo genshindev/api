@@ -108,6 +108,28 @@
       "name": "Wondrous Trick: Miracle Parade",
       "unlock": "Elemental Burst",
       "description": "Unleashing his magic, Lyney turns hinself into a Grin-Malkin Cat that can move around quickly. (Not to be mistaken for the Grin-Malkin Hat. They're two different props!)\nWhen the Grin-Malkin Cat gets close to opponents, it will send flames falling down on them, dealing at most 1 instance of Pyro DMG to each opponent. When the duration ends, he will dismiss the Grin-Malkin Cat and ignite fireworks that deal AoE Pyro DMG, summon 1 Grin-Malkin Hat, and grant himself 1 Prop Surplus stack.\nGrin-Malkin Cat can be actively canceled.\n\"Watch closely now. This is a time for miracles, and it belongs just to the two of us!\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "154%"
+        },
+        {
+          "name": "Explosive Firework DMG",
+          "value": "414%"
+        },
+        {
+          "name": "Duration",
+          "value": "3s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
