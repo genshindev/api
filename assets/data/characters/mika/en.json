@@ -16,18 +16,108 @@
       "name": "Spear of Favonius - Arrow's Passage",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 5 consecutive strikes using his crossbow and spear.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "43.26%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "41.5%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "54.5%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "27.61% + 27.61%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "70.87%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "112.75%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "127.84% / 159.68%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Starfrost Swirl",
       "unlock": "Elemental Skill",
       "description": "Mika uses his crossbow to attack, granting all nearby characters in your party Soulwind. When characters in the Soulwind state are on the field, their ATK SPD will be increased.\nWill take effect in different ways if Tapped or Held.\nTap\nFires a Flowfrost Arrow that can pierce through opponents, dealing Cryo DMG to enemies it comes into contact with.\nHold\nGoes into Aiming Mode, locking on to an opponent and firing a Rimestar Flare at them, dealing Cryo DMG. When the Rimestar Flare hits, it will rise before exploding, launching Rimestar Shards into a maximum of 3 other opponents, dealing Cryo DMG.\nStars burst 'neath the frosted skies.",
+      "upgrades": [
+        {
+          "name": "Flowfrost Arrow DMG",
+          "value": "67.2%"
+        },
+        {
+          "name": "Rimestar Flare DMG",
+          "value": "84%"
+        },
+        {
+          "name": "Rimestar Shard DMG",
+          "value": "25.2%"
+        },
+        {
+          "name": "ATK SPD Bonus",
+          "value": "13%"
+        },
+        {
+          "name": "Soulwind Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Skyfeather Song",
       "unlock": "Elemental Burst",
       "description": "Derives the ability to spur his teammates on from the recited prayers of the knightly order, regenerating HP for all nearby party members. This healing is based on Mika's Max HP and will grant them the Eagleplume state.\nEagleplume\nWhen the Normal Attacks of active characters affected by Eagleplume hit an opponent, Mika will help them regenerate HP based on his Max HP.\nCharacters affected by this state can only regenerate HP in this way once per short interval of time.\n\"Carry hope when in dire straits, and keep vigil when all is well... For that pure white plume shall at last guide the lost wayfarers.\"",
+      "upgrades": [
+        {
+          "name": "Cast Healing",
+          "value": "12.17% Max HP + 1172"
+        },
+        {
+          "name": "Eagleplume Healing",
+          "value": "2.43% Max HP + 234"
+        },
+        {
+          "name": "Eagleplume Healing Interval",
+          "value": "2.5s"
+        },
+        {
+          "name": "Eagleplume Duration",
+          "value": "15s"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],

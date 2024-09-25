@@ -16,18 +16,104 @@
       "name": "Blunt Refusal",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, performs a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "93.52%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "86.51%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "34.89% x 3"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "133.43%"
+        },
+        {
+          "name": "Charged Attack Cyclic DMG",
+          "value": "62.52%"
+        },
+        {
+          "name": "Charged Attack Final DMG",
+          "value": "113.09%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "40/s"
+        },
+        {
+          "name": "Max Duration",
+          "value": "5s"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "74.59%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "149.14% / 186.29%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Ceremonial Crystalshot",
       "unlock": "Elemental Skill",
       "description": "When a character in the party obtains an Elemental Shard created from the Crystallize reaction, Navia will gain 1 Crystal Shrapnel stack. Navia can have up to 6 stacks of Crystal Shrapnel at once. Each time Crystal Shrapnel gain is triggered, the duration of the Crystal Shrapnel stacks you already have will be reset.\nWhen she fires, Navia will consume all Crystal Shrapnel stacks and open her elegant yet lethal Gunbrella, firing multiple Rosula Shardshots that can penetrate opponents, dealing Geo DMG to opponents hit.\nWhen 0/1/2/3 or more stacks of Crystal Shrapnel are consumed,5/7/9/11 Rosula Shardshots will be fired respectively. The more Rosula Shardshots that strike a single opponent, the greater the DMG dealt to them. When all 11 Rosula Shardshots strike, 200% of the original amount of DMG is dealt.\nIn addition, when more than 3 stacks of Crystal Shrapnel are consumed, every stack consumed beyond those 3 will increase the DMG dealt by this Gunbrella attack by an additional 15%.\nHold\nEnter Aiming Mode, continually collecting nearby Elemental Shards created by Crystallize reactions. When released, fire Rosula Shardshots with the same effect as when the skill is Tapped.\nTwo initial charges.\nArkhe: Ousia\nPeriodically, when Navia fires her Gunbrella, a Surging Blade will be summoned, dealing Ousia-aligned Geo DMG.\n\"Maintaining the appropriate distance with those whom distance should be maintained is an essential part of etiquette. Naturally, there are also many ways to do this...\"",
+      "upgrades": [
+        {
+          "name": "Rosula Shardshot Base DMG",
+          "value": "394.8%"
+        },
+        {
+          "name": "Crystal Shrapnel Duration",
+          "value": "300s"
+        },
+        {
+          "name": "Surging Blade DMG",
+          "value": "36%"
+        },
+        {
+          "name": "Surging Blade Interval",
+          "value": "7s"
+        },
+        {
+          "name": "CD",
+          "value": "9s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "As the Sunlit Sky's Singing Salute",
       "unlock": "Elemental Burst",
       "description": "On the orders of the President of the Spina di Rosula, call for a magnificent Rosula Dorata Salute. Unleashes a massive cannon bombardment on opponents in front of her, dealing AoE Geo DMG and providing Cannon Fire Support for a duration afterward, periodically dealing Geo DMG to nearby opponents.\nWhen cannon attacks hit opponents, Navia will gain 1 stack of Crystal Shrapnel. This effect can be triggered up to once every 2.4s.\n\"The Spina di Rosula's salute is a preemptive celebration of the successful conclusion of our negotiations and is fired just before talks begin. Don't misunderstand, it isn't in any way, shape, or form some kind of threat.\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "75.2%"
+        },
+        {
+          "name": "Cannon Fire Support DMG",
+          "value": "43.15%"
+        },
+        {
+          "name": "Cannon Fire Support Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
