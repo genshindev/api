@@ -56,6 +56,20 @@
       "name": "Ancient Rite: The Thundering Sands",
       "unlock": "Elemental Skill",
       "description": "Gathers the might of thunder, dealing AoE Electro DMG and quickly retreating. If this attack triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or Electro Swirl reactions, Sethos recovers a certain amount of Elemental Energy.\n\"The God indwelt Priest, the Magi who turned pits to springs, the singers of the sea of sand still spread their stories... But I know those are not legends, for they are our ancestors.\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "115.6%"
+        },
+        {
+          "name": "Energy Regeneration",
+          "value": "12"
+        },
+        {
+          "name": "CD",
+          "value": "8s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
