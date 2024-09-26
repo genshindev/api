@@ -16,6 +16,40 @@
       "name": "Royal Reed Archery",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 3 consecutive shots with a bow.\nCharged Attack\nPerforms a more precise Aimed Shot with increased DMG.\nWhile aiming, the power of Electro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\nCharge Level 1: Fires off an arrow carrying the power of lightning that deals Electro DMG.\nCharge Level 2: Fires off a Shadowpiercing Shot which can pierce enemies, dealing Electro DMG to enemies along its path. After the Shadowpiercing Shot is fully charged, Sethos cannot move around.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "52.61%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "23.8% + 26.61%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "73.99%"
+        },
+        {
+          "name": "Aimed Shot",
+          "value": "43.86%"
+        },
+        {
+          "name": "Aimed Shot Charge Level 1",
+          "value": "124%"
+        },
+        {
+          "name": "Shadowpiercing Shot DMG",
+          "value": "140% ATK + 134.56% Elemental Mastery"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "113.63% / 141.93%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
