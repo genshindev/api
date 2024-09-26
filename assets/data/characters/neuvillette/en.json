@@ -16,18 +16,100 @@
       "name": "As Water Seeks Equilibrium",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nWith light flourishes, Neuvillette commands the tides to unleash a maximum of 3 attacks, dealing Hydro DMG.\nCharged Attack Empowerment: Legal Evaluation\nWhile charging up, Neuvillette will gather the power of water, forming it into a Seal of Arbitration. In this state, Neuvillette can move and change facing, and also absorb any Sourcewater Droplets in a certain AoE.\nEvery Droplet he absorbs will increase the formation speed of the Seal, and will heal Neuvillette.\nWhen the charging is stopped, if the Symbol has yet to be formed, then a Charged Attack will be unleashed. If it has been formed, then a Charged Attack: Equitable Judgment will be unleashed.\nCharged Attack\nConsumes a fixed amount of Stamina to attack opponents with a rupturing blast of water, dealing AoE Hydro DMG.\nCharged Attack: Equitable Judgment\nUnleashes surging torrents, dealing continuous AoE Hydro DMG to all opponents in a straight-line area in front of him.\nEquitable Judgment will not consume any Stamina and lasts 3s.\nIf Neuvillette's HP is above 50%, he will continuously lose HP while using this attack.\nPlunging Attack\nGathering the might of Hydro, Neuvillette plunges towards the ground from mid-air, damaging all opponents in his path. Deals AoE Hydro DMG upon impact with the ground.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "93.52%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "86.51%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "34.89% x 3"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "136.6%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Charged Attack: Equitable Judgement",
+          "value": "7.32% Max HP"
+        },
+        {
+          "name": "HP Restored",
+          "value": "16% Max HP / Droplet"
+        },
+        {
+          "name": "HP Loss",
+          "value": "8% Max HP / 0.5s"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "113.63% / 141.93%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "O Tears, I Shall Repay",
       "unlock": "Elemental Skill",
       "description": "Summons a Raging Waterfall that will deal AoE Hydro DMG to opponents in front of Neuvillette based on his Max HP. After hitting an opponent, this skill will generate 3 Sourcewater Droplets near that opponent.\nArkhe: Pneuma\nAt certain intervals, when the Raging Waterfall descends, a Spiritbreath Thorn will descend that will pierce opponents, dealing Pneuma-aligned Hydro DMG.\n\"The law can restrict all manner of crimes, but it cannot extirpate evil itself.\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "12.86% Max HP"
+        },
+        {
+          "name": "Spiritbreath Thorn DMG",
+          "value": "20.8%"
+        },
+        {
+          "name": "Spiritbreath Thorn Interval",
+          "value": "10s"
+        },
+        {
+          "name": "Sourcewater Droplet Duration",
+          "value": "15s"
+        },
+        {
+          "name": "CD",
+          "value": "12s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "O Tides, I Have Returned",
       "unlock": "Elemental Burst",
       "description": "Unleashes waves that will deal AoE Hydro DMG based on Neuvillette's Max HP. After a short interval, 2 waterfalls will descend and deal Hydro DMG in a somewhat smaller AoE, and will generate 6 Sourcewater Droplets within an area in front.\n\"The law is only established after its publication, and above that, the laws of nature have governed all species and eras since ancient times.\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "22.26% Max HP"
+        },
+        {
+          "name": "Waterfall DMG",
+          "value": "9.11% Max HP"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],

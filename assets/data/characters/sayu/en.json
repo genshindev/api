@@ -16,18 +16,120 @@
       "name": "Shuumatsuban Ninja Blade",
       "unlock": "Normal Attack",
       "description": "Normal Attack:\nPerforms up to 4 consecutive strikes.\nCharged Attack:\nrains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, perform a more powerful slash.\nPlunging Attack:\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "72.24%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "71.38%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "43.43% + 43.43%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "98.13%"
+        },
+        {
+          "name": "Charged Attack Spinning DMG",
+          "value": "62.55%"
+        },
+        {
+          "name": "Charged Attack Final DMG",
+          "value": "113.09%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "40/s"
+        },
+        {
+          "name": "Max Duration",
+          "value": "5s"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "74.59%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "149.14% / 186.29%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Yoohoo Art: Fuuin Dash",
       "unlock": "Elemental Skill",
       "description": "The special technique of the Yoohoo Ninja Arts!\nSayu curls up into a rolling Fuufuu Windwheel and smashes into opponents at high speed, dealing Anemo DMG.\nWhen the duration ends, she unleashes a Fuufuu Whirlwind Kick, dealing AoE Anemo DMG.\nPress: Enters the Fuufuu Windwheel state, rolling forward a short distance before using the Fuufuu Whirlwind Kick.\nHold: Rolls about continuously in the Fuufuu Windwheel state, increasing Sayu's resistance to interruption while within that state.\nDuring this time, Sayu can control the direction of her roll, and can use the skill again to end her Windwheel state early and unleash a stronger version of the Fuufuu Whirlwind Kick.\nThe Hold version of this skill can trigger Elemental Absorption.\nThis skill has a maximum duration of 10s and enters CD once its effects end. The longer Sayu remains in her Windwheel state, the longer the CD.\nElemental Absorption: If Sayu comes into contact with Hydro, Pyro, Cryo and Electro while in her Windwheel state, she will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use of this skill.",
+      "upgrades": [
+        {
+          "name": "Fuufuu Windwheel DMG",
+          "value": "36%"
+        },
+        {
+          "name": "Fuufuu Whirlwind Kick Press DMG",
+          "value": "158.4%"
+        },
+        {
+          "name": "Fuufuu Whirlwind Kick Hold DMG",
+          "value": "217.6%"
+        },
+        {
+          "name": "Fuufuu Windwheel Elemental DMG",
+          "value": "16.8%"
+        },
+        {
+          "name": "Fuufuu Whirlwind Kick Elemental DMG",
+          "value": "76.16%"
+        },
+        {
+          "name": "Max Duration (Hold)",
+          "value": "10s"
+        },
+        {
+          "name": "CD",
+          "value": "6 to 11s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Yoohoo Art: Mujina Flurry",
       "unlock": "Elemental Burst",
       "description": "The other super special technique of the Yoohoo Ninja Arts!\n\nIt summons a pair of helping hands for Sayu.\nDeals Anemo DMG to nearby opponents and heals all nearby party members. The amount of HP restored is based on Sayu's ATK. This skill then summons a Muji-Muji Daruma.\n\nMuji-Muji Daruma: At specific intervals, the Daruma will take one of several actions based on the situation around it:\nIf the HP of nearby characters is above 70%, it will attack a nearby opponent, dealing Anemo DMG.\nIf there are active characters with 70% or less HP nearby, it will heal the active character with the lowest percentage HP left.\n\nIf there are no opponents nearby, it will heal active characters nearby even if they have 70% HP or more.",
+      "upgrades": [
+        {
+          "name": "Skill Activation DMG",
+          "value": "116.8%"
+        },
+        {
+          "name": "Skill Activation Healing",
+          "value": "92.16% ATK + 577"
+        },
+        {
+          "name": "Muji-Muji Daruma DMG",
+          "value": "52%"
+        },
+        {
+          "name": "Muji-Muji Daruma Healing",
+          "value": "79.87% ATK + 500"
+        },
+        {
+          "name": "Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
