@@ -16,6 +16,44 @@
       "name": "Origin",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 5 consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to perform an upward slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "39.65%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "39.73%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "49.88%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "28.98% + 28.98%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "65.45%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "99.59%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "127.84% / 159.68%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
