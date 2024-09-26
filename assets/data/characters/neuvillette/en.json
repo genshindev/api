@@ -64,6 +64,28 @@
       "name": "O Tears, I Shall Repay",
       "unlock": "Elemental Skill",
       "description": "Summons a Raging Waterfall that will deal AoE Hydro DMG to opponents in front of Neuvillette based on his Max HP. After hitting an opponent, this skill will generate 3 Sourcewater Droplets near that opponent.\nArkhe: Pneuma\nAt certain intervals, when the Raging Waterfall descends, a Spiritbreath Thorn will descend that will pierce opponents, dealing Pneuma-aligned Hydro DMG.\n\"The law can restrict all manner of crimes, but it cannot extirpate evil itself.\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "12.86% Max HP"
+        },
+        {
+          "name": "Spiritbreath Thorn DMG",
+          "value": "20.8%"
+        },
+        {
+          "name": "Spiritbreath Thorn Interval",
+          "value": "10s"
+        },
+        {
+          "name": "Sourcewater Droplet Duration",
+          "value": "15s"
+        },
+        {
+          "name": "CD",
+          "value": "12s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
