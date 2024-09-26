@@ -100,6 +100,36 @@
       "name": "Yoohoo Art: Mujina Flurry",
       "unlock": "Elemental Burst",
       "description": "The other super special technique of the Yoohoo Ninja Arts!\n\nIt summons a pair of helping hands for Sayu.\nDeals Anemo DMG to nearby opponents and heals all nearby party members. The amount of HP restored is based on Sayu's ATK. This skill then summons a Muji-Muji Daruma.\n\nMuji-Muji Daruma: At specific intervals, the Daruma will take one of several actions based on the situation around it:\nIf the HP of nearby characters is above 70%, it will attack a nearby opponent, dealing Anemo DMG.\nIf there are active characters with 70% or less HP nearby, it will heal the active character with the lowest percentage HP left.\n\nIf there are no opponents nearby, it will heal active characters nearby even if they have 70% HP or more.",
+      "upgrades": [
+        {
+          "name": "Skill Activation DMG",
+          "value": "116.8%"
+        },
+        {
+          "name": "Skill Activation Healing",
+          "value": "92.16% ATK + 577"
+        },
+        {
+          "name": "Muji-Muji Daruma DMG",
+          "value": "52%"
+        },
+        {
+          "name": "Muji-Muji Daruma Healing",
+          "value": "79.87% ATK + 500"
+        },
+        {
+          "name": "Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
