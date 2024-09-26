@@ -16,6 +16,44 @@
       "name": "Dawnstar Piercer",
       "unlock": "Normal attack",
       "description": "Normal Attack\nPerforms up to five consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "43.26%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "40.25%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "53.32%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "26.32% + 26.32%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "65.62%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "110.67%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "127.84% / 159.68%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
