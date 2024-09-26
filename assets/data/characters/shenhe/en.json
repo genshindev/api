@@ -96,6 +96,32 @@
       "name": "Divine Maiden's Deliverance",
       "unlock": "Elemental burst",
       "description": "Unleashes the power of the Talisman Spirit, allowing it to roam free in this plane, dealing AoE Cryo DMG.\nThe Talisman Spirit then creates a field that decreases the Cryo RES and Physical RES of opponents within it. It also deals periodic Cryo DMG to opponents within the field.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "100.8%"
+        },
+        {
+          "name": "RES Decrease",
+          "value": "6%"
+        },
+        {
+          "name": "DoT",
+          "value": "33.12%"
+        },
+        {
+          "name": "Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
