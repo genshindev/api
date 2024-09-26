@@ -98,6 +98,24 @@
       "name": "Rising Waters",
       "unlock": "Elemental Burst",
       "description": "Unleashes a slow-moving floating bubble that deals continuous Hydro DMG to nearby opponents.\nYou studied the ebb and flow of the tides with Paimon.",
+      "upgrades": [
+        {
+            "name": "Skill DMG",
+            "value": "101.87%"
+        },
+        {
+            "name": "Duration",
+            "value": "4s"
+        },
+        {
+            "name": "CD",
+            "value": "20s"
+        },
+        {
+            "name": "Energy Cost",
+            "value": "80"
+        }
+      ],    
       "type": "ELEMENTAL_BURST"
     }
   ],
