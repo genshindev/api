@@ -58,6 +58,40 @@
       "name": "Aquacrest Saber",
       "unlock": "Elemental Skill",
       "description": "Unleashes a torrent that can cleanse the world.\nPress\nSends a Torrent Surge forward that will deal Hydro DMG to opponents it comes into contact with.\nHold\nEnter Aiming Mode and constantly fire off Dewdrops in the direction in which you are aiming, dealing Hydro DMG to opponents they hit.\nWhen the skill ends, it will send a Torrent Surge forward that will deal Hydro DMG to opponents it comes into contact with.\nSuffusion: When using the Hold configuration of this skill, if the Traveler's HP is higher than 50%, the DMG dealt by Dewdrops will increase based on the Traveler's Max HP, and the Traveler will lose a fixed amount of HP every second.\nArkhe: Pneuma\nAt certain intervals, after using Torrent Surge, this skill will unleash a Spiritbreath Thorn that pierces opponents, dealing Pneuma-aligned Hydro DMG.\nYou studied the ripples in the water with Paimon.",
+      "upgrades": [
+        {
+            "name": "Torrent Surge DMG",
+            "value": "189.28%"
+        },
+        {
+            "name": "Dewdrop DMG",
+            "value": "32.8%"
+        },
+        {
+            "name": "Spiritbreath Thorn DMG",
+            "value": "32.8%"
+        },
+        {
+            "name": "Spiritbreath Thorn Interval",
+            "value": "9s"
+        },
+        {
+            "name": "Suffusion HP Cost",
+            "value": "4% Max HP"
+        },
+        {
+            "name": "Suffusion DMG Bonus",
+            "value": "0.64% Max HP"
+        },
+        {
+            "name": "Hold Duration",
+            "value": "Max 6s"
+        },
+        {
+            "name": "CD",
+            "value": "10s"
+        }
+      ],    
       "type": "ELEMENTAL_SKILL"
     },
     {
