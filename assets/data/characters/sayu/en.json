@@ -16,6 +16,48 @@
       "name": "Shuumatsuban Ninja Blade",
       "unlock": "Normal Attack",
       "description": "Normal Attack:\nPerforms up to 4 consecutive strikes.\nCharged Attack:\nrains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, perform a more powerful slash.\nPlunging Attack:\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "72.24%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "71.38%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "43.43% + 43.43%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "98.13%"
+        },
+        {
+          "name": "Charged Attack Spinning DMG",
+          "value": "62.55%"
+        },
+        {
+          "name": "Charged Attack Final DMG",
+          "value": "113.09%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "40/s"
+        },
+        {
+          "name": "Max Duration",
+          "value": "5s"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "74.59%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "149.14% / 186.29%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
