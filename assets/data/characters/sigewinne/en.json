@@ -16,6 +16,40 @@
       "name": "Targeted Treatment",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 3 consecutive attacks.\nCharged Attack\nPerforms a more precise Aimed Shot with increased DMG.\nWhile aiming, the power of Hydro will continually accumulate on the arrow. After fully charging, Sigewinne will periodically fire slow-moving Mini-Stration Bubbles toward the target, dealing Hydro DMG. When released, an arrow imbued with torrential energy will deal Hydro DMG to the opponent hit.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "52.61%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "51.07%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "78.29%"
+        },
+        {
+          "name": "Aimed Shot",
+          "value": "43.86%"
+        },
+        {
+          "name": "Fully-Charged Aimed Shot",
+          "value": "124%"
+        },
+        {
+          "name": "Mini-Stration Bubble DMG",
+          "value": "24.8%"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "113.63% / 141.93%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
