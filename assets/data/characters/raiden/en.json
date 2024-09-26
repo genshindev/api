@@ -88,6 +88,72 @@
       "name": "Secret Art: Musou Shinsetsu",
       "unlock": "Elemental Burst",
       "description": "Gathering truths unnumbered and wishes uncounted, the Raiden Shogun unleashes the Musou no Hitotachi and deals AoE Electro DMG, using Musou Isshin in combat for a certain duration afterward. The DMG dealt by Musou no Hitotachi and Musou Isshin's attacks will be increased based on the number of Chakra Desiderata's Resolve stacks consumed when this skill is used.\n\nMusou Isshin\nWhile in this state, the Raiden Shogun will wield her tachi in battle, while her Normal, Charged, and Plunging Attacks will be infused with Electro DMG, which cannot be overridden. When such attacks hit opponents, she will regenerate Energy for all nearby party members. Energy can be restored this way once every 1s, and this effect can be triggered 5 times throughout this skill's duration.\nWhile in this state, the Raiden Shogun's resistance to interruption is increased, and she is immune to Electro-Charged reaction DMG.\nWhile Musou Isshin is active, the Raiden Shogun's Normal, Charged, and Plunging Attack DMG will be considered Elemental Burst DMG.\nThe effects of Musou Isshin will be cleared when the Raiden Shogun leaves the field.\n\nChakra Desiderata\nWhen nearby party members (excluding the Raiden Shogun herself) use their Elemental Bursts, the Raiden Shogun will build up Resolve stacks based on the Energy Cost of these Elemental Bursts.\nThe maximum number of Resolve stacks is 60. The Resolve gained by Chakra Desiderata will be cleared 300s after the Raiden Shogun leaves the field.",
+      "upgrades": [
+        {
+          "name": "Musou no Hitotachi Base DMG",
+          "value": "400.8%"
+        },
+        {
+          "name": "Resolve Bonus",
+          "value": "3.89% Initial / 0.73% ATK DMG Per Stack"
+        },
+        {
+          "name": "Resolve Stacks Gained",
+          "value": "15% Per Energy Consumed"
+        },
+        {
+          "name": "1-Hit DMG",
+          "value": "44.74%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "43.96%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "53.82%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "30.89% + 30.98%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "73.94%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "61.6% + 74.36%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "127.84% / 159.68%"
+        },
+        {
+          "name": "Musou Isshin Energy Restoration",
+          "value": "1.6"
+        },
+        {
+          "name": "Musou Isshin Duration",
+          "value": "7s"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "90"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
