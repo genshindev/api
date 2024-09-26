@@ -64,6 +64,36 @@
       "name": "Yoohoo Art: Fuuin Dash",
       "unlock": "Elemental Skill",
       "description": "The special technique of the Yoohoo Ninja Arts!\nSayu curls up into a rolling Fuufuu Windwheel and smashes into opponents at high speed, dealing Anemo DMG.\nWhen the duration ends, she unleashes a Fuufuu Whirlwind Kick, dealing AoE Anemo DMG.\nPress: Enters the Fuufuu Windwheel state, rolling forward a short distance before using the Fuufuu Whirlwind Kick.\nHold: Rolls about continuously in the Fuufuu Windwheel state, increasing Sayu's resistance to interruption while within that state.\nDuring this time, Sayu can control the direction of her roll, and can use the skill again to end her Windwheel state early and unleash a stronger version of the Fuufuu Whirlwind Kick.\nThe Hold version of this skill can trigger Elemental Absorption.\nThis skill has a maximum duration of 10s and enters CD once its effects end. The longer Sayu remains in her Windwheel state, the longer the CD.\nElemental Absorption: If Sayu comes into contact with Hydro, Pyro, Cryo and Electro while in her Windwheel state, she will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use of this skill.",
+      "upgrades": [
+        {
+          "name": "Fuufuu Windwheel DMG",
+          "value": "36%"
+        },
+        {
+          "name": "Fuufuu Whirlwind Kick Press DMG",
+          "value": "158.4%"
+        },
+        {
+          "name": "Fuufuu Whirlwind Kick Hold DMG",
+          "value": "217.6%"
+        },
+        {
+          "name": "Fuufuu Windwheel Elemental DMG",
+          "value": "16.8%"
+        },
+        {
+          "name": "Fuufuu Whirlwind Kick Elemental DMG",
+          "value": "76.16%"
+        },
+        {
+          "name": "Max Duration (Hold)",
+          "value": "10s"
+        },
+        {
+          "name": "CD",
+          "value": "6 to 11s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
