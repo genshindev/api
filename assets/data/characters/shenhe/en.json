@@ -16,18 +16,112 @@
       "name": "Dawnstar Piercer",
       "unlock": "Normal attack",
       "description": "Normal Attack\nPerforms up to five consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "43.26%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "40.25%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "53.32%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "26.32% + 26.32%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "65.62%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "110.67%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "127.84% / 159.68%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Spring Spirit Summoning",
       "unlock": "Elemental skill",
       "description": "The frosted dew, silvery and dense, shall exorcise all demons.\nGrants all nearby party members the Icy Quill effect and deals Cryo DMG in different ways based on whether it is {LAYOUT_MOBILE#tapped}{LAYOUT_PC#pressed}{LAYOUT_PS#pressed} or held.\nPress\nRushes forward together with a Talisman Spirit, dealing Cryo DMG to opponents along the path.\nHold\nCommands the Talisman Spirit to deal AoE Cryo DMG.\nIcy Quill\nWhen Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts deal Cryo DMG to opponents, the DMG dealt is increased based on Shenhe's current ATK.\nThe Icy Quill's effects will be cleared once its duration ends or after being triggered a certain number of times. When held rather than {LAYOUT_MOBILE#tapped}{LAYOUT_PC#pressed}{LAYOUT_PS#pressed}, the Icy Quill's effect lasts longer and can be triggered more times.\nWhen one Cryo DMG instance strikes multiple opponents, the effect is triggered multiple times based on the number of opponents hit. The number of times the effect is triggered is calculated independently for each party member with the Icy Quill.",
+      "upgrades": [
+        {
+          "name": "Press Skill DMG",
+          "value": "139.2%"
+        },
+        {
+          "name": "Hold Skill DMG",
+          "value": "188.8%"
+        },
+        {
+          "name": "DMG Bonus",
+          "value": "45.66% ATK"
+        },
+        {
+          "name": "Press/Hold Duration",
+          "value": "10s / 15s"
+        },
+        {
+          "name": "Press/Hold Trigger Quota",
+          "value": "5 / 7"
+        },
+        {
+          "name": "Press CD",
+          "value": "10s"
+        },
+        {
+          "name": "Hold CD",
+          "value": "15s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Divine Maiden's Deliverance",
       "unlock": "Elemental burst",
       "description": "Unleashes the power of the Talisman Spirit, allowing it to roam free in this plane, dealing AoE Cryo DMG.\nThe Talisman Spirit then creates a field that decreases the Cryo RES and Physical RES of opponents within it. It also deals periodic Cryo DMG to opponents within the field.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "100.8%"
+        },
+        {
+          "name": "RES Decrease",
+          "value": "6%"
+        },
+        {
+          "name": "DoT",
+          "value": "33.12%"
+        },
+        {
+          "name": "Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],

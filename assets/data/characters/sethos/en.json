@@ -16,18 +16,84 @@
       "name": "Royal Reed Archery",
       "unlock": "Normal Attack",
       "description": "Normal Attack\nPerforms up to 3 consecutive shots with a bow.\nCharged Attack\nPerforms a more precise Aimed Shot with increased DMG.\nWhile aiming, the power of Electro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\nCharge Level 1: Fires off an arrow carrying the power of lightning that deals Electro DMG.\nCharge Level 2: Fires off a Shadowpiercing Shot which can pierce enemies, dealing Electro DMG to enemies along its path. After the Shadowpiercing Shot is fully charged, Sethos cannot move around.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "52.61%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "23.8% + 26.61%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "73.99%"
+        },
+        {
+          "name": "Aimed Shot",
+          "value": "43.86%"
+        },
+        {
+          "name": "Aimed Shot Charge Level 1",
+          "value": "124%"
+        },
+        {
+          "name": "Shadowpiercing Shot DMG",
+          "value": "140% ATK + 134.56% Elemental Mastery"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "113.63% / 141.93%"
+        }
+      ],
       "type": "NORMAL_ATTACK"
     },
     {
       "name": "Ancient Rite: The Thundering Sands",
       "unlock": "Elemental Skill",
       "description": "Gathers the might of thunder, dealing AoE Electro DMG and quickly retreating. If this attack triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or Electro Swirl reactions, Sethos recovers a certain amount of Elemental Energy.\n\"The God indwelt Priest, the Magi who turned pits to springs, the singers of the sea of sand still spread their stories... But I know those are not legends, for they are our ancestors.\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "115.6%"
+        },
+        {
+          "name": "Energy Regeneration",
+          "value": "12"
+        },
+        {
+          "name": "CD",
+          "value": "8s"
+        }
+      ],
       "type": "ELEMENTAL_SKILL"
     },
     {
       "name": "Secret Rite: Twilight Shadowpiercer",
       "unlock": "Elemental Burst",
       "description": "Perform a secret rite, entering the \"Twilight Meditation\" state, during which Sethos's Normal Attacks will be converted into enemy-piercing Dusk Bolts: Deal Electro DMG to opponents in its path, with DMG increased based on Sethos's Elemental Mastery.\nSethos cannot perform Aimed Shots while in this state.\nDMG dealt by Dusk Bolts is considered Charged Attack DMG.\nThis effect will be canceled when Sethos leaves the field.\nThe archives of the Temple of Silence preserve many tomes left behind by Akhtamun, from the era of King Deshret. Many secret rituals of great power are recorded within, but even among the Temple of Silence, very few could master them.",
+      "upgrades": [
+        {
+          "name": "Dusk Bolt DMG Increase",
+          "value": "196.16% Elemental Mastery"
+        },
+        {
+          "name": "Twilight Meditation Duration",
+          "value": "8s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
       "type": "ELEMENTAL_BURST"
     }
   ],
