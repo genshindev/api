@@ -1,297 +1,355 @@
 {
-  "name": "Yelan",
-  "title": "Valley Orchid",
-  "vision": "Hydro",
-  "weapon": "Bow",
-  "gender": "Female",
-  "nation": "Liyue",
-  "affiliation": "Yanshang Teahouse",
-  "rarity": 5,
-  "release": "2022-05-31",
-  "constellation": "Umbrabilis Orchis",
-  "birthday": "0000-04-20",
-  "description": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list.",
-  "skillTalents": [
-    {
-      "name": "Stealthy Bowshot",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 4 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG. While aiming, flowing water will accumulate on the arrowhead. A fully charged torrential arrow will deal Hydro DMG.\nBreakthrough\nYelan will enter a \"Breakthrough\" state after spending 5s out of combat, which will cause her next Charged Aimed Shot to have 80% decreased charge time, and once charged, she can fire a \"Breakthrough Barb\" that will deal AoE Hydro DMG based on Yelan's Max HP. \nPlunging Attack\n Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Yelan",
+    "title": "Valley Orchid",
+    "vision": "Hydro",
+    "weapon": "Bow",
+    "gender": "Female",
+    "nation": "Liyue",
+    "affiliation": "Yanshang Teahouse",
+    "rarity": 5,
+    "release": "2022-05-31",
+    "constellation": "Umbrabilis Orchis",
+    "birthday": "0000-04-20",
+    "description": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "40.7%"
+            "name": "Stealthy Bowshot",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 4 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG. While aiming, flowing water will accumulate on the arrowhead. A fully charged torrential arrow will deal Hydro DMG.\nBreakthrough\nYelan will enter a \"Breakthrough\" state after spending 5s out of combat, which will cause her next Charged Aimed Shot to have 80% decreased charge time, and once charged, she can fire a \"Breakthrough Barb\" that will deal AoE Hydro DMG based on Yelan's Max HP. \nPlunging Attack\n Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "40.7%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "39%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "51.6%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "32.5%+32.5%"
+                },
+                {
+                    "name": "Aimed Shot",
+                    "value": "43%"
+                },
+                {
+                    "name": "Fully-Charged Aimed Shot",
+                    "value": "124%"
+                },
+                {
+                    "name": "Breakthrough Barb DMG",
+                    "value": "11.58% Max HP"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "56.8%"
+                },
+                {
+                    "name": "Low/High Plunge DMG",
+                    "value": "114%/142%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "39%"
+            "name": "Lingering Lifeline",
+            "unlock": "Elemental Skill",
+            "description": "Fires off a Lifeline that allows her to move rapidly, entangling and marking opponents along its path. When this rapid movement ends, the Lifeline will explode, dealing Hydro DMG to the marked opponents based on Yelan's Max HP.\nTap\nMoves a certain distance forward swiftly. \nHold\nEngages in continuous, swift movement, during which Yelan's resistance to interruption is increased. During this time, Yelan can control this rapid movement and end it by using this Skill again. \n Additionally, each opponent marked by the Lifeline when it explodes grants Yelan a 34% change to reset her Breakthrough state.\n",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "24.3% Max HP"
+                },
+                {
+                    "name": "Max Duration (Hold)",
+                    "value": "3.0s"
+                },
+                {
+                    "name": "CD",
+                    "value": "10s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "51.6%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "32.5%+32.5%"
-        },
-        {
-          "name": "Aimed Shot",
-          "value": "43%"
-        },
-        {
-          "name": "Fully-Charged Aimed Shot",
-          "value": "124%"
-        },
-        {
-          "name": "Breakthrough Barb DMG",
-          "value": "11.58% Max HP"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "56.8%"
-        },
-        {
-          "name": "Low/High Plunge DMG",
-          "value": "114%/142%"
+            "name": "Depth-Clarion Dice",
+            "unlock": "Elemental Burst",
+            "description": "Deals AoE Hydro DMG and creates an \"Exquisite Throw,\" which aids her in battle. \nExquisite Throw\nFollows the character around and will initiate a coordinated attack under the following circumstances, dealing Hydro DMG based on Yelan's Max HP:\n* Can occur once every second when your active character uses a Normal Attack.\n* Will occur each time Yelan's Lifeline explodes and hits opponents.",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "9.14% Max HP"
+                },
+                {
+                    "name": "Exquisite Throw DMG",
+                    "value": "6.09% Max HPx3"
+                },
+                {
+                    "name": "Duration",
+                    "value": "15.0s"
+                },
+                {
+                    "name": "CD",
+                    "value": "18s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "70"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Lingering Lifeline",
-      "unlock": "Elemental Skill",
-      "description": "Fires off a Lifeline that allows her to move rapidly, entangling and marking opponents along its path. When this rapid movement ends, the Lifeline will explode, dealing Hydro DMG to the marked opponents based on Yelan's Max HP.\nTap\nMoves a certain distance forward swiftly. \nHold\nEngages in continuous, swift movement, during which Yelan's resistance to interruption is increased. During this time, Yelan can control this rapid movement and end it by using this Skill again. \n Additionally, each opponent marked by the Lifeline when it explodes grants Yelan a 34% change to reset her Breakthrough state.\n",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Skill DMG",
-          "value": "24.3% Max HP"
+            "name": "Turn Control",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "When the party has 1/2/3/4 Elemental Types, Yelan's Max HP is increased by 6%/12%/18%/30%",
+            "level": 1
         },
         {
-          "name": "Max Duration (Hold)",
-          "value": "3.0s"
+            "name": "Adapt With Ease",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "So long as an \"Exquisite Throw,\" is in play, your own active character deals 1% more DMG. This increases by a further 3.5% DMG every second. The maximum increase to DMG dealt is 50% \nThe pre-existing effect will be dispelled if Depth-Clarion Dice is recast during its duration.",
+            "level": 4
         },
         {
-          "name": "CD",
-          "value": "10s"
+            "name": "Necessary Calculation",
+            "unlock": "Unlocked Automatically",
+            "description": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Depth-Clarion Dice",
-      "unlock": "Elemental Burst",
-      "description": "Deals AoE Hydro DMG and creates an \"Exquisite Throw,\" which aids her in battle. \nExquisite Throw\nFollows the character around and will initiate a coordinated attack under the following circumstances, dealing Hydro DMG based on Yelan's Max HP:\n* Can occur once every second when your active character uses a Normal Attack.\n* Will occur each time Yelan's Lifeline explodes and hits opponents.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Skill DMG",
-          "value": "9.14% Max HP"
+            "name": "Enter the Plotters",
+            "unlock": "Constellation Lv. 1",
+            "description": "Lingering Lifeline gains 1 additional charge.",
+            "level": 1
         },
         {
-          "name": "Exquisite Throw DMG",
-          "value": "6.09% Max HPx3"
+            "name": "Taking All Comers",
+            "unlock": "Constellation Lv. 2",
+            "description": "When Exquisite Throw conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG. This effect can trigger once every 1.8s.",
+            "level": 2
         },
         {
-          "name": "Duration",
-          "value": "15.0s"
+            "name": "Beware of Trickster's Dice",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the level of Depth-Clarion-Dice by 3. Maximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "CD",
-          "value": "18s"
+            "name": "Bait-and-Switch",
+            "unlock": "Constellation Lv. 4",
+            "description": "Increases all party members' Max HP by 10% for 25s for every opponent marked by Lifeline when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner.",
+            "level": 4
         },
         {
-          "name": "Energy Cost",
-          "value": "70"
+            "name": "Dealer's Sleight",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increases the Level of Lingering Lifeline by 3. Maximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Winner Takes All",
+            "unlock": "Constellation Lv. 6",
+            "description": "After using Depth-Clarion Dice, Yelan will enter will enter the Mastermind state. In this state, all of Yelan's Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb's DMG.\n The mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "HYDRO",
+    "weapon_type": "BOW",
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Mora",
+                "value": 20000
+            },
+            {
+                "name": "Varunada Lazurite Sliver",
+                "value": 1
+            },
+            {
+                "name": "Starconch",
+                "value": 3
+            },
+            {
+                "name": "Recruit's Insignia",
+                "value": 3
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Mora",
+                "value": 40000
+            },
+            {
+                "name": "Varunada Lazurite Fragment",
+                "value": 3
+            },
+            {
+                "name": "Runic Fang",
+                "value": 2
+            },
+            {
+                "name": "Starconch",
+                "value": 10
+            },
+            {
+                "name": "Recruit's Insignia",
+                "value": 15
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Mora",
+                "value": 60000
+            },
+            {
+                "name": "Varunada Lazurite Fragment",
+                "value": 6
+            },
+            {
+                "name": "Runic Fang",
+                "value": 4
+            },
+            {
+                "name": "Starconch",
+                "value": 20
+            },
+            {
+                "name": "Sergeant's Insignia",
+                "value": 12
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Mora",
+                "value": 80000
+            },
+            {
+                "name": "Varunada Lazurite Chunk",
+                "value": 3
+            },
+            {
+                "name": "Runic Fang",
+                "value": 8
+            },
+            {
+                "name": "Starconch",
+                "value": 30
+            },
+            {
+                "name": "Sergeant's Insignia",
+                "value": 18
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Mora",
+                "value": 100000
+            },
+            {
+                "name": "Varunada Lazurite Chunk",
+                "value": 6
+            },
+            {
+                "name": "Runic Fang",
+                "value": 12
+            },
+            {
+                "name": "Starconch",
+                "value": 45
+            },
+            {
+                "name": "Lieutenant's Insignia",
+                "value": 12
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Mora",
+                "value": 120000
+            },
+            {
+                "name": "Varunada Lazurite Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Runic Fang",
+                "value": 20
+            },
+            {
+                "name": "Starconch",
+                "value": 60
+            },
+            {
+                "name": "Lieutenant's Insignia",
+                "value": 24
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "1,124.92",
+                "BaseAtk": "18.99",
+                "BaseDef": "42.66",
+                "CRIT Rate": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "3,882.55",
+                "BaseAtk": "65.55",
+                "BaseDef": "147.23",
+                "CRIT Rate": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "6,494.85",
+                "BaseAtk": "109.65",
+                "BaseDef": "246.30",
+                "CRIT Rate": "4.8%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "8,386.15",
+                "BaseAtk": "141.58",
+                "BaseDef": "318.02",
+                "CRIT Rate": "9.6%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "10,059.14",
+                "BaseAtk": "169.83",
+                "BaseDef": "381.46",
+                "CRIT Rate": "9.6%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "11,741.13",
+                "BaseAtk": "198.23",
+                "BaseDef": "445.25",
+                "CRIT Rate": "14.4%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "13,434.37",
+                "BaseAtk": "226.81",
+                "BaseDef": "509.46",
+                "CRIT Rate": "19.2%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Turn Control",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "When the party has 1/2/3/4 Elemental Types, Yelan's Max HP is increased by 6%/12%/18%/30%",
-      "level": 1
-    },
-    {
-      "name": "Adapt With Ease",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "So long as an \"Exquisite Throw,\" is in play, your own active character deals 1% more DMG. This increases by a further 3.5% DMG every second. The maximum increase to DMG dealt is 50% \nThe pre-existing effect will be dispelled if Depth-Clarion Dice is recast during its duration.",
-      "level": 4
-    },
-    {
-      "name": "Necessary Calculation",
-      "unlock": "Unlocked Automatically",
-      "description": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Enter the Plotters",
-      "unlock": "Constellation Lv. 1",
-      "description": "Lingering Lifeline gains 1 additional charge.",
-      "level": 1
-    },
-    {
-      "name": "Taking All Comers",
-      "unlock": "Constellation Lv. 2",
-      "description": "When Exquisite Throw conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG. This effect can trigger once every 1.8s.",
-      "level": 2
-    },
-    {
-      "name": "Beware of Trickster's Dice",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the level of Depth-Clarion-Dice by 3. Maximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Bait-and-Switch",
-      "unlock": "Constellation Lv. 4",
-      "description": "Increases all party members' Max HP by 10% for 25s for every opponent marked by Lifeline when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner.",
-      "level": 4
-    },
-    {
-      "name": "Dealer's Sleight",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the Level of Lingering Lifeline by 3. Maximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Winner Takes All",
-      "unlock": "Constellation Lv. 6",
-      "description": "After using Depth-Clarion Dice, Yelan will enter will enter the Mastermind state. In this state, all of Yelan's Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb's DMG.\n The mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.",
-      "level": 6
-    }
-  ],
-  "vision_key": "HYDRO",
-  "weapon_type": "BOW",
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Mora",
-        "value": 20000
-      },
-      {
-        "name": "Varunada Lazurite Sliver",
-        "value": 1
-      },
-      {
-        "name": "Starconch",
-        "value": 3
-      },
-      {
-        "name": "Recruit's Insignia",
-        "value": 3
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Mora",
-        "value": 40000
-      },
-      {
-        "name": "Varunada Lazurite Fragment",
-        "value": 3
-      },
-      {
-        "name": "Runic Fang",
-        "value": 2
-      },
-      {
-        "name": "Starconch",
-        "value": 10
-      },
-      {
-        "name": "Recruit's Insignia",
-        "value": 15
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Mora",
-        "value": 60000
-      },
-      {
-        "name": "Varunada Lazurite Fragment",
-        "value": 6
-      },
-      {
-        "name": "Runic Fang",
-        "value": 4
-      },
-      {
-        "name": "Starconch",
-        "value": 20
-      },
-      {
-        "name": "Sergeant's Insignia",
-        "value": 12
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Mora",
-        "value": 80000
-      },
-      {
-        "name": "Varunada Lazurite Chunk",
-        "value": 3
-      },
-      {
-        "name": "Runic Fang",
-        "value": 8
-      },
-      {
-        "name": "Starconch",
-        "value": 30
-      },
-      {
-        "name": "Sergeant's Insignia",
-        "value": 18
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Mora",
-        "value": 100000
-      },
-      {
-        "name": "Varunada Lazurite Chunk",
-        "value": 6
-      },
-      {
-        "name": "Runic Fang",
-        "value": 12
-      },
-      {
-        "name": "Starconch",
-        "value": 45
-      },
-      {
-        "name": "Lieutenant's Insignia",
-        "value": 12
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Mora",
-        "value": 120000
-      },
-      {
-        "name": "Varunada Lazurite Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Runic Fang",
-        "value": 20
-      },
-      {
-        "name": "Starconch",
-        "value": 60
-      },
-      {
-        "name": "Lieutenant's Insignia",
-        "value": 24
-      }
-    ]
-  }  
 }

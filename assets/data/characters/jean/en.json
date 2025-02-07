@@ -1,322 +1,380 @@
 {
-  "name": "Jean",
-  "title": "Dandelion Knight",
-  "vision": "Anemo",
-  "weapon": "Sword",
-  "gender": "Female",
-  "nation": "Mondstadt",
-  "affiliation": "Knights of Favonius",
-  "rarity": 5,
-  "release": "2020-09-28",
-  "constellation": "Leo Minor",
-  "birthday": "0000-03-14",
-  "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius",
-  "skillTalents": [
-    {
-      "name": "Favonius Bladework",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 5 consecutive strikes.\nCharged Attack\nConsumes a certain amount of Stamina to launch an enemy using the power of wind.\n\nLaunched enemies will slowly fall to the ground.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Jean",
+    "title": "Dandelion Knight",
+    "vision": "Anemo",
+    "weapon": "Sword",
+    "gender": "Female",
+    "nation": "Mondstadt",
+    "affiliation": "Knights of Favonius",
+    "rarity": 5,
+    "release": "2020-09-28",
+    "constellation": "Leo Minor",
+    "birthday": "0000-03-14",
+    "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "48.3%"
+            "name": "Favonius Bladework",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 5 consecutive strikes.\nCharged Attack\nConsumes a certain amount of Stamina to launch an enemy using the power of wind.\n\nLaunched enemies will slowly fall to the ground.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "48.3%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "45.6%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "60.3%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "65.9%"
+                },
+                {
+                    "name": "5-Hit DMG",
+                    "value": "79.2%"
+                },
+                {
+                    "name": "Charged Attack DMG",
+                    "value": "162%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "20"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "63.9%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "128% / 160%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "45.6%"
+            "name": "Gale Blade",
+            "unlock": "Elemental Skill",
+            "description": "Focusing the might of the formless wind around her blade, Jean releases a miniature storm, launching enemies in the direction she aims at, dealing massive Anemo DMG.\nHold\nAt the cost of continued Stamina consumption, Jean can command the whirlwind to pull surrounding enemies towards her front.\n\nDirection can be adjusted.\n\nCharacter is immobile during skill duration.",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "292%"
+                },
+                {
+                    "name": "Stamina Consumption",
+                    "value": "20 per second"
+                },
+                {
+                    "name": "Max Duration",
+                    "value": "5s"
+                },
+                {
+                    "name": "CD",
+                    "value": "6s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "60.3%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "65.9%"
-        },
-        {
-          "name": "5-Hit DMG",
-          "value": "79.2%"
-        },
-        {
-          "name": "Charged Attack DMG",
-          "value": "162%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "20"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "63.9%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "128% / 160%"
+            "name": "Dandelion Breeze",
+            "unlock": "Elemental Burst",
+            "description": "Calling upon the wind's protection, Jean creates a swirling Dandelion Field, launching surrounding enemies and causing Anemo DMG.\n\nAt the same time, she instantly regenerates a large amount of HP for nearby allied units and all party members. HP restored scale off Jean's ATK.\nDandelion Field\n\nContinuously regenerates HP for one ally and imbues them with the Anemo attribute.\nDeals Anemo DMG to enemies entering or exiting the field.\n",
+            "upgrades": [
+                {
+                    "name": "Elemental Burst DMG",
+                    "value": "425%"
+                },
+                {
+                    "name": "Field Entering / Exiting DMG",
+                    "value": "78.4%"
+                },
+                {
+                    "name": "Field Activation Healing",
+                    "value": "251% atk + 1540"
+                },
+                {
+                    "name": "Continuous Regeneration",
+                    "value": "25.12% atk + 154"
+                },
+                {
+                    "name": "CD",
+                    "value": "20s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "80"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Gale Blade",
-      "unlock": "Elemental Skill",
-      "description": "Focusing the might of the formless wind around her blade, Jean releases a miniature storm, launching enemies in the direction she aims at, dealing massive Anemo DMG.\nHold\nAt the cost of continued Stamina consumption, Jean can command the whirlwind to pull surrounding enemies towards her front.\n\nDirection can be adjusted.\n\nCharacter is immobile during skill duration.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Skill DMG",
-          "value": "292%"
+            "name": "Wind Companion",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "Hits by Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.",
+            "level": 1
         },
         {
-          "name": "Stamina Consumption",
-          "value": "20 per second"
+            "name": "Let the Wind Lead",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "Using Dandelion Breeze will regenerate 20% of its Energy.",
+            "level": 4
         },
         {
-          "name": "Max Duration",
-          "value": "5s"
-        },
-        {
-          "name": "CD",
-          "value": "6s"
+            "name": "Guiding Breeze",
+            "unlock": "Unlocked Automatically",
+            "description": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Dandelion Breeze",
-      "unlock": "Elemental Burst",
-      "description": "Calling upon the wind's protection, Jean creates a swirling Dandelion Field, launching surrounding enemies and causing Anemo DMG.\n\nAt the same time, she instantly regenerates a large amount of HP for nearby allied units and all party members. HP restored scale off Jean's ATK.\nDandelion Field\n\nContinuously regenerates HP for one ally and imbues them with the Anemo attribute.\nDeals Anemo DMG to enemies entering or exiting the field.\n",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Elemental Burst DMG",
-          "value": "425%"
+            "name": "Spiraling Tempest",
+            "unlock": "Constellation Lv. 1",
+            "description": "Increases the pulling speed of Gale Blade after holding for more than 1s, and increases the DMG dealt by 40%.",
+            "level": 1
         },
         {
-          "name": "Field Entering / Exiting DMG",
-          "value": "78.4%"
+            "name": "People's Aegis",
+            "unlock": "Constellation Lv. 2",
+            "description": "When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.",
+            "level": 2
         },
         {
-          "name": "Field Activation Healing",
-          "value": "251% atk + 1540"
+            "name": "When the West Wind Arises",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Dandelion Breeze by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "Continuous Regeneration",
-          "value": "25.12% atk + 154"
+            "name": "Lands of Dandelion",
+            "unlock": "Constellation Lv. 4",
+            "description": "Within the Field created by Dandelion Breeze, all enemies have their Anemo RES decreased by 40%.",
+            "level": 4
         },
         {
-          "name": "CD",
-          "value": "20s"
+            "name": "Outbursting Gust",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increase the Level of Gale Blade by 3.\nMaximum upgrade level is 15.",
+            "level": 5
         },
         {
-          "name": "Energy Cost",
-          "value": "80"
+            "name": "Lion's Fang, Fair Protector of Mondstadt",
+            "unlock": "Constellation Lv. 6",
+            "description": "Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "ANEMO",
+    "weapon_type": "SWORD",
+    "outfits": [
+        {
+            "type": "Summer",
+            "name": "Sea Breeze Dandelion",
+            "description": "Jean's summer wear. Light and cool, but no less elegant for it. The perfect choice for a trip to the seaside.",
+            "rarity": 4,
+            "price": 1680,
+            "image": "outfit-sea-breeze-dandelion"
+        },
+        {
+            "type": "Alternate",
+            "name": "Gunnhildr's Legacy",
+            "description": "Jean's outfit. This classic knight's ceremonial outfit is suited to all manner of occasions.",
+            "rarity": 4,
+            "image": "outfit-gunnhildr-s-legacy"
+        }
+    ],
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Vayuda Turquoise Sliver",
+                "value": 1
+            },
+            {
+                "name": "Dandelion Seed",
+                "value": 3
+            },
+            {
+                "name": "Damaged Mask",
+                "value": 3
+            },
+            {
+                "name": "Mora",
+                "value": 20000
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Vayuda Turquoise Fragment",
+                "value": 3
+            },
+            {
+                "name": "Hurricane Seed",
+                "value": 2
+            },
+            {
+                "name": "Dandelion Seed",
+                "value": 10
+            },
+            {
+                "name": "Damaged Mask",
+                "value": 15
+            },
+            {
+                "name": "Mora",
+                "value": 40000
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Vayuda Turquoise Fragment",
+                "value": 6
+            },
+            {
+                "name": "Hurricane Seed",
+                "value": 4
+            },
+            {
+                "name": "Dandelion Seed",
+                "value": 20
+            },
+            {
+                "name": "Stained Mask",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 60000
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Vayuda Turquoise Chunk",
+                "value": 3
+            },
+            {
+                "name": "Hurricane Seed",
+                "value": 8
+            },
+            {
+                "name": "Dandelion Seed",
+                "value": 30
+            },
+            {
+                "name": "Stained Mask",
+                "value": 18
+            },
+            {
+                "name": "Mora",
+                "value": 80000
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Vayuda Turquoise Chunk",
+                "value": 6
+            },
+            {
+                "name": "Hurricane Seed",
+                "value": 12
+            },
+            {
+                "name": "Dandelion Seed",
+                "value": 45
+            },
+            {
+                "name": "Ominous Mask",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 100000
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Vayuda Turquoise Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Hurricane Seed",
+                "value": 20
+            },
+            {
+                "name": "Dandelion Seed",
+                "value": 60
+            },
+            {
+                "name": "Ominous Mask",
+                "value": 24
+            },
+            {
+                "name": "Mora",
+                "value": 120000
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "1,143.98",
+                "BaseAtk": "18.62",
+                "BaseDef": "59.83",
+                "Healing Bonus": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "3,948.36",
+                "BaseAtk": "64.26",
+                "BaseDef": "206.50",
+                "Healing Bonus": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "6,604.93",
+                "BaseAtk": "107.50",
+                "BaseDef": "345.44",
+                "Healing Bonus": "5.5%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "8,528.29",
+                "BaseAtk": "138.81",
+                "BaseDef": "446.03",
+                "Healing Bonus": "11.0%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "10,229.64",
+                "BaseAtk": "166.50",
+                "BaseDef": "535.01",
+                "Healing Bonus": "11.0%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "11,940.14",
+                "BaseAtk": "194.34",
+                "BaseDef": "624.47",
+                "Healing Bonus": "16.5%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "13,662.08",
+                "BaseAtk": "222.36",
+                "BaseDef": "714.53",
+                "Healing Bonus": "22.0%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Wind Companion",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Hits by Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.",
-      "level": 1
-    },
-    {
-      "name": "Let the Wind Lead",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "Using Dandelion Breeze will regenerate 20% of its Energy.",
-      "level": 4
-    },
-    {
-      "name": "Guiding Breeze",
-      "unlock": "Unlocked Automatically",
-      "description": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Spiraling Tempest",
-      "unlock": "Constellation Lv. 1",
-      "description": "Increases the pulling speed of Gale Blade after holding for more than 1s, and increases the DMG dealt by 40%.",
-      "level": 1
-    },
-    {
-      "name": "People's Aegis",
-      "unlock": "Constellation Lv. 2",
-      "description": "When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.",
-      "level": 2
-    },
-    {
-      "name": "When the West Wind Arises",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Dandelion Breeze by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Lands of Dandelion",
-      "unlock": "Constellation Lv. 4",
-      "description": "Within the Field created by Dandelion Breeze, all enemies have their Anemo RES decreased by 40%.",
-      "level": 4
-    },
-    {
-      "name": "Outbursting Gust",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Gale Blade by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Lion's Fang, Fair Protector of Mondstadt",
-      "unlock": "Constellation Lv. 6",
-      "description": "Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s.",
-      "level": 6
-    }
-  ],
-  "vision_key": "ANEMO",
-  "weapon_type": "SWORD",
-  "outfits": [
-    {
-      "type": "Summer",
-      "name": "Sea Breeze Dandelion",
-      "description": "Jean's summer wear. Light and cool, but no less elegant for it. The perfect choice for a trip to the seaside.",
-      "rarity": 4,
-      "price": 1680,
-      "image": "outfit-sea-breeze-dandelion"
-    },
-    {
-      "type": "Alternate",
-      "name": "Gunnhildr's Legacy",
-      "description": "Jean's outfit. This classic knight's ceremonial outfit is suited to all manner of occasions.",
-      "rarity": 4,
-      "image": "outfit-gunnhildr-s-legacy"
-    }
-  ],
-  "ascension_materials":  {
-    "level_20": [
-      {
-        "name": "Vayuda Turquoise Sliver",
-        "value": 1
-      },
-      {
-        "name": "Dandelion Seed",
-        "value": 3
-      },
-      {
-        "name": "Damaged Mask",
-        "value": 3
-      },
-      {
-        "name": "Mora",
-        "value": 20000
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Vayuda Turquoise Fragment",
-        "value": 3
-      },
-      {
-        "name": "Hurricane Seed",
-        "value": 2
-      },
-      {
-        "name": "Dandelion Seed",
-        "value": 10
-      },
-      {
-        "name": "Damaged Mask",
-        "value": 15
-      },
-      {
-        "name": "Mora",
-        "value": 40000
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Vayuda Turquoise Fragment",
-        "value": 6
-      },
-      {
-        "name": "Hurricane Seed",
-        "value": 4
-      },
-      {
-        "name": "Dandelion Seed",
-        "value": 20
-      },
-      {
-        "name": "Stained Mask",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 60000
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Vayuda Turquoise Chunk",
-        "value": 3
-      },
-      {
-        "name": "Hurricane Seed",
-        "value": 8
-      },
-      {
-        "name": "Dandelion Seed",
-        "value": 30
-      },
-      {
-        "name": "Stained Mask",
-        "value": 18
-      },
-      {
-        "name": "Mora",
-        "value": 80000
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Vayuda Turquoise Chunk",
-        "value": 6
-      },
-      {
-        "name": "Hurricane Seed",
-        "value": 12
-      },
-      {
-        "name": "Dandelion Seed",
-        "value": 45
-      },
-      {
-        "name": "Ominous Mask",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 100000
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Vayuda Turquoise Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Hurricane Seed",
-        "value": 20
-      },
-      {
-        "name": "Dandelion Seed",
-        "value": 60
-      },
-      {
-        "name": "Ominous Mask",
-        "value": 24
-      },
-      {
-        "name": "Mora",
-        "value": 120000
-      }
-    ]
-  }
 }

@@ -1,301 +1,359 @@
 {
-  "name": "Wriothesley",
-  "title": "Emissary of Solitary Iniquity",
-  "vision": "Cryo",
-  "weapon": "Catalyst",
-  "gender": "Male",
-  "nation": "Fontaine",
-  "affiliation": "Fortress of Meropide",
-  "rarity": 5,
-  "release": "2023-10-17",
-  "constellation": "Cerberus",
-  "birthday": "0000-11-23",
-  "description": "Duke of the Fortress of Meropide, Lord Incognito of the murky depths.",
-  "skillTalents": [
-    {
-      "name": "Forceful Fists of Frost",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nCoalescing frost about his fist, Wriothesley will unleash powerful Repelling Fists, performing up to 5 rapid attacks that deal Cryo DMG.\nApart from this, Normal Attack combo count will not reset for a short time after using Icefang Rush or sprinting.\nCharged Attack\nConsumes a fixed amount of Stamina to leap and unleash a Vaulting Fist, dealing AoE Cryo DMG.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE Cryo DMG upon impact.",
-      "upgrades": [
+    "name": "Wriothesley",
+    "title": "Emissary of Solitary Iniquity",
+    "vision": "Cryo",
+    "weapon": "Catalyst",
+    "gender": "Male",
+    "nation": "Fontaine",
+    "affiliation": "Fortress of Meropide",
+    "rarity": 5,
+    "release": "2023-10-17",
+    "constellation": "Cerberus",
+    "birthday": "0000-11-23",
+    "description": "Duke of the Fortress of Meropide, Lord Incognito of the murky depths.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "53.36%"
+            "name": "Forceful Fists of Frost",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nCoalescing frost about his fist, Wriothesley will unleash powerful Repelling Fists, performing up to 5 rapid attacks that deal Cryo DMG.\nApart from this, Normal Attack combo count will not reset for a short time after using Icefang Rush or sprinting.\nCharged Attack\nConsumes a fixed amount of Stamina to leap and unleash a Vaulting Fist, dealing AoE Cryo DMG.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE Cryo DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "53.36%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "51.8%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "67.22%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "37.9% + 37.9%"
+                },
+                {
+                    "name": "5-Hit DMG",
+                    "value": "90.74%"
+                },
+                {
+                    "name": "Charged Attack DMG",
+                    "value": "152.96%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "50"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "56.83%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "113.63% / 141.93%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "51.8%"
+            "name": "Icefang Rush",
+            "unlock": "Elemental Skill",
+            "description": "Adjusting his breathing, rhythm, and pace, Wriothesley sprints forward a short distance, entering the Chilling Penalty state and unleashing more powerful attacks than before.\nChilling Penalty\nIncreases Wriothesley's interruption resistance\nWhen his HP is above 50%, it will enhance the Repelling Fists of Normal Attack: Forceful Fists of Frost and increase its DMG. When such an attack hits, it will consume a fixed amount of Wriothesley's HP. HP can be lost this way once every 0.1s.\nThis effect will be canceled should Wriothesley leave the field.\n\"Past convictions are past. It is our future choices that we must grasp.\"\n\"Defy your fate, or else this glutton be, to pay your fate's due, by the crime and thee.\"",
+            "upgrades": [
+                {
+                    "name": "Enhanced Repelling Fist DMG",
+                    "value": "143.17% Normal Attack DMG"
+                },
+                {
+                    "name": "HP Cost",
+                    "value": "4.5% Max HP"
+                },
+                {
+                    "name": "Duration",
+                    "value": "10s"
+                },
+                {
+                    "name": "CD",
+                    "value": "16s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "67.22%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "37.9% + 37.9%"
-        },
-        {
-          "name": "5-Hit DMG",
-          "value": "90.74%"
-        },
-        {
-          "name": "Charged Attack DMG",
-          "value": "152.96%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "50"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "56.83%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "113.63% / 141.93%"
+            "name": "Darkgold Wolfbite",
+            "unlock": "Elemental Burst",
+            "description": "Activating his boxing gloves, Wriothesley strikes out with an icy straight, then uses Icicle Impact to cause multiple instances of AoE Cryo DMG in a frontal area.\nArkhe: Ousia\nAfter Icicle Impact ends, a Surging Blade will descend upon the opponent's position, dealing Ousia-aligned Cryo DMG.\nThere are some things that even the Duke of the Fortress of Meropide can do little about — for example, complicated paperwork, the trivialities of a supervisor, or even... little kids pasting a whole host of cute but difficult-to-remove stickers on his boxing gloves.",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "127.2% x 5"
+                },
+                {
+                    "name": "Surging Blade DMG",
+                    "value": "42.4%"
+                },
+                {
+                    "name": "CD",
+                    "value": "15s"
+                },
+                {
+                    "name": "Surging Blade CD",
+                    "value": "10s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "60"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Icefang Rush",
-      "unlock": "Elemental Skill",
-      "description": "Adjusting his breathing, rhythm, and pace, Wriothesley sprints forward a short distance, entering the Chilling Penalty state and unleashing more powerful attacks than before.\nChilling Penalty\nIncreases Wriothesley's interruption resistance\nWhen his HP is above 50%, it will enhance the Repelling Fists of Normal Attack: Forceful Fists of Frost and increase its DMG. When such an attack hits, it will consume a fixed amount of Wriothesley's HP. HP can be lost this way once every 0.1s.\nThis effect will be canceled should Wriothesley leave the field.\n\"Past convictions are past. It is our future choices that we must grasp.\"\n\"Defy your fate, or else this glutton be, to pay your fate's due, by the crime and thee.\"",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Enhanced Repelling Fist DMG",
-          "value": "143.17% Normal Attack DMG"
+            "name": "The Duke's Grace",
+            "unlock": "Unlocked Automatically",
+            "description": "When Wriothesley crafts Weapon Ascension Materials, he has a 10% chance to receive double the product."
         },
         {
-          "name": "HP Cost",
-          "value": "4.5% Max HP"
+            "name": "There Shall Be a Plea for Justice",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "When Wriothesley's HP is less than 60%, he will obtain a Gracious Rebuke. The next Charged Attack of his Normal Attack: Forceful Fists of Frost will be enhanced to become Rebuke: Vaulting Fist. It will not consume Stamina, will deal 50% increased DMG, and after hitting will restore HP for Wriothesley equal to 30% of his Max HP.\nYou can gain a Gracious Rebuke this way once every 5s.",
+            "level": 1
         },
         {
-          "name": "Duration",
-          "value": "10s"
-        },
-        {
-          "name": "CD",
-          "value": "16s"
+            "name": "There Shall Be a Reckoning for Sin",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "When Wriothesley's current HP increases or decreases, if he is in the Chilling Penalty state conferred by Icefang Rush, Chilling Penalty will gain one stack of Prosecution Edict. Max 5 stacks. Each stack will increase Wriothesley's ATK by 6%.",
+            "level": 4
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Darkgold Wolfbite",
-      "unlock": "Elemental Burst",
-      "description": "Activating his boxing gloves, Wriothesley strikes out with an icy straight, then uses Icicle Impact to cause multiple instances of AoE Cryo DMG in a frontal area.\nArkhe: Ousia\nAfter Icicle Impact ends, a Surging Blade will descend upon the opponent's position, dealing Ousia-aligned Cryo DMG.\nThere are some things that even the Duke of the Fortress of Meropide can do little about — for example, complicated paperwork, the trivialities of a supervisor, or even... little kids pasting a whole host of cute but difficult-to-remove stickers on his boxing gloves.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Skill DMG",
-          "value": "127.2% x 5"
+            "name": "Terror for the Evildoers",
+            "unlock": "Constellation Lv. 1",
+            "description": "The Gracious Rebuke from the Passive Talent \"There Shall Be a Plea for Justice\" is changed to this:\nWhen Wriothesley's HP is less than 60% or while he is in the Chilling Penalty state caused by Icefang Rush, when the fifth attack of Repelling Fists hits, it will create a Gracious Rebuke. 1 Gracious Rebuke effect can be obtained every 2.5s.\nAdditionally, Rebuke: Vaulting Fist will obtain the following enhancement:\nThe DMG Bonus gained will be further increased to 200%.\nWhen it hits while Wriothesley is in the Chilling Penalty state, that state's duration is extended by 4s. 1 such extension can occur per 1 Chilling Penalty duration.\nYou must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
+            "level": 1
         },
         {
-          "name": "Surging Blade DMG",
-          "value": "42.4%"
+            "name": "Shackles for the Arrogant",
+            "unlock": "Constellation Lv. 2",
+            "description": "When using Darkgold Wolfbite, each Prosecution Edict stack from the Passive Talent \"There Shall Be a Reckoning for Sin\" will increase said ability's DMG dealt by 40%.\nYou must first unlock the Passive Talent \"There Shall Be a Reckoning for Sin.\"",
+            "level": 2
         },
         {
-          "name": "CD",
-          "value": "15s"
+            "name": "Punishment for the Frauds",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Normal Attack: Forceful Fists of Frost by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "Surging Blade CD",
-          "value": "10s"
+            "name": "Redemption for the Suffering",
+            "unlock": "Constellation Lv. 4",
+            "description": "The HP restored to Wriothesley through Rebuke: Vaulting Fist will be increased to 50% of his Max HP. You must first unlock the Passive Talent \n\"There Shall Be a Plea for Justice.\"\nAdditionally, when Wriothesley is healed, if the amount of healing overflows, the following effects will occur depending on whether he is on the field or not. If he is on the field, his ATK SPD will be increased by 20% for 4s. If he is off-field, all of your own party members' ATK SPD will be increased by 10% for 6s. These two methods of increasing ATK SPD cannot stack.",
+            "level": 4
         },
         {
-          "name": "Energy Cost",
-          "value": "60"
+            "name": "Mercy for the Wronged",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increases the Level of Darkgold Wolfbite by 3.\nMaximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Esteem for the Innocent",
+            "unlock": "Constellation Lv. 6",
+            "description": "The CRIT Rate of Rebuke: Vaulting Fist will be increased by 10%, and its CRIT DMG by 80%. When unleashed, it will also create an additional icicle that deals 100% of Rebuke: Vaulting Fist's Base DMG as Cryo DMG. DMG dealt this way is regarded as Charged Attack DMG.\nYou must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "CRYO",
+    "weapon_type": "CATALYST",
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Mora",
+                "value": 20000
+            },
+            {
+                "name": "Shivada Jade Sliver",
+                "value": 1
+            },
+            {
+                "name": "Subdetection Unit",
+                "value": 3
+            },
+            {
+                "name": "Meshing Gear",
+                "value": 3
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Mora",
+                "value": 40000
+            },
+            {
+                "name": "Shivada Jade Fragment",
+                "value": 3
+            },
+            {
+                "name": "Tourbillon Device",
+                "value": 2
+            },
+            {
+                "name": "Subdetection Unit",
+                "value": 10
+            },
+            {
+                "name": "Meshing Gear",
+                "value": 15
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Mora",
+                "value": 60000
+            },
+            {
+                "name": "Shivada Jade Fragment",
+                "value": 6
+            },
+            {
+                "name": "Tourbillon Device",
+                "value": 4
+            },
+            {
+                "name": "Subdetection Unit",
+                "value": 20
+            },
+            {
+                "name": "Mechanical Spur Gear",
+                "value": 12
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Mora",
+                "value": 80000
+            },
+            {
+                "name": "Shivada Jade Chunk",
+                "value": 3
+            },
+            {
+                "name": "Tourbillon Device",
+                "value": 8
+            },
+            {
+                "name": "Subdetection Unit",
+                "value": 30
+            },
+            {
+                "name": "Mechanical Spur Gear",
+                "value": 18
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Mora",
+                "value": 100000
+            },
+            {
+                "name": "Shivada Jade Chunk",
+                "value": 6
+            },
+            {
+                "name": "Tourbillon Device",
+                "value": 12
+            },
+            {
+                "name": "Subdetection Unit",
+                "value": 45
+            },
+            {
+                "name": "Artificed Dynamic Gear",
+                "value": 12
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Mora",
+                "value": 120000
+            },
+            {
+                "name": "Shivada Jade Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Tourbillon Device",
+                "value": 20
+            },
+            {
+                "name": "Subdetection Unit",
+                "value": 60
+            },
+            {
+                "name": "Artificed Dynamic Gear",
+                "value": 24
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "1,058.19",
+                "BaseAtk": "24.21",
+                "BaseDef": "59.41",
+                "CRIT DMG": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "3,652.23",
+                "BaseAtk": "83.54",
+                "BaseDef": "205.05",
+                "CRIT DMG": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "6,109.56",
+                "BaseAtk": "139.75",
+                "BaseDef": "343.02",
+                "CRIT DMG": "9.6%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "7,888.67",
+                "BaseAtk": "180.45",
+                "BaseDef": "442.91",
+                "CRIT DMG": "19.2%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "9,462.41",
+                "BaseAtk": "216.45",
+                "BaseDef": "531.27",
+                "CRIT DMG": "19.2%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "11,044.63",
+                "BaseAtk": "252.64",
+                "BaseDef": "620.10",
+                "CRIT DMG": "28.8%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "12,637.42",
+                "BaseAtk": "289.07",
+                "BaseDef": "709.53",
+                "CRIT DMG": "38.4%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "The Duke's Grace",
-      "unlock": "Unlocked Automatically",
-      "description": "When Wriothesley crafts Weapon Ascension Materials, he has a 10% chance to receive double the product."
-    },
-    {
-      "name": "There Shall Be a Plea for Justice",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "When Wriothesley's HP is less than 60%, he will obtain a Gracious Rebuke. The next Charged Attack of his Normal Attack: Forceful Fists of Frost will be enhanced to become Rebuke: Vaulting Fist. It will not consume Stamina, will deal 50% increased DMG, and after hitting will restore HP for Wriothesley equal to 30% of his Max HP.\nYou can gain a Gracious Rebuke this way once every 5s.",
-      "level": 1
-    },
-    {
-      "name": "There Shall Be a Reckoning for Sin",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "When Wriothesley's current HP increases or decreases, if he is in the Chilling Penalty state conferred by Icefang Rush, Chilling Penalty will gain one stack of Prosecution Edict. Max 5 stacks. Each stack will increase Wriothesley's ATK by 6%.",
-      "level": 4
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Terror for the Evildoers",
-      "unlock": "Constellation Lv. 1",
-      "description": "The Gracious Rebuke from the Passive Talent \"There Shall Be a Plea for Justice\" is changed to this:\nWhen Wriothesley's HP is less than 60% or while he is in the Chilling Penalty state caused by Icefang Rush, when the fifth attack of Repelling Fists hits, it will create a Gracious Rebuke. 1 Gracious Rebuke effect can be obtained every 2.5s.\nAdditionally, Rebuke: Vaulting Fist will obtain the following enhancement:\nThe DMG Bonus gained will be further increased to 200%.\nWhen it hits while Wriothesley is in the Chilling Penalty state, that state's duration is extended by 4s. 1 such extension can occur per 1 Chilling Penalty duration.\nYou must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
-      "level": 1
-    },
-    {
-      "name": "Shackles for the Arrogant",
-      "unlock": "Constellation Lv. 2",
-      "description": "When using Darkgold Wolfbite, each Prosecution Edict stack from the Passive Talent \"There Shall Be a Reckoning for Sin\" will increase said ability's DMG dealt by 40%.\nYou must first unlock the Passive Talent \"There Shall Be a Reckoning for Sin.\"",
-      "level": 2
-    },
-    {
-      "name": "Punishment for the Frauds",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Normal Attack: Forceful Fists of Frost by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Redemption for the Suffering",
-      "unlock": "Constellation Lv. 4",
-      "description": "The HP restored to Wriothesley through Rebuke: Vaulting Fist will be increased to 50% of his Max HP. You must first unlock the Passive Talent \n\"There Shall Be a Plea for Justice.\"\nAdditionally, when Wriothesley is healed, if the amount of healing overflows, the following effects will occur depending on whether he is on the field or not. If he is on the field, his ATK SPD will be increased by 20% for 4s. If he is off-field, all of your own party members' ATK SPD will be increased by 10% for 6s. These two methods of increasing ATK SPD cannot stack.",
-      "level": 4
-    },
-    {
-      "name": "Mercy for the Wronged",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the Level of Darkgold Wolfbite by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Esteem for the Innocent",
-      "unlock": "Constellation Lv. 6",
-      "description": "The CRIT Rate of Rebuke: Vaulting Fist will be increased by 10%, and its CRIT DMG by 80%. When unleashed, it will also create an additional icicle that deals 100% of Rebuke: Vaulting Fist's Base DMG as Cryo DMG. DMG dealt this way is regarded as Charged Attack DMG.\nYou must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
-      "level": 6
-    }
-  ],
-  "vision_key": "CRYO",
-  "weapon_type": "CATALYST",
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Mora",
-        "value": 20000
-      },
-      {
-        "name": "Shivada Jade Sliver",
-        "value": 1
-      },
-      {
-        "name": "Subdetection Unit",
-        "value": 3
-      },
-      {
-        "name": "Meshing Gear",
-        "value": 3
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Mora",
-        "value": 40000
-      },
-      {
-        "name": "Shivada Jade Fragment",
-        "value": 3
-      },
-      {
-        "name": "Tourbillon Device",
-        "value": 2
-      },
-      {
-        "name": "Subdetection Unit",
-        "value": 10
-      },
-      {
-        "name": "Meshing Gear",
-        "value": 15
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Mora",
-        "value": 60000
-      },
-      {
-        "name": "Shivada Jade Fragment",
-        "value": 6
-      },
-      {
-        "name": "Tourbillon Device",
-        "value": 4
-      },
-      {
-        "name": "Subdetection Unit",
-        "value": 20
-      },
-      {
-        "name": "Mechanical Spur Gear",
-        "value": 12
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Mora",
-        "value": 80000
-      },
-      {
-        "name": "Shivada Jade Chunk",
-        "value": 3
-      },
-      {
-        "name": "Tourbillon Device",
-        "value": 8
-      },
-      {
-        "name": "Subdetection Unit",
-        "value": 30
-      },
-      {
-        "name": "Mechanical Spur Gear",
-        "value": 18
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Mora",
-        "value": 100000
-      },
-      {
-        "name": "Shivada Jade Chunk",
-        "value": 6
-      },
-      {
-        "name": "Tourbillon Device",
-        "value": 12
-      },
-      {
-        "name": "Subdetection Unit",
-        "value": 45
-      },
-      {
-        "name": "Artificed Dynamic Gear",
-        "value": 12
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Mora",
-        "value": 120000
-      },
-      {
-        "name": "Shivada Jade Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Tourbillon Device",
-        "value": 20
-      },
-      {
-        "name": "Subdetection Unit",
-        "value": 60
-      },
-      {
-        "name": "Artificed Dynamic Gear",
-        "value": 24
-      }
-    ]
-  }  
 }

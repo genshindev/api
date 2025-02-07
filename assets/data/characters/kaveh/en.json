@@ -1,297 +1,355 @@
 {
-  "name": "Kaveh",
-  "title": "Empyrean Reflection",
-  "vision": "Dendro",
-  "weapon": "Claymore",
-  "gender": "Male",
-  "nation": "Sumeru",
-  "affiliation": "Independent Design Studio",
-  "rarity": 4,
-  "release": "2023-05-02",
-  "constellation": "Paradisaea",
-  "birthday": "0000-07-09",
-  "description": "A renowned architect from Sumeru who perhaps cares a bit too much about too many things. He is an aesthete troubled by reality.",
-  "skillTalents": [
-    {
-      "name": "Schematic Setup",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nUses Mehrak to perform up to 4 consecutive attacks.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, performs a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Kaveh",
+    "title": "Empyrean Reflection",
+    "vision": "Dendro",
+    "weapon": "Claymore",
+    "gender": "Male",
+    "nation": "Sumeru",
+    "affiliation": "Independent Design Studio",
+    "rarity": 4,
+    "release": "2023-05-02",
+    "constellation": "Paradisaea",
+    "birthday": "0000-07-09",
+    "description": "A renowned architect from Sumeru who perhaps cares a bit too much about too many things. He is an aesthete troubled by reality.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "76.19%"
+            "name": "Schematic Setup",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nUses Mehrak to perform up to 4 consecutive attacks.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, performs a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "76.19%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "69.64%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "84.26%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "102.69%"
+                },
+                {
+                    "name": "Charged Attack Cyclic DMG",
+                    "value": "53.15%"
+                },
+                {
+                    "name": "Charged Attack Final DMG",
+                    "value": "96.15%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "40/s"
+                },
+                {
+                    "name": "Max Duration",
+                    "value": "5s"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "74.59%"
+                },
+                {
+                    "name": "Low/High Plunge DMG",
+                    "value": "149.14%/186.29%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "69.64%"
+            "name": "Artistic Ingenuity",
+            "unlock": "Elemental Skill",
+            "description": "Uses Mehrak's mapping ability for offensive purposes, initiating a radial scan that deals AoE Dendro DMG. It will also scan all Dendro Cores in its AoE and cause them to immediately burst.\nMehrak was created through the modification of ancient technology and may have some other functions apart from mapping work...",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "204%"
+                },
+                {
+                    "name": "CD",
+                    "value": "6s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "84.26%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "102.69%"
-        },
-        {
-          "name": "Charged Attack Cyclic DMG",
-          "value": "53.15%"
-        },
-        {
-          "name": "Charged Attack Final DMG",
-          "value": "96.15%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "40/s"
-        },
-        {
-          "name": "Max Duration",
-          "value": "5s"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "74.59%"
-        },
-        {
-          "name": "Low/High Plunge DMG",
-          "value": "149.14%/186.29%"
+            "name": "Painted Dome",
+            "unlock": "Elemental Burst",
+            "description": "Completely unleashes Mehrak's energy and creates a cubic scanned space, dealing AoE Dendro DMG to all opponents within it, causing all Dendro Cores in its AoE to immediately burst, and granting Kaveh the following enhanced combat abilities for a specific duration:\nIncreases Kaveh's Normal, Charged, and Plunging Attack AoE, and converts his attack DMG to Dendro DMG that cannot be overridden.\nAll Dendro Cores created by all your own party members through Bloom reactions will deal additional DMG when they burst.\nIncreases Kaveh's resistance to interruption.\nThese effects will be canceled once Kaveh leaves the field.\n\"Every building style includes the architect's unique worldview, and from this angle, one can say that the buildings themselves are coalescences of human memories.\"",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "160%"
+                },
+                {
+                    "name": "Duration",
+                    "value": "12s"
+                },
+                {
+                    "name": "Dendro Core Burst DMG Bonus",
+                    "value": "27.49%"
+                },
+                {
+                    "name": "CD",
+                    "value": "20s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "80"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Artistic Ingenuity",
-      "unlock": "Elemental Skill",
-      "description": "Uses Mehrak's mapping ability for offensive purposes, initiating a radial scan that deals AoE Dendro DMG. It will also scan all Dendro Cores in its AoE and cause them to immediately burst.\nMehrak was created through the modification of ancient technology and may have some other functions apart from mapping work...",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Skill DMG",
-          "value": "204%"
+            "name": "The Art of Budgeting",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "When Kaveh crafts Landscape, Building, and Courtyard-type Furnishings, he has a 100% chance to refund a portion of the materials used.",
+            "level": 1
         },
         {
-          "name": "CD",
-          "value": "6s"
+            "name": "An Architect's Undertaking",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "When DMG dealt by a Dendro Core (including DMG from Burgeon and Hyperbloom) hits Kaveh, Kaveh will regain HP equal to 300% of his Elemental Mastery. This effect can be triggered once every 0.5s.",
+            "level": 4
+        },
+        {
+            "name": "A Craftsman's Curious Conceptions",
+            "unlock": "Unlocked Automatically",
+            "description": "During Painted Dome, after Kaveh's Normal, Charged, or Plunging Attacks hit opponents, his Elemental Mastery will increase by 25. This effect can be triggered once every 0.1s. Max 4 stacks.\nThis effect will be canceled when Painted Dome's effects end."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Painted Dome",
-      "unlock": "Elemental Burst",
-      "description": "Completely unleashes Mehrak's energy and creates a cubic scanned space, dealing AoE Dendro DMG to all opponents within it, causing all Dendro Cores in its AoE to immediately burst, and granting Kaveh the following enhanced combat abilities for a specific duration:\nIncreases Kaveh's Normal, Charged, and Plunging Attack AoE, and converts his attack DMG to Dendro DMG that cannot be overridden.\nAll Dendro Cores created by all your own party members through Bloom reactions will deal additional DMG when they burst.\nIncreases Kaveh's resistance to interruption.\nThese effects will be canceled once Kaveh leaves the field.\n\"Every building style includes the architect's unique worldview, and from this angle, one can say that the buildings themselves are coalescences of human memories.\"",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Skill DMG",
-          "value": "160%"
+            "name": "Sublime Salutations",
+            "unlock": "Constellation Lv. 1",
+            "description": "Within 3s after using Artistic Ingenuity, Kaveh's Dendro RES and Incoming Healing Bonus will be increased by 50% and 25% respectively.",
+            "level": 1
         },
         {
-          "name": "Duration",
-          "value": "12s"
+            "name": "Grace of Royal Roads",
+            "unlock": "Constellation Lv. 2",
+            "description": "Kaveh's Normal Attack SPD increases by 15% during Painted Dome.",
+            "level": 2
         },
         {
-          "name": "Dendro Core Burst DMG Bonus",
-          "value": "27.49%"
+            "name": "Profferings of Dur Untash",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Painted Dome by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "CD",
-          "value": "20s"
+            "name": "Feast of Apadana",
+            "unlock": "Constellation Lv. 4",
+            "description": "Dendro Cores created from Bloom reactions Kaveh triggers will deal 60% more DMG when they burst.",
+            "level": 4
         },
         {
-          "name": "Energy Cost",
-          "value": "80"
+            "name": "Treasures of Bonkhanak",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increases the Level of Artistic Ingenuity by 3.\nMaximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Pairidaeza's Dreams",
+            "unlock": "Constellation Lv. 6",
+            "description": "When Kaveh's Normal, Charged, or Plunging Attacks hit opponents during Painted Dome, they will unleash Pairidaeza's Light upon the opponent's position, dealing 61.8% of Kaveh's ATK as AoE Dendro DMG and causing all Dendro Cores within that AoE to burst. This effect can be triggered once every 3s.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "DENDRO",
+    "weapon_type": "CLAYMORE",
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Nagadus Emerald Sliver",
+                "value": 1
+            },
+            {
+                "name": "Mourning Flower",
+                "value": 3
+            },
+            {
+                "name": "Fungal Spores",
+                "value": 3
+            },
+            {
+                "name": "Mora",
+                "value": 20000
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Nagadus Emerald Fragment",
+                "value": 3
+            },
+            {
+                "name": "Quelled Creeper",
+                "value": 2
+            },
+            {
+                "name": "Mourning Flower",
+                "value": 10
+            },
+            {
+                "name": "Fungal Spores",
+                "value": 15
+            },
+            {
+                "name": "Mora",
+                "value": 40000
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Nagadus Emerald Fragment",
+                "value": 6
+            },
+            {
+                "name": "Quelled Creeper",
+                "value": 4
+            },
+            {
+                "name": "Mourning Flower",
+                "value": 20
+            },
+            {
+                "name": "Luminescent Pollen",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 60000
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Nagadus Emerald Chunk",
+                "value": 3
+            },
+            {
+                "name": "Quelled Creeper",
+                "value": 8
+            },
+            {
+                "name": "Mourning Flower",
+                "value": 30
+            },
+            {
+                "name": "Luminescent Pollen",
+                "value": 18
+            },
+            {
+                "name": "Mora",
+                "value": 80000
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Nagadus Emerald Chunk",
+                "value": 6
+            },
+            {
+                "name": "Quelled Creeper",
+                "value": 12
+            },
+            {
+                "name": "Mourning Flower",
+                "value": 45
+            },
+            {
+                "name": "Crystalline Cyst Dust",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 100000
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Nagadus Emerald Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Quelled Creeper",
+                "value": 20
+            },
+            {
+                "name": "Mourning Flower",
+                "value": 60
+            },
+            {
+                "name": "Crystalline Cyst Dust",
+                "value": 24
+            },
+            {
+                "name": "Mora",
+                "value": 120000
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "1,002.97",
+                "BaseAtk": "19.59",
+                "BaseDef": "62.95",
+                "Elemental Mastery": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "3,325.90",
+                "BaseAtk": "64.96",
+                "BaseDef": "208.74",
+                "Elemental Mastery": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "5,514.18",
+                "BaseAtk": "107.70",
+                "BaseDef": "346.08",
+                "Elemental Mastery": "24.0"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "7,052.47",
+                "BaseAtk": "137.74",
+                "BaseDef": "442.62",
+                "Elemental Mastery": "48.0"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "8,413.30",
+                "BaseAtk": "164.32",
+                "BaseDef": "528.03",
+                "Elemental Mastery": "48.0"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "9,773.12",
+                "BaseAtk": "190.88",
+                "BaseDef": "613.37",
+                "Elemental Mastery": "72.0"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "11,133.95",
+                "BaseAtk": "217.46",
+                "BaseDef": "698.78",
+                "Elemental Mastery": "96.0"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "The Art of Budgeting",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "When Kaveh crafts Landscape, Building, and Courtyard-type Furnishings, he has a 100% chance to refund a portion of the materials used.",
-      "level": 1
-    },
-    {
-      "name": "An Architect's Undertaking",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "When DMG dealt by a Dendro Core (including DMG from Burgeon and Hyperbloom) hits Kaveh, Kaveh will regain HP equal to 300% of his Elemental Mastery. This effect can be triggered once every 0.5s.",
-      "level": 4
-    },
-    {
-      "name": "A Craftsman's Curious Conceptions",
-      "unlock": "Unlocked Automatically",
-      "description": "During Painted Dome, after Kaveh's Normal, Charged, or Plunging Attacks hit opponents, his Elemental Mastery will increase by 25. This effect can be triggered once every 0.1s. Max 4 stacks.\nThis effect will be canceled when Painted Dome's effects end."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Sublime Salutations",
-      "unlock": "Constellation Lv. 1",
-      "description": "Within 3s after using Artistic Ingenuity, Kaveh's Dendro RES and Incoming Healing Bonus will be increased by 50% and 25% respectively.",
-      "level": 1
-    },
-    {
-      "name": "Grace of Royal Roads",
-      "unlock": "Constellation Lv. 2",
-      "description": "Kaveh's Normal Attack SPD increases by 15% during Painted Dome.",
-      "level": 2
-    },
-    {
-      "name": "Profferings of Dur Untash",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Painted Dome by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Feast of Apadana",
-      "unlock": "Constellation Lv. 4",
-      "description": "Dendro Cores created from Bloom reactions Kaveh triggers will deal 60% more DMG when they burst.",
-      "level": 4
-    },
-    {
-      "name": "Treasures of Bonkhanak",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the Level of Artistic Ingenuity by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Pairidaeza's Dreams",
-      "unlock": "Constellation Lv. 6",
-      "description": "When Kaveh's Normal, Charged, or Plunging Attacks hit opponents during Painted Dome, they will unleash Pairidaeza's Light upon the opponent's position, dealing 61.8% of Kaveh's ATK as AoE Dendro DMG and causing all Dendro Cores within that AoE to burst. This effect can be triggered once every 3s.",
-      "level": 6
-    }
-  ],
-  "vision_key": "DENDRO",
-  "weapon_type": "CLAYMORE",
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Nagadus Emerald Sliver",
-        "value": 1
-      },
-      {
-        "name": "Mourning Flower",
-        "value": 3
-      },
-      {
-        "name": "Fungal Spores",
-        "value": 3
-      },
-      {
-        "name": "Mora",
-        "value": 20000
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Nagadus Emerald Fragment",
-        "value": 3
-      },
-      {
-        "name": "Quelled Creeper",
-        "value": 2
-      },
-      {
-        "name": "Mourning Flower",
-        "value": 10
-      },
-      {
-        "name": "Fungal Spores",
-        "value": 15
-      },
-      {
-        "name": "Mora",
-        "value": 40000
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Nagadus Emerald Fragment",
-        "value": 6
-      },
-      {
-        "name": "Quelled Creeper",
-        "value": 4
-      },
-      {
-        "name": "Mourning Flower",
-        "value": 20
-      },
-      {
-        "name": "Luminescent Pollen",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 60000
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Nagadus Emerald Chunk",
-        "value": 3
-      },
-      {
-        "name": "Quelled Creeper",
-        "value": 8
-      },
-      {
-        "name": "Mourning Flower",
-        "value": 30
-      },
-      {
-        "name": "Luminescent Pollen",
-        "value": 18
-      },
-      {
-        "name": "Mora",
-        "value": 80000
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Nagadus Emerald Chunk",
-        "value": 6
-      },
-      {
-        "name": "Quelled Creeper",
-        "value": 12
-      },
-      {
-        "name": "Mourning Flower",
-        "value": 45
-      },
-      {
-        "name": "Crystalline Cyst Dust",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 100000
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Nagadus Emerald Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Quelled Creeper",
-        "value": 20
-      },
-      {
-        "name": "Mourning Flower",
-        "value": 60
-      },
-      {
-        "name": "Crystalline Cyst Dust",
-        "value": 24
-      },
-      {
-        "name": "Mora",
-        "value": 120000
-      }
-    ]
-  }
 }

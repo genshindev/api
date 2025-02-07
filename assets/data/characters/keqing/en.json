@@ -1,311 +1,369 @@
 {
-  "name": "Keqing",
-  "title": "Driving Thunder",
-  "vision": "Electro",
-  "weapon": "Sword",
-  "gender": "Female",
-  "nation": "Liyue",
-  "affiliation": "Liyue Qixing",
-  "rarity": 5,
-  "release": "2020-09-28",
-  "constellation": "Trulla Cementarii",
-  "birthday": "0000-11-20",
-  "description": "The Yuheng of the Liyue Qixing. Has much to say about Rex Lapis' unilateral approach to policymaking in Liyue - but in truth, gods admire skeptics such as her quite a lot.",
-  "skillTalents": [
-    {
-      "name": "Yunlai Swordsmanship",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemeies along the path and dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Keqing",
+    "title": "Driving Thunder",
+    "vision": "Electro",
+    "weapon": "Sword",
+    "gender": "Female",
+    "nation": "Liyue",
+    "affiliation": "Liyue Qixing",
+    "rarity": 5,
+    "release": "2020-09-28",
+    "constellation": "Trulla Cementarii",
+    "birthday": "0000-11-20",
+    "description": "The Yuheng of the Liyue Qixing. Has much to say about Rex Lapis' unilateral approach to policymaking in Liyue - but in truth, gods admire skeptics such as her quite a lot.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "41%"
+            "name": "Yunlai Swordsmanship",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemeies along the path and dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "41%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "41%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "54.4%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "31.5% + 34.4%"
+                },
+                {
+                    "name": "5-Hit DMG",
+                    "value": "67%"
+                },
+                {
+                    "name": "Charged Attack DMG",
+                    "value": "76.8% + 86%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "25"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "63.9%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "128% / 160%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "41%"
+            "name": "Stellar Restoration",
+            "unlock": "Elemental Skill",
+            "description": "Hurls a Lightning Stiletto that annihilates her enemies like the swift thunder.\n\nWhen the Stiletto hits its target, it deals Electro DMG to enemies in a small AoE, and places a Stiletto Mark on the spot hit.\nHold\nHold to adjust the direction in which the Stiletto shall be thrown.\n\nStilettos thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time.\nLightning Stiletto\nIf Keqing uses Stellar Restoration again or uses a Charged Attack while its duration lasts, it will clear the Stiletto Mark and produce different effects:\n\nIf she uses Stellar Restoration again, she will blink to the location of the Mark and unleashed one slashing attack that deals AoE Electro DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.\nIf Keqing uses a Charged Attack, she will ignite a series of thundering cuts at the Mark's location, dealing AoE Electro DMG.\n",
+            "upgrades": [
+                {
+                    "name": "Lightning Stiletto DMG",
+                    "value": "50.4%"
+                },
+                {
+                    "name": "Slashing DMG",
+                    "value": "168%"
+                },
+                {
+                    "name": "Thunderclap Slash DMG",
+                    "value": "84% * 2"
+                },
+                {
+                    "name": "CD",
+                    "value": "7.5s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "54.4%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "31.5% + 34.4%"
-        },
-        {
-          "name": "5-Hit DMG",
-          "value": "67%"
-        },
-        {
-          "name": "Charged Attack DMG",
-          "value": "76.8% + 86%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "25"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "63.9%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "128% / 160%"
+            "name": "Starward Sword",
+            "unlock": "Elemental Burst",
+            "description": "Keqing unleashes the power of lightning, dealing Electro DMG in an AoE.\nShe then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby enemies simultaneous that deal multiple instance of Electro DMG. The final attack deals massive AoE Electro DMG.",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "88%"
+                },
+                {
+                    "name": "Consecutive Slash DMG",
+                    "value": "24% * 8"
+                },
+                {
+                    "name": "Last Attack DMG",
+                    "value": "189%"
+                },
+                {
+                    "name": "CD",
+                    "value": "12s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "40"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Stellar Restoration",
-      "unlock": "Elemental Skill",
-      "description": "Hurls a Lightning Stiletto that annihilates her enemies like the swift thunder.\n\nWhen the Stiletto hits its target, it deals Electro DMG to enemies in a small AoE, and places a Stiletto Mark on the spot hit.\nHold\nHold to adjust the direction in which the Stiletto shall be thrown.\n\nStilettos thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time.\nLightning Stiletto\nIf Keqing uses Stellar Restoration again or uses a Charged Attack while its duration lasts, it will clear the Stiletto Mark and produce different effects:\n\nIf she uses Stellar Restoration again, she will blink to the location of the Mark and unleashed one slashing attack that deals AoE Electro DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.\nIf Keqing uses a Charged Attack, she will ignite a series of thundering cuts at the Mark's location, dealing AoE Electro DMG.\n",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Lightning Stiletto DMG",
-          "value": "50.4%"
+            "name": "Thundering Penance",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "Within 5s of recasting Stellar Restoration while a Lightning Stiletto is present, Keqing's Normal and Charged Attacks are converted to Electro DMG.",
+            "level": 1
         },
         {
-          "name": "Slashing DMG",
-          "value": "168%"
+            "name": "Aristocratic Dignity",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "When casting Starward Sword, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.",
+            "level": 4
         },
         {
-          "name": "Thunderclap Slash DMG",
-          "value": "84% * 2"
-        },
-        {
-          "name": "CD",
-          "value": "7.5s"
+            "name": "Land's Overseer",
+            "unlock": "Unlocked Automatically",
+            "description": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Starward Sword",
-      "unlock": "Elemental Burst",
-      "description": "Keqing unleashes the power of lightning, dealing Electro DMG in an AoE.\nShe then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby enemies simultaneous that deal multiple instance of Electro DMG. The final attack deals massive AoE Electro DMG.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Skill DMG",
-          "value": "88%"
+            "name": "Thundering Might",
+            "unlock": "Constellation Lv. 1",
+            "description": "Recasting Stellar Restoration while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as AoE Electro DMG at the start point and terminus of her Blink.",
+            "level": 1
         },
         {
-          "name": "Consecutive Slash DMG",
-          "value": "24% * 8"
+            "name": "Keen Extraction",
+            "unlock": "Constellation Lv. 2",
+            "description": "When Keqing's Normal and Charged Attack's hit enemies affected by Electro, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s.",
+            "level": 2
         },
         {
-          "name": "Last Attack DMG",
-          "value": "189%"
+            "name": "Forseen Reformation",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Starward Sword by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "CD",
-          "value": "12s"
+            "name": "Attunement",
+            "unlock": "Constellation Lv. 4",
+            "description": "For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is increased by 25%.",
+            "level": 4
         },
         {
-          "name": "Energy Cost",
-          "value": "40"
+            "name": "Beckoning Stars",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increase the Level of Stellar Restoration by 3.\nMaximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Tenacious Star",
+            "unlock": "Constellation Lv. 6",
+            "description": "When initiating a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% Electro DMG Bonus for 8s. Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "ELECTRO",
+    "weapon_type": "SWORD",
+    "outfits": [
+        {
+            "type": "Formal",
+            "name": "Opulent Splendor",
+            "description": "Keqing's formal wear. Amidst the beautiful dawn of the Lantern Rite, the threads weaved by days of hard work intertwine into a light yet magnificent appearance.",
+            "rarity": 4,
+            "price": 1680,
+            "image": "outfit-opulent-splendor"
+        }
+    ],
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Vajrada Amethyst Sliver",
+                "value": 1
+            },
+            {
+                "name": "Cor Lapis",
+                "value": 3
+            },
+            {
+                "name": "Whopperflower Nectar",
+                "value": 3
+            },
+            {
+                "name": "Mora",
+                "value": 20000
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Vajrada Amethyst Fragment",
+                "value": 3
+            },
+            {
+                "name": "Lightning Prism",
+                "value": 2
+            },
+            {
+                "name": "Cor Lapis",
+                "value": 10
+            },
+            {
+                "name": "Whopperflower Nectar",
+                "value": 15
+            },
+            {
+                "name": "Mora",
+                "value": 40000
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Vajrada Amethyst Fragment",
+                "value": 6
+            },
+            {
+                "name": "Lightning Prism",
+                "value": 4
+            },
+            {
+                "name": "Cor Lapis",
+                "value": 20
+            },
+            {
+                "name": "Shimmering Nectar",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 60000
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Vajrada Amethyst Chunk",
+                "value": 3
+            },
+            {
+                "name": "Lightning Prism",
+                "value": 8
+            },
+            {
+                "name": "Cor Lapis",
+                "value": 30
+            },
+            {
+                "name": "Shimmering Nectar",
+                "value": 18
+            },
+            {
+                "name": "Mora",
+                "value": 80000
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Vajrada Amethyst Chunk",
+                "value": 6
+            },
+            {
+                "name": "Lightning Prism",
+                "value": 12
+            },
+            {
+                "name": "Cor Lapis",
+                "value": 45
+            },
+            {
+                "name": "Energy Nectar",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 100000
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Vajrada Amethyst Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Lightning Prism",
+                "value": 20
+            },
+            {
+                "name": "Cor Lapis",
+                "value": 60
+            },
+            {
+                "name": "Energy Nectar",
+                "value": 24
+            },
+            {
+                "name": "Mora",
+                "value": 120000
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "1,020.05",
+                "BaseAtk": "25.14",
+                "BaseDef": "62.22",
+                "CRIT DMG": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "3,520.62",
+                "BaseAtk": "86.76",
+                "BaseDef": "214.76",
+                "CRIT DMG": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "5,889.40",
+                "BaseAtk": "145.13",
+                "BaseDef": "359.26",
+                "CRIT DMG": "9.6%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "7,604.39",
+                "BaseAtk": "187.39",
+                "BaseDef": "463.87",
+                "CRIT DMG": "19.2%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "9,121.43",
+                "BaseAtk": "224.77",
+                "BaseDef": "556.41",
+                "CRIT DMG": "19.2%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "10,646.62",
+                "BaseAtk": "262.36",
+                "BaseDef": "649.45",
+                "CRIT DMG": "28.8%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "12,182.02",
+                "BaseAtk": "300.19",
+                "BaseDef": "743.11",
+                "CRIT DMG": "38.4%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Thundering Penance",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Within 5s of recasting Stellar Restoration while a Lightning Stiletto is present, Keqing's Normal and Charged Attacks are converted to Electro DMG.",
-      "level": 1
-    },
-    {
-      "name": "Aristocratic Dignity",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "When casting Starward Sword, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.",
-      "level": 4
-    },
-    {
-      "name": "Land's Overseer",
-      "unlock": "Unlocked Automatically",
-      "description": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Thundering Might",
-      "unlock": "Constellation Lv. 1",
-      "description": "Recasting Stellar Restoration while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as AoE Electro DMG at the start point and terminus of her Blink.",
-      "level": 1
-    },
-    {
-      "name": "Keen Extraction",
-      "unlock": "Constellation Lv. 2",
-      "description": "When Keqing's Normal and Charged Attack's hit enemies affected by Electro, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s.",
-      "level": 2
-    },
-    {
-      "name": "Forseen Reformation",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Starward Sword by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Attunement",
-      "unlock": "Constellation Lv. 4",
-      "description": "For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is increased by 25%.",
-      "level": 4
-    },
-    {
-      "name": "Beckoning Stars",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Stellar Restoration by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Tenacious Star",
-      "unlock": "Constellation Lv. 6",
-      "description": "When initiating a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% Electro DMG Bonus for 8s. Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.",
-      "level": 6
-    }
-  ],
-  "vision_key": "ELECTRO",
-  "weapon_type": "SWORD",
-  "outfits": [
-    {
-      "type": "Formal",
-      "name": "Opulent Splendor",
-      "description": "Keqing's formal wear. Amidst the beautiful dawn of the Lantern Rite, the threads weaved by days of hard work intertwine into a light yet magnificent appearance.",
-      "rarity": 4,
-      "price": 1680,
-      "image": "outfit-opulent-splendor"
-    }
-  ],
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Vajrada Amethyst Sliver",
-        "value": 1
-      },
-      {
-        "name": "Cor Lapis",
-        "value": 3
-      },
-      {
-        "name": "Whopperflower Nectar",
-        "value": 3
-      },
-      {
-        "name": "Mora",
-        "value": 20000
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Vajrada Amethyst Fragment",
-        "value": 3
-      },
-      {
-        "name": "Lightning Prism",
-        "value": 2
-      },
-      {
-        "name": "Cor Lapis",
-        "value": 10
-      },
-      {
-        "name": "Whopperflower Nectar",
-        "value": 15
-      },
-      {
-        "name": "Mora",
-        "value": 40000
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Vajrada Amethyst Fragment",
-        "value": 6
-      },
-      {
-        "name": "Lightning Prism",
-        "value": 4
-      },
-      {
-        "name": "Cor Lapis",
-        "value": 20
-      },
-      {
-        "name": "Shimmering Nectar",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 60000
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Vajrada Amethyst Chunk",
-        "value": 3
-      },
-      {
-        "name": "Lightning Prism",
-        "value": 8
-      },
-      {
-        "name": "Cor Lapis",
-        "value": 30
-      },
-      {
-        "name": "Shimmering Nectar",
-        "value": 18
-      },
-      {
-        "name": "Mora",
-        "value": 80000
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Vajrada Amethyst Chunk",
-        "value": 6
-      },
-      {
-        "name": "Lightning Prism",
-        "value": 12
-      },
-      {
-        "name": "Cor Lapis",
-        "value": 45
-      },
-      {
-        "name": "Energy Nectar",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 100000
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Vajrada Amethyst Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Lightning Prism",
-        "value": 20
-      },
-      {
-        "name": "Cor Lapis",
-        "value": 60
-      },
-      {
-        "name": "Energy Nectar",
-        "value": 24
-      },
-      {
-        "name": "Mora",
-        "value": 120000
-      }
-    ]
-  }
 }

@@ -1,301 +1,359 @@
 {
-  "name": "Gaming",
-  "title": "Leonine Vanguard",
-  "vision": "Pyro",
-  "weapon": "Claymore",
-  "gender": "Male",
-  "nation": "Liyue",
-  "affiliation": "Sword and Strongbox Secure Transport Agency",
-  "rarity": 4,
-  "release": "2024-01-31",
-  "constellation": "Leo Expergiscens",
-  "birthday": "0000-12-22",
-  "description": "Guard of the Sword and Strongbox Secure Transport Agency, and the head of the \"Mighty Mythical Beasts\" Wushou troupe.",
-  "skillTalents": [
-    {
-      "name": "Stellar Rend",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, performs a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Gaming",
+    "title": "Leonine Vanguard",
+    "vision": "Pyro",
+    "weapon": "Claymore",
+    "gender": "Male",
+    "nation": "Liyue",
+    "affiliation": "Sword and Strongbox Secure Transport Agency",
+    "rarity": 4,
+    "release": "2024-01-31",
+    "constellation": "Leo Expergiscens",
+    "birthday": "0000-12-22",
+    "description": "Guard of the Sword and Strongbox Secure Transport Agency, and the head of the \"Mighty Mythical Beasts\" Wushou troupe.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "83.86%"
+            "name": "Stellar Rend",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, performs a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "83.86%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "79.04%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "106.65%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "127.95%"
+                },
+                {
+                    "name": "Charged Attack Cyclic DMG",
+                    "value": "62.52%"
+                },
+                {
+                    "name": "Charged Attack Final DMG",
+                    "value": "113.09%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "40/s"
+                },
+                {
+                    "name": "Max Duration",
+                    "value": "5s"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "64.15%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "128.3% / 160.2%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "79.04%"
+            "name": "Bestial Ascent",
+            "unlock": "Elemental Skill",
+            "description": "Pounces forward using the Wushou arts, leaping high into the air after coming into contact with a target or surface.\nAfter Gaming has used Bestial Ascent to rise into the air, he will use the especially powerful Plunging Attack: Charmed Cloudstrider when performing a Plunging Attack.\n\nPlunging Attack: Charmed Cloudstrider\nThe DMG from Plunging Attacks caused by Bestial Ascent is converted to Pyro DMG that cannot be overridden by other elemental infusions. Upon landing, Gaming will consume a fixed amount of HP. Gaming's HP cannot be reduced below 10% by this method.\nCharmed Cloudstrider DMG is considered Plunging Attack DMG.",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "230.4%"
+                },
+                {
+                    "name": "HP Cost",
+                    "value": "15% Max HP"
+                },
+                {
+                    "name": "CD",
+                    "value": "6s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "106.65%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "127.95%"
-        },
-        {
-          "name": "Charged Attack Cyclic DMG",
-          "value": "62.52%"
-        },
-        {
-          "name": "Charged Attack Final DMG",
-          "value": "113.09%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "40/s"
-        },
-        {
-          "name": "Max Duration",
-          "value": "5s"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "64.15%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "128.3% / 160.2%"
+            "name": "Suanni's Gilded Dance",
+            "unlock": "Elemental Burst",
+            "description": "Gaming enters Wushou Stance, briefly applying Pyro to him, recovering a fixed amount of HP, and summons his companion, the Suanni Man Chai, to smash into his target, dealing AoE Pyro DMG.\nAfter bashing its target, Man Chai will roll to a nearby location before moving towards Gaming. When it links up with Gaming, Man Chai will leave the field and reset the CD for Gaming's Elemental Skill, Bestial Ascent.\nWhile Wushou Stance is active, his resistance to interruption is increased, and when Gaming lands with Charmed Cloudstrider attack or completes the forward pounce attack from Bestial Ascent with over 50% HP, he will summon Man Chai again.\nEach Gaming can only have 1 Man Chai on the field simultaneously.\nThis effect will be canceled once Gaming leaves the field.",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "370.4%"
+                },
+                {
+                    "name": "Skill Healing",
+                    "value": "30% Max HP"
+                },
+                {
+                    "name": "Wushou Stance Duration",
+                    "value": "12s"
+                },
+                {
+                    "name": "CD",
+                    "value": "15s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "60"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Bestial Ascent",
-      "unlock": "Elemental Skill",
-      "description": "Pounces forward using the Wushou arts, leaping high into the air after coming into contact with a target or surface.\nAfter Gaming has used Bestial Ascent to rise into the air, he will use the especially powerful Plunging Attack: Charmed Cloudstrider when performing a Plunging Attack.\n\nPlunging Attack: Charmed Cloudstrider\nThe DMG from Plunging Attacks caused by Bestial Ascent is converted to Pyro DMG that cannot be overridden by other elemental infusions. Upon landing, Gaming will consume a fixed amount of HP. Gaming's HP cannot be reduced below 10% by this method.\nCharmed Cloudstrider DMG is considered Plunging Attack DMG.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Skill DMG",
-          "value": "230.4%"
+            "name": "Dance of Amity",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "After Bestial Ascent's Plunging Attack: Charmed Cloudstrider hits an opponent, Gaming will regain 1.5% of his Max HP once every 0.2s for 0.8s.",
+            "level": 1
         },
         {
-          "name": "HP Cost",
-          "value": "15% Max HP"
+            "name": "Air of Prosperity",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "When Gaming has less than 50% HP, he will receive a 20% Incoming Healing Bonus. When Gaming has 50% HP or more, Plunging Attack: Charmed Cloudstrider will deal 20% more DMG.",
+            "level": 4
         },
         {
-          "name": "CD",
-          "value": "6s"
+            "name": "The Striding Beast",
+            "unlock": "Unlocked Automatically",
+            "description": "Increases the Movement SPD of your own party members by 10% during the day (6:00 – 18:00).\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Suanni's Gilded Dance",
-      "unlock": "Elemental Burst",
-      "description": "Gaming enters Wushou Stance, briefly applying Pyro to him, recovering a fixed amount of HP, and summons his companion, the Suanni Man Chai, to smash into his target, dealing AoE Pyro DMG.\nAfter bashing its target, Man Chai will roll to a nearby location before moving towards Gaming. When it links up with Gaming, Man Chai will leave the field and reset the CD for Gaming's Elemental Skill, Bestial Ascent.\nWhile Wushou Stance is active, his resistance to interruption is increased, and when Gaming lands with Charmed Cloudstrider attack or completes the forward pounce attack from Bestial Ascent with over 50% HP, he will summon Man Chai again.\nEach Gaming can only have 1 Man Chai on the field simultaneously.\nThis effect will be canceled once Gaming leaves the field.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Skill DMG",
-          "value": "370.4%"
+            "name": "Bringer of Blessing",
+            "unlock": "Constellation Lv. 1",
+            "description": "When the Suanni Man Chai from Suanni's Gilded Dance meets back up with Gaming, it will heal 15% of Gaming's HP.",
+            "level": 1
         },
         {
-          "name": "Skill Healing",
-          "value": "30% Max HP"
+            "name": "Plum Blossoms Underfoot",
+            "unlock": "Constellation Lv. 2",
+            "description": "When Gaming receives healing and this instance of healing overflows, his ATK will be increased by 20% for 5s.",
+            "level": 2
         },
         {
-          "name": "Wushou Stance Duration",
-          "value": "12s"
+            "name": "Awakening Spirit",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Bestial Ascent by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "CD",
-          "value": "15s"
+            "name": "Soar Across Mountains",
+            "unlock": "Constellation Lv. 4",
+            "description": "When Bestial Ascent's Plunging Attack: Charmed Cloudstrider hits an opponent, it will restore 2 Energy to Gaming. This effect can be triggered once every 0.2s.",
+            "level": 4
         },
         {
-          "name": "Energy Cost",
-          "value": "60"
+            "name": "Demon-Daunting Roar",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increases the Level of Suanni's Gilded Dance by 3.\nMaximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "To Tame All Beasts",
+            "unlock": "Constellation Lv. 6",
+            "description": "Bestial Ascent's Plunging Attack: Charmed Cloudstrider CRIT Rate increased by 20% and CRIT DMG increased by 40%, and its attack radius will be increased.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "PYRO",
+    "weapon_type": "CLAYMORE",
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Agnidus Agate Sliver",
+                "value": 1
+            },
+            {
+                "name": "Starconch",
+                "value": 3
+            },
+            {
+                "name": "Slime Condensate",
+                "value": 3
+            },
+            {
+                "name": "Mora",
+                "value": 20000
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Agnidus Agate Fragment",
+                "value": 3
+            },
+            {
+                "name": "Emperor's Resolution",
+                "value": 2
+            },
+            {
+                "name": "Starconch",
+                "value": 10
+            },
+            {
+                "name": "Slime Condensate",
+                "value": 15
+            },
+            {
+                "name": "Mora",
+                "value": 40000
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Agnidus Agate Fragment",
+                "value": 6
+            },
+            {
+                "name": "Emperor's Resolution",
+                "value": 4
+            },
+            {
+                "name": "Starconch",
+                "value": 20
+            },
+            {
+                "name": "Slime Secretions",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 60000
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Agnidus Agate Chunk",
+                "value": 3
+            },
+            {
+                "name": "Emperor's Resolution",
+                "value": 8
+            },
+            {
+                "name": "Starconch",
+                "value": 30
+            },
+            {
+                "name": "Slime Secretions",
+                "value": 18
+            },
+            {
+                "name": "Mora",
+                "value": 80000
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Agnidus Agate Chunk",
+                "value": 6
+            },
+            {
+                "name": "Emperor's Resolution",
+                "value": 12
+            },
+            {
+                "name": "Starconch",
+                "value": 45
+            },
+            {
+                "name": "Slime Concentrate",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 100000
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Agnidus Agate Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Emperor's Resolution",
+                "value": 20
+            },
+            {
+                "name": "Starconch",
+                "value": 60
+            },
+            {
+                "name": "Slime Concentrate",
+                "value": 24
+            },
+            {
+                "name": "Mora",
+                "value": 120000
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "957.38",
+                "BaseAtk": "25.29",
+                "BaseDef": "58.94",
+                "ATK": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "3,174.72",
+                "BaseAtk": "83.85",
+                "BaseDef": "195.45",
+                "ATK": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "5,263.54",
+                "BaseAtk": "139.03",
+                "BaseDef": "324.05",
+                "ATK": "6.0%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "6,731.90",
+                "BaseAtk": "177.81",
+                "BaseDef": "414.45",
+                "ATK": "12.0%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "8,030.87",
+                "BaseAtk": "212.12",
+                "BaseDef": "494.43",
+                "ATK": "12.0%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "9,328.89",
+                "BaseAtk": "246.41",
+                "BaseDef": "574.34",
+                "ATK": "18.0%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "10,627.86",
+                "BaseAtk": "280.72",
+                "BaseDef": "654.31",
+                "ATK": "24.0%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Dance of Amity",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "After Bestial Ascent's Plunging Attack: Charmed Cloudstrider hits an opponent, Gaming will regain 1.5% of his Max HP once every 0.2s for 0.8s.",
-      "level": 1
-    },
-    {
-      "name": "Air of Prosperity",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "When Gaming has less than 50% HP, he will receive a 20% Incoming Healing Bonus. When Gaming has 50% HP or more, Plunging Attack: Charmed Cloudstrider will deal 20% more DMG.",
-      "level": 4
-    },
-    {
-      "name": "The Striding Beast",
-      "unlock": "Unlocked Automatically",
-      "description": "Increases the Movement SPD of your own party members by 10% during the day (6:00 – 18:00).\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Bringer of Blessing",
-      "unlock": "Constellation Lv. 1",
-      "description": "When the Suanni Man Chai from Suanni's Gilded Dance meets back up with Gaming, it will heal 15% of Gaming's HP.",
-      "level": 1
-    },
-    {
-      "name": "Plum Blossoms Underfoot",
-      "unlock": "Constellation Lv. 2",
-      "description": "When Gaming receives healing and this instance of healing overflows, his ATK will be increased by 20% for 5s.",
-      "level": 2
-    },
-    {
-      "name": "Awakening Spirit",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Bestial Ascent by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Soar Across Mountains",
-      "unlock": "Constellation Lv. 4",
-      "description": "When Bestial Ascent's Plunging Attack: Charmed Cloudstrider hits an opponent, it will restore 2 Energy to Gaming. This effect can be triggered once every 0.2s.",
-      "level": 4
-    },
-    {
-      "name": "Demon-Daunting Roar",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the Level of Suanni's Gilded Dance by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "To Tame All Beasts",
-      "unlock": "Constellation Lv. 6",
-      "description": "Bestial Ascent's Plunging Attack: Charmed Cloudstrider CRIT Rate increased by 20% and CRIT DMG increased by 40%, and its attack radius will be increased.",
-      "level": 6
-    }
-  ],
-  "vision_key": "PYRO",
-  "weapon_type": "CLAYMORE",
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Agnidus Agate Sliver",
-        "value": 1
-      },
-      {
-        "name": "Starconch",
-        "value": 3
-      },
-      {
-        "name": "Slime Condensate",
-        "value": 3
-      },
-      {
-        "name": "Mora",
-        "value": 20000
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Agnidus Agate Fragment",
-        "value": 3
-      },
-      {
-        "name": "Emperor's Resolution",
-        "value": 2
-      },
-      {
-        "name": "Starconch",
-        "value": 10
-      },
-      {
-        "name": "Slime Condensate",
-        "value": 15
-      },
-      {
-        "name": "Mora",
-        "value": 40000
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Agnidus Agate Fragment",
-        "value": 6
-      },
-      {
-        "name": "Emperor's Resolution",
-        "value": 4
-      },
-      {
-        "name": "Starconch",
-        "value": 20
-      },
-      {
-        "name": "Slime Secretions",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 60000
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Agnidus Agate Chunk",
-        "value": 3
-      },
-      {
-        "name": "Emperor's Resolution",
-        "value": 8
-      },
-      {
-        "name": "Starconch",
-        "value": 30
-      },
-      {
-        "name": "Slime Secretions",
-        "value": 18
-      },
-      {
-        "name": "Mora",
-        "value": 80000
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Agnidus Agate Chunk",
-        "value": 6
-      },
-      {
-        "name": "Emperor's Resolution",
-        "value": 12
-      },
-      {
-        "name": "Starconch",
-        "value": 45
-      },
-      {
-        "name": "Slime Concentrate",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 100000
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Agnidus Agate Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Emperor's Resolution",
-        "value": 20
-      },
-      {
-        "name": "Starconch",
-        "value": 60
-      },
-      {
-        "name": "Slime Concentrate",
-        "value": 24
-      },
-      {
-        "name": "Mora",
-        "value": 120000
-      }
-    ]
-  }
 }

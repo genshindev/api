@@ -1,278 +1,336 @@
 {
-  "name": "Traveler",
-  "vision": "Anemo",
-  "weapon": "Sword",
-  "nation": "Outlander",
-  "affiliation": "Not affilated to any Nation",
-  "rarity": 5,
-  "release": "2020-09-28",
-  "constellation": "Viator/Viatrix",
-  "birthday": "Unknown",
-  "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
-  "skillTalents": [
-    {
-      "name": "Foreign Ironwind",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Traveler",
+    "vision": "Anemo",
+    "weapon": "Sword",
+    "nation": "Outlander",
+    "affiliation": "Not affilated to any Nation",
+    "rarity": 5,
+    "release": "2020-09-28",
+    "constellation": "Viator/Viatrix",
+    "birthday": "Unknown",
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "44.5%"
+            "name": "Foreign Ironwind",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "44.5%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "43.4%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "53.0%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "58.3%"
+                },
+                {
+                    "name": "5-Hit DMG",
+                    "value": "70.8%"
+                },
+                {
+                    "name": "Charged Attack DMG",
+                    "value": "Male: 55.9% + 72.2%\nFemale: 55.9% + 60.7%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "20"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "63.9%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "128% / 160%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "43.4%"
+            "name": "Palm Vortex",
+            "unlock": "Elemental Skill",
+            "description": "Grasping the wind's might, you form a vortex of vacuum in your palm, causing Anemo DMG 6 times in 1.5 seconds to opponents in front of you. The vacuum vortex explodes when the skill duration ends, causing a greater amount of Anemo DMG over a larger area.\nHold\nDMG and AoE will gradually increase.\nElemental Absorption\nIf the vortex comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal 23% additional elemental DMG of that type. Elemental Absorption may only occur once per use.\nGenerate 2 elemental particles when press and 3.5 when hold, if it hit at least 1 target.",
+            "upgrades": [
+                {
+                    "name": "Initial Cutting DMG% (x2)",
+                    "value": "12%"
+                },
+                {
+                    "name": "Max Cutting DMG% (x4)",
+                    "value": "16.8%"
+                },
+                {
+                    "name": "Initial Storm DMG%",
+                    "value": "176%"
+                },
+                {
+                    "name": "Max Storm DMG%",
+                    "value": "192%"
+                },
+                {
+                    "name": "CD",
+                    "value": "5 / 8s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "53.0%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "58.3%"
-        },
-        {
-          "name": "5-Hit DMG",
-          "value": "70.8%"
-        },
-        {
-          "name": "Charged Attack DMG",
-          "value": "Male: 55.9% + 72.2%\nFemale: 55.9% + 60.7%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "20"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "63.9%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "128% / 160%"
+            "name": "Gust Surge",
+            "unlock": "Elemental Burst",
+            "description": "Guiding the path of the wind currents, you summon a forward-moving tornado that pulls objects and opponents towards itself, dealing Anemo DMG each 0.5 seconds, 9 times.\nElemental Absorption\nIf the vortex comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal 30.7% additional elemental DMG of that type. Elemental Absorption may only occur once per use.",
+            "upgrades": [
+                {
+                    "name": "Tornado DMG% (x9)",
+                    "value": "80.8%"
+                },
+                {
+                    "name": "Additional Elemental DMG%",
+                    "value": "24.8%"
+                },
+                {
+                    "name": "Duration",
+                    "value": "6s"
+                },
+                {
+                    "name": "CD",
+                    "value": "15s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "60"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Palm Vortex",
-      "unlock": "Elemental Skill",
-      "description": "Grasping the wind's might, you form a vortex of vacuum in your palm, causing Anemo DMG 6 times in 1.5 seconds to opponents in front of you. The vacuum vortex explodes when the skill duration ends, causing a greater amount of Anemo DMG over a larger area.\nHold\nDMG and AoE will gradually increase.\nElemental Absorption\nIf the vortex comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal 23% additional elemental DMG of that type. Elemental Absorption may only occur once per use.\nGenerate 2 elemental particles when press and 3.5 when hold, if it hit at least 1 target.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Initial Cutting DMG% (x2)",
-          "value": "12%"
+            "name": "Slitting Wind",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as Anemo DMG to all opponents in its path.",
+            "level": 1
         },
         {
-          "name": "Max Cutting DMG% (x4)",
-          "value": "16.8%"
-        },
-        {
-          "name": "Initial Storm DMG%",
-          "value": "176%"
-        },
-        {
-          "name": "Max Storm DMG%",
-          "value": "192%"
-        },
-        {
-          "name": "CD",
-          "value": "5 / 8s"
+            "name": "Second Wind",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "Palm Vortex kills regenerate 2% HP for 5s. This effect can only occur once every 5s.",
+            "level": 4
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Gust Surge",
-      "unlock": "Elemental Burst",
-      "description": "Guiding the path of the wind currents, you summon a forward-moving tornado that pulls objects and opponents towards itself, dealing Anemo DMG each 0.5 seconds, 9 times.\nElemental Absorption\nIf the vortex comes into contact with Hydro/Pyro/Cryo/Electro elements, it will deal 30.7% additional elemental DMG of that type. Elemental Absorption may only occur once per use.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Tornado DMG% (x9)",
-          "value": "80.8%"
+            "name": "Raging Vortex",
+            "unlock": "Constellation Lv. 1",
+            "description": "Decreases the CD of Foul Legacy: Raging Tide by 20%.",
+            "level": 1
         },
         {
-          "name": "Additional Elemental DMG%",
-          "value": "24.8%"
+            "name": "Uprising Whirlwind",
+            "unlock": "Constellation Lv. 2",
+            "description": "Increases Energy Recharge by 16%.",
+            "level": 2
         },
         {
-          "name": "Duration",
-          "value": "6s"
+            "name": "Sweeping Gust",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the level of Gust Surge by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "CD",
-          "value": "15s"
+            "name": "Cherishing Breezes",
+            "unlock": "Constellation Lv. 4",
+            "description": "Reduces DMG taken while casting Palm Vortex by 10%.",
+            "level": 4
         },
         {
-          "name": "Energy Cost",
-          "value": "60"
+            "name": "Vortex Stellaris",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increases the level of Palm Vortex by 3.\nMaximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Intertwined Winds",
+            "unlock": "Constellation Lv. 6",
+            "description": "Targets who take DMG from Gust Surge have their Anemo RES decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "ANEMO",
+    "weapon_type": "SWORD",
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Mora",
+                "value": 20000
+            },
+            {
+                "name": "Brilliant Diamond Sliver",
+                "value": 1
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 3
+            },
+            {
+                "name": "Damaged Mask",
+                "value": 3
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Mora",
+                "value": 40000
+            },
+            {
+                "name": "Brilliant Diamond Fragment",
+                "value": 3
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 10
+            },
+            {
+                "name": "Damaged Mask",
+                "value": 15
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Mora",
+                "value": 60000
+            },
+            {
+                "name": "Brilliant Diamond Fragment",
+                "value": 6
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 20
+            },
+            {
+                "name": "Stained Mask",
+                "value": 12
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Mora",
+                "value": 80000
+            },
+            {
+                "name": "Brilliant Diamond Chunk",
+                "value": 3
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 30
+            },
+            {
+                "name": "Stained Mask",
+                "value": 18
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Mora",
+                "value": 100000
+            },
+            {
+                "name": "Brilliant Diamond Chunk",
+                "value": 6
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 45
+            },
+            {
+                "name": "Ominous Mask",
+                "value": 12
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Mora",
+                "value": 120000
+            },
+            {
+                "name": "Brilliant Diamond Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 60
+            },
+            {
+                "name": "Ominous Mask",
+                "value": 24
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "911.79",
+                "BaseAtk": "17.81",
+                "BaseDef": "57.23",
+                "ATK": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "3,023.55",
+                "BaseAtk": "59.05",
+                "BaseDef": "189.76",
+                "ATK": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "5,012.89",
+                "BaseAtk": "97.91",
+                "BaseDef": "314.61",
+                "ATK": "6.0%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "6,411.33",
+                "BaseAtk": "125.22",
+                "BaseDef": "402.38",
+                "ATK": "12.0%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "7,648.45",
+                "BaseAtk": "149.38",
+                "BaseDef": "480.03",
+                "ATK": "12.0%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "8,884.66",
+                "BaseAtk": "173.53",
+                "BaseDef": "557.61",
+                "ATK": "18.0%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "10,121.78",
+                "BaseAtk": "197.69",
+                "BaseDef": "635.25",
+                "ATK": "24.0%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Slitting Wind",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as Anemo DMG to all opponents in its path.",
-      "level": 1
-    },
-    {
-      "name": "Second Wind",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "Palm Vortex kills regenerate 2% HP for 5s. This effect can only occur once every 5s.",
-      "level": 4
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Raging Vortex",
-      "unlock": "Constellation Lv. 1",
-      "description": "Decreases the CD of Foul Legacy: Raging Tide by 20%.",
-      "level": 1
-    },
-    {
-      "name": "Uprising Whirlwind",
-      "unlock": "Constellation Lv. 2",
-      "description": "Increases Energy Recharge by 16%.",
-      "level": 2
-    },
-    {
-      "name": "Sweeping Gust",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the level of Gust Surge by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Cherishing Breezes",
-      "unlock": "Constellation Lv. 4",
-      "description": "Reduces DMG taken while casting Palm Vortex by 10%.",
-      "level": 4
-    },
-    {
-      "name": "Vortex Stellaris",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the level of Palm Vortex by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Intertwined Winds",
-      "unlock": "Constellation Lv. 6",
-      "description": "Targets who take DMG from Gust Surge have their Anemo RES decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.",
-      "level": 6
-    }
-  ],
-  "vision_key": "ANEMO",
-  "weapon_type": "SWORD",
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Mora",
-        "value": 20000
-      },
-      {
-        "name": "Brilliant Diamond Sliver",
-        "value": 1
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 3
-      },
-      {
-        "name": "Damaged Mask",
-        "value": 3
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Mora",
-        "value": 40000
-      },
-      {
-        "name": "Brilliant Diamond Fragment",
-        "value": 3
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 10
-      },
-      {
-        "name": "Damaged Mask",
-        "value": 15
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Mora",
-        "value": 60000
-      },
-      {
-        "name": "Brilliant Diamond Fragment",
-        "value": 6
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 20
-      },
-      {
-        "name": "Stained Mask",
-        "value": 12
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Mora",
-        "value": 80000
-      },
-      {
-        "name": "Brilliant Diamond Chunk",
-        "value": 3
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 30
-      },
-      {
-        "name": "Stained Mask",
-        "value": 18
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Mora",
-        "value": 100000
-      },
-      {
-        "name": "Brilliant Diamond Chunk",
-        "value": 6
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 45
-      },
-      {
-        "name": "Ominous Mask",
-        "value": 12
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Mora",
-        "value": 120000
-      },
-      {
-        "name": "Brilliant Diamond Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 60
-      },
-      {
-        "name": "Ominous Mask",
-        "value": 24
-      }
-    ]
-  }
 }

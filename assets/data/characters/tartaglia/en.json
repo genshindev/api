@@ -1,357 +1,415 @@
 {
-  "name": "Tartaglia",
-  "title": "Childe",
-  "vision": "Hydro",
-  "weapon": "Bow",
-  "gender": "Male",
-  "nation": "Snezhnaya",
-  "affiliation": "Fatui",
-  "rarity": 5,
-  "release": "2020-11-11",
-  "constellation": "Monoceros Caeli",
-  "birthday": "0000-07-20",
-  "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
-  "skillTalents": [
-    {
-      "name": "Cutting Torrent",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 6 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, the power of Hydro will accumulate on the arrowhead. An arrow fully charged with the torrent will deal Hydro DMG and apply Riptide status..\nRiptide\nOpponents affected by Riptide will suffer from AoE Hydro DMG effects when attacked by Tartaglia in various ways. DMG dealt in this way is considered Normal Attack DMG.\n\nRiptide Flash: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.\nRiptide Burst: Defeating an opponent affected by Riptide created a Hydro burst that inflicts the Riptide status on nearby opponents hit.\n\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact. When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, he cannot perform a plunging attack.",
-      "upgrades": [
+    "name": "Tartaglia",
+    "title": "Childe",
+    "vision": "Hydro",
+    "weapon": "Bow",
+    "gender": "Male",
+    "nation": "Snezhnaya",
+    "affiliation": "Fatui",
+    "rarity": 5,
+    "release": "2020-11-11",
+    "constellation": "Monoceros Caeli",
+    "birthday": "0000-07-20",
+    "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "41.3%"
+            "name": "Cutting Torrent",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 6 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, the power of Hydro will accumulate on the arrowhead. An arrow fully charged with the torrent will deal Hydro DMG and apply Riptide status..\nRiptide\nOpponents affected by Riptide will suffer from AoE Hydro DMG effects when attacked by Tartaglia in various ways. DMG dealt in this way is considered Normal Attack DMG.\n\nRiptide Flash: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.\nRiptide Burst: Defeating an opponent affected by Riptide created a Hydro burst that inflicts the Riptide status on nearby opponents hit.\n\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact. When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, he cannot perform a plunging attack.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "41.3%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "46.3%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "55.4%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "57%"
+                },
+                {
+                    "name": "5-Hit DMG",
+                    "value": "60.9%"
+                },
+                {
+                    "name": "6-Hit DMG",
+                    "value": "72.8%"
+                },
+                {
+                    "name": "Aimed Shot",
+                    "value": "43.9%"
+                },
+                {
+                    "name": "Fully-Charged Aimed Shot",
+                    "value": "124%"
+                },
+                {
+                    "name": "Riptide Flash DMG",
+                    "value": "12.4% x 3"
+                },
+                {
+                    "name": "Riptide Burst DMG",
+                    "value": "62%"
+                },
+                {
+                    "name": "Riptide Duration",
+                    "value": "10s"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "63.9%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "128% / 160%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "46.3%"
+            "name": "Foul Legacy: Raging Tide",
+            "unlock": "Elemental Skill",
+            "description": "Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding opponents and entering a Melee Stance.\nIn this Stance, Tartaglia's Normal and Charged Attacks change as follows:\nNormal Attack\nPerforms up to 6 consecutive Hydro strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash a cross slash, dealing Hydro DMG.\nRiptide Slash\nHitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash that deals AoE Hydro DMG. DMG dealt in this way is considered Elemental Skill DMG, and can only occur once every 1.5s.\nAfter 30s, or when the ability is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this ability will enter CD. The longer Tartaglia stays in his Melee Stance, the longer the CD.\nIf the return to a ranged stance occurs automatically after 30s, the CD is even longer.",
+            "upgrades": [
+                {
+                    "name": "Stance Change DMG",
+                    "value": "72%"
+                },
+                {
+                    "name": "1-Hit DMG",
+                    "value": "38.9%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "41.6%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "56.3%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "59.9%"
+                },
+                {
+                    "name": "5-Hit DMG",
+                    "value": "55.3%"
+                },
+                {
+                    "name": "6-Hit DMG",
+                    "value": "35.4% + 37.7%"
+                },
+                {
+                    "name": "Charged Attack DMG",
+                    "value": "60.2% + 72%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "20"
+                },
+                {
+                    "name": "Riptide Slash",
+                    "value": "60%"
+                },
+                {
+                    "name": "Max Duration",
+                    "value": "30s"
+                },
+                {
+                    "name": "Preemptive CD",
+                    "value": "6 - 36s"
+                },
+                {
+                    "name": "Max CD",
+                    "value": "45s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "55.4%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "57%"
-        },
-        {
-          "name": "5-Hit DMG",
-          "value": "60.9%"
-        },
-        {
-          "name": "6-Hit DMG",
-          "value": "72.8%"
-        },
-        {
-          "name": "Aimed Shot",
-          "value": "43.9%"
-        },
-        {
-          "name": "Fully-Charged Aimed Shot",
-          "value": "124%"
-        },
-        {
-          "name": "Riptide Flash DMG",
-          "value": "12.4% x 3"
-        },
-        {
-          "name": "Riptide Burst DMG",
-          "value": "62%"
-        },
-        {
-          "name": "Riptide Duration",
-          "value": "10s"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "63.9%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "128% / 160%"
+            "name": "Havor: Obliteration",
+            "unlock": "Elemental Burst",
+            "description": "Performs different attacks based on what stance Tartaglia is in when casting.\nRanged Stance: Flash of Havoc\nSwiftly fires a Hydro-imbued magic arrow, dealing AoE Hydro DMG and applying the Riptide status.\nReturns a portion of its Energy Cost after use.\nMelee Stance: Light Obliteration\nPerforms a slash with a large AoE, dealing massive Hydro DMG to all surrounding opponents, which triggers Riptide Blast.\nRiptide Blast\nWhen the obliterating waters hit an opponent affected by Riptide, it clears their Riptide status and triggers a Hydro Explosion that deals AoE Hydro DMG.\nDMG dealt in this way is considered Elemental Burst DMG.",
+            "upgrades": [
+                {
+                    "name": "Skill DMG: Melee",
+                    "value": "464%"
+                },
+                {
+                    "name": "Skill DMG: Ranged",
+                    "value": "378%"
+                },
+                {
+                    "name": "Riptide Blast DMG",
+                    "value": "120%"
+                },
+                {
+                    "name": "Energy Return (Ranged)",
+                    "value": "20"
+                },
+                {
+                    "name": "CD",
+                    "value": "15s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "60"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Foul Legacy: Raging Tide",
-      "unlock": "Elemental Skill",
-      "description": "Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding opponents and entering a Melee Stance.\nIn this Stance, Tartaglia's Normal and Charged Attacks change as follows:\nNormal Attack\nPerforms up to 6 consecutive Hydro strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash a cross slash, dealing Hydro DMG.\nRiptide Slash\nHitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash that deals AoE Hydro DMG. DMG dealt in this way is considered Elemental Skill DMG, and can only occur once every 1.5s.\nAfter 30s, or when the ability is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this ability will enter CD. The longer Tartaglia stays in his Melee Stance, the longer the CD.\nIf the return to a ranged stance occurs automatically after 30s, the CD is even longer.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Stance Change DMG",
-          "value": "72%"
+            "name": "Never Ending",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "Extends Riptide duration by 8s.",
+            "level": 1
         },
         {
-          "name": "1-Hit DMG",
-          "value": "38.9%"
+            "name": "Sword of Torrents",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, or if his Normal and Charged Attacks do CRIT DMG, they will apply the Riptide status effect on the hit enemy.",
+            "level": 4
         },
         {
-          "name": "2-Hit DMG",
-          "value": "41.6%"
-        },
-        {
-          "name": "3-Hit DMG",
-          "value": "56.3%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "59.9%"
-        },
-        {
-          "name": "5-Hit DMG",
-          "value": "55.3%"
-        },
-        {
-          "name": "6-Hit DMG",
-          "value": "35.4% + 37.7%"
-        },
-        {
-          "name": "Charged Attack DMG",
-          "value": "60.2% + 72%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "20"
-        },
-        {
-          "name": "Riptide Slash",
-          "value": "60%"
-        },
-        {
-          "name": "Max Duration",
-          "value": "30s"
-        },
-        {
-          "name": "Preemptive CD",
-          "value": "6 - 36s"
-        },
-        {
-          "name": "Max CD",
-          "value": "45s"
+            "name": "Master of Weaponry",
+            "unlock": "Unlocked Automatically",
+            "description": "Increases your own party member's Normal Attack Level by 1."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Havor: Obliteration",
-      "unlock": "Elemental Burst",
-      "description": "Performs different attacks based on what stance Tartaglia is in when casting.\nRanged Stance: Flash of Havoc\nSwiftly fires a Hydro-imbued magic arrow, dealing AoE Hydro DMG and applying the Riptide status.\nReturns a portion of its Energy Cost after use.\nMelee Stance: Light Obliteration\nPerforms a slash with a large AoE, dealing massive Hydro DMG to all surrounding opponents, which triggers Riptide Blast.\nRiptide Blast\nWhen the obliterating waters hit an opponent affected by Riptide, it clears their Riptide status and triggers a Hydro Explosion that deals AoE Hydro DMG.\nDMG dealt in this way is considered Elemental Burst DMG.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Skill DMG: Melee",
-          "value": "464%"
+            "name": "Foul Legacy: Tide Withholder",
+            "unlock": "Constellation Lv. 1",
+            "description": "Decreases the CD of Foul Legacy: Raging Tide by 20%.",
+            "level": 1
         },
         {
-          "name": "Skill DMG: Ranged",
-          "value": "378%"
+            "name": "Foul Legacy: Understream",
+            "unlock": "Constellation Lv. 2",
+            "description": "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy.",
+            "level": 2
         },
         {
-          "name": "Riptide Blast DMG",
-          "value": "120%"
+            "name": "Abyssal Mayhem: Vortex of Turmoil",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Foul Legacy: Raging Tide by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "Energy Return (Ranged)",
-          "value": "20"
+            "name": "Abyssal Mayhem: Hydrospout",
+            "unlock": "Constellation Lv. 4",
+            "description": "If Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.\nRiptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals.",
+            "level": 4
         },
         {
-          "name": "CD",
-          "value": "15s"
+            "name": "Havoc: Formless Blade",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increase the Level of Havoc: Obliteration by 3.\nMaximum upgrade level is 15.",
+            "level": 5
         },
         {
-          "name": "Energy Cost",
-          "value": "60"
+            "name": "Havoc: Annihilation",
+            "unlock": "Constellation Lv. 6",
+            "description": "When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset.\nThis effect will only take place once Tartaglia returns to his Ranged Stance.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "HYDRO",
+    "weapon_type": "BOW",
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Mora",
+                "value": 20000
+            },
+            {
+                "name": "Varunada Lazurite Sliver",
+                "value": 1
+            },
+            {
+                "name": "Starconch",
+                "value": 3
+            },
+            {
+                "name": "Recruit's Insignia",
+                "value": 3
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Mora",
+                "value": 40000
+            },
+            {
+                "name": "Varunada Lazurite Fragment",
+                "value": 3
+            },
+            {
+                "name": "Cleansing Heart",
+                "value": 2
+            },
+            {
+                "name": "Starconch",
+                "value": 10
+            },
+            {
+                "name": "Recruit's Insignia",
+                "value": 15
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Mora",
+                "value": 60000
+            },
+            {
+                "name": "Varunada Lazurite Fragment",
+                "value": 6
+            },
+            {
+                "name": "Cleansing Heart",
+                "value": 4
+            },
+            {
+                "name": "Starconch",
+                "value": 20
+            },
+            {
+                "name": "Sergeant's Insignia",
+                "value": 12
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Mora",
+                "value": 80000
+            },
+            {
+                "name": "Varunada Lazurite Chunk",
+                "value": 3
+            },
+            {
+                "name": "Cleansing Heart",
+                "value": 8
+            },
+            {
+                "name": "Starconch",
+                "value": 30
+            },
+            {
+                "name": "Sergeant's Insignia",
+                "value": 18
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Mora",
+                "value": 100000
+            },
+            {
+                "name": "Varunada Lazurite Chunk",
+                "value": 6
+            },
+            {
+                "name": "Cleansing Heart",
+                "value": 12
+            },
+            {
+                "name": "Starconch",
+                "value": 45
+            },
+            {
+                "name": "Lieutenant's Insignia",
+                "value": 12
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Mora",
+                "value": 120000
+            },
+            {
+                "name": "Varunada Lazurite Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Cleansing Heart",
+                "value": 20
+            },
+            {
+                "name": "Starconch",
+                "value": 60
+            },
+            {
+                "name": "Lieutenant's Insignia",
+                "value": 24
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "1,020.05",
+                "BaseAtk": "23.46",
+                "BaseDef": "63.42",
+                "Hydro DMG Bonus": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "3,520.62",
+                "BaseAtk": "80.97",
+                "BaseDef": "218.89",
+                "Hydro DMG Bonus": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "5,889.40",
+                "BaseAtk": "135.45",
+                "BaseDef": "366.16",
+                "Hydro DMG Bonus": "7.2%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "7,604.39",
+                "BaseAtk": "174.90",
+                "BaseDef": "472.79",
+                "Hydro DMG Bonus": "14.4%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "9,121.43",
+                "BaseAtk": "209.79",
+                "BaseDef": "567.11",
+                "Hydro DMG Bonus": "14.4%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "10,646.62",
+                "BaseAtk": "244.87",
+                "BaseDef": "661.94",
+                "Hydro DMG Bonus": "21.6%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "12,182.02",
+                "BaseAtk": "280.18",
+                "BaseDef": "757.40",
+                "Hydro DMG Bonus": "28.8%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Never Ending",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Extends Riptide duration by 8s.",
-      "level": 1
-    },
-    {
-      "name": "Sword of Torrents",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, or if his Normal and Charged Attacks do CRIT DMG, they will apply the Riptide status effect on the hit enemy.",
-      "level": 4
-    },
-    {
-      "name": "Master of Weaponry",
-      "unlock": "Unlocked Automatically",
-      "description": "Increases your own party member's Normal Attack Level by 1."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Foul Legacy: Tide Withholder",
-      "unlock": "Constellation Lv. 1",
-      "description": "Decreases the CD of Foul Legacy: Raging Tide by 20%.",
-      "level": 1
-    },
-    {
-      "name": "Foul Legacy: Understream",
-      "unlock": "Constellation Lv. 2",
-      "description": "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy.",
-      "level": 2
-    },
-    {
-      "name": "Abyssal Mayhem: Vortex of Turmoil",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Foul Legacy: Raging Tide by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Abyssal Mayhem: Hydrospout",
-      "unlock": "Constellation Lv. 4",
-      "description": "If Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.\nRiptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals.",
-      "level": 4
-    },
-    {
-      "name": "Havoc: Formless Blade",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Havoc: Obliteration by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Havoc: Annihilation",
-      "unlock": "Constellation Lv. 6",
-      "description": "When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset.\nThis effect will only take place once Tartaglia returns to his Ranged Stance.",
-      "level": 6
-    }
-  ],
-  "vision_key": "HYDRO",
-  "weapon_type": "BOW",
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Mora",
-        "value": 20000
-      },
-      {
-        "name": "Varunada Lazurite Sliver",
-        "value": 1
-      },
-      {
-        "name": "Starconch",
-        "value": 3
-      },
-      {
-        "name": "Recruit's Insignia",
-        "value": 3
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Mora",
-        "value": 40000
-      },
-      {
-        "name": "Varunada Lazurite Fragment",
-        "value": 3
-      },
-      {
-        "name": "Cleansing Heart",
-        "value": 2
-      },
-      {
-        "name": "Starconch",
-        "value": 10
-      },
-      {
-        "name": "Recruit's Insignia",
-        "value": 15
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Mora",
-        "value": 60000
-      },
-      {
-        "name": "Varunada Lazurite Fragment",
-        "value": 6
-      },
-      {
-        "name": "Cleansing Heart",
-        "value": 4
-      },
-      {
-        "name": "Starconch",
-        "value": 20
-      },
-      {
-        "name": "Sergeant's Insignia",
-        "value": 12
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Mora",
-        "value": 80000
-      },
-      {
-        "name": "Varunada Lazurite Chunk",
-        "value": 3
-      },
-      {
-        "name": "Cleansing Heart",
-        "value": 8
-      },
-      {
-        "name": "Starconch",
-        "value": 30
-      },
-      {
-        "name": "Sergeant's Insignia",
-        "value": 18
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Mora",
-        "value": 100000
-      },
-      {
-        "name": "Varunada Lazurite Chunk",
-        "value": 6
-      },
-      {
-        "name": "Cleansing Heart",
-        "value": 12
-      },
-      {
-        "name": "Starconch",
-        "value": 45
-      },
-      {
-        "name": "Lieutenant's Insignia",
-        "value": 12
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Mora",
-        "value": 120000
-      },
-      {
-        "name": "Varunada Lazurite Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Cleansing Heart",
-        "value": 20
-      },
-      {
-        "name": "Starconch",
-        "value": 60
-      },
-      {
-        "name": "Lieutenant's Insignia",
-        "value": 24
-      }
-    ]
-  }
 }

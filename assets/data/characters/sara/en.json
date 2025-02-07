@@ -1,297 +1,355 @@
 {
-  "name": "Kujou Sara",
-  "title": "Crowfeather Kaburaya",
-  "vision": "Electro",
-  "weapon": "Bow",
-  "gender": "Female",
-  "nation": "Inazuma",
-  "affiliation": "Tenryou Commission",
-  "rarity": 4,
-  "release": "2021-09-01",
-  "constellation": "Flabellum",
-  "birthday": "0000-07-14",
-  "description": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
-  "skillTalents": [
-    {
-      "name": "Tengu Bowmanship",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerform up to 5 consecutive shots with a bow.\nCharged Attack\n Perform a more precise Aimed Shot with increased DMG. While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG. When in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Kujou Sara",
+    "title": "Crowfeather Kaburaya",
+    "vision": "Electro",
+    "weapon": "Bow",
+    "gender": "Female",
+    "nation": "Inazuma",
+    "affiliation": "Tenryou Commission",
+    "rarity": 4,
+    "release": "2021-09-01",
+    "constellation": "Flabellum",
+    "birthday": "0000-07-14",
+    "description": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "36.89%"
+            "name": "Tengu Bowmanship",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerform up to 5 consecutive shots with a bow.\nCharged Attack\n Perform a more precise Aimed Shot with increased DMG. While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG. When in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "36.89%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "38.7%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "48.5%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "50.4%"
+                },
+                {
+                    "name": "5-Hit DMG",
+                    "value": "58.05%"
+                },
+                {
+                    "name": "Aimed Shot",
+                    "value": "43.86%"
+                },
+                {
+                    "name": "Fully-Charged Aimed Shot",
+                    "value": "124%"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "56.83%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "113.63% / 141.93%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "38.7%"
+            "name": "Tengu Stormcall",
+            "unlock": "Elemental Skill",
+            "description": "Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather. Gains Crowfeather Cover for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, Crowfeather Cover will be consumed, and will leave a Crowfeather at the target location.\nCrowfeathers will trigger Tengu Juurai: Ambush after a short time, dealing Electro DMG and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK.\nThe ATK Bonuses from different Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.",
+            "upgrades": [
+                {
+                    "name": "Tengu Juurai: Ambush DMG",
+                    "value": "125.76%"
+                },
+                {
+                    "name": "ATK Bonus Ratio",
+                    "value": "42.96%"
+                },
+                {
+                    "name": "ATK Bonus Duration",
+                    "value": "6s"
+                },
+                {
+                    "name": "CD",
+                    "value": "10s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "48.5%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "50.4%"
-        },
-        {
-          "name": "5-Hit DMG",
-          "value": "58.05%"
-        },
-        {
-          "name": "Aimed Shot",
-          "value": "43.86%"
-        },
-        {
-          "name": "Fully-Charged Aimed Shot",
-          "value": "124%"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "56.83%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "113.63% / 141.93%"
+            "name": "Subjugation: Koukou Sendou",
+            "unlock": "Elemental Burst",
+            "description": "Casts down Tengu Juurai: Titanbreaker, dealing AoE Electro DMG. Afterwards, Tengu Juurai: Titanbreaker spreads out into 4 consecutive bouts of Tengu Juurai: Stormcluster, dealing AoE Electro DMG.\nTengu Juurai: Titanbreaker and Tengu Juurai: Stormcluster can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, Tengu Stormcall.\nThe ATK Bonus provided by various kinds of Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.",
+            "upgrades": [
+                {
+                    "name": "Tengu Juurai: Titanbreaker DMG",
+                    "value": "409.6%"
+                },
+                {
+                    "name": "Tengu Juurai: Stormcluster DMG",
+                    "value": "34.12%"
+                },
+                {
+                    "name": "CD",
+                    "value": "20s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "80"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Tengu Stormcall",
-      "unlock": "Elemental Skill",
-      "description": "Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather. Gains Crowfeather Cover for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, Crowfeather Cover will be consumed, and will leave a Crowfeather at the target location.\nCrowfeathers will trigger Tengu Juurai: Ambush after a short time, dealing Electro DMG and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK.\nThe ATK Bonuses from different Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Tengu Juurai: Ambush DMG",
-          "value": "125.76%"
+            "name": "Immovable Will",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "While in the Crowfeather Cover state provided by Tengu Stormcall, Aimed Shot charge times are decreased by 60%.",
+            "level": 1
         },
         {
-          "name": "ATK Bonus Ratio",
-          "value": "42.96%"
+            "name": "Decorum",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "When Tengu Juurai: Ambush hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.",
+            "level": 4
         },
         {
-          "name": "ATK Bonus Duration",
-          "value": "6s"
-        },
-        {
-          "name": "CD",
-          "value": "10s"
+            "name": "Land Survey",
+            "unlock": "Unlocked Automatically",
+            "description": "When dispatched on an expedition in Inazuma, time consumed is reduced by 25%"
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Subjugation: Koukou Sendou",
-      "unlock": "Elemental Burst",
-      "description": "Casts down Tengu Juurai: Titanbreaker, dealing AoE Electro DMG. Afterwards, Tengu Juurai: Titanbreaker spreads out into 4 consecutive bouts of Tengu Juurai: Stormcluster, dealing AoE Electro DMG.\nTengu Juurai: Titanbreaker and Tengu Juurai: Stormcluster can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, Tengu Stormcall.\nThe ATK Bonus provided by various kinds of Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Tengu Juurai: Titanbreaker DMG",
-          "value": "409.6%"
+            "name": "Crow's Eye",
+            "unlock": "Constellation Lv. 1",
+            "description": "When Tengu Juurai grant characters ATK Bonuses or hits opponents, the CD of Tengu Stormcall is decreased by 1s.\nThis effect can be triggered once every 3s.",
+            "level": 1
         },
         {
-          "name": "Tengu Juurai: Stormcluster DMG",
-          "value": "34.12%"
+            "name": "Dark Wings",
+            "unlock": "Constellation Lv. 2",
+            "description": "Unleashing Tengu Stormcall will leave a weaker Crowfeather at Kujou Sara's original position that will deal 30% of its original DMG.",
+            "level": 2
         },
         {
-          "name": "CD",
-          "value": "20s"
+            "name": "The War Within",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Subjugation: Koukou Sendou by 3. Maximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "Energy Cost",
-          "value": "80"
+            "name": "Conclusive Proof",
+            "unlock": "Constellation Lv. 4",
+            "description": "The number of Tengu Juurai: Stormcluster released by Subjugation: Koukou Sendou is increased to 6.",
+            "level": 4
+        },
+        {
+            "name": "Spellsinger",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increases the Level of Tengu Stormcall by 3. Maximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Sin of Pride",
+            "unlock": "Constellation Lv. 6",
+            "description": "The Electro DMG of characters who have had their ATK increased by Tengu Juurai has its Crit DMG increased by 60%.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "ELECTRO",
+    "weapon_type": "BOW",
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Vajrada Amethyst Sliver",
+                "value": 1
+            },
+            {
+                "name": "Dendrobium",
+                "value": 3
+            },
+            {
+                "name": "Damaged Mask",
+                "value": 3
+            },
+            {
+                "name": "Mora",
+                "value": 20000
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Vajrada Amethyst Fragment",
+                "value": 3
+            },
+            {
+                "name": "Storm Beads",
+                "value": 2
+            },
+            {
+                "name": "Dendrobium",
+                "value": 10
+            },
+            {
+                "name": "Damaged Mask",
+                "value": 15
+            },
+            {
+                "name": "Mora",
+                "value": 40000
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Vajrada Amethyst Fragment",
+                "value": 6
+            },
+            {
+                "name": "Storm Beads",
+                "value": 4
+            },
+            {
+                "name": "Dendrobium",
+                "value": 20
+            },
+            {
+                "name": "Stained Mask",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 60000
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Vajrada Amethyst Chunk",
+                "value": 3
+            },
+            {
+                "name": "Storm Beads",
+                "value": 8
+            },
+            {
+                "name": "Dendrobium",
+                "value": 30
+            },
+            {
+                "name": "Stained Mask",
+                "value": 18
+            },
+            {
+                "name": "Mora",
+                "value": 80000
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Vajrada Amethyst Chunk",
+                "value": 6
+            },
+            {
+                "name": "Storm Beads",
+                "value": 12
+            },
+            {
+                "name": "Dendrobium",
+                "value": 45
+            },
+            {
+                "name": "Ominous Mask",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 100000
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Vajrada Amethyst Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Storm Beads",
+                "value": 20
+            },
+            {
+                "name": "Dendrobium",
+                "value": 60
+            },
+            {
+                "name": "Ominous Mask",
+                "value": 24
+            },
+            {
+                "name": "Mora",
+                "value": 120000
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "802.38",
+                "BaseAtk": "16.38",
+                "BaseDef": "52.65",
+                "ATK": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "2,660.72",
+                "BaseAtk": "54.33",
+                "BaseDef": "174.58",
+                "ATK": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "4,411.34",
+                "BaseAtk": "90.07",
+                "BaseDef": "289.45",
+                "ATK": "6.0%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "5,641.97",
+                "BaseAtk": "115.20",
+                "BaseDef": "370.19",
+                "ATK": "12.0%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "6,730.64",
+                "BaseAtk": "137.43",
+                "BaseDef": "441.62",
+                "ATK": "12.0%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "7,818.50",
+                "BaseAtk": "159.64",
+                "BaseDef": "513.00",
+                "ATK": "18.0%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "8,907.16",
+                "BaseAtk": "181.87",
+                "BaseDef": "584.43",
+                "ATK": "24.0%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Immovable Will",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "While in the Crowfeather Cover state provided by Tengu Stormcall, Aimed Shot charge times are decreased by 60%.",
-      "level": 1
-    },
-    {
-      "name": "Decorum",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "When Tengu Juurai: Ambush hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.",
-      "level": 4
-    },
-    {
-      "name": "Land Survey",
-      "unlock": "Unlocked Automatically",
-      "description": "When dispatched on an expedition in Inazuma, time consumed is reduced by 25%"
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Crow's Eye",
-      "unlock": "Constellation Lv. 1",
-      "description": "When Tengu Juurai grant characters ATK Bonuses or hits opponents, the CD of Tengu Stormcall is decreased by 1s.\nThis effect can be triggered once every 3s.",
-      "level": 1
-    },
-    {
-      "name": "Dark Wings",
-      "unlock": "Constellation Lv. 2",
-      "description": "Unleashing Tengu Stormcall will leave a weaker Crowfeather at Kujou Sara's original position that will deal 30% of its original DMG.",
-      "level": 2
-    },
-    {
-      "name": "The War Within",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Subjugation: Koukou Sendou by 3. Maximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Conclusive Proof",
-      "unlock": "Constellation Lv. 4",
-      "description": "The number of Tengu Juurai: Stormcluster released by Subjugation: Koukou Sendou is increased to 6.",
-      "level": 4
-    },
-    {
-      "name": "Spellsinger",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the Level of Tengu Stormcall by 3. Maximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Sin of Pride",
-      "unlock": "Constellation Lv. 6",
-      "description": "The Electro DMG of characters who have had their ATK increased by Tengu Juurai has its Crit DMG increased by 60%.",
-      "level": 6
-    }
-  ],
-  "vision_key": "ELECTRO",
-  "weapon_type": "BOW",
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Vajrada Amethyst Sliver",
-        "value": 1
-      },
-      {
-        "name": "Dendrobium",
-        "value": 3
-      },
-      {
-        "name": "Damaged Mask",
-        "value": 3
-      },
-      {
-        "name": "Mora",
-        "value": 20000
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Vajrada Amethyst Fragment",
-        "value": 3
-      },
-      {
-        "name": "Storm Beads",
-        "value": 2
-      },
-      {
-        "name": "Dendrobium",
-        "value": 10
-      },
-      {
-        "name": "Damaged Mask",
-        "value": 15
-      },
-      {
-        "name": "Mora",
-        "value": 40000
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Vajrada Amethyst Fragment",
-        "value": 6
-      },
-      {
-        "name": "Storm Beads",
-        "value": 4
-      },
-      {
-        "name": "Dendrobium",
-        "value": 20
-      },
-      {
-        "name": "Stained Mask",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 60000
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Vajrada Amethyst Chunk",
-        "value": 3
-      },
-      {
-        "name": "Storm Beads",
-        "value": 8
-      },
-      {
-        "name": "Dendrobium",
-        "value": 30
-      },
-      {
-        "name": "Stained Mask",
-        "value": 18
-      },
-      {
-        "name": "Mora",
-        "value": 80000
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Vajrada Amethyst Chunk",
-        "value": 6
-      },
-      {
-        "name": "Storm Beads",
-        "value": 12
-      },
-      {
-        "name": "Dendrobium",
-        "value": 45
-      },
-      {
-        "name": "Ominous Mask",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 100000
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Vajrada Amethyst Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Storm Beads",
-        "value": 20
-      },
-      {
-        "name": "Dendrobium",
-        "value": 60
-      },
-      {
-        "name": "Ominous Mask",
-        "value": 24
-      },
-      {
-        "name": "Mora",
-        "value": 120000
-      }
-    ]
-  }
 }

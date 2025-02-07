@@ -1,301 +1,359 @@
 {
-  "name": "Shikanoin Heizou",
-  "title": "Analytical Harmony",
-  "vision": "Anemo",
-  "weapon": "Catalyst",
-  "gender": "Male",
-  "nation": "Inazuma",
-  "affiliation": "Tenryou Commission",
-  "rarity": 4,
-  "release": "2022-07-13",
-  "constellation": "Cervus Minor",
-  "birthday": "0000-7-24",
-  "description": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
-  "skillTalents": [
-    {
-      "name": "Fudou Style Martial Arts",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 5 fisticuffs empowered by a mighty wind, dealing Anemo DMG.\nCharged Attack\nConsumes a certain amount of Stamina and performs a sweeping kick that deals Anemo DMG.\nPlunging Attack\nCalling upon the surging wind, Heizou plunges towards the ground from mid-air, damaging all opponents in his path. Deals AoE Anemo DMG upon impact with the ground.",
-      "upgrades": [
+    "name": "Shikanoin Heizou",
+    "title": "Analytical Harmony",
+    "vision": "Anemo",
+    "weapon": "Catalyst",
+    "gender": "Male",
+    "nation": "Inazuma",
+    "affiliation": "Tenryou Commission",
+    "rarity": 4,
+    "release": "2022-07-13",
+    "constellation": "Cervus Minor",
+    "birthday": "0000-7-24",
+    "description": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "36.1%"
+            "name": "Fudou Style Martial Arts",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 5 fisticuffs empowered by a mighty wind, dealing Anemo DMG.\nCharged Attack\nConsumes a certain amount of Stamina and performs a sweeping kick that deals Anemo DMG.\nPlunging Attack\nCalling upon the surging wind, Heizou plunges towards the ground from mid-air, damaging all opponents in his path. Deals AoE Anemo DMG upon impact with the ground.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "36.1%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "36.9%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "51.1%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "14.8%+16.3%+19.2%"
+                },
+                {
+                    "name": "5-Hit DMG",
+                    "value": "61.5%"
+                },
+                {
+                    "name": "Charged Attack DMG",
+                    "value": "43.9%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "25"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "56.8%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "114% / 142%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "36.9%"
+            "name": "Heartstopper Strike",
+            "unlock": "Elemental Skill",
+            "description": "Press\nWields the swift winds to launch a Heartstopper Strike that deals Anemo DMG.\nHold\nCharges energy to unleash an even stronger blow. He will obtain the Declension effect while charging, which will increase the power of the Heartstopper Strike. When the skill button is released or the skill finishes charging, he will strike forward, dealing Anemo DMG.\nDeclension\nIncreases the power of the next Heartstopper Strike. Max 4 stacks.\nWhen you possess 4 Declension stacks, the Conviction effect will be produced, which will cause the next Hearstopper Strike to be even stronger and have a larger AoE.",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "227.5%"
+                },
+                {
+                    "name": "Declension DMG Bonus",
+                    "value": "56.9%/stack"
+                },
+                {
+                    "name": "Conviction DMG Bonus",
+                    "value": "113.8%"
+                },
+                {
+                    "name": "Declension Duration",
+                    "value": "60s"
+                },
+                {
+                    "name": "CD",
+                    "value": "10s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "51.1%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "14.8%+16.3%+19.2%"
-        },
-        {
-          "name": "5-Hit DMG",
-          "value": "61.5%"
-        },
-        {
-          "name": "Charged Attack DMG",
-          "value": "43.9%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "25"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "56.8%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "114% / 142%"
+            "name": "Windmuster Kick",
+            "unlock": "Elemental Burst",
+            "description": "Leaps into the air and uses the Fudou Style Vacuum Slugger and kicks his opponent. The Vacuum Slugger will explode upon hit and create an Arresting Windtunnel that pulls in nearby objects and opponents, dealing AoE Anemo DMG.\nWhen Vacuum Slugger hits opponents affected by Hydro/Pyro/Cryo/Electro, these opponents will be afflicted with Windmuster Iris. This Windmuster Iris will explode after a moment and dissipate, dealing AoE DMG of the corresponding aforementioned elemental type.\nVacuum Slugger can afflict a maximum of 4 opponents with the Windmuster Iris. A single opponent cannot be under the effect of Windmuster Irises of different elements at the same time.",
+            "upgrades": [
+                {
+                    "name": "Fudou Style Vacuum Slugger DMG",
+                    "value": "314.7%"
+                },
+                {
+                    "name": "Windmuster Iris DMG",
+                    "value": "52.6%"
+                },
+                {
+                    "name": "CD",
+                    "value": "10s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "40"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Heartstopper Strike",
-      "unlock": "Elemental Skill",
-      "description": "Press\nWields the swift winds to launch a Heartstopper Strike that deals Anemo DMG.\nHold\nCharges energy to unleash an even stronger blow. He will obtain the Declension effect while charging, which will increase the power of the Heartstopper Strike. When the skill button is released or the skill finishes charging, he will strike forward, dealing Anemo DMG.\nDeclension\nIncreases the power of the next Heartstopper Strike. Max 4 stacks.\nWhen you possess 4 Declension stacks, the Conviction effect will be produced, which will cause the next Hearstopper Strike to be even stronger and have a larger AoE.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Skill DMG",
-          "value": "227.5%"
+            "name": "Paradoxical Practice",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "When Shikanoin Heizou activates a Swirl reaction while on the field, he will gain 1 Declension stack for Heartstopper Strike. This effect can be triggered once every 0.1s.",
+            "level": 1
         },
         {
-          "name": "Declension DMG Bonus",
-          "value": "56.9%/stack"
+            "name": "Penetrative Reasoning",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "After Shikanoin Heizou's Heartstopper Strike hits an opponent, increases all party members' (excluding Shikanoin Heizou) Elemental Mastery by 80 for 10s.",
+            "level": 4
         },
         {
-          "name": "Conviction DMG Bonus",
-          "value": "113.8%"
-        },
-        {
-          "name": "Declension Duration",
-          "value": "60s"
-        },
-        {
-          "name": "CD",
-          "value": "10s"
+            "name": "Pre-Existing Guilt",
+            "unlock": "Unlocked Automatically",
+            "description": "Decreases sprinting Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Windmuster Kick",
-      "unlock": "Elemental Burst",
-      "description": "Leaps into the air and uses the Fudou Style Vacuum Slugger and kicks his opponent. The Vacuum Slugger will explode upon hit and create an Arresting Windtunnel that pulls in nearby objects and opponents, dealing AoE Anemo DMG.\nWhen Vacuum Slugger hits opponents affected by Hydro/Pyro/Cryo/Electro, these opponents will be afflicted with Windmuster Iris. This Windmuster Iris will explode after a moment and dissipate, dealing AoE DMG of the corresponding aforementioned elemental type.\nVacuum Slugger can afflict a maximum of 4 opponents with the Windmuster Iris. A single opponent cannot be under the effect of Windmuster Irises of different elements at the same time.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Fudou Style Vacuum Slugger DMG",
-          "value": "314.7%"
+            "name": "Named Juvenile Casebook",
+            "unlock": "Constellation Lv. 1",
+            "description": "For 5s after Shikanoin Heizou takes the field, his Normal Attack SPD is increased by 15%. He also gains 1 Declension stack for Heartstopper Strike. This effect can be triggered once every 10s.",
+            "level": 1
         },
         {
-          "name": "Windmuster Iris DMG",
-          "value": "52.6%"
+            "name": "Investigative Collection",
+            "unlock": "Constellation Lv. 2",
+            "description": "The pull effect of the Arresting Windtunnel created by Windmuster Kick is enhanced, and its duration is increased to 1s.",
+            "level": 2
         },
         {
-          "name": "CD",
-          "value": "10s"
+            "name": "Esoteric Puzzle Book",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Heartstopper Strike by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "Energy Cost",
-          "value": "40"
+            "name": "Tome of Lies",
+            "unlock": "Constellation Lv. 4",
+            "description": "The first Windmuster Iris explosion in each Windmuster Kick will regenerate 9 Elemental Energy for Shikanoin Heizou. Every subsequent explosion in that Windmuster Kick will each regenerate an additional 1.5 Energy for Heizou.\nOne Windmuster Kick can regenerate a total of 13.5 Energy for Heizou in this manner.",
+            "level": 4
+        },
+        {
+            "name": "Secret Archive",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increases the Level of Windmuster Kick by 3.\nMaximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Curious Casefiles",
+            "unlock": "Constellation Lv. 6",
+            "description": "Each Declension stack will increase the CRIT Rate of the Heartstopper Strike unleashed by 4%. When Heizou possesses Conviction, this Heartstopper Strike's CRIT DMG is increased by 32%.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "ANEMO",
+    "weapon_type": "CATALYST",
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Mora",
+                "value": 20000
+            },
+            {
+                "name": "Vayuda Turquoise Sliver",
+                "value": 1
+            },
+            {
+                "name": "Onikabuto",
+                "value": 3
+            },
+            {
+                "name": "Treasure Hoarder Insignia",
+                "value": 3
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Mora",
+                "value": 40000
+            },
+            {
+                "name": "Vayuda Turquoise Fragment",
+                "value": 3
+            },
+            {
+                "name": "Runic Fang",
+                "value": 2
+            },
+            {
+                "name": "Onikabuto",
+                "value": 10
+            },
+            {
+                "name": "Treasure Hoarder Insignia",
+                "value": 15
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Mora",
+                "value": 60000
+            },
+            {
+                "name": "Vayuda Turquoise Fragment",
+                "value": 6
+            },
+            {
+                "name": "Runic Fang",
+                "value": 4
+            },
+            {
+                "name": "Onikabuto",
+                "value": 20
+            },
+            {
+                "name": "Silver Raven Insignia",
+                "value": 12
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Mora",
+                "value": 80000
+            },
+            {
+                "name": "Vayuda Turquoise Chunk",
+                "value": 3
+            },
+            {
+                "name": "Runic Fang",
+                "value": 8
+            },
+            {
+                "name": "Onikabuto",
+                "value": 30
+            },
+            {
+                "name": "Silver Raven Insignia",
+                "value": 18
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Mora",
+                "value": 100000
+            },
+            {
+                "name": "Vayuda Turquoise Chunk",
+                "value": 6
+            },
+            {
+                "name": "Runic Fang",
+                "value": 12
+            },
+            {
+                "name": "Onikabuto",
+                "value": 45
+            },
+            {
+                "name": "Golden Raven Insignia",
+                "value": 12
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Mora",
+                "value": 120000
+            },
+            {
+                "name": "Vayuda Turquoise Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Runic Fang",
+                "value": 20
+            },
+            {
+                "name": "Onikabuto",
+                "value": 60
+            },
+            {
+                "name": "Golden Raven Insignia",
+                "value": 24
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "893.56",
+                "BaseAtk": "18.88",
+                "BaseDef": "57.34",
+                "Anemo DMG Bonus": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "2,963.07",
+                "BaseAtk": "62.60",
+                "BaseDef": "190.14",
+                "Anemo DMG Bonus": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "4,912.63",
+                "BaseAtk": "103.78",
+                "BaseDef": "315.24",
+                "Anemo DMG Bonus": "6.0%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "6,283.11",
+                "BaseAtk": "132.73",
+                "BaseDef": "403.19",
+                "Anemo DMG Bonus": "12.0%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "7,495.48",
+                "BaseAtk": "158.34",
+                "BaseDef": "480.99",
+                "Anemo DMG Bonus": "12.0%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "8,706.96",
+                "BaseAtk": "183.94",
+                "BaseDef": "558.73",
+                "Anemo DMG Bonus": "18.0%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "9,919.34",
+                "BaseAtk": "209.55",
+                "BaseDef": "636.52",
+                "Anemo DMG Bonus": "24.0%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Paradoxical Practice",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "When Shikanoin Heizou activates a Swirl reaction while on the field, he will gain 1 Declension stack for Heartstopper Strike. This effect can be triggered once every 0.1s.",
-      "level": 1
-    },
-    {
-      "name": "Penetrative Reasoning",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "After Shikanoin Heizou's Heartstopper Strike hits an opponent, increases all party members' (excluding Shikanoin Heizou) Elemental Mastery by 80 for 10s.",
-      "level": 4
-    },
-    {
-      "name": "Pre-Existing Guilt",
-      "unlock": "Unlocked Automatically",
-      "description": "Decreases sprinting Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Named Juvenile Casebook",
-      "unlock": "Constellation Lv. 1",
-      "description": "For 5s after Shikanoin Heizou takes the field, his Normal Attack SPD is increased by 15%. He also gains 1 Declension stack for Heartstopper Strike. This effect can be triggered once every 10s.",
-      "level": 1
-    },
-    {
-      "name": "Investigative Collection",
-      "unlock": "Constellation Lv. 2",
-      "description": "The pull effect of the Arresting Windtunnel created by Windmuster Kick is enhanced, and its duration is increased to 1s.",
-      "level": 2
-    },
-    {
-      "name": "Esoteric Puzzle Book",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Heartstopper Strike by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Tome of Lies",
-      "unlock": "Constellation Lv. 4",
-      "description": "The first Windmuster Iris explosion in each Windmuster Kick will regenerate 9 Elemental Energy for Shikanoin Heizou. Every subsequent explosion in that Windmuster Kick will each regenerate an additional 1.5 Energy for Heizou.\nOne Windmuster Kick can regenerate a total of 13.5 Energy for Heizou in this manner.",
-      "level": 4
-    },
-    {
-      "name": "Secret Archive",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the Level of Windmuster Kick by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Curious Casefiles",
-      "unlock": "Constellation Lv. 6",
-      "description": "Each Declension stack will increase the CRIT Rate of the Heartstopper Strike unleashed by 4%. When Heizou possesses Conviction, this Heartstopper Strike's CRIT DMG is increased by 32%.",
-      "level": 6
-    }
-  ],
-  "vision_key": "ANEMO",
-  "weapon_type": "CATALYST",
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Mora",
-        "value": 20000
-      },
-      {
-        "name": "Vayuda Turquoise Sliver",
-        "value": 1
-      },
-      {
-        "name": "Onikabuto",
-        "value": 3
-      },
-      {
-        "name": "Treasure Hoarder Insignia",
-        "value": 3
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Mora",
-        "value": 40000
-      },
-      {
-        "name": "Vayuda Turquoise Fragment",
-        "value": 3
-      },
-      {
-        "name": "Runic Fang",
-        "value": 2
-      },
-      {
-        "name": "Onikabuto",
-        "value": 10
-      },
-      {
-        "name": "Treasure Hoarder Insignia",
-        "value": 15
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Mora",
-        "value": 60000
-      },
-      {
-        "name": "Vayuda Turquoise Fragment",
-        "value": 6
-      },
-      {
-        "name": "Runic Fang",
-        "value": 4
-      },
-      {
-        "name": "Onikabuto",
-        "value": 20
-      },
-      {
-        "name": "Silver Raven Insignia",
-        "value": 12
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Mora",
-        "value": 80000
-      },
-      {
-        "name": "Vayuda Turquoise Chunk",
-        "value": 3
-      },
-      {
-        "name": "Runic Fang",
-        "value": 8
-      },
-      {
-        "name": "Onikabuto",
-        "value": 30
-      },
-      {
-        "name": "Silver Raven Insignia",
-        "value": 18
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Mora",
-        "value": 100000
-      },
-      {
-        "name": "Vayuda Turquoise Chunk",
-        "value": 6
-      },
-      {
-        "name": "Runic Fang",
-        "value": 12
-      },
-      {
-        "name": "Onikabuto",
-        "value": 45
-      },
-      {
-        "name": "Golden Raven Insignia",
-        "value": 12
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Mora",
-        "value": 120000
-      },
-      {
-        "name": "Vayuda Turquoise Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Runic Fang",
-        "value": 20
-      },
-      {
-        "name": "Onikabuto",
-        "value": 60
-      },
-      {
-        "name": "Golden Raven Insignia",
-        "value": 24
-      }
-    ]
-  }
 }

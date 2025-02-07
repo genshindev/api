@@ -1,371 +1,429 @@
 {
-  "name": "Tighnari",
-  "title": "Verdant Strider",
-  "vision": "Dendro",
-  "weapon": "Bow",
-  "gender": "Male",
-  "nation": "Sumeru",
-  "affiliation": "Gandharva Ville",
-  "rarity": 5,
-  "release": "2022-08-24",
-  "constellation": "Leptailurus Cervarius",
-  "birthday": "0000-12-29",
-  "description": "\"A message for you. I brought back a specialty from the desert, two packs of honeyed dates, which helps to replenish your energy, whether in the morning or at night. Thank you for your patience in teaching and taking care of Collei. Good luck with your work and best wishes for Collei's studies.\"\n—An anonymously written message left inside a candy box, placed on the watcher's table.",
-  "skillTalents": [
-    {
-      "name": "Khanda Barrier-Buster",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerform up to 4 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\nWhile aiming, the power of Dendro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\nCharge Level 1: Fires off an arrow carrying the power of flora that deals Dendro DMG.\nCharge Level 2: Fires off a Wreath Arrow that deals Dendro DMG. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal Dendro DMG.",
-      "upgrades": [
+    "name": "Tighnari",
+    "title": "Verdant Strider",
+    "vision": "Dendro",
+    "weapon": "Bow",
+    "gender": "Male",
+    "nation": "Sumeru",
+    "affiliation": "Gandharva Ville",
+    "rarity": 5,
+    "release": "2022-08-24",
+    "constellation": "Leptailurus Cervarius",
+    "birthday": "0000-12-29",
+    "description": "\"A message for you. I brought back a specialty from the desert, two packs of honeyed dates, which helps to replenish your energy, whether in the morning or at night. Thank you for your patience in teaching and taking care of Collei. Good luck with your work and best wishes for Collei's studies.\"\n—An anonymously written message left inside a candy box, placed on the watcher's table.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "44.6%"
+            "name": "Khanda Barrier-Buster",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerform up to 4 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\nWhile aiming, the power of Dendro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\nCharge Level 1: Fires off an arrow carrying the power of flora that deals Dendro DMG.\nCharge Level 2: Fires off a Wreath Arrow that deals Dendro DMG. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal Dendro DMG.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "44.6%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "42.0%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "26.4%×2"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "68.6%"
+                },
+                {
+                    "name": "Aimed Shot DMG",
+                    "value": "43.9%"
+                },
+                {
+                    "name": "Level 1 Aimed Shot DMG",
+                    "value": "124%"
+                },
+                {
+                    "name": "Wreath Arrow DMG",
+                    "value": "87.2%"
+                },
+                {
+                    "name": "Clusterbloom Arrow DMG",
+                    "value": "218%"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "56.8%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "114% / 142%"
+                }
+            ],
+            "type": "NORMAL_ATTACK",
+            "attribute-scaling": [
+                {
+                    "name": "1-Hit DMG (%)",
+                    "value": "44.63 48.27 51.9 57.09 60.72 64.88 70.58 76.29 82 88.23 94.46"
+                },
+                {
+                    "name": "2-Hit DMG (%)",
+                    "value": "41.97 45.38 48.8 53.68 57.1 61 66.37 71.74 77.1 82.96 88.82"
+                },
+                {
+                    "name": "3-Hit DMG (%)",
+                    "value": "26.45x2 28.6x2 30.75x2 33.83x2 35.98x2 38.44x2 41.82x2 45.2x2 48.59x2 52.28x2 55.96x2"
+                },
+                {
+                    "name": "4-Hit DMG (%)",
+                    "value": "68.63 74.21 79.8 87.78 93.37 99.75 108.53 117.31 126.08 135.66 145.24"
+                },
+                {
+                    "name": "Aimed Shot (%)",
+                    "value": "43.86 47.43 51 56.1 59.67 63.75 69.36 74.97 80.58 86.7 92.82"
+                },
+                {
+                    "name": "Level 1 Aimed Shot (%)",
+                    "value": "124 133.3 142.6 155 164.3 173.6 186 198.4 210.8 223.2 235.6"
+                },
+                {
+                    "name": "Wreath Arrow DMG (%)",
+                    "value": "87.2 93.74 100.28 109 115.54 122.08 130.8 139.52 148.24 156.96 165.68"
+                },
+                {
+                    "name": "Clusterbloom Arrow DMG (%)",
+                    "value": "38.6 41.49 44.39 48.25 51.14 54.04 57.9 61.76 65.62 69.48 73.34"
+                }
+            ]
         },
         {
-          "name": "2-Hit DMG",
-          "value": "42.0%"
+            "name": "Vijnana-Phala Mine",
+            "unlock": "Elemental Skill",
+            "description": "Tighnari throws a Vijnana Stormheart ahead that deals AoE Dendro DMG, creating a Vijnana-Khanda Field that creates mysterious illusions that taunt opponents and draw their fir\nAdditionally, Tighnari gains the Vijnana Suffusion effect, which will decrease the Wreath Arrow's charging time by 2.4s. This effect will dissipate once the skill duration ends or after Tighnari has fired 3 Wreath Arrows.\n\"If sees whither apart from the soil, they will remain a single seed. But if returned to the soil, they shall multiply ten-million fold.\"",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "149.6%"
+                },
+                {
+                    "name": "Vijnana-Khanda Field Duration",
+                    "value": "8.0s"
+                },
+                {
+                    "name": "Vijnana Suffusion Duration",
+                    "value": "12.0s"
+                },
+                {
+                    "name": "CD",
+                    "value": "12.0s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL",
+            "attribute-scaling": [
+                {
+                    "name": "Skill DMG (%)",
+                    "value": "149.6 160.82 172.04 187 198.22 209.44 224.4 239.36 254.32 269.28 284.24 299.2 317.9"
+                },
+                {
+                    "name": "Vijnana-Khanda Field Duration",
+                    "value": "8"
+                },
+                {
+                    "name": "Vijnana Suffusion Duration",
+                    "value": "12"
+                },
+                {
+                    "name": "CD",
+                    "value": "12"
+                }
+            ]
         },
         {
-          "name": "3-Hit DMG",
-          "value": "26.4%×2"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "68.6%"
-        },
-        {
-          "name": "Aimed Shot DMG",
-          "value": "43.9%"
-        },
-        {
-          "name": "Level 1 Aimed Shot DMG",
-          "value": "124%"
-        },
-        {
-          "name": "Wreath Arrow DMG",
-          "value": "87.2%"
-        },
-        {
-          "name": "Clusterbloom Arrow DMG",
-          "value": "218%"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "56.8%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "114% / 142%"
+            "name": "Fashioner's Tanglevine Shaft",
+            "unlock": "Elemental Burst",
+            "description": "Combines the power of all seeds to fire 6 Tanglevine Shafts that can track opponents and deal Dendro DMG.\nAfter they hit, the Tanglevine Shafts will create a secondary wave of Tanglevine Shafts that can also track opponents and deal Dendro DMG on hit.\n\"Do not seek to escape so easily. The vines grow and regrow ever on. Things might get dicey if you don't clear every last one of them out.\"",
+            "upgrades": [
+                {
+                    "name": "Tanglevine Shaft DMG",
+                    "value": "12.0s"
+                },
+                {
+                    "name": "Secondary Tanglevine Shaft DMG",
+                    "value": "12.0s"
+                },
+                {
+                    "name": "CD",
+                    "value": "12.0s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "40"
+                }
+            ],
+            "type": "ELEMENTAL_BURST",
+            "attribute-scaling": [
+                {
+                    "name": "Tanglevine Shaft DMG (%)",
+                    "value": "55.62 59.79 63.96 69.53 73.7 77.87 83.43 88.99 94.55 100.12 105.68 111.24 118.19"
+                },
+                {
+                    "name": "Secondary Tanglevine Shaft DMG (%)",
+                    "value": "67.98 73.08 78.18 84.97 90.07 95.17 101.97 108.77 115.57 122.36 129.16 135.96 144.46"
+                },
+                {
+                    "name": "CD",
+                    "value": "12"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "40"
+                }
+            ]
         }
-      ],
-      "type": "NORMAL_ATTACK",
-      "attribute-scaling": [
+    ],
+    "passiveTalents": [
         {
-          "name": "1-Hit DMG (%)",
-          "value": "44.63 48.27 51.9 57.09 60.72 64.88 70.58 76.29 82 88.23 94.46"
+            "name": "Keen Sight",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "After Tighnari fires a Wreath Arrow, his Elemental Mastery is increased by 50 for 4s.",
+            "level": 1
         },
         {
-          "name": "2-Hit DMG (%)",
-          "value": "41.97 45.38 48.8 53.68 57.1 61 66.37 71.74 77.1 82.96 88.82"
+            "name": "Scholarly Blade",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "For every point of Elemental Mastery Tighnari possesses, his Charged Attack and Fashioner's Tanglevine Shaft DMG are increased by 0.06%.\nThe maximum DMG Bonus obtainable this way is 60%.",
+            "level": 4
         },
         {
-          "name": "3-Hit DMG (%)",
-          "value": "26.45x2 28.6x2 30.75x2 33.83x2 35.98x2 38.44x2 41.82x2 45.2x2 48.59x2 52.28x2 55.96x2"
-        },
-        {
-          "name": "4-Hit DMG (%)",
-          "value": "68.63 74.21 79.8 87.78 93.37 99.75 108.53 117.31 126.08 135.66 145.24"
-        },
-        {
-          "name": "Aimed Shot (%)",
-          "value": "43.86 47.43 51 56.1 59.67 63.75 69.36 74.97 80.58 86.7 92.82"
-        },
-        {
-          "name": "Level 1 Aimed Shot (%)",
-          "value": "124 133.3 142.6 155 164.3 173.6 186 198.4 210.8 223.2 235.6"
-        },
-        {
-          "name": "Wreath Arrow DMG (%)",
-          "value": "87.2 93.74 100.28 109 115.54 122.08 130.8 139.52 148.24 156.96 165.68"
-        },
-        {
-          "name": "Clusterbloom Arrow DMG (%)",
-          "value": "38.6 41.49 44.39 48.25 51.14 54.04 57.9 61.76 65.62 69.48 73.34"
+            "name": "Encyclopedic Knowledge",
+            "unlock": "Unlocked Automatically",
+            "description": "Displays the location of nearby resources unique to Sumeru on the mini-map."
         }
-      ]
-    },
-    {
-      "name": "Vijnana-Phala Mine",
-      "unlock": "Elemental Skill",
-      "description": "Tighnari throws a Vijnana Stormheart ahead that deals AoE Dendro DMG, creating a Vijnana-Khanda Field that creates mysterious illusions that taunt opponents and draw their fir\nAdditionally, Tighnari gains the Vijnana Suffusion effect, which will decrease the Wreath Arrow's charging time by 2.4s. This effect will dissipate once the skill duration ends or after Tighnari has fired 3 Wreath Arrows.\n\"If sees whither apart from the soil, they will remain a single seed. But if returned to the soil, they shall multiply ten-million fold.\"",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Skill DMG",
-          "value": "149.6%"
+            "name": "Beginnings Determined at the Roots",
+            "unlock": "Constellation Lv. 1",
+            "description": "Tighnari's Charged Attack CRIT Rate is increased by 15%.",
+            "level": 1
         },
         {
-          "name": "Vijnana-Khanda Field Duration",
-          "value": "8.0s"
+            "name": "Origins Known From the Stem",
+            "unlock": "Constellation Lv. 2",
+            "description": "When there are opponents within the Vijnana-Khanda Field created by Vijnana-Phala Mine, Tighnari gains 20% Dendro DMG Bonus.\nThe effect will last up to 6s if the field's duration ends or if it no longer has opponents with it.",
+            "level": 2
         },
         {
-          "name": "Vijnana Suffusion Duration",
-          "value": "12.0s"
+            "name": "Fortunes Read Amongst the Branches",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Fashioner's Tanglevine Shaft by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "CD",
-          "value": "12.0s"
+            "name": "Withering Glimpsed in the Leaves",
+            "unlock": "Constellation Lv. 4",
+            "description": "When Fashioner's Tanglevine Shaft is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration.",
+            "level": 4
+        },
+        {
+            "name": "Comprehension Amidst the Flowers",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increases the level of Vijnana-Phala Mine by 3.\nMaximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Karma Adjudged From the Leaden Fruit",
+            "unlock": "Constellation Lv. 6",
+            "description": "Wreath Arrow's charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_SKILL",
-      "attribute-scaling": [
-        {
-          "name": "Skill DMG (%)",
-          "value": "149.6 160.82 172.04 187 198.22 209.44 224.4 239.36 254.32 269.28 284.24 299.2 317.9"
-        },
-        {
-          "name": "Vijnana-Khanda Field Duration",
-          "value": "8"
-        },
-        {
-          "name": "Vijnana Suffusion Duration",
-          "value": "12"
-        },
-        {
-          "name": "CD",
-          "value": "12"
-        }
-      ]
-    },
-    {
-      "name": "Fashioner's Tanglevine Shaft",
-      "unlock": "Elemental Burst",
-      "description": "Combines the power of all seeds to fire 6 Tanglevine Shafts that can track opponents and deal Dendro DMG.\nAfter they hit, the Tanglevine Shafts will create a secondary wave of Tanglevine Shafts that can also track opponents and deal Dendro DMG on hit.\n\"Do not seek to escape so easily. The vines grow and regrow ever on. Things might get dicey if you don't clear every last one of them out.\"",
-      "upgrades": [
-        {
-          "name": "Tanglevine Shaft DMG",
-          "value": "12.0s"
-        },
-        {
-          "name": "Secondary Tanglevine Shaft DMG",
-          "value": "12.0s"
-        },
-        {
-          "name": "CD",
-          "value": "12.0s"
-        },
-        {
-          "name": "Energy Cost",
-          "value": "40"
-        }
-      ],
-      "type": "ELEMENTAL_BURST",
-      "attribute-scaling": [
-        {
-          "name": "Tanglevine Shaft DMG (%)",
-          "value": "55.62 59.79 63.96 69.53 73.7 77.87 83.43 88.99 94.55 100.12 105.68 111.24 118.19"
-        },
-        {
-          "name": "Secondary Tanglevine Shaft DMG (%)",
-          "value": "67.98 73.08 78.18 84.97 90.07 95.17 101.97 108.77 115.57 122.36 129.16 135.96 144.46"
-        },
-        {
-          "name": "CD",
-          "value": "12"
-        },
-        {
-          "name": "Energy Cost",
-          "value": "40"
-        }
-      ]
+    ],
+    "vision_key": "DENDRO",
+    "weapon_type": "BOW",
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Mora",
+                "value": 20000
+            },
+            {
+                "name": "Nagadus Emerald Sliver",
+                "value": 1
+            },
+            {
+                "name": "Nilotpala Lotus",
+                "value": 3
+            },
+            {
+                "name": "Fungal Spores",
+                "value": 3
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Mora",
+                "value": 40000
+            },
+            {
+                "name": "Nagadus Emerald Fragment",
+                "value": 3
+            },
+            {
+                "name": "Majestic Hooked Beak",
+                "value": 2
+            },
+            {
+                "name": "Nilotpala Lotus",
+                "value": 10
+            },
+            {
+                "name": "Fungal Spores",
+                "value": 15
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Mora",
+                "value": 60000
+            },
+            {
+                "name": "Nagadus Emerald Fragment",
+                "value": 6
+            },
+            {
+                "name": "Majestic Hooked Beak",
+                "value": 4
+            },
+            {
+                "name": "Nilotpala Lotus",
+                "value": 20
+            },
+            {
+                "name": "Luminescent Pollen",
+                "value": 12
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Mora",
+                "value": 80000
+            },
+            {
+                "name": "Nagadus Emerald Chunk",
+                "value": 3
+            },
+            {
+                "name": "Majestic Hooked Beak",
+                "value": 8
+            },
+            {
+                "name": "Nilotpala Lotus",
+                "value": 30
+            },
+            {
+                "name": "Luminescent Pollen",
+                "value": 18
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Mora",
+                "value": 100000
+            },
+            {
+                "name": "Nagadus Emerald Chunk",
+                "value": 6
+            },
+            {
+                "name": "Majestic Hooked Beak",
+                "value": 12
+            },
+            {
+                "name": "Nilotpala Lotus",
+                "value": 45
+            },
+            {
+                "name": "Crystalline Cyst Dust",
+                "value": 12
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Mora",
+                "value": 120000
+            },
+            {
+                "name": "Nagadus Emerald Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Majestic Hooked Beak",
+                "value": 20
+            },
+            {
+                "name": "Nilotpala Lotus",
+                "value": 60
+            },
+            {
+                "name": "Crystalline Cyst Dust",
+                "value": 24
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "844.64",
+                "BaseAtk": "20.85",
+                "BaseDef": "49.06",
+                "Dendro DMG Bonus": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "2,915.20",
+                "BaseAtk": "71.98",
+                "BaseDef": "169.33",
+                "Dendro DMG Bonus": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "4,876.64",
+                "BaseAtk": "120.40",
+                "BaseDef": "283.26",
+                "Dendro DMG Bonus": "7.2%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "6,296.72",
+                "BaseAtk": "155.46",
+                "BaseDef": "365.74",
+                "Dendro DMG Bonus": "14.4%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "7,552.88",
+                "BaseAtk": "186.48",
+                "BaseDef": "438.71",
+                "Dendro DMG Bonus": "14.4%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "8,815.80",
+                "BaseAtk": "217.66",
+                "BaseDef": "512.07",
+                "Dendro DMG Bonus": "21.6%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "10,087.17",
+                "BaseAtk": "249.05",
+                "BaseDef": "585.91",
+                "Dendro DMG Bonus": "28.8%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Keen Sight",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "After Tighnari fires a Wreath Arrow, his Elemental Mastery is increased by 50 for 4s.",
-      "level": 1
-    },
-    {
-      "name": "Scholarly Blade",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "For every point of Elemental Mastery Tighnari possesses, his Charged Attack and Fashioner's Tanglevine Shaft DMG are increased by 0.06%.\nThe maximum DMG Bonus obtainable this way is 60%.",
-      "level": 4
-    },
-    {
-      "name": "Encyclopedic Knowledge",
-      "unlock": "Unlocked Automatically",
-      "description": "Displays the location of nearby resources unique to Sumeru on the mini-map."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Beginnings Determined at the Roots",
-      "unlock": "Constellation Lv. 1",
-      "description": "Tighnari's Charged Attack CRIT Rate is increased by 15%.",
-      "level": 1
-    },
-    {
-      "name": "Origins Known From the Stem",
-      "unlock": "Constellation Lv. 2",
-      "description": "When there are opponents within the Vijnana-Khanda Field created by Vijnana-Phala Mine, Tighnari gains 20% Dendro DMG Bonus.\nThe effect will last up to 6s if the field's duration ends or if it no longer has opponents with it.",
-      "level": 2
-    },
-    {
-      "name": "Fortunes Read Amongst the Branches",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Fashioner's Tanglevine Shaft by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Withering Glimpsed in the Leaves",
-      "unlock": "Constellation Lv. 4",
-      "description": "When Fashioner's Tanglevine Shaft is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration.",
-      "level": 4
-    },
-    {
-      "name": "Comprehension Amidst the Flowers",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the level of Vijnana-Phala Mine by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Karma Adjudged From the Leaden Fruit",
-      "unlock": "Constellation Lv. 6",
-      "description": "Wreath Arrow's charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG.",
-      "level": 6
-    }
-  ],
-  "vision_key": "DENDRO",
-  "weapon_type": "BOW",
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Mora",
-        "value": 20000
-      },
-      {
-        "name": "Nagadus Emerald Sliver",
-        "value": 1
-      },
-      {
-        "name": "Nilotpala Lotus",
-        "value": 3
-      },
-      {
-        "name": "Fungal Spores",
-        "value": 3
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Mora",
-        "value": 40000
-      },
-      {
-        "name": "Nagadus Emerald Fragment",
-        "value": 3
-      },
-      {
-        "name": "Majestic Hooked Beak",
-        "value": 2
-      },
-      {
-        "name": "Nilotpala Lotus",
-        "value": 10
-      },
-      {
-        "name": "Fungal Spores",
-        "value": 15
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Mora",
-        "value": 60000
-      },
-      {
-        "name": "Nagadus Emerald Fragment",
-        "value": 6
-      },
-      {
-        "name": "Majestic Hooked Beak",
-        "value": 4
-      },
-      {
-        "name": "Nilotpala Lotus",
-        "value": 20
-      },
-      {
-        "name": "Luminescent Pollen",
-        "value": 12
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Mora",
-        "value": 80000
-      },
-      {
-        "name": "Nagadus Emerald Chunk",
-        "value": 3
-      },
-      {
-        "name": "Majestic Hooked Beak",
-        "value": 8
-      },
-      {
-        "name": "Nilotpala Lotus",
-        "value": 30
-      },
-      {
-        "name": "Luminescent Pollen",
-        "value": 18
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Mora",
-        "value": 100000
-      },
-      {
-        "name": "Nagadus Emerald Chunk",
-        "value": 6
-      },
-      {
-        "name": "Majestic Hooked Beak",
-        "value": 12
-      },
-      {
-        "name": "Nilotpala Lotus",
-        "value": 45
-      },
-      {
-        "name": "Crystalline Cyst Dust",
-        "value": 12
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Mora",
-        "value": 120000
-      },
-      {
-        "name": "Nagadus Emerald Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Majestic Hooked Beak",
-        "value": 20
-      },
-      {
-        "name": "Nilotpala Lotus",
-        "value": 60
-      },
-      {
-        "name": "Crystalline Cyst Dust",
-        "value": 24
-      }
-    ]
-  }
 }

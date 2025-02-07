@@ -1,309 +1,367 @@
 {
-  "name": "Bennett",
-  "title": "Trial by Fire",
-  "vision": "Pyro",
-  "weapon": "Sword",
-  "gender": "Male",
-  "nation": "Mondstadt",
-  "affiliation": "Adventurers' Guild",
-  "rarity": 4,
-  "release": "2020-09-28",
-  "constellation": "Rota Calamitas",
-  "birthday": "0000-02-29",
-  "description": "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
-  "skillTalents": [
-    {
-      "name": "Strike of Fortune",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerform up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword swings.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Bennett",
+    "title": "Trial by Fire",
+    "vision": "Pyro",
+    "weapon": "Sword",
+    "gender": "Male",
+    "nation": "Mondstadt",
+    "affiliation": "Adventurers' Guild",
+    "rarity": 4,
+    "release": "2020-09-28",
+    "constellation": "Rota Calamitas",
+    "birthday": "0000-02-29",
+    "description": "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "44.5%"
+            "name": "Strike of Fortune",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerform up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword swings.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "44.5%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "42.7%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "54.6%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "59.7%"
+                },
+                {
+                    "name": "5-Hit DMG",
+                    "value": "71.9%"
+                },
+                {
+                    "name": "Charged Attack DMG",
+                    "value": "55.9% + 60.7%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "20"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "63.9%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "128% / 160%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "42.7%"
+            "name": "Passion Overload",
+            "unlock": "Elemental Skill",
+            "description": "Bennett puts all his fire and passion for adventuring into his sword. Results may very based on how fired up he is.\nPress\nA single, swift flame strike that deals Pyro DMG.\nHold (Short)\nCharges up, resulting in different effects when unleashed based on the Charge Level.\n\nLevel 1: Strikes twice, dealing Pyro DMG and launching enemies.\nLevel 2: Unleashes 3 consecutive attacks that deal impressive Pyro DMG, but the last attack triggers an explosion that launches both Bennett and the enemy.\n\nBennett takes no damage from being launched.",
+            "upgrades": [
+                {
+                    "name": "Press DMG",
+                    "value": "138%"
+                },
+                {
+                    "name": "Charge Level 1 DMG",
+                    "value": "84% + 92%"
+                },
+                {
+                    "name": "Charge Level 2 DMG",
+                    "value": "88% + 96%"
+                },
+                {
+                    "name": "Explosion DMG",
+                    "value": "132%"
+                },
+                {
+                    "name": "CD",
+                    "value": "5 / 7.5 / 10s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "54.6%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "59.7%"
-        },
-        {
-          "name": "5-Hit DMG",
-          "value": "71.9%"
-        },
-        {
-          "name": "Charged Attack DMG",
-          "value": "55.9% + 60.7%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "20"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "63.9%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "128% / 160%"
+            "name": "Fantastic Voyage",
+            "unlock": "Elemental Burst",
+            "description": "Bennett leaps towards the enemy and performs a plunging attack, dealing Pyro DMG, creating an Inspiration Field.\nInspiration Field\n\nIf the health of a character in the circle is equal to or falls below 70%, their health will continuously regenerate. Regeneration scales based on Bennett's Max HP.\nIf the health of a character in the circle is higher than 70%, they gain an ATK Bonus that is based on Bennett's Base ATK.\nApplies the Pyro element to characters within the Field.\n",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "233%"
+                },
+                {
+                    "name": "Continuous Renegeration Per Sec",
+                    "value": "6% max HP + 577"
+                },
+                {
+                    "name": "ATK Bonus Ratio",
+                    "value": "56%"
+                },
+                {
+                    "name": "Duration",
+                    "value": "12s"
+                },
+                {
+                    "name": "CD",
+                    "value": "15s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "60"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Passion Overload",
-      "unlock": "Elemental Skill",
-      "description": "Bennett puts all his fire and passion for adventuring into his sword. Results may very based on how fired up he is.\nPress\nA single, swift flame strike that deals Pyro DMG.\nHold (Short)\nCharges up, resulting in different effects when unleashed based on the Charge Level.\n\nLevel 1: Strikes twice, dealing Pyro DMG and launching enemies.\nLevel 2: Unleashes 3 consecutive attacks that deal impressive Pyro DMG, but the last attack triggers an explosion that launches both Bennett and the enemy.\n\nBennett takes no damage from being launched.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Press DMG",
-          "value": "138%"
+            "name": "Rekindle",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "Decreases Passion Overload's CD by 20%.",
+            "level": 1
         },
         {
-          "name": "Charge Level 1 DMG",
-          "value": "84% + 92%"
+            "name": "Fearnaught",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "When inside the area created by Fantastic Voyage, Passion Overload takes on the following effects:\nCD is reduced by 50%.\nBennett will not be launched by the effects of Charge Level 2.",
+            "level": 4
         },
         {
-          "name": "Charge Level 2 DMG",
-          "value": "88% + 96%"
-        },
-        {
-          "name": "Explosion DMG",
-          "value": "132%"
-        },
-        {
-          "name": "CD",
-          "value": "5 / 7.5 / 10s"
+            "name": "It Should Be Safe...",
+            "unlock": "Unlocked Automatically",
+            "description": "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Fantastic Voyage",
-      "unlock": "Elemental Burst",
-      "description": "Bennett leaps towards the enemy and performs a plunging attack, dealing Pyro DMG, creating an Inspiration Field.\nInspiration Field\n\nIf the health of a character in the circle is equal to or falls below 70%, their health will continuously regenerate. Regeneration scales based on Bennett's Max HP.\nIf the health of a character in the circle is higher than 70%, they gain an ATK Bonus that is based on Bennett's Base ATK.\nApplies the Pyro element to characters within the Field.\n",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Skill DMG",
-          "value": "233%"
+            "name": "Grand Expectation",
+            "unlock": "Constellation Lv. 1",
+            "description": "Fantastic Voyage's ATK increases no longer has an HP restriction, and gains an additional 20% Base ATK.",
+            "level": 1
         },
         {
-          "name": "Continuous Renegeration Per Sec",
-          "value": "6% max HP + 577"
+            "name": "Impasse Conqueror",
+            "unlock": "Constellation Lv. 2",
+            "description": "When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%.",
+            "level": 2
         },
         {
-          "name": "ATK Bonus Ratio",
-          "value": "56%"
+            "name": "Unstoppable Fervor",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Passion Overload by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "Duration",
-          "value": "12s"
+            "name": "Unexpected Odyssey",
+            "unlock": "Constellation Lv. 4",
+            "description": "Using a Normal Attack when executing the second attack of Passion Overload's Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack's DMG.",
+            "level": 4
         },
         {
-          "name": "CD",
-          "value": "15s"
+            "name": "True Explorer",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increase the Level of Fantastic Voyage by 3.\nMaximum upgrade level is 15.",
+            "level": 5
         },
         {
-          "name": "Energy Cost",
-          "value": "60"
+            "name": "Fire Ventures with Me",
+            "unlock": "Constellation Lv. 6",
+            "description": "Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage's radius gain a 15% Pyro DMG Bonus. Normal and Charged Attacks now do Pyro DMG.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "PYRO",
+    "weapon_type": "SWORD",
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Agnidus Agate Sliver",
+                "value": 1
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 3
+            },
+            {
+                "name": "Treasure Hoarder Insignia",
+                "value": 3
+            },
+            {
+                "name": "Mora",
+                "value": 20000
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Agnidus Agate Fragment",
+                "value": 3
+            },
+            {
+                "name": "Everflame Seed",
+                "value": 2
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 10
+            },
+            {
+                "name": "Treasure Hoarder Insignia",
+                "value": 15
+            },
+            {
+                "name": "Mora",
+                "value": 40000
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Agnidus Agate Fragment",
+                "value": 6
+            },
+            {
+                "name": "Everflame Seed",
+                "value": 4
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 20
+            },
+            {
+                "name": "Silver Raven Insignia",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 60000
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Agnidus Agate Chunk",
+                "value": 3
+            },
+            {
+                "name": "Everflame Seed",
+                "value": 8
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 30
+            },
+            {
+                "name": "Silver Raven Insignia",
+                "value": 18
+            },
+            {
+                "name": "Mora",
+                "value": 80000
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Agnidus Agate Chunk",
+                "value": 6
+            },
+            {
+                "name": "Everflame Seed",
+                "value": 12
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 45
+            },
+            {
+                "name": "Golden Raven Insignia",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 100000
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Agnidus Agate Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Everflame Seed",
+                "value": 20
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 60
+            },
+            {
+                "name": "Golden Raven Insignia",
+                "value": 24
+            },
+            {
+                "name": "Mora",
+                "value": 120000
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "1,039.44",
+                "BaseAtk": "16.03",
+                "BaseDef": "64.66",
+                "Energy Recharge": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "3,446.84",
+                "BaseAtk": "53.15",
+                "BaseDef": "214.43",
+                "Energy Recharge": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "5,714.70",
+                "BaseAtk": "88.12",
+                "BaseDef": "355.51",
+                "Energy Recharge": "6.7%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "7,308.92",
+                "BaseAtk": "112.70",
+                "BaseDef": "454.69",
+                "Energy Recharge": "13.4%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "8,719.24",
+                "BaseAtk": "134.44",
+                "BaseDef": "542.43",
+                "Energy Recharge": "13.4%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "10,128.51",
+                "BaseAtk": "156.17",
+                "BaseDef": "630.10",
+                "Energy Recharge": "20.1%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "11,538.82",
+                "BaseAtk": "177.92",
+                "BaseDef": "717.84",
+                "Energy Recharge": "26.8%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Rekindle",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Decreases Passion Overload's CD by 20%.",
-      "level": 1
-    },
-    {
-      "name": "Fearnaught",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "When inside the area created by Fantastic Voyage, Passion Overload takes on the following effects:\nCD is reduced by 50%.\nBennett will not be launched by the effects of Charge Level 2.",
-      "level": 4
-    },
-    {
-      "name": "It Should Be Safe...",
-      "unlock": "Unlocked Automatically",
-      "description": "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Grand Expectation",
-      "unlock": "Constellation Lv. 1",
-      "description": "Fantastic Voyage's ATK increases no longer has an HP restriction, and gains an additional 20% Base ATK.",
-      "level": 1
-    },
-    {
-      "name": "Impasse Conqueror",
-      "unlock": "Constellation Lv. 2",
-      "description": "When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%.",
-      "level": 2
-    },
-    {
-      "name": "Unstoppable Fervor",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Passion Overload by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Unexpected Odyssey",
-      "unlock": "Constellation Lv. 4",
-      "description": "Using a Normal Attack when executing the second attack of Passion Overload's Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack's DMG.",
-      "level": 4
-    },
-    {
-      "name": "True Explorer",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Fantastic Voyage by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Fire Ventures with Me",
-      "unlock": "Constellation Lv. 6",
-      "description": "Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage's radius gain a 15% Pyro DMG Bonus. Normal and Charged Attacks now do Pyro DMG.",
-      "level": 6
-    }
-  ],
-  "vision_key": "PYRO",
-  "weapon_type": "SWORD",
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Agnidus Agate Sliver",
-        "value": 1
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 3
-      },
-      {
-        "name": "Treasure Hoarder Insignia",
-        "value": 3
-      },
-      {
-        "name": "Mora",
-        "value": 20000
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Agnidus Agate Fragment",
-        "value": 3
-      },
-      {
-        "name": "Everflame Seed",
-        "value": 2
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 10
-      },
-      {
-        "name": "Treasure Hoarder Insignia",
-        "value": 15
-      },
-      {
-        "name": "Mora",
-        "value": 40000
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Agnidus Agate Fragment",
-        "value": 6
-      },
-      {
-        "name": "Everflame Seed",
-        "value": 4
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 20
-      },
-      {
-        "name": "Silver Raven Insignia",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 60000
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Agnidus Agate Chunk",
-        "value": 3
-      },
-      {
-        "name": "Everflame Seed",
-        "value": 8
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 30
-      },
-      {
-        "name": "Silver Raven Insignia",
-        "value": 18
-      },
-      {
-        "name": "Mora",
-        "value": 80000
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Agnidus Agate Chunk",
-        "value": 6
-      },
-      {
-        "name": "Everflame Seed",
-        "value": 12
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 45
-      },
-      {
-        "name": "Golden Raven Insignia",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 100000
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Agnidus Agate Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Everflame Seed",
-        "value": 20
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 60
-      },
-      {
-        "name": "Golden Raven Insignia",
-        "value": 24
-      },
-      {
-        "name": "Mora",
-        "value": 120000
-      }
-    ]
-  }
 }

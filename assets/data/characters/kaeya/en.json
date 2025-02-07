@@ -1,299 +1,357 @@
 {
-  "name": "Kaeya",
-  "title": "Frostwind Swordsman",
-  "vision": "Cryo",
-  "weapon": "Sword",
-  "gender": "Male",
-  "nation": "Mondstadt",
-  "affiliation": "Knights of Favonius",
-  "rarity": 4,
-  "release": "2020-09-28",
-  "constellation": "Pavo Ocellus",
-  "birthday": "0000-11-30",
-  "description": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
-  "skillTalents": [
-    {
-      "name": "Ceremonial Bladework",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 5 consecutive strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemeies along the path and dealing AoE DMG upon impact.",
-      "upgrades": [
+    "name": "Kaeya",
+    "title": "Frostwind Swordsman",
+    "vision": "Cryo",
+    "weapon": "Sword",
+    "gender": "Male",
+    "nation": "Mondstadt",
+    "affiliation": "Knights of Favonius",
+    "rarity": 4,
+    "release": "2020-09-28",
+    "constellation": "Pavo Ocellus",
+    "birthday": "0000-11-30",
+    "description": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "53.8%"
+            "name": "Ceremonial Bladework",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 5 consecutive strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemeies along the path and dealing AoE DMG upon impact.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "53.8%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "51.7%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "65.3%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "70.9%"
+                },
+                {
+                    "name": "5-Hit DMG",
+                    "value": "88.2%"
+                },
+                {
+                    "name": "Charged Attack DMG",
+                    "value": "55% + 73.1%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "20"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "63.9%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "128% / 160%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "51.7%"
+            "name": "Frostgnaw",
+            "unlock": "Elemental Skill",
+            "description": "Unleashes a frigit blast, dealing Cryo DMG to enemies in front of Kaeya.",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "191%"
+                },
+                {
+                    "name": "CD",
+                    "value": "6s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "65.3%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "70.9%"
-        },
-        {
-          "name": "5-Hit DMG",
-          "value": "88.2%"
-        },
-        {
-          "name": "Charged Attack DMG",
-          "value": "55% + 73.1%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "20"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "63.9%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "128% / 160%"
+            "name": "Glacial Waltz",
+            "unlock": "Elemental Burst",
+            "description": "Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.\n\nThese icicles will follow the character around and deal Cryo DMG to enemies in their path for so long as they persist.",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "77.6%"
+                },
+                {
+                    "name": "CD",
+                    "value": "15s"
+                },
+                {
+                    "name": "Duration",
+                    "value": "8s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "60"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Frostgnaw",
-      "unlock": "Elemental Skill",
-      "description": "Unleashes a frigit blast, dealing Cryo DMG to enemies in front of Kaeya.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Skill DMG",
-          "value": "191%"
+            "name": "Cold-Blooded Strike",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "Every hit with Frostgnaw regenerates HP for Kaeya equal to 15% of ATK.",
+            "level": 1
         },
         {
-          "name": "CD",
-          "value": "6s"
+            "name": "Glacial Heart",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "Enemies Frozen by Frostgnaw will drop additional Elemental Particles.\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use.",
+            "level": 4
+        },
+        {
+            "name": "Hidden Strength",
+            "unlock": "Unlocked Automatically",
+            "description": "Decreases all party member's sprinting Stamina consumption by 20%."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Glacial Waltz",
-      "unlock": "Elemental Burst",
-      "description": "Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.\n\nThese icicles will follow the character around and deal Cryo DMG to enemies in their path for so long as they persist.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Skill DMG",
-          "value": "77.6%"
+            "name": "Excellent Blood",
+            "unlock": "Constellation Lv. 1",
+            "description": "The CRIT Rate of Normal Attack and Charged Attack DMG against enemies affected by the Cold or Frozen status effects is increased by 15%.",
+            "level": 1
         },
         {
-          "name": "CD",
-          "value": "15s"
+            "name": "Never-Ending Performance",
+            "unlock": "Constellation Lv. 2",
+            "description": "Every time Glacial Waltz defeats an enemy, its duration is increased by 2.5s, up to a maximum of 15s.",
+            "level": 2
         },
         {
-          "name": "Duration",
-          "value": "8s"
+            "name": "Dance of Frost",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Frostgnaw by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "Energy Cost",
-          "value": "60"
+            "name": "Frozen Kiss",
+            "unlock": "Constellation Lv. 4",
+            "description": "Triggers automatically when Kaeya's HP falls below 20%:\nCreates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s.\nThis shield absorbs Cryo DMG with 250% efficiency.\nCan only occur once every 60s.",
+            "level": 4
+        },
+        {
+            "name": "Frostbiting Embrace",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increase the Level of Glacial Waltz by 3.\nMaximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Glacial Whirlwind",
+            "unlock": "Constellation Lv. 6",
+            "description": "Glacial Waltz will generate 1 additional icicle, and will regenerate 15 Energy when cast.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "CRYO",
+    "weapon_type": "SWORD",
+    "outfits": [
+        {
+            "type": "Themed",
+            "name": "Sailwind Shadow",
+            "description": "Kaeya's outfit from his role as the 'Dagger Bandit' in the play. Though flamboyant and designed to be as eye-catching as possible, it isn't difficult to put on, though it does take some time to get all the accessories and daggers sorted.",
+            "rarity": 4,
+            "price": 1680,
+            "image": "outfit-sailwind-shadow"
+        }
+    ],
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Shivada Jade Sliver",
+                "value": 1
+            },
+            {
+                "name": "Calla Lily",
+                "value": 3
+            },
+            {
+                "name": "Treasure Hoarder Insignia",
+                "value": 3
+            },
+            {
+                "name": "Mora",
+                "value": 20000
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Shivada Jade Fragment",
+                "value": 3
+            },
+            {
+                "name": "Hoarfrost Core",
+                "value": 2
+            },
+            {
+                "name": "Calla Lily",
+                "value": 10
+            },
+            {
+                "name": "Treasure Hoarder Insignia",
+                "value": 15
+            },
+            {
+                "name": "Mora",
+                "value": 40000
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Shivada Jade Fragment",
+                "value": 6
+            },
+            {
+                "name": "Hoarfrost Core",
+                "value": 4
+            },
+            {
+                "name": "Calla Lily",
+                "value": 20
+            },
+            {
+                "name": "Silver Raven Insignia",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 60000
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Shivada Jade Chunk",
+                "value": 3
+            },
+            {
+                "name": "Hoarfrost Core",
+                "value": 8
+            },
+            {
+                "name": "Calla Lily",
+                "value": 30
+            },
+            {
+                "name": "Silver Raven Insignia",
+                "value": 18
+            },
+            {
+                "name": "Mora",
+                "value": 80000
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Shivada Jade Chunk",
+                "value": 6
+            },
+            {
+                "name": "Hoarfrost Core",
+                "value": 12
+            },
+            {
+                "name": "Calla Lily",
+                "value": 45
+            },
+            {
+                "name": "Golden Raven Insignia",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 100000
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Shivada Jade Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Hoarfrost Core",
+                "value": 20
+            },
+            {
+                "name": "Calla Lily",
+                "value": 60
+            },
+            {
+                "name": "Golden Raven Insignia",
+                "value": 24
+            },
+            {
+                "name": "Mora",
+                "value": 120000
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "975.62",
+                "BaseAtk": "18.70",
+                "BaseDef": "66.38",
+                "Energy Recharge": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "3,235.19",
+                "BaseAtk": "62.01",
+                "BaseDef": "220.12",
+                "Energy Recharge": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "5,363.79",
+                "BaseAtk": "102.80",
+                "BaseDef": "364.95",
+                "Energy Recharge": "6.7%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "6,860.13",
+                "BaseAtk": "131.48",
+                "BaseDef": "466.76",
+                "Energy Recharge": "13.4%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "8,183.84",
+                "BaseAtk": "156.85",
+                "BaseDef": "556.83",
+                "Energy Recharge": "13.4%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "9,506.58",
+                "BaseAtk": "182.20",
+                "BaseDef": "646.83",
+                "Energy Recharge": "20.1%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "10,830.30",
+                "BaseAtk": "207.57",
+                "BaseDef": "736.89",
+                "Energy Recharge": "26.8%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Cold-Blooded Strike",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Every hit with Frostgnaw regenerates HP for Kaeya equal to 15% of ATK.",
-      "level": 1
-    },
-    {
-      "name": "Glacial Heart",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "Enemies Frozen by Frostgnaw will drop additional Elemental Particles.\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use.",
-      "level": 4
-    },
-    {
-      "name": "Hidden Strength",
-      "unlock": "Unlocked Automatically",
-      "description": "Decreases all party member's sprinting Stamina consumption by 20%."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Excellent Blood",
-      "unlock": "Constellation Lv. 1",
-      "description": "The CRIT Rate of Normal Attack and Charged Attack DMG against enemies affected by the Cold or Frozen status effects is increased by 15%.",
-      "level": 1
-    },
-    {
-      "name": "Never-Ending Performance",
-      "unlock": "Constellation Lv. 2",
-      "description": "Every time Glacial Waltz defeats an enemy, its duration is increased by 2.5s, up to a maximum of 15s.",
-      "level": 2
-    },
-    {
-      "name": "Dance of Frost",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Frostgnaw by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Frozen Kiss",
-      "unlock": "Constellation Lv. 4",
-      "description": "Triggers automatically when Kaeya's HP falls below 20%:\nCreates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s.\nThis shield absorbs Cryo DMG with 250% efficiency.\nCan only occur once every 60s.",
-      "level": 4
-    },
-    {
-      "name": "Frostbiting Embrace",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Glacial Waltz by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Glacial Whirlwind",
-      "unlock": "Constellation Lv. 6",
-      "description": "Glacial Waltz will generate 1 additional icicle, and will regenerate 15 Energy when cast.",
-      "level": 6
-    }
-  ],
-  "vision_key": "CRYO",
-  "weapon_type": "SWORD",
-  "outfits": [
-    {
-      "type": "Themed",
-      "name": "Sailwind Shadow",
-      "description": "Kaeya's outfit from his role as the 'Dagger Bandit' in the play. Though flamboyant and designed to be as eye-catching as possible, it isn't difficult to put on, though it does take some time to get all the accessories and daggers sorted.",
-      "rarity": 4,
-      "price": 1680,
-      "image": "outfit-sailwind-shadow"
-    }
-  ],
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Shivada Jade Sliver",
-        "value": 1
-      },
-      {
-        "name": "Calla Lily",
-        "value": 3
-      },
-      {
-        "name": "Treasure Hoarder Insignia",
-        "value": 3
-      },
-      {
-        "name": "Mora",
-        "value": 20000
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Shivada Jade Fragment",
-        "value": 3
-      },
-      {
-        "name": "Hoarfrost Core",
-        "value": 2
-      },
-      {
-        "name": "Calla Lily",
-        "value": 10
-      },
-      {
-        "name": "Treasure Hoarder Insignia",
-        "value": 15
-      },
-      {
-        "name": "Mora",
-        "value": 40000
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Shivada Jade Fragment",
-        "value": 6
-      },
-      {
-        "name": "Hoarfrost Core",
-        "value": 4
-      },
-      {
-        "name": "Calla Lily",
-        "value": 20
-      },
-      {
-        "name": "Silver Raven Insignia",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 60000
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Shivada Jade Chunk",
-        "value": 3
-      },
-      {
-        "name": "Hoarfrost Core",
-        "value": 8
-      },
-      {
-        "name": "Calla Lily",
-        "value": 30
-      },
-      {
-        "name": "Silver Raven Insignia",
-        "value": 18
-      },
-      {
-        "name": "Mora",
-        "value": 80000
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Shivada Jade Chunk",
-        "value": 6
-      },
-      {
-        "name": "Hoarfrost Core",
-        "value": 12
-      },
-      {
-        "name": "Calla Lily",
-        "value": 45
-      },
-      {
-        "name": "Golden Raven Insignia",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 100000
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Shivada Jade Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Hoarfrost Core",
-        "value": 20
-      },
-      {
-        "name": "Calla Lily",
-        "value": 60
-      },
-      {
-        "name": "Golden Raven Insignia",
-        "value": 24
-      },
-      {
-        "name": "Mora",
-        "value": 120000
-      }
-    ]
-  }
 }

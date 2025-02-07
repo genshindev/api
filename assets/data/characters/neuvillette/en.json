@@ -1,305 +1,363 @@
 {
-  "name": "Neuvillette",
-  "title": "Ordainer of Inexorable Judgment",
-  "vision": "Hydro",
-  "weapon": "Catalyst",
-  "gender": "Male",
-  "nation": "Fontaine",
-  "affiliation": "Court of Fontaine",
-  "rarity": 5,
-  "release": "2023-09-27",
-  "constellation": "Leviathan Judicator",
-  "birthday": "0000-12-18",
-  "description": "The Chief Justice of Fontaine, known as the Iudex, is renowned for his unassailable impartiality.",
-  "skillTalents": [
-    {
-      "name": "As Water Seeks Equilibrium",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nWith light flourishes, Neuvillette commands the tides to unleash a maximum of 3 attacks, dealing Hydro DMG.\nCharged Attack Empowerment: Legal Evaluation\nWhile charging up, Neuvillette will gather the power of water, forming it into a Seal of Arbitration. In this state, Neuvillette can move and change facing, and also absorb any Sourcewater Droplets in a certain AoE.\nEvery Droplet he absorbs will increase the formation speed of the Seal, and will heal Neuvillette.\nWhen the charging is stopped, if the Symbol has yet to be formed, then a Charged Attack will be unleashed. If it has been formed, then a Charged Attack: Equitable Judgment will be unleashed.\nCharged Attack\nConsumes a fixed amount of Stamina to attack opponents with a rupturing blast of water, dealing AoE Hydro DMG.\nCharged Attack: Equitable Judgment\nUnleashes surging torrents, dealing continuous AoE Hydro DMG to all opponents in a straight-line area in front of him.\nEquitable Judgment will not consume any Stamina and lasts 3s.\nIf Neuvillette's HP is above 50%, he will continuously lose HP while using this attack.\nPlunging Attack\nGathering the might of Hydro, Neuvillette plunges towards the ground from mid-air, damaging all opponents in his path. Deals AoE Hydro DMG upon impact with the ground.",
-      "upgrades": [
+    "name": "Neuvillette",
+    "title": "Ordainer of Inexorable Judgment",
+    "vision": "Hydro",
+    "weapon": "Catalyst",
+    "gender": "Male",
+    "nation": "Fontaine",
+    "affiliation": "Court of Fontaine",
+    "rarity": 5,
+    "release": "2023-09-27",
+    "constellation": "Leviathan Judicator",
+    "birthday": "0000-12-18",
+    "description": "The Chief Justice of Fontaine, known as the Iudex, is renowned for his unassailable impartiality.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "93.52%"
+            "name": "As Water Seeks Equilibrium",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nWith light flourishes, Neuvillette commands the tides to unleash a maximum of 3 attacks, dealing Hydro DMG.\nCharged Attack Empowerment: Legal Evaluation\nWhile charging up, Neuvillette will gather the power of water, forming it into a Seal of Arbitration. In this state, Neuvillette can move and change facing, and also absorb any Sourcewater Droplets in a certain AoE.\nEvery Droplet he absorbs will increase the formation speed of the Seal, and will heal Neuvillette.\nWhen the charging is stopped, if the Symbol has yet to be formed, then a Charged Attack will be unleashed. If it has been formed, then a Charged Attack: Equitable Judgment will be unleashed.\nCharged Attack\nConsumes a fixed amount of Stamina to attack opponents with a rupturing blast of water, dealing AoE Hydro DMG.\nCharged Attack: Equitable Judgment\nUnleashes surging torrents, dealing continuous AoE Hydro DMG to all opponents in a straight-line area in front of him.\nEquitable Judgment will not consume any Stamina and lasts 3s.\nIf Neuvillette's HP is above 50%, he will continuously lose HP while using this attack.\nPlunging Attack\nGathering the might of Hydro, Neuvillette plunges towards the ground from mid-air, damaging all opponents in his path. Deals AoE Hydro DMG upon impact with the ground.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "93.52%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "86.51%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "34.89% x 3"
+                },
+                {
+                    "name": "Charged Attack DMG",
+                    "value": "136.6%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "50"
+                },
+                {
+                    "name": "Charged Attack: Equitable Judgement",
+                    "value": "7.32% Max HP"
+                },
+                {
+                    "name": "HP Restored",
+                    "value": "16% Max HP / Droplet"
+                },
+                {
+                    "name": "HP Loss",
+                    "value": "8% Max HP / 0.5s"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "56.83%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "113.63% / 141.93%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "86.51%"
+            "name": "O Tears, I Shall Repay",
+            "unlock": "Elemental Skill",
+            "description": "Summons a Raging Waterfall that will deal AoE Hydro DMG to opponents in front of Neuvillette based on his Max HP. After hitting an opponent, this skill will generate 3 Sourcewater Droplets near that opponent.\nArkhe: Pneuma\nAt certain intervals, when the Raging Waterfall descends, a Spiritbreath Thorn will descend that will pierce opponents, dealing Pneuma-aligned Hydro DMG.\n\"The law can restrict all manner of crimes, but it cannot extirpate evil itself.\"",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "12.86% Max HP"
+                },
+                {
+                    "name": "Spiritbreath Thorn DMG",
+                    "value": "20.8%"
+                },
+                {
+                    "name": "Spiritbreath Thorn Interval",
+                    "value": "10s"
+                },
+                {
+                    "name": "Sourcewater Droplet Duration",
+                    "value": "15s"
+                },
+                {
+                    "name": "CD",
+                    "value": "12s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "34.89% x 3"
-        },
-        {
-          "name": "Charged Attack DMG",
-          "value": "136.6%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "50"
-        },
-        {
-          "name": "Charged Attack: Equitable Judgement",
-          "value": "7.32% Max HP"
-        },
-        {
-          "name": "HP Restored",
-          "value": "16% Max HP / Droplet"
-        },
-        {
-          "name": "HP Loss",
-          "value": "8% Max HP / 0.5s"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "56.83%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "113.63% / 141.93%"
+            "name": "O Tides, I Have Returned",
+            "unlock": "Elemental Burst",
+            "description": "Unleashes waves that will deal AoE Hydro DMG based on Neuvillette's Max HP. After a short interval, 2 waterfalls will descend and deal Hydro DMG in a somewhat smaller AoE, and will generate 6 Sourcewater Droplets within an area in front.\n\"The law is only established after its publication, and above that, the laws of nature have governed all species and eras since ancient times.\"",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "22.26% Max HP"
+                },
+                {
+                    "name": "Waterfall DMG",
+                    "value": "9.11% Max HP"
+                },
+                {
+                    "name": "CD",
+                    "value": "18s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "70"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "O Tears, I Shall Repay",
-      "unlock": "Elemental Skill",
-      "description": "Summons a Raging Waterfall that will deal AoE Hydro DMG to opponents in front of Neuvillette based on his Max HP. After hitting an opponent, this skill will generate 3 Sourcewater Droplets near that opponent.\nArkhe: Pneuma\nAt certain intervals, when the Raging Waterfall descends, a Spiritbreath Thorn will descend that will pierce opponents, dealing Pneuma-aligned Hydro DMG.\n\"The law can restrict all manner of crimes, but it cannot extirpate evil itself.\"",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Skill DMG",
-          "value": "12.86% Max HP"
+            "name": "Gather Like the Tide",
+            "unlock": "Unlocked Automatically",
+            "description": "Increases underwater Sprint SPD for your own party members by 15%.\nNot stackable with Passive Talents that provide the exact same effects."
         },
         {
-          "name": "Spiritbreath Thorn DMG",
-          "value": "20.8%"
+            "name": "Heir to the Ancient Sea's Authority",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "When a party member triggers a Vaporize, Frozen, Electro-Charged, Bloom, Hydro Swirl, or a Hydro Crystallize reaction on opponents, 1 stack of Past Draconic Glories will be granted to Neuvillette for 30s. Max 3 stacks. Past Draconic Glories causes Charged Attack: Equitable Judgment to deal 110%/125%/160% of its original DMG.\nThe stacks of Past Draconic Glories created by each kind of Elemental Reaction exist independently.",
+            "level": 1
         },
         {
-          "name": "Spiritbreath Thorn Interval",
-          "value": "10s"
-        },
-        {
-          "name": "Sourcewater Droplet Duration",
-          "value": "15s"
-        },
-        {
-          "name": "CD",
-          "value": "12s"
+            "name": "Discipline of the Supreme Arbitration",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "For each 1% of Neuvillette's current HP greater than 30% of Max HP, he will gain 0.6% Hydro DMG Bonus. A maximum bonus of 30% can be obtained this way.",
+            "level": 4
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "O Tides, I Have Returned",
-      "unlock": "Elemental Burst",
-      "description": "Unleashes waves that will deal AoE Hydro DMG based on Neuvillette's Max HP. After a short interval, 2 waterfalls will descend and deal Hydro DMG in a somewhat smaller AoE, and will generate 6 Sourcewater Droplets within an area in front.\n\"The law is only established after its publication, and above that, the laws of nature have governed all species and eras since ancient times.\"",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "Skill DMG",
-          "value": "22.26% Max HP"
+            "name": "Venerable Institution",
+            "unlock": "Constellation Lv. 1",
+            "description": "When Neuvillette takes the field, he will obtain 1 stack of Past Draconic Glories from the Passive Talent \"Heir to the Ancient Sea's Authority.\" You must first unlock the Passive Talent \"Heir to the Ancient Sea's Authority.\"\nAdditionally, his interruption resistance will be increased while using the Charged Attack Empowerment: Legal Evaluation and the Charged Attack: Equitable Judgment.",
+            "level": 1
         },
         {
-          "name": "Waterfall DMG",
-          "value": "9.11% Max HP"
+            "name": "Juridical Exhortation",
+            "unlock": "Constellation Lv. 2",
+            "description": "The Passive Talent \"Heir to the Ancient Sea's Authority\" will be enhanced: Each stack of Past Draconic Glories will increase the CRIT DMG of Charged Attack: Equitable Judgment by 14%. The maximum increase that can be achieved this way is 42%.\nYou must first unlock the Passive Talent \"Heir to the Ancient Sea's Authority.\"",
+            "level": 2
         },
         {
-          "name": "CD",
-          "value": "18s"
+            "name": "Ancient Postulation",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Normal Attack: As Water Seeks Equilibrium by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "Energy Cost",
-          "value": "70"
+            "name": "Crown of Commiseration",
+            "unlock": "Constellation Lv. 4",
+            "description": "When Neuvillette is on the field and is healed, 1 Sourcewater Droplet will be generated. This effect can occur once every 4s.",
+            "level": 4
+        },
+        {
+            "name": "Axiomatic Judgment",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increases the Level of O Tides, I Have Returned by 3.\nMaximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Wrathful Recompense",
+            "unlock": "Constellation Lv. 6",
+            "description": "When using Charged Attack: Equitable Judgment, Neuvillette can absorb nearby Sourcewater Droplets in an AoE. Each absorbed Droplet will increase the duration of Charged Attack: Equitable Judgment by 1s.\nAdditionally, when Equitable Judgment hits opponents, it will fire off 2 additional currents every 2s, each of which will deal 10% of Neuvillette's Max HP as Hydro DMG. DMG dealt this way will count as DMG dealt by Equitable Judgment.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "HYDRO",
+    "weapon_type": "CATALYST",
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Varunada Lazurite Sliver",
+                "value": 1
+            },
+            {
+                "name": "Lumitoile",
+                "value": 3
+            },
+            {
+                "name": "Transoceanic Pearl",
+                "value": 3
+            },
+            {
+                "name": "Mora",
+                "value": 20000
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Varunada Lazurite Fragment",
+                "value": 3
+            },
+            {
+                "name": "Fontemer Unihorn",
+                "value": 2
+            },
+            {
+                "name": "Lumitoile",
+                "value": 10
+            },
+            {
+                "name": "Transoceanic Pearl",
+                "value": 15
+            },
+            {
+                "name": "Mora",
+                "value": 40000
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Varunada Lazurite Fragment",
+                "value": 6
+            },
+            {
+                "name": "Fontemer Unihorn",
+                "value": 4
+            },
+            {
+                "name": "Lumitoile",
+                "value": 20
+            },
+            {
+                "name": "Transoceanic Chunk",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 60000
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Varunada Lazurite Chunk",
+                "value": 3
+            },
+            {
+                "name": "Fontemer Unihorn",
+                "value": 8
+            },
+            {
+                "name": "Lumitoile",
+                "value": 30
+            },
+            {
+                "name": "Transoceanic Chunk",
+                "value": 18
+            },
+            {
+                "name": "Mora",
+                "value": 80000
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Varunada Lazurite Chunk",
+                "value": 6
+            },
+            {
+                "name": "Fontemer Unihorn",
+                "value": 12
+            },
+            {
+                "name": "Lumitoile",
+                "value": 45
+            },
+            {
+                "name": "Xenochromatic Crystal",
+                "value": 12
+            },
+            {
+                "name": "Mora",
+                "value": 100000
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Varunada Lazurite Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Fontemer Unihorn",
+                "value": 20
+            },
+            {
+                "name": "Lumitoile",
+                "value": 60
+            },
+            {
+                "name": "Xenochromatic Crystal",
+                "value": 24
+            },
+            {
+                "name": "Mora",
+                "value": 120000
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "1,143.98",
+                "BaseAtk": "16.22",
+                "BaseDef": "44.87",
+                "CRIT DMG": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "3,948.36",
+                "BaseAtk": "55.97",
+                "BaseDef": "154.87",
+                "CRIT DMG": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "6,604.93",
+                "BaseAtk": "93.63",
+                "BaseDef": "259.08",
+                "CRIT DMG": "9.6%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "8,528.29",
+                "BaseAtk": "120.90",
+                "BaseDef": "334.52",
+                "CRIT DMG": "19.2%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "10,229.64",
+                "BaseAtk": "145.02",
+                "BaseDef": "401.26",
+                "CRIT DMG": "19.2%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "11,940.14",
+                "BaseAtk": "169.27",
+                "BaseDef": "468.35",
+                "CRIT DMG": "28.8%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "13,662.08",
+                "BaseAtk": "193.68",
+                "BaseDef": "535.90",
+                "CRIT DMG": "38.4%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Gather Like the Tide",
-      "unlock": "Unlocked Automatically",
-      "description": "Increases underwater Sprint SPD for your own party members by 15%.\nNot stackable with Passive Talents that provide the exact same effects."
-    },
-    {
-      "name": "Heir to the Ancient Sea's Authority",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "When a party member triggers a Vaporize, Frozen, Electro-Charged, Bloom, Hydro Swirl, or a Hydro Crystallize reaction on opponents, 1 stack of Past Draconic Glories will be granted to Neuvillette for 30s. Max 3 stacks. Past Draconic Glories causes Charged Attack: Equitable Judgment to deal 110%/125%/160% of its original DMG.\nThe stacks of Past Draconic Glories created by each kind of Elemental Reaction exist independently.",
-      "level": 1
-    },
-    {
-      "name": "Discipline of the Supreme Arbitration",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "For each 1% of Neuvillette's current HP greater than 30% of Max HP, he will gain 0.6% Hydro DMG Bonus. A maximum bonus of 30% can be obtained this way.",
-      "level": 4
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Venerable Institution",
-      "unlock": "Constellation Lv. 1",
-      "description": "When Neuvillette takes the field, he will obtain 1 stack of Past Draconic Glories from the Passive Talent \"Heir to the Ancient Sea's Authority.\" You must first unlock the Passive Talent \"Heir to the Ancient Sea's Authority.\"\nAdditionally, his interruption resistance will be increased while using the Charged Attack Empowerment: Legal Evaluation and the Charged Attack: Equitable Judgment.",
-      "level": 1
-    },
-    {
-      "name": "Juridical Exhortation",
-      "unlock": "Constellation Lv. 2",
-      "description": "The Passive Talent \"Heir to the Ancient Sea's Authority\" will be enhanced: Each stack of Past Draconic Glories will increase the CRIT DMG of Charged Attack: Equitable Judgment by 14%. The maximum increase that can be achieved this way is 42%.\nYou must first unlock the Passive Talent \"Heir to the Ancient Sea's Authority.\"",
-      "level": 2
-    },
-    {
-      "name": "Ancient Postulation",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Normal Attack: As Water Seeks Equilibrium by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Crown of Commiseration",
-      "unlock": "Constellation Lv. 4",
-      "description": "When Neuvillette is on the field and is healed, 1 Sourcewater Droplet will be generated. This effect can occur once every 4s.",
-      "level": 4
-    },
-    {
-      "name": "Axiomatic Judgment",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the Level of O Tides, I Have Returned by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Wrathful Recompense",
-      "unlock": "Constellation Lv. 6",
-      "description": "When using Charged Attack: Equitable Judgment, Neuvillette can absorb nearby Sourcewater Droplets in an AoE. Each absorbed Droplet will increase the duration of Charged Attack: Equitable Judgment by 1s.\nAdditionally, when Equitable Judgment hits opponents, it will fire off 2 additional currents every 2s, each of which will deal 10% of Neuvillette's Max HP as Hydro DMG. DMG dealt this way will count as DMG dealt by Equitable Judgment.",
-      "level": 6
-    }
-  ],
-  "vision_key": "HYDRO",
-  "weapon_type": "CATALYST",
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Varunada Lazurite Sliver",
-        "value": 1
-      },
-      {
-        "name": "Lumitoile",
-        "value": 3
-      },
-      {
-        "name": "Transoceanic Pearl",
-        "value": 3
-      },
-      {
-        "name": "Mora",
-        "value": 20000
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Varunada Lazurite Fragment",
-        "value": 3
-      },
-      {
-        "name": "Fontemer Unihorn",
-        "value": 2
-      },
-      {
-        "name": "Lumitoile",
-        "value": 10
-      },
-      {
-        "name": "Transoceanic Pearl",
-        "value": 15
-      },
-      {
-        "name": "Mora",
-        "value": 40000
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Varunada Lazurite Fragment",
-        "value": 6
-      },
-      {
-        "name": "Fontemer Unihorn",
-        "value": 4
-      },
-      {
-        "name": "Lumitoile",
-        "value": 20
-      },
-      {
-        "name": "Transoceanic Chunk",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 60000
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Varunada Lazurite Chunk",
-        "value": 3
-      },
-      {
-        "name": "Fontemer Unihorn",
-        "value": 8
-      },
-      {
-        "name": "Lumitoile",
-        "value": 30
-      },
-      {
-        "name": "Transoceanic Chunk",
-        "value": 18
-      },
-      {
-        "name": "Mora",
-        "value": 80000
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Varunada Lazurite Chunk",
-        "value": 6
-      },
-      {
-        "name": "Fontemer Unihorn",
-        "value": 12
-      },
-      {
-        "name": "Lumitoile",
-        "value": 45
-      },
-      {
-        "name": "Xenochromatic Crystal",
-        "value": 12
-      },
-      {
-        "name": "Mora",
-        "value": 100000
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Varunada Lazurite Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Fontemer Unihorn",
-        "value": 20
-      },
-      {
-        "name": "Lumitoile",
-        "value": 60
-      },
-      {
-        "name": "Xenochromatic Crystal",
-        "value": 24
-      },
-      {
-        "name": "Mora",
-        "value": 120000
-      }
-    ]
-  }
 }

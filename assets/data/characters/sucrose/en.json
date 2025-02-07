@@ -1,289 +1,347 @@
 {
-  "name": "Sucrose",
-  "title": "Harmless Sweetie",
-  "vision": "Anemo",
-  "weapon": "Catalyst",
-  "gender": "Female",
-  "nation": "Mondstadt",
-  "affiliation": "Knights of Favonius",
-  "rarity": 4,
-  "release": "2020-09-28",
-  "constellation": "Ampulla",
-  "birthday": "0000-11-26",
-  "description": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
-  "skillTalents": [
-    {
-      "name": "Wind Spirit Creation",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 4 attacks using Wind Spirits, dealing Anemo DMG.\nCharged Attack\nConsumes a certain amount of Stamina and deals AoE Anemo DMG after a short casting time.\nPlunging Attack\nCalling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Anemo DMG upon impact with the ground.",
-      "upgrades": [
+    "name": "Sucrose",
+    "title": "Harmless Sweetie",
+    "vision": "Anemo",
+    "weapon": "Catalyst",
+    "gender": "Female",
+    "nation": "Mondstadt",
+    "affiliation": "Knights of Favonius",
+    "rarity": 4,
+    "release": "2020-09-28",
+    "constellation": "Ampulla",
+    "birthday": "0000-11-26",
+    "description": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
+    "skillTalents": [
         {
-          "name": "1-Hit DMG",
-          "value": "33.5%"
+            "name": "Wind Spirit Creation",
+            "unlock": "Normal Attack",
+            "description": "Normal Attack\nPerforms up to 4 attacks using Wind Spirits, dealing Anemo DMG.\nCharged Attack\nConsumes a certain amount of Stamina and deals AoE Anemo DMG after a short casting time.\nPlunging Attack\nCalling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Anemo DMG upon impact with the ground.",
+            "upgrades": [
+                {
+                    "name": "1-Hit DMG",
+                    "value": "33.5%"
+                },
+                {
+                    "name": "2-Hit DMG",
+                    "value": "30.6%"
+                },
+                {
+                    "name": "3-Hit DMG",
+                    "value": "38.4%"
+                },
+                {
+                    "name": "4-Hit DMG",
+                    "value": "47.9%"
+                },
+                {
+                    "name": "Charged Attack DMG",
+                    "value": "120%"
+                },
+                {
+                    "name": "Charged Attack Stamina Cost",
+                    "value": "50"
+                },
+                {
+                    "name": "Plunge DMG",
+                    "value": "56.8%"
+                },
+                {
+                    "name": "Low / High Plunge DMG",
+                    "value": "114% / 142%"
+                }
+            ],
+            "type": "NORMAL_ATTACK"
         },
         {
-          "name": "2-Hit DMG",
-          "value": "30.6%"
+            "name": "Astable Anemohypostasis Creation - 6308",
+            "unlock": "Elemental Skill",
+            "description": "Creates a small Wind Spirit that deals Anemo DMG to enemies in an AoE, pulling them towards the location of the Wind Spirit before launching them.",
+            "upgrades": [
+                {
+                    "name": "Skill DMG",
+                    "value": "211%"
+                },
+                {
+                    "name": "CD",
+                    "value": "15s"
+                }
+            ],
+            "type": "ELEMENTAL_SKILL"
         },
         {
-          "name": "3-Hit DMG",
-          "value": "38.4%"
-        },
-        {
-          "name": "4-Hit DMG",
-          "value": "47.9%"
-        },
-        {
-          "name": "Charged Attack DMG",
-          "value": "120%"
-        },
-        {
-          "name": "Charged Attack Stamina Cost",
-          "value": "50"
-        },
-        {
-          "name": "Plunge DMG",
-          "value": "56.8%"
-        },
-        {
-          "name": "Low / High Plunge DMG",
-          "value": "114% / 142%"
+            "name": "Forbidden Creation - Isomer 75 / Type II",
+            "unlock": "Elemental Burst",
+            "description": "Sucrose hurls an unstable concoction that creates a Large Wind Spirit. While it persists, the Large Wind Spirit will continuously pull and launch nearby enemies, dealing AoE Anemo DMG.\nElemental Absorption\nIf the Wind Spirit comes into contact with Hydro / Pyro / Cryo / Electro elements, it will deal additional DMG of that type.\n\nElemental Absorption may only occur once per use.",
+            "upgrades": [
+                {
+                    "name": "DoT",
+                    "value": "148%"
+                },
+                {
+                    "name": "Additional Elemental DMG",
+                    "value": "44%"
+                },
+                {
+                    "name": "Duration",
+                    "value": "6s"
+                },
+                {
+                    "name": "CD",
+                    "value": "20s"
+                },
+                {
+                    "name": "Energy Cost",
+                    "value": "80"
+                }
+            ],
+            "type": "ELEMENTAL_BURST"
         }
-      ],
-      "type": "NORMAL_ATTACK"
-    },
-    {
-      "name": "Astable Anemohypostasis Creation - 6308",
-      "unlock": "Elemental Skill",
-      "description": "Creates a small Wind Spirit that deals Anemo DMG to enemies in an AoE, pulling them towards the location of the Wind Spirit before launching them.",
-      "upgrades": [
+    ],
+    "passiveTalents": [
         {
-          "name": "Skill DMG",
-          "value": "211%"
+            "name": "Catalyst Conversion",
+            "unlock": "Unlocked at Ascension 1",
+            "description": "When Sucrose triggers a Swirl effect, characters in the party with the matching element have their Elemental Mastery increased by 50 for 8s.",
+            "level": 1
         },
         {
-          "name": "CD",
-          "value": "15s"
+            "name": "Mollis Favonius",
+            "unlock": "Unlocked at Ascension 4",
+            "description": "When Astable Anemohypostatis Creation - 6308 or Forbidden Creation - Isomer 75 / Type II hit an enemy, increases other party member's Elemental Mastery based on 20% of Sucrose's Elemental Mastery for 8s.",
+            "level": 4
+        },
+        {
+            "name": "Astable Invention",
+            "unlock": "Unlocked Automatically",
+            "description": "When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% to obtain double the product."
         }
-      ],
-      "type": "ELEMENTAL_SKILL"
-    },
-    {
-      "name": "Forbidden Creation - Isomer 75 / Type II",
-      "unlock": "Elemental Burst",
-      "description": "Sucrose hurls an unstable concoction that creates a Large Wind Spirit. While it persists, the Large Wind Spirit will continuously pull and launch nearby enemies, dealing AoE Anemo DMG.\nElemental Absorption\nIf the Wind Spirit comes into contact with Hydro / Pyro / Cryo / Electro elements, it will deal additional DMG of that type.\n\nElemental Absorption may only occur once per use.",
-      "upgrades": [
+    ],
+    "constellations": [
         {
-          "name": "DoT",
-          "value": "148%"
+            "name": "Clustered Vacuum Field",
+            "unlock": "Constellation Lv. 1",
+            "description": "Astable Anemohypostasis Creation - 6308 gains 1 additional charge.",
+            "level": 1
         },
         {
-          "name": "Additional Elemental DMG",
-          "value": "44%"
+            "name": "Beth - Unbound Form",
+            "unlock": "Constellation Lv. 2",
+            "description": "The duration of Forbidden Creation - Isomer 75 / Type II is increased by 2s.",
+            "level": 2
         },
         {
-          "name": "Duration",
-          "value": "6s"
+            "name": "Flawless Alchemistress",
+            "unlock": "Constellation Lv. 3",
+            "description": "Increases the Level of Astable Anemohypostasis Creation - 6308 by 3.\nMaximum upgrade level is 15.",
+            "level": 3
         },
         {
-          "name": "CD",
-          "value": "20s"
+            "name": "Alchemania",
+            "unlock": "Constellation Lv. 4",
+            "description": "Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of Astable Anemohypostasis Creation - 6308 by 1-7s.",
+            "level": 4
         },
         {
-          "name": "Energy Cost",
-          "value": "80"
+            "name": "Caution: Standard Flask",
+            "unlock": "Constellation Lv. 5",
+            "description": "Increase the Level of Forbidden Creation - Isomer 75 / Type II by 3.\nMaximum upgrade level is 15.",
+            "level": 5
+        },
+        {
+            "name": "Chaotic Entropy",
+            "unlock": "Constellation Lv. 6",
+            "description": "If Forbidden Creation - Isomer 75 / Type II triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.",
+            "level": 6
         }
-      ],
-      "type": "ELEMENTAL_BURST"
+    ],
+    "vision_key": "ANEMO",
+    "weapon_type": "CATALYST",
+    "ascension_materials": {
+        "level_20": [
+            {
+                "name": "Mora",
+                "value": 20000
+            },
+            {
+                "name": "Vayuda Turquoise Sliver",
+                "value": 1
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 3
+            },
+            {
+                "name": "Whopperflower Nectar",
+                "value": 3
+            }
+        ],
+        "level_40": [
+            {
+                "name": "Mora",
+                "value": 40000
+            },
+            {
+                "name": "Vayuda Turquoise Fragment",
+                "value": 3
+            },
+            {
+                "name": "Hurricane Seed",
+                "value": 2
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 10
+            },
+            {
+                "name": "Whopperflower Nectar",
+                "value": 15
+            }
+        ],
+        "level_50": [
+            {
+                "name": "Mora",
+                "value": 60000
+            },
+            {
+                "name": "Vayuda Turquoise Fragment",
+                "value": 6
+            },
+            {
+                "name": "Hurricane Seed",
+                "value": 4
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 20
+            },
+            {
+                "name": "Shimmering Nectar",
+                "value": 12
+            }
+        ],
+        "level_60": [
+            {
+                "name": "Mora",
+                "value": 80000
+            },
+            {
+                "name": "Vayuda Turquoise Chunk",
+                "value": 3
+            },
+            {
+                "name": "Hurricane Seed",
+                "value": 8
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 30
+            },
+            {
+                "name": "Shimmering Nectar",
+                "value": 18
+            }
+        ],
+        "level_70": [
+            {
+                "name": "Mora",
+                "value": 100000
+            },
+            {
+                "name": "Vayuda Turquoise Chunk",
+                "value": 6
+            },
+            {
+                "name": "Hurricane Seed",
+                "value": 12
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 45
+            },
+            {
+                "name": "Energy Nectar",
+                "value": 12
+            }
+        ],
+        "level_80": [
+            {
+                "name": "Mora",
+                "value": 120000
+            },
+            {
+                "name": "Vayuda Turquoise Gemstone",
+                "value": 6
+            },
+            {
+                "name": "Hurricane Seed",
+                "value": 20
+            },
+            {
+                "name": "Windwheel Aster",
+                "value": 60
+            },
+            {
+                "name": "Energy Nectar",
+                "value": 24
+            }
+        ],
+        "ascension_data": [
+            {
+                "AscensionPhase": "0",
+                "Level": "1/20",
+                "BaseHP": "775.02",
+                "BaseAtk": "14.25",
+                "BaseDef": "58.94",
+                "Anemo DMG Bonus": "0%"
+            },
+            {
+                "AscensionPhase": "1",
+                "Level": "20/40",
+                "BaseHP": "2,570.01",
+                "BaseAtk": "47.24",
+                "BaseDef": "195.45",
+                "Anemo DMG Bonus": "0%"
+            },
+            {
+                "AscensionPhase": "2",
+                "Level": "40/50",
+                "BaseHP": "4,260.96",
+                "BaseAtk": "78.33",
+                "BaseDef": "324.05",
+                "Anemo DMG Bonus": "6.0%"
+            },
+            {
+                "AscensionPhase": "3",
+                "Level": "50/60",
+                "BaseHP": "5,449.63",
+                "BaseAtk": "100.18",
+                "BaseDef": "414.45",
+                "Anemo DMG Bonus": "12.0%"
+            },
+            {
+                "AscensionPhase": "4",
+                "Level": "60/70",
+                "BaseHP": "6,501.18",
+                "BaseAtk": "119.51",
+                "BaseDef": "494.43",
+                "Anemo DMG Bonus": "12.0%"
+            },
+            {
+                "AscensionPhase": "5",
+                "Level": "70/80",
+                "BaseHP": "7,551.96",
+                "BaseAtk": "138.82",
+                "BaseDef": "574.34",
+                "Anemo DMG Bonus": "18.0%"
+            },
+            {
+                "AscensionPhase": "6",
+                "Level": "80/90",
+                "BaseHP": "8,603.51",
+                "BaseAtk": "158.15",
+                "BaseDef": "654.31",
+                "Anemo DMG Bonus": "24.0%"
+            }
+        ]
     }
-  ],
-  "passiveTalents": [
-    {
-      "name": "Catalyst Conversion",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "When Sucrose triggers a Swirl effect, characters in the party with the matching element have their Elemental Mastery increased by 50 for 8s.",
-      "level": 1
-    },
-    {
-      "name": "Mollis Favonius",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "When Astable Anemohypostatis Creation - 6308 or Forbidden Creation - Isomer 75 / Type II hit an enemy, increases other party member's Elemental Mastery based on 20% of Sucrose's Elemental Mastery for 8s.",
-      "level": 4
-    },
-    {
-      "name": "Astable Invention",
-      "unlock": "Unlocked Automatically",
-      "description": "When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% to obtain double the product."
-    }
-  ],
-  "constellations": [
-    {
-      "name": "Clustered Vacuum Field",
-      "unlock": "Constellation Lv. 1",
-      "description": "Astable Anemohypostasis Creation - 6308 gains 1 additional charge.",
-      "level": 1
-    },
-    {
-      "name": "Beth - Unbound Form",
-      "unlock": "Constellation Lv. 2",
-      "description": "The duration of Forbidden Creation - Isomer 75 / Type II is increased by 2s.",
-      "level": 2
-    },
-    {
-      "name": "Flawless Alchemistress",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Astable Anemohypostasis Creation - 6308 by 3.\nMaximum upgrade level is 15.",
-      "level": 3
-    },
-    {
-      "name": "Alchemania",
-      "unlock": "Constellation Lv. 4",
-      "description": "Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of Astable Anemohypostasis Creation - 6308 by 1-7s.",
-      "level": 4
-    },
-    {
-      "name": "Caution: Standard Flask",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Forbidden Creation - Isomer 75 / Type II by 3.\nMaximum upgrade level is 15.",
-      "level": 5
-    },
-    {
-      "name": "Chaotic Entropy",
-      "unlock": "Constellation Lv. 6",
-      "description": "If Forbidden Creation - Isomer 75 / Type II triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.",
-      "level": 6
-    }
-  ],
-  "vision_key": "ANEMO",
-  "weapon_type": "CATALYST",
-  "ascension_materials": {
-    "level_20": [
-      {
-        "name": "Mora",
-        "value": 20000
-      },
-      {
-        "name": "Vayuda Turquoise Sliver",
-        "value": 1
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 3
-      },
-      {
-        "name": "Whopperflower Nectar",
-        "value": 3
-      }
-    ],
-    "level_40": [
-      {
-        "name": "Mora",
-        "value": 40000
-      },
-      {
-        "name": "Vayuda Turquoise Fragment",
-        "value": 3
-      },
-      {
-        "name": "Hurricane Seed",
-        "value": 2
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 10
-      },
-      {
-        "name": "Whopperflower Nectar",
-        "value": 15
-      }
-    ],
-    "level_50": [
-      {
-        "name": "Mora",
-        "value": 60000
-      },
-      {
-        "name": "Vayuda Turquoise Fragment",
-        "value": 6
-      },
-      {
-        "name": "Hurricane Seed",
-        "value": 4
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 20
-      },
-      {
-        "name": "Shimmering Nectar",
-        "value": 12
-      }
-    ],
-    "level_60": [
-      {
-        "name": "Mora",
-        "value": 80000
-      },
-      {
-        "name": "Vayuda Turquoise Chunk",
-        "value": 3
-      },
-      {
-        "name": "Hurricane Seed",
-        "value": 8
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 30
-      },
-      {
-        "name": "Shimmering Nectar",
-        "value": 18
-      }
-    ],
-    "level_70": [
-      {
-        "name": "Mora",
-        "value": 100000
-      },
-      {
-        "name": "Vayuda Turquoise Chunk",
-        "value": 6
-      },
-      {
-        "name": "Hurricane Seed",
-        "value": 12
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 45
-      },
-      {
-        "name": "Energy Nectar",
-        "value": 12
-      }
-    ],
-    "level_80": [
-      {
-        "name": "Mora",
-        "value": 120000
-      },
-      {
-        "name": "Vayuda Turquoise Gemstone",
-        "value": 6
-      },
-      {
-        "name": "Hurricane Seed",
-        "value": 20
-      },
-      {
-        "name": "Windwheel Aster",
-        "value": 60
-      },
-      {
-        "name": "Energy Nectar",
-        "value": 24
-      }
-    ]
-  }
 }
