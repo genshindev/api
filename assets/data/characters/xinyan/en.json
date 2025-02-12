@@ -1,375 +1,375 @@
 {
-    "name": "Xinyan",
-    "title": "Blazing Riff",
-    "vision": "Pyro",
-    "weapon": "Claymore",
-    "gender": "Female",
-    "nation": "Liyue",
-    "affiliation": "Liyue Harbor",
-    "rarity": 4,
-    "release": "2020-12-01",
-    "constellation": "Fila Ignium",
-    "birthday": "0000-10-16",
-    "description": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
-    "skillTalents": [
+  "name": "Xinyan",
+  "title": "Blazing Riff",
+  "vision": "Pyro",
+  "weapon": "Claymore",
+  "gender": "Female",
+  "nation": "Liyue",
+  "affiliation": "Liyue Harbor",
+  "rarity": 4,
+  "release": "2020-12-01",
+  "constellation": "Fila Ignium",
+  "birthday": "0000-10-16",
+  "description": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+  "skillTalents": [
+    {
+      "name": "Dance on Fire",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous spinning attacks against all nearby enemies.\n\nAt the end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
         {
-            "name": "Dance on Fire",
-            "unlock": "Normal Attack",
-            "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous spinning attacks against all nearby enemies.\n\nAt the end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
-            "upgrades": [
-                {
-                    "name": "1-Hit DMG",
-                    "value": "76.54%"
-                },
-                {
-                    "name": "2-Hit DMG",
-                    "value": "73.96%"
-                },
-                {
-                    "name": "3-Hit DMG",
-                    "value": "95.46%"
-                },
-                {
-                    "name": "4-Hit DMG",
-                    "value": "115.84%%"
-                },
-                {
-                    "name": "Charged Attack Cyclic DMG",
-                    "value": "62.55%"
-                },
-                {
-                    "name": "Charged Attack Final DMG",
-                    "value": "113.09%"
-                },
-                {
-                    "name": "Charged Attack Stamina Cost",
-                    "value": "40/s"
-                },
-                {
-                    "name": "Max Duration",
-                    "value": "5s"
-                },
-                {
-                    "name": "Plunge DMG",
-                    "value": "74.59%"
-                },
-                {
-                    "name": "Low / High Plunge DMG",
-                    "value": "149.14% / 186.29%"
-                }
-            ],
-            "type": "NORMAL_ATTACK"
+          "name": "1-Hit DMG",
+          "value": "76.54%"
         },
         {
-            "name": "Sweeping Fervor",
-            "unlock": "Elemental Skill",
-            "description": "Xinyan brandishes her instrument, dealing Pyro DMG on nearby enemies, forming a shield made out of her audience's passion.\nThe shield's DMG Absorption scales based on Xinyan's DEF and on the number of enemies hit.\n\nHitting 0-1 enemies grants Shield Level 1: Ad Lib.\nHitting 2 enemies grants Shield Level 2: Lead-In.\nHitting 3 or more enemies grants Shield Level 3: Rave, which will also deal intermittent Pyro DMG to nearby enemies.\n\nThe shield has the following special properties:\n\nWhen unleashed, it infuses Xinyan with Pyro.\nIt has 250% DMG Absorption effectiveness against Pyro DMG.\n",
-            "upgrades": [
-                {
-                    "name": "Swing DMG",
-                    "value": "169.6%"
-                },
-                {
-                    "name": "Shield Level 1 DMG Absorption",
-                    "value": "104.04% DEF + 500.55"
-                },
-                {
-                    "name": "Shield Level 2 DMG Absorption",
-                    "value": "122.4% DEF + 588.88"
-                },
-                {
-                    "name": "Shield Level 3 DMG Absorption",
-                    "value": "144% DEF + 692.8"
-                },
-                {
-                    "name": "DoT",
-                    "value": "33.6%"
-                },
-                {
-                    "name": "Shield Duration",
-                    "value": "12s"
-                },
-                {
-                    "name": "CD",
-                    "value": "18s"
-                }
-            ],
-            "type": "ELEMENTAL_SKILL"
+          "name": "2-Hit DMG",
+          "value": "73.96%"
         },
         {
-            "name": "Riff Revolution",
-            "unlock": "Elemental Burst",
-            "description": "Strumming rapidly, Xinyan launches nearby enemies and deals Physical DMG to them, hyping up the crowd. The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG to nearby enemies.",
-            "upgrades": [
-                {
-                    "name": "Skill DMG",
-                    "value": "340.8%"
-                },
-                {
-                    "name": "Pyro DoT",
-                    "value": "40%"
-                },
-                {
-                    "name": "Duration",
-                    "value": "2s"
-                },
-                {
-                    "name": "CD",
-                    "value": "15s"
-                },
-                {
-                    "name": "Energy Cost",
-                    "value": "60"
-                }
-            ],
-            "type": "ELEMENTAL_BURST"
+          "name": "3-Hit DMG",
+          "value": "95.46%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "115.84%%"
+        },
+        {
+          "name": "Charged Attack Cyclic DMG",
+          "value": "62.55%"
+        },
+        {
+          "name": "Charged Attack Final DMG",
+          "value": "113.09%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "40/s"
+        },
+        {
+          "name": "Max Duration",
+          "value": "5s"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "74.59%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "149.14% / 186.29%"
         }
-    ],
-    "passiveTalents": [
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Sweeping Fervor",
+      "unlock": "Elemental Skill",
+      "description": "Xinyan brandishes her instrument, dealing Pyro DMG on nearby enemies, forming a shield made out of her audience's passion.\nThe shield's DMG Absorption scales based on Xinyan's DEF and on the number of enemies hit.\n\nHitting 0-1 enemies grants Shield Level 1: Ad Lib.\nHitting 2 enemies grants Shield Level 2: Lead-In.\nHitting 3 or more enemies grants Shield Level 3: Rave, which will also deal intermittent Pyro DMG to nearby enemies.\n\nThe shield has the following special properties:\n\nWhen unleashed, it infuses Xinyan with Pyro.\nIt has 250% DMG Absorption effectiveness against Pyro DMG.\n",
+      "upgrades": [
         {
-            "name": "\"The Show Goes On, Even Without an Audience...\"",
-            "unlock": "Unlocked at Ascension 1",
-            "description": "Decreases the number of enemies Sweeping Fervor must hit to trigger each level of shielding.\n\nShield Level 2: Lead-In requirement reduced to 1 enemy hit.\nShield Level 3: Rave requirement reduced to 2 enemies hit or more.",
-            "level": 1
+          "name": "Swing DMG",
+          "value": "169.6%"
         },
         {
-            "name": "\"...Now That's Rock 'N' Roll!\"",
-            "unlock": "Unlocked at Ascension 4",
-            "description": "Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.",
-            "level": 4
+          "name": "Shield Level 1 DMG Absorption",
+          "value": "104.04% DEF + 500.55"
         },
         {
-            "name": "A Rad Recipe",
-            "unlock": "Unlocked Automatically",
-            "description": "When a Perfect Cooking is achieved on an DEF-boosting dish, Xinyan has a 12% chance to obtain double the product."
+          "name": "Shield Level 2 DMG Absorption",
+          "value": "122.4% DEF + 588.88"
+        },
+        {
+          "name": "Shield Level 3 DMG Absorption",
+          "value": "144% DEF + 692.8"
+        },
+        {
+          "name": "DoT",
+          "value": "33.6%"
+        },
+        {
+          "name": "Shield Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
         }
-    ],
-    "constellations": [
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Riff Revolution",
+      "unlock": "Elemental Burst",
+      "description": "Strumming rapidly, Xinyan launches nearby enemies and deals Physical DMG to them, hyping up the crowd. The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG to nearby enemies.",
+      "upgrades": [
         {
-            "name": "Fatal Acceleration",
-            "unlock": "Constellation Lv. 1",
-            "description": "Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s.\nCan only occur once every 5s.",
-            "level": 1
+          "name": "Skill DMG",
+          "value": "340.8%"
         },
         {
-            "name": "Impromptu Opening",
-            "unlock": "Constellation Lv. 2",
-            "description": "Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.",
-            "level": 2
+          "name": "Pyro DoT",
+          "value": "40%"
         },
         {
-            "name": "Double Stop",
-            "unlock": "Constellation Lv. 3",
-            "description": "Increases the Level of Sweeping Fervor by 3.\nMaximum upgrade level is 15.",
-            "level": 3
+          "name": "Duration",
+          "value": "2s"
         },
         {
-            "name": "Wildfire Rhythm",
-            "unlock": "Constellation Lv. 4",
-            "description": "Sweeping Fervor's swing DMG decrease opponents Physical RES by 15% for 12s.",
-            "level": 4
+          "name": "CD",
+          "value": "15s"
         },
         {
-            "name": "Screaming for Encore",
-            "unlock": "Constellation Lv. 5",
-            "description": "Increases the Level of Riff Revolution by 3. Maximum upgrade level is 15.",
-            "level": 5
-        },
-        {
-            "name": "Rocking in Flaming",
-            "unlock": "Constellation Lv. 6",
-            "description": "Decrease the stamina consumption of Xinyan Charged Attacks by 30%. Additionally, Xinyan Charged Attack gain an ATK bonus equal to 50% of her DEF.",
-            "level": 6
+          "name": "Energy Cost",
+          "value": "60"
         }
-    ],
-    "vision_key": "PYRO",
-    "weapon_type": "CLAYMORE",
-    "ascension_materials": {
-        "level_20": [
-            {
-                "name": "Mora",
-                "value": 20000
-            },
-            {
-                "name": "Agnidus Agate Sliver",
-                "value": 1
-            },
-            {
-                "name": "Violetgrass",
-                "value": 3
-            },
-            {
-                "name": "Treasure Hoarder Insignia",
-                "value": 3
-            }
-        ],
-        "level_40": [
-            {
-                "name": "Mora",
-                "value": 40000
-            },
-            {
-                "name": "Agnidus Agate Fragment",
-                "value": 3
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 2
-            },
-            {
-                "name": "Violetgrass",
-                "value": 10
-            },
-            {
-                "name": "Treasure Hoarder Insignia",
-                "value": 15
-            }
-        ],
-        "level_50": [
-            {
-                "name": "Mora",
-                "value": 60000
-            },
-            {
-                "name": "Agnidus Agate Fragment",
-                "value": 6
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 4
-            },
-            {
-                "name": "Violetgrass",
-                "value": 20
-            },
-            {
-                "name": "Silver Raven Insignia",
-                "value": 12
-            }
-        ],
-        "level_60": [
-            {
-                "name": "Mora",
-                "value": 80000
-            },
-            {
-                "name": "Agnidus Agate Chunk",
-                "value": 3
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 8
-            },
-            {
-                "name": "Violetgrass",
-                "value": 30
-            },
-            {
-                "name": "Silver Raven Insignia",
-                "value": 18
-            }
-        ],
-        "level_70": [
-            {
-                "name": "Mora",
-                "value": 100000
-            },
-            {
-                "name": "Agnidus Agate Chunk",
-                "value": 6
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 12
-            },
-            {
-                "name": "Violetgrass",
-                "value": 45
-            },
-            {
-                "name": "Golden Raven Insignia",
-                "value": 12
-            }
-        ],
-        "level_80": [
-            {
-                "name": "Mora",
-                "value": 120000
-            },
-            {
-                "name": "Agnidus Agate Gemstone",
-                "value": 6
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 20
-            },
-            {
-                "name": "Violetgrass",
-                "value": 60
-            },
-            {
-                "name": "Golden Raven Insignia",
-                "value": 24
-            }
-        ],
-        "ascension_data": [
-            {
-                "AscensionPhase": "0",
-                "Level": "1/20",
-                "BaseHP": "939.14",
-                "BaseAtk": "20.84",
-                "BaseDef": "66.95",
-                "ATK": "0%"
-            },
-            {
-                "AscensionPhase": "1",
-                "Level": "20/40",
-                "BaseHP": "3,114.25",
-                "BaseAtk": "69.09",
-                "BaseDef": "222.02",
-                "ATK": "0%"
-            },
-            {
-                "AscensionPhase": "2",
-                "Level": "40/50",
-                "BaseHP": "5,163.28",
-                "BaseAtk": "114.55",
-                "BaseDef": "368.10",
-                "ATK": "6.0%"
-            },
-            {
-                "AscensionPhase": "3",
-                "Level": "50/60",
-                "BaseHP": "6,603.67",
-                "BaseAtk": "146.51",
-                "BaseDef": "470.79",
-                "ATK": "12.0%"
-            },
-            {
-                "AscensionPhase": "4",
-                "Level": "60/70",
-                "BaseHP": "7,877.91",
-                "BaseAtk": "174.78",
-                "BaseDef": "561.63",
-                "ATK": "12.0%"
-            },
-            {
-                "AscensionPhase": "5",
-                "Level": "70/80",
-                "BaseHP": "9,151.20",
-                "BaseAtk": "203.03",
-                "BaseDef": "652.40",
-                "ATK": "18.0%"
-            },
-            {
-                "AscensionPhase": "6",
-                "Level": "80/90",
-                "BaseHP": "10,425.43",
-                "BaseAtk": "231.29",
-                "BaseDef": "743.25",
-                "ATK": "24.0%"
-            }
-        ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
+  ],
+  "passiveTalents": [
+    {
+      "name": "\"The Show Goes On, Even Without an Audience...\"",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Decreases the number of enemies Sweeping Fervor must hit to trigger each level of shielding.\n\nShield Level 2: Lead-In requirement reduced to 1 enemy hit.\nShield Level 3: Rave requirement reduced to 2 enemies hit or more.",
+      "level": 1
+    },
+    {
+      "name": "\"...Now That's Rock 'N' Roll!\"",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.",
+      "level": 4
+    },
+    {
+      "name": "A Rad Recipe",
+      "unlock": "Unlocked Automatically",
+      "description": "When a Perfect Cooking is achieved on an DEF-boosting dish, Xinyan has a 12% chance to obtain double the product."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Fatal Acceleration",
+      "unlock": "Constellation Lv. 1",
+      "description": "Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s.\nCan only occur once every 5s.",
+      "level": 1
+    },
+    {
+      "name": "Impromptu Opening",
+      "unlock": "Constellation Lv. 2",
+      "description": "Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.",
+      "level": 2
+    },
+    {
+      "name": "Double Stop",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Sweeping Fervor by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Wildfire Rhythm",
+      "unlock": "Constellation Lv. 4",
+      "description": "Sweeping Fervor's swing DMG decrease opponents Physical RES by 15% for 12s.",
+      "level": 4
+    },
+    {
+      "name": "Screaming for Encore",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Riff Revolution by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Rocking in Flaming",
+      "unlock": "Constellation Lv. 6",
+      "description": "Decrease the stamina consumption of Xinyan Charged Attacks by 30%. Additionally, Xinyan Charged Attack gain an ATK bonus equal to 50% of her DEF.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "CLAYMORE",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Agnidus Agate Sliver",
+        "value": 1
+      },
+      {
+        "name": "Violetgrass",
+        "value": 3
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 2
+      },
+      {
+        "name": "Violetgrass",
+        "value": 10
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 4
+      },
+      {
+        "name": "Violetgrass",
+        "value": 20
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 8
+      },
+      {
+        "name": "Violetgrass",
+        "value": 30
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 12
+      },
+      {
+        "name": "Violetgrass",
+        "value": 45
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Agnidus Agate Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 20
+      },
+      {
+        "name": "Violetgrass",
+        "value": 60
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 24
+      }
+    ],
+    "ascension_data": [
+      {
+        "AscensionPhase": "0",
+        "Level": "1/20",
+        "BaseHP": "939.14",
+        "BaseAtk": "20.84",
+        "BaseDef": "66.95",
+        "ATK": "0%"
+      },
+      {
+        "AscensionPhase": "1",
+        "Level": "20/40",
+        "BaseHP": "3,114.25",
+        "BaseAtk": "69.09",
+        "BaseDef": "222.02",
+        "ATK": "0%"
+      },
+      {
+        "AscensionPhase": "2",
+        "Level": "40/50",
+        "BaseHP": "5,163.28",
+        "BaseAtk": "114.55",
+        "BaseDef": "368.10",
+        "ATK": "6.0%"
+      },
+      {
+        "AscensionPhase": "3",
+        "Level": "50/60",
+        "BaseHP": "6,603.67",
+        "BaseAtk": "146.51",
+        "BaseDef": "470.79",
+        "ATK": "12.0%"
+      },
+      {
+        "AscensionPhase": "4",
+        "Level": "60/70",
+        "BaseHP": "7,877.91",
+        "BaseAtk": "174.78",
+        "BaseDef": "561.63",
+        "ATK": "12.0%"
+      },
+      {
+        "AscensionPhase": "5",
+        "Level": "70/80",
+        "BaseHP": "9,151.20",
+        "BaseAtk": "203.03",
+        "BaseDef": "652.40",
+        "ATK": "18.0%"
+      },
+      {
+        "AscensionPhase": "6",
+        "Level": "80/90",
+        "BaseHP": "10,425.43",
+        "BaseAtk": "231.29",
+        "BaseDef": "743.25",
+        "ATK": "24.0%"
+      }
+    ]
+  }
 }

@@ -1,324 +1,324 @@
 {
-    "name": "Traveler",
-    "vision": "Geo",
-    "weapon": "Sword",
-    "nation": "Outlander",
-    "affiliation": "Not affilated to any Nation",
-    "rarity": 5,
-    "release": "2020-09-28",
-    "constellation": "Viator/Viatrix",
-    "birthday": "Unknown",
-    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
-    "skillTalents": [
+  "name": "Traveler",
+  "vision": "Geo",
+  "weapon": "Sword",
+  "nation": "Outlander",
+  "affiliation": "Not affilated to any Nation",
+  "rarity": 5,
+  "release": "2020-09-28",
+  "constellation": "Viator/Viatrix",
+  "birthday": "Unknown",
+  "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+  "skillTalents": [
+    {
+      "name": "Foreign Rockblade",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
         {
-            "name": "Foreign Rockblade",
-            "unlock": "Normal Attack",
-            "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
-            "upgrades": [
-                {
-                    "name": "1-Hit DMG",
-                    "value": "44.5%"
-                },
-                {
-                    "name": "2-Hit DMG",
-                    "value": "43.4%"
-                },
-                {
-                    "name": "3-Hit DMG",
-                    "value": "53.0%"
-                },
-                {
-                    "name": "4-Hit DMG",
-                    "value": "58.3%"
-                },
-                {
-                    "name": "5-Hit DMG",
-                    "value": "70.8%"
-                },
-                {
-                    "name": "Charged Attack DMG",
-                    "value": "Male: 55.9% + 72.2%\nFemale: 55.9% + 60.7%"
-                },
-                {
-                    "name": "Charged Attack Stamina Cost",
-                    "value": "20"
-                },
-                {
-                    "name": "Plunge DMG",
-                    "value": "63.9%"
-                },
-                {
-                    "name": "Low / High Plunge DMG",
-                    "value": "128% / 160%"
-                }
-            ],
-            "type": "NORMAL_ATTACK"
+          "name": "1-Hit DMG",
+          "value": "44.5%"
         },
         {
-            "name": "Starfell Sword",
-            "unlock": "Elemental Skill",
-            "description": "You disgorge a meteorite from the depths of the earth, dealing AoE Geo DMG. The meteorite is considered a Geo Construct, and can be climbed or used to block attacks.\nHold: This skill's positioning may be adjusted.",
-            "upgrades": [
-                {
-                    "name": "Skill DMG%",
-                    "value": "248%"
-                },
-                {
-                    "name": "Metorite Duration",
-                    "value": "30s"
-                },
-                {
-                    "name": "CD",
-                    "value": "8s"
-                }
-            ],
-            "type": "ELEMENTAL_SKILL"
+          "name": "2-Hit DMG",
+          "value": "43.4%"
         },
         {
-            "name": "Wake of Earth",
-            "unlock": "Elemental Burst",
-            "description": "Energizing the Geo elements deep underground, you set off expanding shockwaves.\nLaunches surrounding opponents back and deals AoE Geo DMG.\nA stone wall is erected at the edges of the shockwave.\nThe stone wall is considered a Geo Construct, and may be used to block attacks.",
-            "upgrades": [
-                {
-                    "name": "DMG Per Shockwave",
-                    "value": "148%"
-                },
-                {
-                    "name": "Stonewall Duration",
-                    "value": "15s"
-                },
-                {
-                    "name": "CD",
-                    "value": "15s"
-                },
-                {
-                    "name": "Energy Cost",
-                    "value": "60"
-                }
-            ],
-            "type": "ELEMENTAL_BURST"
+          "name": "3-Hit DMG",
+          "value": "53.0%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "58.3%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "70.8%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "Male: 55.9% + 72.2%\nFemale: 55.9% + 60.7%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.9%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "128% / 160%"
         }
-    ],
-    "passiveTalents": [
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Starfell Sword",
+      "unlock": "Elemental Skill",
+      "description": "You disgorge a meteorite from the depths of the earth, dealing AoE Geo DMG. The meteorite is considered a Geo Construct, and can be climbed or used to block attacks.\nHold: This skill's positioning may be adjusted.",
+      "upgrades": [
         {
-            "name": "Shattered Darkrock",
-            "unlock": "Unlocked at Ascension 1",
-            "description": "Reduces Starfell Sword's CD by 2s.",
-            "level": 1
+          "name": "Skill DMG%",
+          "value": "248%"
         },
         {
-            "name": "Frenzied Rockslide",
-            "unlock": "Unlocked at Ascension 4",
-            "description": "The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as AoE Geo DMG.",
-            "level": 4
+          "name": "Metorite Duration",
+          "value": "30s"
+        },
+        {
+          "name": "CD",
+          "value": "8s"
         }
-    ],
-    "constellations": [
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Wake of Earth",
+      "unlock": "Elemental Burst",
+      "description": "Energizing the Geo elements deep underground, you set off expanding shockwaves.\nLaunches surrounding opponents back and deals AoE Geo DMG.\nA stone wall is erected at the edges of the shockwave.\nThe stone wall is considered a Geo Construct, and may be used to block attacks.",
+      "upgrades": [
         {
-            "name": "Invincible Stonewall",
-            "unlock": "Constellation Lv. 1",
-            "description": "Party members within the radius of Wake of Earth have their CRIT Rate increased by 10% and have increased resistance against interruption.",
-            "level": 1
+          "name": "DMG Per Shockwave",
+          "value": "148%"
         },
         {
-            "name": "Rockcore Meltdown",
-            "unlock": "Constellation Lv. 2",
-            "description": "When the meteorite created by Starfell Sword is destroyed, it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by Starfell Sword.",
-            "level": 2
+          "name": "Stonewall Duration",
+          "value": "15s"
         },
         {
-            "name": "Will of the Rock",
-            "unlock": "Constellation Lv. 3",
-            "description": "Increases the level of Wake of Earth by 3.\nMaximum upgrade level is 15.",
-            "level": 3
+          "name": "CD",
+          "value": "15s"
         },
         {
-            "name": "Reaction Force",
-            "unlock": "Constellation Lv. 4",
-            "description": "The shockwave triggered by Wake of Earth regenerates 5 Energy for every enemy hit. A maximum of 25 Energy can be recovered in this manner.",
-            "level": 4
-        },
-        {
-            "name": "Meteorite Impact",
-            "unlock": "Constellation Lv. 5",
-            "description": "Increases the level of Starfell Sword by 3.\nMaximum upgrade level is 15.",
-            "level": 5
-        },
-        {
-            "name": "Everlasting Boulder",
-            "unlock": "Constellation Lv. 6",
-            "description": "The barrier created by Wake of Earth lasts 5s longer. The meteorite created by Starfell Sword lasts 10s longer.",
-            "level": 6
+          "name": "Energy Cost",
+          "value": "60"
         }
-    ],
-    "vision_key": "GEO",
-    "weapon_type": "SWORD",
-    "ascension_materials": {
-        "level_20": [
-            {
-                "name": "Mora",
-                "value": 20000
-            },
-            {
-                "name": "Brilliant Diamond Sliver",
-                "value": 1
-            },
-            {
-                "name": "Windwheel Aster",
-                "value": 3
-            },
-            {
-                "name": "Damaged Mask",
-                "value": 3
-            }
-        ],
-        "level_40": [
-            {
-                "name": "Mora",
-                "value": 40000
-            },
-            {
-                "name": "Brilliant Diamond Fragment",
-                "value": 3
-            },
-            {
-                "name": "Windwheel Aster",
-                "value": 10
-            },
-            {
-                "name": "Damaged Mask",
-                "value": 15
-            }
-        ],
-        "level_50": [
-            {
-                "name": "Mora",
-                "value": 60000
-            },
-            {
-                "name": "Brilliant Diamond Fragment",
-                "value": 6
-            },
-            {
-                "name": "Windwheel Aster",
-                "value": 20
-            },
-            {
-                "name": "Stained Mask",
-                "value": 12
-            }
-        ],
-        "level_60": [
-            {
-                "name": "Mora",
-                "value": 80000
-            },
-            {
-                "name": "Brilliant Diamond Chunk",
-                "value": 3
-            },
-            {
-                "name": "Windwheel Aster",
-                "value": 30
-            },
-            {
-                "name": "Stained Mask",
-                "value": 18
-            }
-        ],
-        "level_70": [
-            {
-                "name": "Mora",
-                "value": 100000
-            },
-            {
-                "name": "Brilliant Diamond Chunk",
-                "value": 6
-            },
-            {
-                "name": "Windwheel Aster",
-                "value": 45
-            },
-            {
-                "name": "Ominous Mask",
-                "value": 12
-            }
-        ],
-        "level_80": [
-            {
-                "name": "Mora",
-                "value": 120000
-            },
-            {
-                "name": "Brilliant Diamond Gemstone",
-                "value": 6
-            },
-            {
-                "name": "Windwheel Aster",
-                "value": 60
-            },
-            {
-                "name": "Ominous Mask",
-                "value": 24
-            }
-        ],
-        "ascension_data": [
-            {
-                "AscensionPhase": "0",
-                "Level": "1/20",
-                "BaseHP": "911.79",
-                "BaseAtk": "17.81",
-                "BaseDef": "57.23",
-                "ATK": "0%"
-            },
-            {
-                "AscensionPhase": "1",
-                "Level": "20/40",
-                "BaseHP": "3,023.55",
-                "BaseAtk": "59.05",
-                "BaseDef": "189.76",
-                "ATK": "0%"
-            },
-            {
-                "AscensionPhase": "2",
-                "Level": "40/50",
-                "BaseHP": "5,012.89",
-                "BaseAtk": "97.91",
-                "BaseDef": "314.61",
-                "ATK": "6.0%"
-            },
-            {
-                "AscensionPhase": "3",
-                "Level": "50/60",
-                "BaseHP": "6,411.33",
-                "BaseAtk": "125.22",
-                "BaseDef": "402.38",
-                "ATK": "12.0%"
-            },
-            {
-                "AscensionPhase": "4",
-                "Level": "60/70",
-                "BaseHP": "7,648.45",
-                "BaseAtk": "149.38",
-                "BaseDef": "480.03",
-                "ATK": "12.0%"
-            },
-            {
-                "AscensionPhase": "5",
-                "Level": "70/80",
-                "BaseHP": "8,884.66",
-                "BaseAtk": "173.53",
-                "BaseDef": "557.61",
-                "ATK": "18.0%"
-            },
-            {
-                "AscensionPhase": "6",
-                "Level": "80/90",
-                "BaseHP": "10,121.78",
-                "BaseAtk": "197.69",
-                "BaseDef": "635.25",
-                "ATK": "24.0%"
-            }
-        ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Shattered Darkrock",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Reduces Starfell Sword's CD by 2s.",
+      "level": 1
+    },
+    {
+      "name": "Frenzied Rockslide",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as AoE Geo DMG.",
+      "level": 4
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Invincible Stonewall",
+      "unlock": "Constellation Lv. 1",
+      "description": "Party members within the radius of Wake of Earth have their CRIT Rate increased by 10% and have increased resistance against interruption.",
+      "level": 1
+    },
+    {
+      "name": "Rockcore Meltdown",
+      "unlock": "Constellation Lv. 2",
+      "description": "When the meteorite created by Starfell Sword is destroyed, it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by Starfell Sword.",
+      "level": 2
+    },
+    {
+      "name": "Will of the Rock",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the level of Wake of Earth by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Reaction Force",
+      "unlock": "Constellation Lv. 4",
+      "description": "The shockwave triggered by Wake of Earth regenerates 5 Energy for every enemy hit. A maximum of 25 Energy can be recovered in this manner.",
+      "level": 4
+    },
+    {
+      "name": "Meteorite Impact",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the level of Starfell Sword by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Everlasting Boulder",
+      "unlock": "Constellation Lv. 6",
+      "description": "The barrier created by Wake of Earth lasts 5s longer. The meteorite created by Starfell Sword lasts 10s longer.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "SWORD",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Brilliant Diamond Sliver",
+        "value": 1
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Brilliant Diamond Fragment",
+        "value": 3
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 10
+      },
+      {
+        "name": "Damaged Mask",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Brilliant Diamond Fragment",
+        "value": 6
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 20
+      },
+      {
+        "name": "Stained Mask",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Brilliant Diamond Chunk",
+        "value": 3
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 30
+      },
+      {
+        "name": "Stained Mask",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Brilliant Diamond Chunk",
+        "value": 6
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 45
+      },
+      {
+        "name": "Ominous Mask",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Brilliant Diamond Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Windwheel Aster",
+        "value": 60
+      },
+      {
+        "name": "Ominous Mask",
+        "value": 24
+      }
+    ],
+    "ascension_data": [
+      {
+        "AscensionPhase": "0",
+        "Level": "1/20",
+        "BaseHP": "911.79",
+        "BaseAtk": "17.81",
+        "BaseDef": "57.23",
+        "ATK": "0%"
+      },
+      {
+        "AscensionPhase": "1",
+        "Level": "20/40",
+        "BaseHP": "3,023.55",
+        "BaseAtk": "59.05",
+        "BaseDef": "189.76",
+        "ATK": "0%"
+      },
+      {
+        "AscensionPhase": "2",
+        "Level": "40/50",
+        "BaseHP": "5,012.89",
+        "BaseAtk": "97.91",
+        "BaseDef": "314.61",
+        "ATK": "6.0%"
+      },
+      {
+        "AscensionPhase": "3",
+        "Level": "50/60",
+        "BaseHP": "6,411.33",
+        "BaseAtk": "125.22",
+        "BaseDef": "402.38",
+        "ATK": "12.0%"
+      },
+      {
+        "AscensionPhase": "4",
+        "Level": "60/70",
+        "BaseHP": "7,648.45",
+        "BaseAtk": "149.38",
+        "BaseDef": "480.03",
+        "ATK": "12.0%"
+      },
+      {
+        "AscensionPhase": "5",
+        "Level": "70/80",
+        "BaseHP": "8,884.66",
+        "BaseAtk": "173.53",
+        "BaseDef": "557.61",
+        "ATK": "18.0%"
+      },
+      {
+        "AscensionPhase": "6",
+        "Level": "80/90",
+        "BaseHP": "10,121.78",
+        "BaseAtk": "197.69",
+        "BaseDef": "635.25",
+        "ATK": "24.0%"
+      }
+    ]
+  }
 }

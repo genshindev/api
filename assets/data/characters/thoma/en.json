@@ -1,363 +1,363 @@
 {
-    "name": "Thoma",
-    "title": "Protector From Afar",
-    "vision": "Pyro",
-    "weapon": "Polearm",
-    "gender": "Male",
-    "nation": "Mondstadt",
-    "affiliation": "Yashiro Commission Kamisato Clan",
-    "rarity": 4,
-    "release": "2021-11-02",
-    "constellation": "Rubeum Scutum",
-    "birthday": "0000-01-09",
-    "description": "The housekeeper of the Yashiro Commission's Kamisato Clan, and a well-known \"fixer\" in Inazuma.\nFriendly and approachable, Thoma fits in with the crowd easily wherever he is.\nAt first glance, he seems to be a very easygoing person, but he is in fact very responsible. He has an extraordinarily serious side, be it in his work or his interpersonal communications.",
-    "skillTalents": [
+  "name": "Thoma",
+  "title": "Protector From Afar",
+  "vision": "Pyro",
+  "weapon": "Polearm",
+  "gender": "Male",
+  "nation": "Mondstadt",
+  "affiliation": "Yashiro Commission Kamisato Clan",
+  "rarity": 4,
+  "release": "2021-11-02",
+  "constellation": "Rubeum Scutum",
+  "birthday": "0000-01-09",
+  "description": "The housekeeper of the Yashiro Commission's Kamisato Clan, and a well-known \"fixer\" in Inazuma.\nFriendly and approachable, Thoma fits in with the crowd easily wherever he is.\nAt first glance, he seems to be a very easygoing person, but he is in fact very responsible. He has an extraordinarily serious side, be it in his work or his interpersonal communications.",
+  "skillTalents": [
+    {
+      "name": "Swiftshatter Spear",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to four consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
         {
-            "name": "Swiftshatter Spear",
-            "unlock": "Normal Attack",
-            "description": "Normal Attack\nPerforms up to four consecutive spear strikes.\nCharged Attack\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
-            "upgrades": [
-                {
-                    "name": "1-Hit DMG",
-                    "value": "44.4%"
-                },
-                {
-                    "name": "2-Hit DMG",
-                    "value": "43.6%"
-                },
-                {
-                    "name": "3-Hit DMG",
-                    "value": "26.8%×2"
-                },
-                {
-                    "name": "4-Hit DMG",
-                    "value": "67.4%"
-                },
-                {
-                    "name": "Charged Attack DMG",
-                    "value": "112.7%"
-                },
-                {
-                    "name": "Charged Attack Stamina Cost",
-                    "value": "25"
-                },
-                {
-                    "name": "Plunge DMG",
-                    "value": "63.9%"
-                },
-                {
-                    "name": "Low / High Plunge DMG",
-                    "value": "127.8% / 159.7%"
-                }
-            ],
-            "type": "NORMAL_ATTACK"
+          "name": "1-Hit DMG",
+          "value": "44.4%"
         },
         {
-            "name": "Blazing Blessing",
-            "unlock": "Elemental Skill",
-            "description": "Thoma vaults forward with his polearm and delivers a flame-filled flying kick that deals AoE Pyro DMG, while also summoning a defensive Blazing Barrier.\nAt the moment of casting, Thoma's Elemental Skill applies Pyro to himself.\nThe DMG Absorption of the Blazing Barrier scales off Thoma's Max HP.\nThe Blazing Barrier has the following traits:\n- Absorbs Pyro DMG 250% more effectively.\n- When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.\nThe maximum DMG Absoprtion of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.",
-            "upgrades": [
-                {
-                    "name": "Skill DMG",
-                    "value": "146.4%"
-                },
-                {
-                    "name": "Shield DMG Absorption",
-                    "value": "7.2% max hp + 693"
-                },
-                {
-                    "name": "Shield Duration",
-                    "value": "8s"
-                },
-                {
-                    "name": "CD",
-                    "value": "15s"
-                }
-            ],
-            "type": "ELEMENTAL_SKILL"
+          "name": "2-Hit DMG",
+          "value": "43.6%"
         },
         {
-            "name": "Crimson Ooyoroi",
-            "unlock": "Elemental Burst",
-            "description": "Thoma spins his polearm, slicing at his foes with roaring flames that deal AoE Pyro DMG and weave themselves into a Scorching Ooyoroi.\nScorching Ooyoroi\nWhile Scorching Ooyoroi is in effect, the active character's Normal Attacks will trigger Fiery Collapse, dealing AoE Pyro DMG and summoning a Blazing Barrier.\nFiery Collapse can be triggered once every 1s.\nExcept for the amount of DMG they can absorb, the Blazing Barriers created in this way are identical to those created by Thoma's Elemental Skill, Blazing Blessing:\n- Absorbs Pyro DMG 250% more effectively.\n- When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.\nThe maximum DMG Absorption of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.\nIf Thoma falls, the effects of Scorching Ooyoroi will be cleared.",
-            "upgrades": [
-                {
-                    "name": "Skill DMG",
-                    "value": "88%"
-                },
-                {
-                    "name": "Fiery Collapse DMG",
-                    "value": "58%"
-                },
-                {
-                    "name": "Shield DMG Absorption",
-                    "value": "1.14% max hp + 110"
-                },
-                {
-                    "name": "Shield Duration",
-                    "value": "8s"
-                },
-                {
-                    "name": "Scorching Ooyoroi Duration",
-                    "value": "15s"
-                },
-                {
-                    "name": "CD",
-                    "value": "20s"
-                },
-                {
-                    "name": "Energy Cost",
-                    "value": "80"
-                }
-            ],
-            "type": "ELEMENTAL_BURST"
+          "name": "3-Hit DMG",
+          "value": "26.8%×2"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "67.4%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "112.7%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.9%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "127.8% / 159.7%"
         }
-    ],
-    "passiveTalents": [
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Blazing Blessing",
+      "unlock": "Elemental Skill",
+      "description": "Thoma vaults forward with his polearm and delivers a flame-filled flying kick that deals AoE Pyro DMG, while also summoning a defensive Blazing Barrier.\nAt the moment of casting, Thoma's Elemental Skill applies Pyro to himself.\nThe DMG Absorption of the Blazing Barrier scales off Thoma's Max HP.\nThe Blazing Barrier has the following traits:\n- Absorbs Pyro DMG 250% more effectively.\n- When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.\nThe maximum DMG Absoprtion of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.",
+      "upgrades": [
         {
-            "name": "Imbricated Armor",
-            "unlock": "Unlocked at Ascension 1",
-            "description": "When your current active character obtains or refreshes a Blazing Barrier, this character's Shield Strength will increase by 5% for 6s.\nThis effect can be triggered once every 0.3 seconds. Max 5 stacks.",
-            "level": 1
+          "name": "Skill DMG",
+          "value": "146.4%"
         },
         {
-            "name": "Flaming Assault",
-            "unlock": "Unlocked at Ascension 4",
-            "description": "DMG dealt by Crimson Ooyoroi's Fiery Collapse is increased by 2.2% of Thoma's Max HP. ",
-            "level": 4
+          "name": "Shield DMG Absorption",
+          "value": "7.2% max hp + 693"
         },
         {
-            "name": "Snap and Swing",
-            "unlock": "Unlocked Automatically",
-            "description": "When you fish successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch."
+          "name": "Shield Duration",
+          "value": "8s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
         }
-    ],
-    "constellations": [
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Crimson Ooyoroi",
+      "unlock": "Elemental Burst",
+      "description": "Thoma spins his polearm, slicing at his foes with roaring flames that deal AoE Pyro DMG and weave themselves into a Scorching Ooyoroi.\nScorching Ooyoroi\nWhile Scorching Ooyoroi is in effect, the active character's Normal Attacks will trigger Fiery Collapse, dealing AoE Pyro DMG and summoning a Blazing Barrier.\nFiery Collapse can be triggered once every 1s.\nExcept for the amount of DMG they can absorb, the Blazing Barriers created in this way are identical to those created by Thoma's Elemental Skill, Blazing Blessing:\n- Absorbs Pyro DMG 250% more effectively.\n- When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.\nThe maximum DMG Absorption of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.\nIf Thoma falls, the effects of Scorching Ooyoroi will be cleared.",
+      "upgrades": [
         {
-            "name": "A Comrade's Duty",
-            "unlock": "Constellation Lv. 1",
-            "description": "When a character protected by Thoma's own Blazing Barrier (Thoma excluded) is attacked, Thoma's own Blazing Blessing CD is decreased by 3s, while his own Crimson Ooyoroi's CD is decreased by 3s.\nThis effect can be triggered once every 20s.",
-            "level": 1
+          "name": "Skill DMG",
+          "value": "88%"
         },
         {
-            "name": "A Subordinate's Skills",
-            "unlock": "Constellation Lv. 2",
-            "description": "Crimson Ooyoroi's duration is increased by 3s. ",
-            "level": 2
+          "name": "Fiery Collapse DMG",
+          "value": "58%"
         },
         {
-            "name": "Fortified Resolve",
-            "unlock": "Constellation Lv. 3",
-            "description": "Increases the Level of Blazing Blessing by 3.\nMaximum upgrade level is 15. ",
-            "level": 3
+          "name": "Shield DMG Absorption",
+          "value": "1.14% max hp + 110"
         },
         {
-            "name": "Long-Term Planning",
-            "unlock": "Constellation Lv. 4",
-            "description": "After using Crimson Ooyoroi, 15 Energy will be restored to Thoma. ",
-            "level": 4
+          "name": "Shield Duration",
+          "value": "8s"
         },
         {
-            "name": "Raging Wildfire",
-            "unlock": "Constellation Lv. 5",
-            "description": "Increases the Level of Crimson Ooyoroi by 3.\nMaximum upgrade level is 15.",
-            "level": 5
+          "name": "Scorching Ooyoroi Duration",
+          "value": "15s"
         },
         {
-            "name": "Burning Heart",
-            "unlock": "Constellation Lv. 6",
-            "description": "When a Blazing Barrier is obtained or refreshed, the DMG dealt by all party members' Normal, Charged, and Plunging Attacks is increased by 15% for 6s.",
-            "level": 6
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
         }
-    ],
-    "vision_key": "PYRO",
-    "weapon_type": "POLEARM",
-    "ascension_materials": {
-        "level_20": [
-            {
-                "name": "Mora",
-                "value": 20000
-            },
-            {
-                "name": "Agnidus Agate Sliver",
-                "value": 1
-            },
-            {
-                "name": "Fluorescent Fungus",
-                "value": 3
-            },
-            {
-                "name": "Treasure Hoarder Insignia",
-                "value": 3
-            }
-        ],
-        "level_40": [
-            {
-                "name": "Mora",
-                "value": 40000
-            },
-            {
-                "name": "Agnidus Agate Fragment",
-                "value": 3
-            },
-            {
-                "name": "Smoldering Pearl",
-                "value": 2
-            },
-            {
-                "name": "Fluorescent Fungus",
-                "value": 10
-            },
-            {
-                "name": "Treasure Hoarder Insignia",
-                "value": 15
-            }
-        ],
-        "level_50": [
-            {
-                "name": "Mora",
-                "value": 60000
-            },
-            {
-                "name": "Agnidus Agate Fragment",
-                "value": 6
-            },
-            {
-                "name": "Smoldering Pearl",
-                "value": 4
-            },
-            {
-                "name": "Fluorescent Fungus",
-                "value": 20
-            },
-            {
-                "name": "Silver Raven Insignia",
-                "value": 12
-            }
-        ],
-        "level_60": [
-            {
-                "name": "Mora",
-                "value": 80000
-            },
-            {
-                "name": "Agnidus Agate Chunk",
-                "value": 3
-            },
-            {
-                "name": "Smoldering Pearl",
-                "value": 8
-            },
-            {
-                "name": "Fluorescent Fungus",
-                "value": 30
-            },
-            {
-                "name": "Silver Raven Insignia",
-                "value": 18
-            }
-        ],
-        "level_70": [
-            {
-                "name": "Mora",
-                "value": 100000
-            },
-            {
-                "name": "Agnidus Agate Chunk",
-                "value": 6
-            },
-            {
-                "name": "Smoldering Pearl",
-                "value": 12
-            },
-            {
-                "name": "Fluorescent Fungus",
-                "value": 45
-            },
-            {
-                "name": "Golden Raven Insignia",
-                "value": 12
-            }
-        ],
-        "level_80": [
-            {
-                "name": "Mora",
-                "value": 120000
-            },
-            {
-                "name": "Agnidus Agate Gemstone",
-                "value": 6
-            },
-            {
-                "name": "Smoldering Pearl",
-                "value": 20
-            },
-            {
-                "name": "Fluorescent Fungus",
-                "value": 60
-            },
-            {
-                "name": "Golden Raven Insignia",
-                "value": 24
-            }
-        ],
-        "ascension_data": [
-            {
-                "AscensionPhase": "0",
-                "Level": "1/20",
-                "BaseHP": "866.20",
-                "BaseAtk": "16.92",
-                "BaseDef": "62.95",
-                "ATK": "0%"
-            },
-            {
-                "AscensionPhase": "1",
-                "Level": "20/40",
-                "BaseHP": "2,872.37",
-                "BaseAtk": "56.10",
-                "BaseDef": "208.74",
-                "ATK": "0%"
-            },
-            {
-                "AscensionPhase": "2",
-                "Level": "40/50",
-                "BaseHP": "4,762.25",
-                "BaseAtk": "93.01",
-                "BaseDef": "346.08",
-                "ATK": "6.0%"
-            },
-            {
-                "AscensionPhase": "3",
-                "Level": "50/60",
-                "BaseHP": "6,090.77",
-                "BaseAtk": "118.96",
-                "BaseDef": "442.62",
-                "ATK": "12.0%"
-            },
-            {
-                "AscensionPhase": "4",
-                "Level": "60/70",
-                "BaseHP": "7,266.03",
-                "BaseAtk": "141.91",
-                "BaseDef": "528.03",
-                "ATK": "12.0%"
-            },
-            {
-                "AscensionPhase": "5",
-                "Level": "70/80",
-                "BaseHP": "8,440.43",
-                "BaseAtk": "164.85",
-                "BaseDef": "613.37",
-                "ATK": "18.0%"
-            },
-            {
-                "AscensionPhase": "6",
-                "Level": "80/90",
-                "BaseHP": "9,615.69",
-                "BaseAtk": "187.80",
-                "BaseDef": "698.78",
-                "ATK": "24.0%"
-            }
-        ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Imbricated Armor",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "When your current active character obtains or refreshes a Blazing Barrier, this character's Shield Strength will increase by 5% for 6s.\nThis effect can be triggered once every 0.3 seconds. Max 5 stacks.",
+      "level": 1
+    },
+    {
+      "name": "Flaming Assault",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "DMG dealt by Crimson Ooyoroi's Fiery Collapse is increased by 2.2% of Thoma's Max HP. ",
+      "level": 4
+    },
+    {
+      "name": "Snap and Swing",
+      "unlock": "Unlocked Automatically",
+      "description": "When you fish successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "A Comrade's Duty",
+      "unlock": "Constellation Lv. 1",
+      "description": "When a character protected by Thoma's own Blazing Barrier (Thoma excluded) is attacked, Thoma's own Blazing Blessing CD is decreased by 3s, while his own Crimson Ooyoroi's CD is decreased by 3s.\nThis effect can be triggered once every 20s.",
+      "level": 1
+    },
+    {
+      "name": "A Subordinate's Skills",
+      "unlock": "Constellation Lv. 2",
+      "description": "Crimson Ooyoroi's duration is increased by 3s. ",
+      "level": 2
+    },
+    {
+      "name": "Fortified Resolve",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Blazing Blessing by 3.\nMaximum upgrade level is 15. ",
+      "level": 3
+    },
+    {
+      "name": "Long-Term Planning",
+      "unlock": "Constellation Lv. 4",
+      "description": "After using Crimson Ooyoroi, 15 Energy will be restored to Thoma. ",
+      "level": 4
+    },
+    {
+      "name": "Raging Wildfire",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Crimson Ooyoroi by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Burning Heart",
+      "unlock": "Constellation Lv. 6",
+      "description": "When a Blazing Barrier is obtained or refreshed, the DMG dealt by all party members' Normal, Charged, and Plunging Attacks is increased by 15% for 6s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "POLEARM",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Mora",
+        "value": 20000
+      },
+      {
+        "name": "Agnidus Agate Sliver",
+        "value": 1
+      },
+      {
+        "name": "Fluorescent Fungus",
+        "value": 3
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 3
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mora",
+        "value": 40000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 3
+      },
+      {
+        "name": "Smoldering Pearl",
+        "value": 2
+      },
+      {
+        "name": "Fluorescent Fungus",
+        "value": 10
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 15
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mora",
+        "value": 60000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 6
+      },
+      {
+        "name": "Smoldering Pearl",
+        "value": 4
+      },
+      {
+        "name": "Fluorescent Fungus",
+        "value": 20
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 12
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mora",
+        "value": 80000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 3
+      },
+      {
+        "name": "Smoldering Pearl",
+        "value": 8
+      },
+      {
+        "name": "Fluorescent Fungus",
+        "value": 30
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 18
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mora",
+        "value": 100000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 6
+      },
+      {
+        "name": "Smoldering Pearl",
+        "value": 12
+      },
+      {
+        "name": "Fluorescent Fungus",
+        "value": 45
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 12
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mora",
+        "value": 120000
+      },
+      {
+        "name": "Agnidus Agate Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Smoldering Pearl",
+        "value": 20
+      },
+      {
+        "name": "Fluorescent Fungus",
+        "value": 60
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 24
+      }
+    ],
+    "ascension_data": [
+      {
+        "AscensionPhase": "0",
+        "Level": "1/20",
+        "BaseHP": "866.20",
+        "BaseAtk": "16.92",
+        "BaseDef": "62.95",
+        "ATK": "0%"
+      },
+      {
+        "AscensionPhase": "1",
+        "Level": "20/40",
+        "BaseHP": "2,872.37",
+        "BaseAtk": "56.10",
+        "BaseDef": "208.74",
+        "ATK": "0%"
+      },
+      {
+        "AscensionPhase": "2",
+        "Level": "40/50",
+        "BaseHP": "4,762.25",
+        "BaseAtk": "93.01",
+        "BaseDef": "346.08",
+        "ATK": "6.0%"
+      },
+      {
+        "AscensionPhase": "3",
+        "Level": "50/60",
+        "BaseHP": "6,090.77",
+        "BaseAtk": "118.96",
+        "BaseDef": "442.62",
+        "ATK": "12.0%"
+      },
+      {
+        "AscensionPhase": "4",
+        "Level": "60/70",
+        "BaseHP": "7,266.03",
+        "BaseAtk": "141.91",
+        "BaseDef": "528.03",
+        "ATK": "12.0%"
+      },
+      {
+        "AscensionPhase": "5",
+        "Level": "70/80",
+        "BaseHP": "8,440.43",
+        "BaseAtk": "164.85",
+        "BaseDef": "613.37",
+        "ATK": "18.0%"
+      },
+      {
+        "AscensionPhase": "6",
+        "Level": "80/90",
+        "BaseHP": "9,615.69",
+        "BaseAtk": "187.80",
+        "BaseDef": "698.78",
+        "ATK": "24.0%"
+      }
+    ]
+  }
 }

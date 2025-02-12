@@ -1,365 +1,365 @@
 {
-    "name": "Amber",
-    "title": "Gliding Champion",
-    "vision": "Pyro",
-    "weapon": "Bow",
-    "gender": "Female",
-    "nation": "Mondstadt",
-    "affiliation": "Knights of Favonius",
-    "specialDish": "Outrider's Champion Steak!",
-    "rarity": 4,
-    "release": "2020-09-28",
-    "constellation": "Lepus",
-    "birthday": "0000-08-10",
-    "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
-    "skillTalents": [
+  "name": "Amber",
+  "title": "Gliding Champion",
+  "vision": "Pyro",
+  "weapon": "Bow",
+  "gender": "Female",
+  "nation": "Mondstadt",
+  "affiliation": "Knights of Favonius",
+  "specialDish": "Outrider's Champion Steak!",
+  "rarity": 4,
+  "release": "2020-09-28",
+  "constellation": "Lepus",
+  "birthday": "0000-08-10",
+  "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+  "skillTalents": [
+    {
+      "name": "Sharpshooter",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 5 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "upgrades": [
         {
-            "name": "Sharpshooter",
-            "unlock": "Normal Attack",
-            "description": "Normal Attack\nPerforms up to 5 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
-            "upgrades": [
-                {
-                    "name": "1-Hit DMG",
-                    "value": "36.1%"
-                },
-                {
-                    "name": "2-Hit DMG",
-                    "value": "36.1%"
-                },
-                {
-                    "name": "3-Hit DMG",
-                    "value": "46.4%"
-                },
-                {
-                    "name": "4-Hit DMG",
-                    "value": "47.3%"
-                },
-                {
-                    "name": "5-Hit DMG",
-                    "value": "59.3%"
-                },
-                {
-                    "name": "Aimed Shot",
-                    "value": "43.9%"
-                },
-                {
-                    "name": "Fully-Charged Aimed Shot",
-                    "value": "124%"
-                },
-                {
-                    "name": "Plunge DMG",
-                    "value": "56.8%"
-                },
-                {
-                    "name": "Low / High Plunge DMG",
-                    "value": "114% / 142%"
-                }
-            ],
-            "type": "NORMAL_ATTACK"
+          "name": "1-Hit DMG",
+          "value": "36.1%"
         },
         {
-            "name": "Explosive Puppet",
-            "unlock": "Elemental Skill",
-            "description": "Baron Bunny\n\nContinuously taunts the enemy, drawing their fire.\nBaron Bunny's HP scales with Amber's Max HP.\nWhen destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.\n\nHold\nAdjusts the throwing direction of Baron Bunny.\n\nThe longer the button is held, the further the throw.",
-            "upgrades": [
-                {
-                    "name": "Inherited HP",
-                    "value": "41.4%"
-                },
-                {
-                    "name": "Explosion DMG",
-                    "value": "123%"
-                },
-                {
-                    "name": "CD",
-                    "value": "15s"
-                }
-            ],
-            "type": "ELEMENTAL_SKILL"
+          "name": "2-Hit DMG",
+          "value": "36.1%"
         },
         {
-            "name": "Fiery Rain",
-            "unlock": "Elemental Burst",
-            "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
-            "upgrades": [
-                {
-                    "name": "Fiery Rain DMG Per Wave",
-                    "value": "28.1%"
-                },
-                {
-                    "name": "Total Fiery Rain DMG",
-                    "value": "505%"
-                },
-                {
-                    "name": "Duration",
-                    "value": "2s"
-                },
-                {
-                    "name": "CD",
-                    "value": "12s"
-                },
-                {
-                    "name": "Energy Cost",
-                    "value": "40"
-                }
-            ],
-            "type": "ELEMENTAL_BURST"
+          "name": "3-Hit DMG",
+          "value": "46.4%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "47.3%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "59.3%"
+        },
+        {
+          "name": "Aimed Shot",
+          "value": "43.9%"
+        },
+        {
+          "name": "Fully-Charged Aimed Shot",
+          "value": "124%"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.8%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "114% / 142%"
         }
-    ],
-    "passiveTalents": [
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Explosive Puppet",
+      "unlock": "Elemental Skill",
+      "description": "Baron Bunny\n\nContinuously taunts the enemy, drawing their fire.\nBaron Bunny's HP scales with Amber's Max HP.\nWhen destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.\n\nHold\nAdjusts the throwing direction of Baron Bunny.\n\nThe longer the button is held, the further the throw.",
+      "upgrades": [
         {
-            "name": "Every Arrow Finds Its Target",
-            "unlock": "Unlocked at Ascension 1",
-            "description": "Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%.",
-            "level": 1
+          "name": "Inherited HP",
+          "value": "41.4%"
         },
         {
-            "name": "Precise Shot",
-            "unlock": "Unlocked at Ascension 4",
-            "description": "Aimed Shot hits on weak spots increase Base ATK by 15% for 10s.",
-            "level": 4
+          "name": "Explosion DMG",
+          "value": "123%"
         },
         {
-            "name": "Gliding Champion",
-            "unlock": "Unlocked Automatically",
-            "description": "Decreases all party members' gliding Stamina Consumption by 20%.\nThe greatest effect out of all Talents of the same type prevails."
+          "name": "CD",
+          "value": "15s"
         }
-    ],
-    "constellations": [
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Fiery Rain",
+      "unlock": "Elemental Burst",
+      "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
+      "upgrades": [
         {
-            "name": "One Arrow to Rule Them All",
-            "unlock": "Constellation Lv. 1",
-            "description": "Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG.",
-            "level": 1
+          "name": "Fiery Rain DMG Per Wave",
+          "value": "28.1%"
         },
         {
-            "name": "Bunny Triggered",
-            "unlock": "Constellation Lv. 2",
-            "description": "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.\nExplosion via manual detonation deals 200% additional DMG.",
-            "level": 2
+          "name": "Total Fiery Rain DMG",
+          "value": "505%"
         },
         {
-            "name": "It Burns!",
-            "unlock": "Constellation Lv. 3",
-            "description": "Increases the Level of Fiery Rain by 3.\nMaximum upgrade level is 15.",
-            "level": 3
+          "name": "Duration",
+          "value": "2s"
         },
         {
-            "name": "It's Not Just Any Doll...",
-            "unlock": "Constellation Lv. 4",
-            "description": "Decreases Explosive Puppet's CD by 20%. Adds 1 additional charge.",
-            "level": 4
+          "name": "CD",
+          "value": "12s"
         },
         {
-            "name": "It's Baron Bunny!",
-            "unlock": "Constellation Lv. 5",
-            "description": "Increase the Level of Explosive Puppet by 3.\nMaximum upgrade level is 15.",
-            "level": 5
-        },
-        {
-            "name": "Wildfire",
-            "unlock": "Constellation Lv. 6",
-            "description": "Fiery Rain increases Amber's Movement SPD by 15% and Base ATK by 15% for 10s.",
-            "level": 6
+          "name": "Energy Cost",
+          "value": "40"
         }
-    ],
-    "vision_key": "PYRO",
-    "weapon_type": "BOW",
-    "outfits": [
-        {
-            "type": "Alternate",
-            "name": "100% Outrider",
-            "description": "Amber's outfit. This is a more formal — but no less cool — version of the Outrider's uniform!",
-            "rarity": 4,
-            "image": "outfit-100-outrider"
-        }
-    ],
-    "ascension_materials": {
-        "level_20": [
-            {
-                "name": "Agnidus Agate Sliver",
-                "value": 1
-            },
-            {
-                "name": "Small Lamp Grass",
-                "value": 3
-            },
-            {
-                "name": "Firm Arrowhead",
-                "value": 3
-            },
-            {
-                "name": "Mora",
-                "value": 20000
-            }
-        ],
-        "level_40": [
-            {
-                "name": "Agnidus Agate Fragment",
-                "value": 3
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 2
-            },
-            {
-                "name": "Small Lamp Grass",
-                "value": 10
-            },
-            {
-                "name": "Firm Arrowhead",
-                "value": 15
-            },
-            {
-                "name": "Mora",
-                "value": 40000
-            }
-        ],
-        "level_50": [
-            {
-                "name": "Agnidus Agate Fragment",
-                "value": 6
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 4
-            },
-            {
-                "name": "Small Lamp Grass",
-                "value": 20
-            },
-            {
-                "name": "Sharp Arrowhead",
-                "value": 12
-            },
-            {
-                "name": "Mora",
-                "value": 60000
-            }
-        ],
-        "level_60": [
-            {
-                "name": "Agnidus Agate Chunk",
-                "value": 3
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 8
-            },
-            {
-                "name": "Small Lamp Grass",
-                "value": 30
-            },
-            {
-                "name": "Sharp Arrowhead",
-                "value": 18
-            },
-            {
-                "name": "Mora",
-                "value": 80000
-            }
-        ],
-        "level_70": [
-            {
-                "name": "Agnidus Agate Chunk",
-                "value": 6
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 12
-            },
-            {
-                "name": "Small Lamp Grass",
-                "value": 45
-            },
-            {
-                "name": "Weathered Arrowhead",
-                "value": 12
-            },
-            {
-                "name": "Mora",
-                "value": 100000
-            }
-        ],
-        "level_80": [
-            {
-                "name": "Agnidus Agate Gemstone",
-                "value": 6
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 20
-            },
-            {
-                "name": "Small Lamp Grass",
-                "value": 60
-            },
-            {
-                "name": "Weathered Arrowhead",
-                "value": 24
-            },
-            {
-                "name": "Mora",
-                "value": 120000
-            }
-        ],
-        "ascension_data": [
-            {
-                "AscensionPhase": "0",
-                "Level": "1/20",
-                "BaseHP": "793.26",
-                "BaseAtk": "18.70",
-                "BaseDef": "50.36",
-                "ATK": "0%"
-            },
-            {
-                "AscensionPhase": "1",
-                "Level": "20/40",
-                "BaseHP": "2,630.48",
-                "BaseAtk": "62.01",
-                "BaseDef": "166.99",
-                "ATK": "0%"
-            },
-            {
-                "AscensionPhase": "2",
-                "Level": "40/50",
-                "BaseHP": "4,361.22",
-                "BaseAtk": "102.80",
-                "BaseDef": "276.86",
-                "ATK": "6.0%"
-            },
-            {
-                "AscensionPhase": "3",
-                "Level": "50/60",
-                "BaseHP": "5,577.86",
-                "BaseAtk": "131.48",
-                "BaseDef": "354.10",
-                "ATK": "12.0%"
-            },
-            {
-                "AscensionPhase": "4",
-                "Level": "60/70",
-                "BaseHP": "6,654.15",
-                "BaseAtk": "156.85",
-                "BaseDef": "422.42",
-                "ATK": "12.0%"
-            },
-            {
-                "AscensionPhase": "5",
-                "Level": "70/80",
-                "BaseHP": "7,729.65",
-                "BaseAtk": "182.20",
-                "BaseDef": "490.70",
-                "ATK": "18.0%"
-            },
-            {
-                "AscensionPhase": "6",
-                "Level": "80/90",
-                "BaseHP": "8,805.94",
-                "BaseAtk": "207.57",
-                "BaseDef": "559.02",
-                "ATK": "24.0%"
-            }
-        ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Every Arrow Finds Its Target",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%.",
+      "level": 1
+    },
+    {
+      "name": "Precise Shot",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "Aimed Shot hits on weak spots increase Base ATK by 15% for 10s.",
+      "level": 4
+    },
+    {
+      "name": "Gliding Champion",
+      "unlock": "Unlocked Automatically",
+      "description": "Decreases all party members' gliding Stamina Consumption by 20%.\nThe greatest effect out of all Talents of the same type prevails."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "One Arrow to Rule Them All",
+      "unlock": "Constellation Lv. 1",
+      "description": "Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG.",
+      "level": 1
+    },
+    {
+      "name": "Bunny Triggered",
+      "unlock": "Constellation Lv. 2",
+      "description": "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.\nExplosion via manual detonation deals 200% additional DMG.",
+      "level": 2
+    },
+    {
+      "name": "It Burns!",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Fiery Rain by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "It's Not Just Any Doll...",
+      "unlock": "Constellation Lv. 4",
+      "description": "Decreases Explosive Puppet's CD by 20%. Adds 1 additional charge.",
+      "level": 4
+    },
+    {
+      "name": "It's Baron Bunny!",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increase the Level of Explosive Puppet by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Wildfire",
+      "unlock": "Constellation Lv. 6",
+      "description": "Fiery Rain increases Amber's Movement SPD by 15% and Base ATK by 15% for 10s.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "BOW",
+  "outfits": [
+    {
+      "type": "Alternate",
+      "name": "100% Outrider",
+      "description": "Amber's outfit. This is a more formal — but no less cool — version of the Outrider's uniform!",
+      "rarity": 4,
+      "image": "outfit-100-outrider"
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Agnidus Agate Sliver",
+        "value": 1
+      },
+      {
+        "name": "Small Lamp Grass",
+        "value": 3
+      },
+      {
+        "name": "Firm Arrowhead",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 2
+      },
+      {
+        "name": "Small Lamp Grass",
+        "value": 10
+      },
+      {
+        "name": "Firm Arrowhead",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 4
+      },
+      {
+        "name": "Small Lamp Grass",
+        "value": 20
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 8
+      },
+      {
+        "name": "Small Lamp Grass",
+        "value": 30
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 12
+      },
+      {
+        "name": "Small Lamp Grass",
+        "value": 45
+      },
+      {
+        "name": "Weathered Arrowhead",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Agnidus Agate Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 20
+      },
+      {
+        "name": "Small Lamp Grass",
+        "value": 60
+      },
+      {
+        "name": "Weathered Arrowhead",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ],
+    "ascension_data": [
+      {
+        "AscensionPhase": "0",
+        "Level": "1/20",
+        "BaseHP": "793.26",
+        "BaseAtk": "18.70",
+        "BaseDef": "50.36",
+        "ATK": "0%"
+      },
+      {
+        "AscensionPhase": "1",
+        "Level": "20/40",
+        "BaseHP": "2,630.48",
+        "BaseAtk": "62.01",
+        "BaseDef": "166.99",
+        "ATK": "0%"
+      },
+      {
+        "AscensionPhase": "2",
+        "Level": "40/50",
+        "BaseHP": "4,361.22",
+        "BaseAtk": "102.80",
+        "BaseDef": "276.86",
+        "ATK": "6.0%"
+      },
+      {
+        "AscensionPhase": "3",
+        "Level": "50/60",
+        "BaseHP": "5,577.86",
+        "BaseAtk": "131.48",
+        "BaseDef": "354.10",
+        "ATK": "12.0%"
+      },
+      {
+        "AscensionPhase": "4",
+        "Level": "60/70",
+        "BaseHP": "6,654.15",
+        "BaseAtk": "156.85",
+        "BaseDef": "422.42",
+        "ATK": "12.0%"
+      },
+      {
+        "AscensionPhase": "5",
+        "Level": "70/80",
+        "BaseHP": "7,729.65",
+        "BaseAtk": "182.20",
+        "BaseDef": "490.70",
+        "ATK": "18.0%"
+      },
+      {
+        "AscensionPhase": "6",
+        "Level": "80/90",
+        "BaseHP": "8,805.94",
+        "BaseAtk": "207.57",
+        "BaseDef": "559.02",
+        "ATK": "24.0%"
+      }
+    ]
+  }
 }

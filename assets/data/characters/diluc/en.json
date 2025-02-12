@@ -1,377 +1,377 @@
 {
-    "name": "Diluc",
-    "title": "The Dark Side of Dawn",
-    "vision": "Pyro",
-    "weapon": "Claymore",
-    "gender": "Male",
-    "nation": "Mondstadt",
-    "affiliation": "Dawn Winery",
-    "rarity": 5,
-    "release": "2020-09-28",
-    "constellation": "Noctua",
-    "birthday": "0000-04-30",
-    "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
-    "skillTalents": [
+  "name": "Diluc",
+  "title": "The Dark Side of Dawn",
+  "vision": "Pyro",
+  "weapon": "Claymore",
+  "gender": "Male",
+  "nation": "Mondstadt",
+  "affiliation": "Dawn Winery",
+  "rarity": 5,
+  "release": "2020-09-28",
+  "constellation": "Noctua",
+  "birthday": "0000-04-30",
+  "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+  "skillTalents": [
+    {
+      "name": "Tempered Sword",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt the end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
         {
-            "name": "Tempered Sword",
-            "unlock": "Normal Attack",
-            "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt the end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
-            "upgrades": [
-                {
-                    "name": "1-Hit DMG",
-                    "value": "89.7%"
-                },
-                {
-                    "name": "2-Hit DMG",
-                    "value": "87.6%"
-                },
-                {
-                    "name": "3-Hit DMG",
-                    "value": "98.8%"
-                },
-                {
-                    "name": "4-Hit DMG",
-                    "value": "134%"
-                },
-                {
-                    "name": "Charged Attack Spinning DMG",
-                    "value": "68.8%"
-                },
-                {
-                    "name": "Charged Attack Final DMG",
-                    "value": "125%"
-                },
-                {
-                    "name": "Charged Attack Stamina Cost",
-                    "value": "40/s"
-                },
-                {
-                    "name": "Max Duration",
-                    "value": "5s"
-                },
-                {
-                    "name": "Plunge DMG",
-                    "value": "89.5%"
-                },
-                {
-                    "name": "Low / High Plunge DMG",
-                    "value": "179% / 224%"
-                }
-            ],
-            "type": "NORMAL_ATTACK"
+          "name": "1-Hit DMG",
+          "value": "89.7%"
         },
         {
-            "name": "Searing Onslaught",
-            "unlock": "Elemental Skill",
-            "description": "Performs a forward slash that deals Pyro DMG.\nThis skill can be used 3 times consecutively. Enters CD if not cast again within a short period.",
-            "upgrades": [
-                {
-                    "name": "1-Hit DMG",
-                    "value": "94.4%"
-                },
-                {
-                    "name": "2-Hit DMG",
-                    "value": "97.6%"
-                },
-                {
-                    "name": "3-Hit DMG",
-                    "value": "129%"
-                },
-                {
-                    "name": "CD",
-                    "value": "10s"
-                }
-            ],
-            "type": "ELEMENTAL_SKILL"
+          "name": "2-Hit DMG",
+          "value": "87.6%"
         },
         {
-            "name": "Dawn",
-            "unlock": "Elemental Burst",
-            "description": "Releases intense flames to knock nearby enemies back, dealing Pyro DMG. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive Pyro DMG to all enemies in its path. The Phoenix explodes upon reaching its destination, causing a large amount of AoE Pyro DMG.\n\nThe searing flames that run down his blade cause Diluc's Normal and Charged Attacks to deal Pyro DMG for a time.",
-            "upgrades": [
-                {
-                    "name": "Slashing DMG",
-                    "value": "204%"
-                },
-                {
-                    "name": "DoT",
-                    "value": "60%"
-                },
-                {
-                    "name": "Explosion DMG",
-                    "value": "204%"
-                },
-                {
-                    "name": "CD",
-                    "value": "12s"
-                },
-                {
-                    "name": "Enchantment Duration",
-                    "value": "8s"
-                },
-                {
-                    "name": "Energy Cost",
-                    "value": "40"
-                }
-            ],
-            "type": "ELEMENTAL_BURST"
+          "name": "3-Hit DMG",
+          "value": "98.8%"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "134%"
+        },
+        {
+          "name": "Charged Attack Spinning DMG",
+          "value": "68.8%"
+        },
+        {
+          "name": "Charged Attack Final DMG",
+          "value": "125%"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "40/s"
+        },
+        {
+          "name": "Max Duration",
+          "value": "5s"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "89.5%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "179% / 224%"
         }
-    ],
-    "passiveTalents": [
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Searing Onslaught",
+      "unlock": "Elemental Skill",
+      "description": "Performs a forward slash that deals Pyro DMG.\nThis skill can be used 3 times consecutively. Enters CD if not cast again within a short period.",
+      "upgrades": [
         {
-            "name": "Relentless",
-            "unlock": "Unlocked at Ascension 1",
-            "description": "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.",
-            "level": 1
+          "name": "1-Hit DMG",
+          "value": "94.4%"
         },
         {
-            "name": "Blessing of Phoenix",
-            "unlock": "Unlocked at Ascension 4",
-            "description": "The Pyro Enchantment provided by Dawn lasts for 4s longer. Additionally, Diluc gains 20% Pyro DMG Bonus during the duration of this effect.",
-            "level": 4
+          "name": "2-Hit DMG",
+          "value": "97.6%"
         },
         {
-            "name": "Tradition of the Dawn Knight",
-            "unlock": "Unlocked Automatically",
-            "description": "Refunds 15% of the ores used when crafting Claymore-type weapons."
+          "name": "3-Hit DMG",
+          "value": "129%"
+        },
+        {
+          "name": "CD",
+          "value": "10s"
         }
-    ],
-    "constellations": [
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Dawn",
+      "unlock": "Elemental Burst",
+      "description": "Releases intense flames to knock nearby enemies back, dealing Pyro DMG. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive Pyro DMG to all enemies in its path. The Phoenix explodes upon reaching its destination, causing a large amount of AoE Pyro DMG.\n\nThe searing flames that run down his blade cause Diluc's Normal and Charged Attacks to deal Pyro DMG for a time.",
+      "upgrades": [
         {
-            "name": "Conviction",
-            "unlock": "Constellation Lv. 1",
-            "description": "Diluc deals 15% more DMG to enemies whose HP is above 50%.",
-            "level": 1
+          "name": "Slashing DMG",
+          "value": "204%"
         },
         {
-            "name": "Searing Ember",
-            "unlock": "Constellation Lv. 2",
-            "description": "When Diluc takes DMG, his Base ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s.",
-            "level": 2
+          "name": "DoT",
+          "value": "60%"
         },
         {
-            "name": "Steel and Fire",
-            "unlock": "Constellation Lv. 3",
-            "description": "Increases the Level of Searing Onslaught by 3.\nMaximum upgrade level is 15.",
-            "level": 3
+          "name": "Explosion DMG",
+          "value": "204%"
         },
         {
-            "name": "Flowing Flame",
-            "unlock": "Constellation Lv. 4",
-            "description": "Casting Searing Onslaught in sequence greatly increases damage dealt.\nWithin 2s of using Searing Onslaught, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for the next 2s.",
-            "level": 4
+          "name": "CD",
+          "value": "12s"
         },
         {
-            "name": "Phoenix, Harbinger of Dawn",
-            "unlock": "Constellation Lv. 5",
-            "description": "Increases the level of Dawn by 3.\nMaximum upgrade level is 15.",
-            "level": 5
+          "name": "Enchantment Duration",
+          "value": "8s"
         },
         {
-            "name": "Flaming Sword, Nemesis of Dark",
-            "unlock": "Constellation Lv. 6",
-            "description": "After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo.",
-            "level": 6
+          "name": "Energy Cost",
+          "value": "40"
         }
-    ],
-    "vision_key": "PYRO",
-    "weapon_type": "CLAYMORE",
-    "outfits": [
-        {
-            "type": "Themed",
-            "name": "Red Dead of Night",
-            "description": "One of the outfits Diluc wears during covert actions, it resembles a flame dancing in the shadows. The crimson red traces it leave behind at the edges of the enemy's vision will scar their nightmares forever.",
-            "rarity": 4,
-            "price": 2480,
-            "image": "outfit-red-dead-of-night"
-        }
-    ],
-    "ascension_materials": {
-        "level_20": [
-            {
-                "name": "Agnidus Agate Sliver",
-                "value": 1
-            },
-            {
-                "name": "Small Lamp Grass",
-                "value": 3
-            },
-            {
-                "name": "Recruit's Insignia",
-                "value": 3
-            },
-            {
-                "name": "Mora",
-                "value": 20000
-            }
-        ],
-        "level_40": [
-            {
-                "name": "Agnidus Agate Fragment",
-                "value": 3
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 2
-            },
-            {
-                "name": "Small Lamp Grass",
-                "value": 10
-            },
-            {
-                "name": "Recruit's Insignia",
-                "value": 15
-            },
-            {
-                "name": "Mora",
-                "value": 40000
-            }
-        ],
-        "level_50": [
-            {
-                "name": "Agnidus Agate Fragment",
-                "value": 6
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 4
-            },
-            {
-                "name": "Small Lamp Grass",
-                "value": 20
-            },
-            {
-                "name": "Sergeant's Insignia",
-                "value": 12
-            },
-            {
-                "name": "Mora",
-                "value": 60000
-            }
-        ],
-        "level_60": [
-            {
-                "name": "Agnidus Agate Chunk",
-                "value": 3
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 8
-            },
-            {
-                "name": "Small Lamp Grass",
-                "value": 30
-            },
-            {
-                "name": "Sergeant's Insignia",
-                "value": 18
-            },
-            {
-                "name": "Mora",
-                "value": 80000
-            }
-        ],
-        "level_70": [
-            {
-                "name": "Agnidus Agate Chunk",
-                "value": 6
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 12
-            },
-            {
-                "name": "Small Lamp Grass",
-                "value": 45
-            },
-            {
-                "name": "Lieutenant's Insignia",
-                "value": 12
-            },
-            {
-                "name": "Mora",
-                "value": 100000
-            }
-        ],
-        "level_80": [
-            {
-                "name": "Agnidus Agate Gemstone",
-                "value": 6
-            },
-            {
-                "name": "Everflame Seed",
-                "value": 20
-            },
-            {
-                "name": "Small Lamp Grass",
-                "value": 60
-            },
-            {
-                "name": "Lieutenant's Insignia",
-                "value": 24
-            },
-            {
-                "name": "Mora",
-                "value": 120000
-            }
-        ],
-        "ascension_data": [
-            {
-                "AscensionPhase": "0",
-                "Level": "1/20",
-                "BaseHP": "1,010.52",
-                "BaseAtk": "26.07",
-                "BaseDef": "61.03",
-                "CRIT Rate": "0%"
-            },
-            {
-                "AscensionPhase": "1",
-                "Level": "20/40",
-                "BaseHP": "3,487.72",
-                "BaseAtk": "89.97",
-                "BaseDef": "210.63",
-                "CRIT Rate": "0%"
-            },
-            {
-                "AscensionPhase": "2",
-                "Level": "40/50",
-                "BaseHP": "5,834.36",
-                "BaseAtk": "150.50",
-                "BaseDef": "352.35",
-                "CRIT Rate": "4.8%"
-            },
-            {
-                "AscensionPhase": "3",
-                "Level": "50/60",
-                "BaseHP": "7,533.32",
-                "BaseAtk": "194.33",
-                "BaseDef": "454.95",
-                "CRIT Rate": "9.6%"
-            },
-            {
-                "AscensionPhase": "4",
-                "Level": "60/70",
-                "BaseHP": "9,036.18",
-                "BaseAtk": "233.10",
-                "BaseDef": "545.71",
-                "CRIT Rate": "9.6%"
-            },
-            {
-                "AscensionPhase": "5",
-                "Level": "70/80",
-                "BaseHP": "10,547.12",
-                "BaseAtk": "272.07",
-                "BaseDef": "636.96",
-                "CRIT Rate": "14.4%"
-            },
-            {
-                "AscensionPhase": "6",
-                "Level": "80/90",
-                "BaseHP": "12,068.17",
-                "BaseAtk": "311.31",
-                "BaseDef": "728.82",
-                "CRIT Rate": "19.2%"
-            }
-        ]
+      ],
+      "type": "ELEMENTAL_BURST"
     }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Relentless",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.",
+      "level": 1
+    },
+    {
+      "name": "Blessing of Phoenix",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "The Pyro Enchantment provided by Dawn lasts for 4s longer. Additionally, Diluc gains 20% Pyro DMG Bonus during the duration of this effect.",
+      "level": 4
+    },
+    {
+      "name": "Tradition of the Dawn Knight",
+      "unlock": "Unlocked Automatically",
+      "description": "Refunds 15% of the ores used when crafting Claymore-type weapons."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Conviction",
+      "unlock": "Constellation Lv. 1",
+      "description": "Diluc deals 15% more DMG to enemies whose HP is above 50%.",
+      "level": 1
+    },
+    {
+      "name": "Searing Ember",
+      "unlock": "Constellation Lv. 2",
+      "description": "When Diluc takes DMG, his Base ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s.",
+      "level": 2
+    },
+    {
+      "name": "Steel and Fire",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Searing Onslaught by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Flowing Flame",
+      "unlock": "Constellation Lv. 4",
+      "description": "Casting Searing Onslaught in sequence greatly increases damage dealt.\nWithin 2s of using Searing Onslaught, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for the next 2s.",
+      "level": 4
+    },
+    {
+      "name": "Phoenix, Harbinger of Dawn",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the level of Dawn by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Flaming Sword, Nemesis of Dark",
+      "unlock": "Constellation Lv. 6",
+      "description": "After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo.",
+      "level": 6
+    }
+  ],
+  "vision_key": "PYRO",
+  "weapon_type": "CLAYMORE",
+  "outfits": [
+    {
+      "type": "Themed",
+      "name": "Red Dead of Night",
+      "description": "One of the outfits Diluc wears during covert actions, it resembles a flame dancing in the shadows. The crimson red traces it leave behind at the edges of the enemy's vision will scar their nightmares forever.",
+      "rarity": 4,
+      "price": 2480,
+      "image": "outfit-red-dead-of-night"
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Agnidus Agate Sliver",
+        "value": 1
+      },
+      {
+        "name": "Small Lamp Grass",
+        "value": 3
+      },
+      {
+        "name": "Recruit's Insignia",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 2
+      },
+      {
+        "name": "Small Lamp Grass",
+        "value": 10
+      },
+      {
+        "name": "Recruit's Insignia",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 4
+      },
+      {
+        "name": "Small Lamp Grass",
+        "value": 20
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 8
+      },
+      {
+        "name": "Small Lamp Grass",
+        "value": 30
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 12
+      },
+      {
+        "name": "Small Lamp Grass",
+        "value": 45
+      },
+      {
+        "name": "Lieutenant's Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Agnidus Agate Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "value": 20
+      },
+      {
+        "name": "Small Lamp Grass",
+        "value": 60
+      },
+      {
+        "name": "Lieutenant's Insignia",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ],
+    "ascension_data": [
+      {
+        "AscensionPhase": "0",
+        "Level": "1/20",
+        "BaseHP": "1,010.52",
+        "BaseAtk": "26.07",
+        "BaseDef": "61.03",
+        "CRIT Rate": "0%"
+      },
+      {
+        "AscensionPhase": "1",
+        "Level": "20/40",
+        "BaseHP": "3,487.72",
+        "BaseAtk": "89.97",
+        "BaseDef": "210.63",
+        "CRIT Rate": "0%"
+      },
+      {
+        "AscensionPhase": "2",
+        "Level": "40/50",
+        "BaseHP": "5,834.36",
+        "BaseAtk": "150.50",
+        "BaseDef": "352.35",
+        "CRIT Rate": "4.8%"
+      },
+      {
+        "AscensionPhase": "3",
+        "Level": "50/60",
+        "BaseHP": "7,533.32",
+        "BaseAtk": "194.33",
+        "BaseDef": "454.95",
+        "CRIT Rate": "9.6%"
+      },
+      {
+        "AscensionPhase": "4",
+        "Level": "60/70",
+        "BaseHP": "9,036.18",
+        "BaseAtk": "233.10",
+        "BaseDef": "545.71",
+        "CRIT Rate": "9.6%"
+      },
+      {
+        "AscensionPhase": "5",
+        "Level": "70/80",
+        "BaseHP": "10,547.12",
+        "BaseAtk": "272.07",
+        "BaseDef": "636.96",
+        "CRIT Rate": "14.4%"
+      },
+      {
+        "AscensionPhase": "6",
+        "Level": "80/90",
+        "BaseHP": "12,068.17",
+        "BaseAtk": "311.31",
+        "BaseDef": "728.82",
+        "CRIT Rate": "19.2%"
+      }
+    ]
+  }
 }
