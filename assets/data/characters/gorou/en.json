@@ -168,7 +168,11 @@
   ],
   "vision_key": "GEO",
   "weapon_type": "BOW",
+<<<<<<< HEAD
   "ascension_materials": {
+=======
+  "ascension_materials" : {
+>>>>>>> parent of 3fd871f (Adding character ascensions stats (completed))
     "level_20": [
       {
         "name": "Prithiva Topaz Sliver",
@@ -296,6 +300,7 @@
         "name": "Mora",
         "value": 120000
       }
+<<<<<<< HEAD
     ],
     "ascension_data": [
       {
@@ -357,3 +362,8 @@
     ]
   }
 }
+=======
+    ]
+  }
+}
+>>>>>>> parent of 3fd871f (Adding character ascensions stats (completed))

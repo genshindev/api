@@ -308,6 +308,7 @@
         "name": "Mora",
         "value": 120000
       }
+<<<<<<< HEAD
     ],
     "ascension_data": [
       {
@@ -369,3 +370,8 @@
     ]
   }
 }
+=======
+    ]
+  }
+}
+>>>>>>> parent of 3fd871f (Adding character ascensions stats (completed))

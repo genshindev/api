@@ -95,7 +95,11 @@
         },
         {
           "name": "HP Regeneration Per Hit",
+<<<<<<< HEAD
           "value": "0.81% Max HP + 77.03"
+=======
+          "value" :"0.81% Max HP + 77.03"
+>>>>>>> parent of 3fd871f (Adding character ascensions stats (completed))
         },
         {
           "name": "Duration",
@@ -305,6 +309,7 @@
         "name": "Mora",
         "value": 120000
       }
+<<<<<<< HEAD
     ],
     "ascension_data": [
       {
@@ -366,3 +371,8 @@
     ]
   }
 }
+=======
+    ]
+  }
+}
+>>>>>>> parent of 3fd871f (Adding character ascensions stats (completed))

@@ -366,6 +366,7 @@
         "name": "Crystalline Cyst Dust",
         "value": 24
       }
+<<<<<<< HEAD
     ],
     "ascension_data": [
       {
@@ -427,3 +428,8 @@
     ]
   }
 }
+=======
+    ]
+  }
+}
+>>>>>>> parent of 3fd871f (Adding character ascensions stats (completed))

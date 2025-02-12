@@ -99,7 +99,11 @@
       "upgrades": [
         {
           "name": "Skill DMG",
+<<<<<<< HEAD
           "value": "570.24"
+=======
+          "value": "570.24"  
+>>>>>>> parent of 3fd871f (Adding character ascensions stats (completed))
         },
         {
           "name": "Cat Grass Cardamom Explosion DMG",
@@ -317,6 +321,7 @@
         "name": "Mora",
         "value": 120000
       }
+<<<<<<< HEAD
     ],
     "ascension_data": [
       {
@@ -378,3 +383,8 @@
     ]
   }
 }
+=======
+    ]
+  }
+}
+>>>>>>> parent of 3fd871f (Adding character ascensions stats (completed))

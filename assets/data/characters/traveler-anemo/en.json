@@ -273,6 +273,7 @@
         "name": "Ominous Mask",
         "value": 24
       }
+<<<<<<< HEAD
     ],
     "ascension_data": [
       {
@@ -331,6 +332,8 @@
         "BaseDef": "635.25",
         "ATK": "24.0%"
       }
+=======
+>>>>>>> parent of 3fd871f (Adding character ascensions stats (completed))
     ]
   }
 }
