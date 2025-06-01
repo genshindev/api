@@ -1,23 +1,21 @@
 ARG PORT=5000
 
-FROM node:21-alpine AS builder
-WORKDIR /usr/src/app
+FROM node:21-alpine AS base
 RUN npm install -g pnpm
-COPY package*.json ./
-COPY tsconfig.json ./
+WORKDIR /usr/src/app
+COPY package*.json pnpm-lock.yaml ./
 RUN pnpm install
+
+FROM base AS builder
+COPY tsconfig.json ./
 COPY src ./src
-COPY scripts ./scripts
-COPY assets/images/characters ./assets/images/characters
 RUN npm run build
 
-FROM node:21-alpine AS main
-WORKDIR /usr/src/app
-RUN npm install -g pnpm
-COPY package*.json ./
-RUN pnpm install --production --quiet && rm -rf ~/.local/share && rm -rf ~/.cache
+FROM base AS main
 COPY --from=builder /usr/src/app/dist ./dist
-COPY --from=builder /usr/src/app/assets ./assets
+COPY scripts ./scripts
 COPY assets ./assets
+RUN npm run gen
+RUN pnpm prune --prod
 EXPOSE ${PORT}
 CMD ["npm", "run", "start"]
