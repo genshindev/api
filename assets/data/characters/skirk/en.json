@@ -1,0 +1,339 @@
+{
+  "name": "Skirk",
+  "title": "Void Star",
+  "vision": "Cryo",
+  "weapon": "Sword",
+  "gender": "Female",
+  "nation": null,
+  "affiliation": "Cosmic Calamity",
+  "rarity": 5,
+  "release_date": "2025-06-18",
+  "birthday": "0000-11-05",
+  "constellation": "Crystallina",
+  "description": "A visitor who once appeared in an Abyssal rift and the Primordial Sea, this solitary warrior mentored Tartaglia in the martial arts.",
+  "skillTalents": [
+    {
+      "name": "Havoc: Sunder",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 5 consecutive attacks. Charged Attack Consumes a certain amount of Stamina to hurl a spinning crystal spear, dealing DMG to opponents ahead. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "54.52"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "49.79"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "32.42+32.42"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "60.8"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "82.9"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "66.82 × 2"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "127.84"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "159.68"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Havoc: Warp",
+      "unlock": "Elemental Skill",
+      "description": "Imitates the combat style of \"The Foul.\" Produces different effects depending on whether you Tap or Hold. Tap Skirk gains 45 Serpent's Subtlety Serpent's Subtlety Skirk can consume Serpent's Subtlety to maintain her Seven-Phase Flash mode or to use her Elemental Burst, Havoc: Ruin. Skirk can gain Serpent's Subtlety points in the following ways: After using her Elemental Skill, Havoc: Warp. After triggering the effect of her Ascension Talent, Reason Beyond Reason, and absorbing Void Rifts. When Skirk leaves the field while in Seven-Phase Flash mode or when Seven-Phase Flash ends, her Serpent's Subtlety points will be removed. and switches to Seven-Phase Flash Seven-Phase Flash Skirk will switch to this mode for a fixed time when using the Elemental Skill Havoc: Warp. This mode has the following properties: Continuously consumes Serpent's Subtlety. Increases Normal and Charged Attack AoE and Skirk's interruption resistance. Normal, Charged, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other Elemental infusions. Her Elemental Burst, Havoc: Ruin is converted to the special Elemental Burst Havoc: Extinction. Skirk can move on water when she Sprints. Skirk will exit this mode when Serpent's Subtlety is fully depleted or its duration ends. Then, the Elemental Skill will go on cooldown. mode. Hold Skirk gains 45 Serpent's Subtlety and will continuously move at high speed. Her interruption resistance is increased in this state. During this time, Skirk can control her movement direction and move atop water . She can also use this Skill again to end rapid movement prematurely.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "132.82"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "119.8"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "75.72+75.72"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "80.54+80.54"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "196.62"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "44.55 × 3"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "127.84"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "159.68"
+        },
+        {
+          "name": "Seven-Phase Flash Mode Duration",
+          "value": "12.5s"
+        },
+        {
+          "name": "Max Serpent's Subtlety",
+          "value": "100"
+        },
+        {
+          "name": "CD",
+          "value": "8s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Havoc: Ruin",
+      "unlock": "Elemental Burst",
+      "description": "Skirk's Elemental Burst is not reliant on Elemental Energy but instead on Serpent's Subtlety Serpent's Subtlety Skirk can consume Serpent's Subtlety to maintain her Seven-Phase Flash mode or to use her Elemental Burst, Havoc: Ruin. Skirk can gain Serpent's Subtlety points in the following ways: After using her Elemental Skill, Havoc: Warp. After triggering the effect of her Ascension Talent, Reason Beyond Reason, and absorbing Void Rifts. When Skirk leaves the field while in Seven-Phase Flash mode or when Seven-Phase Flash ends, her Serpent's Subtlety points will be removed. . When Skirk has at least 50 Serpent's Subtlety, she can expend all her Serpent's Subtlety to unleash her Elemental Burst, ripping the space before her apart and using rapid consecutive slashes that deal AoE Cryo DMG . At the same time, the DMG dealt by an instance of this Elemental Burst will be increased by every point of Serpent's Subtlety over 50 when it is unleashed. Up to 12 points can be counted for this purpose. When Skirk is in Seven-Phase Flash Seven-Phase Flash Skirk will switch to this mode for a fixed time when using the Elemental Skill Havoc: Warp. This mode has the following properties: Continuously consumes Serpent's Subtlety. Increases Normal and Charged Attack AoE and Skirk's interruption resistance. Normal, Charged, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other Elemental infusions. Her Elemental Burst, Havoc: Ruin is converted to the special Elemental Burst Havoc: Extinction. Skirk can move on water when she Sprints. Skirk will exit this mode when Serpent's Subtlety is fully depleted or its duration ends. Then, the Elemental Skill will go on cooldown. mode, Havoc: Ruin will be replaced by Havoc: Extinction. Havoc: Extinction A special Elemental Burst that can be used even without consuming Serpent's Subtlety. After using it, Skirk will gain the \"All Shall Wither\" effect, which will last until Seven-Phase Flash ends. After unlocking the Ascension Talent Reason Beyond Reason Reason Beyond Reason When nearby party members trigger Frozen, Superconduct, Cryo Swirl, or Cryo Crystallize reactions against opponents, a Void Rift will be created near this opponent. This effect can be triggered once every 2.5s. A maximum of 3 Void Rifts created by Skirk herself can exist on the field at once. Skirk can use the following methods to absorb nearby Void Rifts: When she hits an opponent with a Charged Attack in her Seven-Phase Flash mode. When she uses the special Elemental Burst Havoc: Extinction while in Seven-Phase Flash mode. When she Holds her Elemental Skill Havoc: Warp to engage in rapid movement. Each Rift absorbed will grant her 8 Serpent's Subtlety points. , she can also absorb nearby Void Rifts. While \"All Shall Wither\" is active, every 0.1s, after Skirk's Normal Attack hits an opponent, that Normal Attack will deal increased DMG. If she absorbed any Void Rifts while using Havoc: Extinction, this Normal Attack's DMG will be further increased based on the number of Rifts absorbed. This effect will be canceled when it has triggered 10 times.",
+      "upgrades": [
+        {
+          "name": "Slash DMG",
+          "value": "122.76 ×5"
+        },
+        {
+          "name": "Final Slash DMG",
+          "value": "204.6"
+        },
+        {
+          "name": "Serpent's Subtlety Bonus",
+          "value": "19.32% ATK Per Point"
+        },
+        {
+          "name": "0/1/2/3 Void Rift Absorption DMG Bonus",
+          "value": "3.5 / 6.6 / 8.8 / 11"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Reason Beyond Reason",
+      "unlock": "1st Ascension Passive",
+      "description": "When nearby party members trigger Frozen, Superconduct, Cryo Swirl, or Cryo Crystallize reactions against opponents, a Void Rift will be created near this opponent. This effect can be triggered once every 2.5s. 3 Void Rifts created by Skirk herself can exist on the field at once. Skirk can use the following methods to absorb nearby Void Rifts: When she hits an opponent with a Charged Attack in her Seven-Phase Flash Seven-Phase Flash Skirk will switch to this mode for a fixed time when using the Elemental Skill Havoc: Warp. This mode has the following properties: Continuously consumes Serpent's Subtlety. Increases Normal and Charged Attack AoE and Skirk's interruption resistance. Normal, Charged, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other Elemental infusions. Her Elemental Burst, Havoc: Ruin is converted to the special Elemental Burst Havoc: Extinction. Skirk can move on water when she Sprints. Skirk will exit this mode when Serpent's Subtlety is fully depleted or its duration ends. Then, the Elemental Skill will go on cooldown. mode. When she uses the special Elemental Burst Havoc: Extinction while in Seven-Phase Flash mode. When she Holds her Elemental Skill Havoc: Warp to engage in rapid movement. Each Rift absorbed will grant her 8 Serpent's Subtlety Serpent's Subtlety Skirk can consume Serpent's Subtlety to maintain her Seven-Phase Flash mode or to use her Elemental Burst, Havoc: Ruin. Skirk can gain Serpent's Subtlety points in the following ways: After using her Elemental Skill, Havoc: Warp. After triggering the effect of her Ascension Talent, Reason Beyond Reason, and absorbing Void Rifts. When Skirk leaves the field while in Seven-Phase Flash mode or when Seven-Phase Flash ends, her Serpent's Subtlety points will be removed. points.",
+      "level": 1
+    },
+    {
+      "name": "Return to Oblivion",
+      "unlock": "4th Ascension Passive",
+      "description": "When nearby Hydro party members' Hydro attacks hit opponents, or when nearby Cryo party members apart from Skirk hit opponents with Cryo attacks, Skirk will gain the \"Death's Crossing\" effect for 20s. Max 3 stacks, each stack's duration is counted independently. Each character can grant Skirk at most 1 \"Death's Crossing\" stack by this means. Each \"Death's Crossing\" stack increases the Normal Attack DMG dealt by Skirk in Seven-Phase Flash Seven-Phase Flash Skirk will switch to this mode for a fixed time when using the Elemental Skill Havoc: Warp. This mode has the following properties: Continuously consumes Serpent's Subtlety. Increases Normal and Charged Attack AoE and Skirk's interruption resistance. Normal, Charged, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other Elemental infusions. Her Elemental Burst, Havoc: Ruin is converted to the special Elemental Burst Havoc: Extinction. Skirk can move on water when she Sprints. Skirk will exit this mode when Serpent's Subtlety is fully depleted or its duration ends. Then, the Elemental Skill will go on cooldown. mode to 110%/120%/170% of its original DMG and the DMG dealt when using her Elemental Burst Havoc: Ruin to 105%/115%/160% of its original DMG.",
+      "level": 4
+    },
+    {
+      "name": "Mutual Weapons Mentorship",
+      "unlock": "Utility Passive",
+      "description": "When all party members are either Hydro or Cryo , and if there is at least 1 Hydro and 1 Cryo character, your own party members' Elemental Skill Level is increased by 1."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Far to Fall",
+      "unlock": "Constellation Lv. 1",
+      "description": "Description Advanced Properties Enhances the effects of the Ascension Talent Reason Beyond Reason Reason Beyond Reason When nearby party members trigger Frozen, Superconduct, Cryo Swirl, or Cryo Crystallize reactions against opponents, a Void Rift will be created near this opponent. This effect can be triggered once every 2.5s. A maximum of 3 Void Rifts created by Skirk herself can exist on the field at once. Skirk can use the following methods to absorb nearby Void Rifts: When she hits an opponent with a Charged Attack in her Seven-Phase Flash mode. When she uses the special Elemental Burst Havoc: Extinction while in Seven-Phase Flash mode. When she Holds her Elemental Skill Havoc: Warp to engage in rapid movement. Each Rift absorbed will grant her 8 Serpent's Subtlety points. : Every Void Rift absorbed will summon a crystal blade to attack nearby opponents, dealing 500% of Skirk's ATK as Cryo DMG . This DMG is considered Charged Attack DMG. You must first unlock the Ascension Talent Reason Beyond Reason. Gauge Units Internal Cooldown Poise Damage Stagger Effect Blunt ‍ Tag Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ Type Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ S. L. Stagger Level ‍ ‍ H. F. Horizontal Force ‍ ‍ V. F. Vertical Force ‍ Crystal Blade 1U Skirk Constellation 2.5s/3 Hits 75 Heavy 200 0 ✘",
+      "level": 1
+    },
+    {
+      "name": "Into the Abyss",
+      "unlock": "Constellation Lv. 2",
+      "description": "After unleashing her Elemental Skill Havoc: Warp , Skirk will gain 10 additional Serpent's Subtlety Serpent's Subtlety Skirk can consume Serpent's Subtlety to maintain her Seven-Phase Flash mode or to use her Elemental Burst, Havoc: Ruin. Skirk can gain Serpent's Subtlety points in the following ways: After using her Elemental Skill, Havoc: Warp. After triggering the effect of her Ascension Talent, Reason Beyond Reason, and absorbing Void Rifts. When Skirk leaves the field while in Seven-Phase Flash mode or when Seven-Phase Flash ends, her Serpent's Subtlety points will be removed. points. When using her Elemental Burst Havoc: Ruin , the DMG of this Elemental Burst instance will be increased by taking up to 10 more Serpent's Subtlety points into account. Additionally, within 12.5s after Skirk unleashes the special Elemental Burst Havoc: Extinction while in her Seven-Phase Flash Seven-Phase Flash Skirk will switch to this mode for a fixed time when using the Elemental Skill Havoc: Warp. This mode has the following properties: Continuously consumes Serpent's Subtlety. Increases Normal and Charged Attack AoE and Skirk's interruption resistance. Normal, Charged, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other Elemental infusions. Her Elemental Burst, Havoc: Ruin is converted to the special Elemental Burst Havoc: Extinction. Skirk can move on water when she Sprints. Skirk will exit this mode when Serpent's Subtlety is fully depleted or its duration ends. Then, the Elemental Skill will go on cooldown. mode, her ATK is increased by 70%. This effect will be canceled when she leaves the Seven-Phase Flash mode.",
+      "level": 2
+    },
+    {
+      "name": "Serendipitous Sin",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Havoc: Ruin by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Fractured Flow",
+      "unlock": "Constellation Lv. 4",
+      "description": "Enhances the effects of the Ascension Talent Return to Oblivion Return to Oblivion When nearby Hydro party members' Hydro attacks hit opponents, or when nearby Cryo party members apart from Skirk hit opponents with Cryo attacks, Skirk will gain the \"Death's Crossing\" effect for 20s. Max 3 stacks, each stack's duration is counted independently. Each character can grant Skirk at most 1 \"Death's Crossing\" stack by this means. Each \"Death's Crossing\" stack increases the Normal Attack DMG dealt by Skirk in Seven-Phase Flash mode to 110%/120%/170% of its original DMG and the DMG dealt when using her Elemental Burst Havoc: Ruin to 105%/115%/160% of its original DMG. : Each Death's Crossing stack also increases Skirk's ATK by 10%/20%/40%. You must first unlock the Ascension Talent Return to Oblivion.",
+      "level": 4
+    },
+    {
+      "name": "End of Wishes",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Havoc: Warp by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "To the Source",
+      "unlock": "Constellation Lv. 6",
+      "description": "Description Advanced Properties Each Void Rift Skirk absorbs via the effects of the Ascension Talent Reason Beyond Reason Reason Beyond Reason When nearby party members trigger Frozen, Superconduct, Cryo Swirl, or Cryo Crystallize reactions against opponents, a Void Rift will be created near this opponent. This effect can be triggered once every 2.5s. A maximum of 3 Void Rifts created by Skirk herself can exist on the field at once. Skirk can use the following methods to absorb nearby Void Rifts: When she hits an opponent with a Charged Attack in her Seven-Phase Flash mode. When she uses the special Elemental Burst Havoc: Extinction while in Seven-Phase Flash mode. When she Holds her Elemental Skill Havoc: Warp to engage in rapid movement. Each Rift absorbed will grant her 8 Serpent's Subtlety points. will grant her 1 Havoc: Sever stack. She can consume such stacks to initiate coordinated attacks and decrease the DMG she takes while in Seven-Phase Flash Seven-Phase Flash Skirk will switch to this mode for a fixed time when using the Elemental Skill Havoc: Warp. This mode has the following properties: Continuously consumes Serpent's Subtlety. Increases Normal and Charged Attack AoE and Skirk's interruption resistance. Normal, Charged, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other Elemental infusions. Her Elemental Burst, Havoc: Ruin is converted to the special Elemental Burst Havoc: Extinction. Skirk can move on water when she Sprints. Skirk will exit this mode when Serpent's Subtlety is fully depleted or its duration ends. Then, the Elemental Skill will go on cooldown. mode. These stacks last for 15s, and each stack's duration is counted independently (max 3 stacks). You must first unlock the Ascension Talent \"Reason Beyond Reason.\" Havoc: Sever When Skirk uses the Elemental Burst Havoc: Ruin , she will consume all Havoc: Sever stacks to initiate a coordinated attack in which each Havoc: Sever stack will deal 750% of Skirk's ATK as Cryo DMG . This DMG is considered Elemental Burst DMG. When she uses Normal Attacks while in Seven-Phase Flash mode, 1 Havoc: Sever stack will be consumed when her third or fifth sequenced attacks hit an opponent to launch 3 coordinated attacks. Each coordinated attack deals 180% of Skirk's ATK as Cryo DMG . This damage is considered Normal Attack DMG. When Skirk takes DMG while in Seven-Phase Flash mode, 1 Havoc: Sever stack will be consumed to decrease this DMG instance by 80% and attack nearby opponents 3 times, with each attack dealing 180% of Skirk's ATK as Cryo DMG . This DMG is considered Charged Attack DMG. Gauge Units Internal Cooldown Poise Damage Stagger Effect Blunt ‍ Tag Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ Type Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ S. L. Stagger Level ‍ ‍ H. F. Horizontal Force ‍ ‍ V. F. Vertical Force ‍ Extra Elemental Burst DMG 1U Elemental Burst 2.5s/3 Hits 40 Light 200 0 ✘ Extra Normal Attack DMG 1U Normal Attack 2.5s/3 Hits 40 Heavy 200 0 ✘ Extra Charged Attack DMG 1U Skirk Constellation 2.5s/3 Hits 40 Heavy 200 0 ✘",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Shivada Jade Sliver",
+        "value": 1
+      },
+      {
+        "name": "Skysplit Gembloom",
+        "value": 3
+      },
+      {
+        "name": "Meshing Gear",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Ensnaring Gaze",
+        "value": 2
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 3
+      },
+      {
+        "name": "Skysplit Gembloom",
+        "value": 10
+      },
+      {
+        "name": "Meshing Gear",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Ensnaring Gaze",
+        "value": 4
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 6
+      },
+      {
+        "name": "Skysplit Gembloom",
+        "value": 20
+      },
+      {
+        "name": "Mechanical Spur Gear",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Ensnaring Gaze",
+        "value": 8
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 3
+      },
+      {
+        "name": "Skysplit Gembloom",
+        "value": 30
+      },
+      {
+        "name": "Mechanical Spur Gear",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Ensnaring Gaze",
+        "value": 12
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 6
+      },
+      {
+        "name": "Skysplit Gembloom",
+        "value": 45
+      },
+      {
+        "name": "Artificed Dynamic Gear",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Ensnaring Gaze",
+        "value": 20
+      },
+      {
+        "name": "Shivada Jade Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Skysplit Gembloom",
+        "value": 60
+      },
+      {
+        "name": "Artificed Dynamic Gear",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

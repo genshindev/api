@@ -1,0 +1,292 @@
+{
+  "name": "Ororon",
+  "title": "Shadow of the Night-Wind",
+  "vision": "Electro",
+  "weapon": "Bow",
+  "gender": "Male",
+  "nation": "Natlan",
+  "affiliation": "Masters of the Night-Wind",
+  "rarity": 4,
+  "release_date": "2024-11-20",
+  "birthday": "0000-10-14",
+  "constellation": "Vampyrum Spectrum",
+  "description": "A young man from the Masters of the Night-Wind who instead lives in the wild alongside all manner of life.",
+  "skillTalents": [
+    {
+      "name": "Spiritvessel Snapshot",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 3 consecutive shots with a bow. Charged Attack Performs a more precise Aimed Shot with increased DMG. While aiming, Electro energy will accumulate on the arrowhead. A fully charged arrow will deal immense Electro DMG . Plunging Attack Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "50.64"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "44.37"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "69.82"
+        },
+        {
+          "name": "Aimed Shot",
+          "value": "43.86"
+        },
+        {
+          "name": "Fully-Charged Aimed Shot",
+          "value": "124"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "113.63"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "141.93"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Night's Sling",
+      "unlock": "Elemental Skill",
+      "description": "Ororon manifests an ancient mystical technique from the Masters of the Night-Wind as a Spirit Orb of midnight shade and throws it at his foe, dealing Nightsoul -aligned Electro DMG . When other opponents are nearby, the Spirit Orb will bounce between them, dealing Nightsoul-aligned Electro DMG . Each time Night's Sling is used, each opponent can only be selected as a target once. After 3 bounces, or if there are no eligible targets left, the Orb will disappear.",
+      "upgrades": [
+        {
+          "name": "Spirit Orb DMG",
+          "value": "197.6"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Dark Voices Echo",
+      "unlock": "Elemental Burst",
+      "description": "Ororon works an ancient ritual, dealing Nightsoul-aligned AoE Electro DMG , summoning forth a Supersonic Oculus. Supersonic Oculus Continuously taunts nearby opponents and attracts attacks from them. Continuously rotates and fires off sonic waves that deal Nightsoul -aligned Electro DMG .",
+      "upgrades": [
+        {
+          "name": "Ritual DMG",
+          "value": "174.38"
+        },
+        {
+          "name": "Soundwave Collision DMG",
+          "value": "33.2"
+        },
+        {
+          "name": "Duration",
+          "value": "9s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Nightshade Synesthesia",
+      "unlock": "1st Ascension Passive",
+      "description": "After a nearby party member triggers Nightsoul Burst , Ororon will gain 40 Nightsoul points . Within 15s after using his Elemental Skill , when other party members' Hydro or Electro attacks hit opponents, Ororon will gain 5 Nightsoul points, an effect that can occur every 0.3s for a maximum of 10 times during this 15s duration. Ororon can have a maximum of 80 Nightsoul points. Also, when nearby opponents take Electro-Charged or Lunar-Charged reaction DMG or Nightsoul-aligned DMG dealt by other nearby characters, Ororon will consume 10 Nightsoul points (provided he has at least that amount), entering the Nightsoul's Blessing state and triggering the Hypersense effect: Deal Nightsoul-aligned Electro DMG based on 160% of Ororon's ATK to at most 4 nearby opponents. The aforementioned effect can trigger once every 1.8s. Nightsoul's Blessing: Ororon Ororon's Nightsoul's Blessing state lasts 6s.",
+      "level": 1
+    },
+    {
+      "name": "Aspect Catalyst",
+      "unlock": "4th Ascension Passive",
+      "description": "After the Elemental Skill Night's Sling 's Spirit Orb hits an opponent, Ororon will gain the Aspect Sigil effect for 15s. Aspect Sigil When a nearby active party member hits an opponent with Normal, Charged, or Plunging Attacks, that character will restore 3 Energy. If Ororon is off-field, Ororon will also restore 3 Energy. This effect can trigger once every 1s, and can trigger 3 times per duration.",
+      "level": 4
+    },
+    {
+      "name": "Flowing Fog, Spritely Shadows",
+      "unlock": "Night Realm's Gift Passive",
+      "description": "While in an area with Phlogiston Mechanics within Natlan , he can use Nightsoul Transmission: Ororon. When the active character is currently in the air, the following will trigger when switching to Ororon: Ororon will leap up high. Nightsoul Transmission can be triggered once every 10s by your party. Holding Aiming Mode will cause Ororon to enter the \"Spiritspeaker\" state, which will allow him to interact with \"Nightspirit Graffiti\" and \"Nightspirit Sigils,\" extracting information and power from them. The rules for interacting with these objects follow the same rules as those governing Iktomisaurus interactions. Additionally, holding the jump button will cause Ororon to consume 75 Stamina and leap. In areas within Natlan where Phlogiston mechanics are present, Ororon will prioritize consuming 5 Phlogiston to leap to a height higher still. When in the air, Ororon can Hold his Normal Attack to consume Phlogiston or Stamina and enter Aiming Mode."
+    },
+    {
+      "name": "The Art of Skinchanging",
+      "unlock": "Utility Passive",
+      "description": "Increases gliding SPD for your own party members by 15%. Not stackable with Passive Talents that provide the exact same effects."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Trails Amidst the Forest Fog",
+      "unlock": "Constellation Lv. 1",
+      "description": "The Elemental Skill Night's Sling 's Spirit Orb can bounce 2 additional times. Additionally, after the Spirit Orb hits an opponent, it will apply the Nighttide effect to them for 12s. Opponents affected by Nighttide take 50% increased DMG from Hypersense triggered by the Ascension Talent, \"Nightshade Synesthesia.\" You must first unlock the Ascension Talent \"Nightshade Synesthesia.\"",
+      "level": 1
+    },
+    {
+      "name": "King Bee of the Hidden Honeyed Wine",
+      "unlock": "Constellation Lv. 2",
+      "description": "After using his Elemental Burst, Dark Voices Echo , Ororon will obtain the Spiritual Supersense effect for 9s. Spiritual Supersense Gain 8% Electro DMG Bonus . Additionally, during this time, every additional opponent hit by the Elemental Burst Dark Voices Echo or Supersonic Oculus will grant Ororon a further 8% Electro DMG Bonus . The maximum that can be gained this way is 32% Electro DMG Bonus .",
+      "level": 2
+    },
+    {
+      "name": "Roosting Bat's Spiritcage",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Dark Voices Echo by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "As the Mysteries of the Night Wind",
+      "unlock": "Constellation Lv. 4",
+      "description": "The Supersonic Oculus summoned by the Elemental Burst Dark Voices Echo rotates 25% faster. Additionally, Ororon will restore 8 Energy to himself after using Dark Voices Echo.",
+      "level": 4
+    },
+    {
+      "name": "A Gift For the Soul",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Night's Sling by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Ode to Deep Springs",
+      "unlock": "Constellation Lv. 6",
+      "description": "After triggering Hypersense through the Ascension Talent, Nightshade Synesthesia, your current active character's ATK is increased by 10% for 9s. Max 3 stacks, each stack is counted independently. Additionally, when you use the Elemental Burst Dark Voices Echo , you will trigger one instance of an effect equivalent to Hypersense, dealing 200% of its original DMG. You must first unlock the Ascension Talent \"Nightshade Synesthesia.\"",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "value": 1
+      },
+      {
+        "name": "Glowing Hornshroom",
+        "value": 3
+      },
+      {
+        "name": "Juvenile Fang",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Mark of the Binding Blessing",
+        "value": 2
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 3
+      },
+      {
+        "name": "Glowing Hornshroom",
+        "value": 10
+      },
+      {
+        "name": "Juvenile Fang",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Mark of the Binding Blessing",
+        "value": 4
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 6
+      },
+      {
+        "name": "Glowing Hornshroom",
+        "value": 20
+      },
+      {
+        "name": "Seasoned Fang",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Mark of the Binding Blessing",
+        "value": 8
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 3
+      },
+      {
+        "name": "Glowing Hornshroom",
+        "value": 30
+      },
+      {
+        "name": "Seasoned Fang",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Mark of the Binding Blessing",
+        "value": 12
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 6
+      },
+      {
+        "name": "Glowing Hornshroom",
+        "value": 45
+      },
+      {
+        "name": "Tyrant's Fang",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Mark of the Binding Blessing",
+        "value": 20
+      },
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Glowing Hornshroom",
+        "value": 60
+      },
+      {
+        "name": "Tyrant's Fang",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

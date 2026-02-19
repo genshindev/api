@@ -1,0 +1,303 @@
+{
+  "name": "Yumemizuki Mizuki",
+  "title": "Embrace of Enchanting Dreams",
+  "vision": "Anemo",
+  "weapon": "Catalyst",
+  "gender": "Female",
+  "nation": "Inazuma",
+  "affiliation": "Inazuma",
+  "rarity": 5,
+  "release_date": "2025-02-12",
+  "birthday": "0000-03-16",
+  "constellation": "Tapirus Somniator",
+  "description": "A shareholder of Aisa Bathhouse, a baku, and a clinical psychologist. Dedicated to the dispersal of nightmares, and to bringing people peace of mind.",
+  "skillTalents": [
+    {
+      "name": "Pure Heart, Pure Dreams",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 3 attacks, dealing Anemo DMG . Charged Attack Consumes a certain amount of Stamina and deals AoE Anemo DMG after a short casting time. Plunging Attack Calling upon the power of Anemo, she plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Anemo DMG upon impact with the ground.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "52.28"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "46.91"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "71.37"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "130"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "113.63"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "141.93"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Aisa Utamakura Pilgrimage",
+      "unlock": "Elemental Skill",
+      "description": "Weaves memories of lovely dreams, entering a Dreamdrifter state where she floats above the ground, and dealing 1 instance of AoE Anemo DMG to nearby opponents. Dreamdrifter While in the Dreamdrifter state, Yumemizuki Mizuki will continuously drift forward, dealing AoE Anemo DMG to nearby opponents at regular intervals. During this time, Yumemizuki Mizuki can control her direction of drift, and the pick-up distance of Yumemi Style Special Snacks from the Elemental Burst Anraku Secret Spring Therapy will be increased. Increases the Swirl DMG that nearby party members deal based on Yumemizuki Mizuki's Elemental Mastery . Dreamdrifter will end when Mizuki leaves the field or uses her Elemental Skill again.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "57.74"
+        },
+        {
+          "name": "Continuous Attack DMG",
+          "value": "44.91"
+        },
+        {
+          "name": "Dreamdrifter Duration",
+          "value": "5s"
+        },
+        {
+          "name": "Elemental Mastery-Based Swirl DMG Increase",
+          "value": "0.18% per Point"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Anraku Secret Spring Therapy",
+      "unlock": "Elemental Burst",
+      "description": "Summons forth countless lovely dreams and nightmares that pull in nearby objects and opponents, dealing AoE Anemo DMG and summoning a Mini Baku. Mini Baku: Follows the current active character. At regular intervals, the Mini Baku will create 1 Yumemi Style Special Snack nearby. After a nearby active character picks up a Special Snack, if their HP is higher than 70%, the Snack will explode and unleash a Munen Shockwave, dealing 1 instance of AoE Anemo DMG to nearby opponents. Otherwise, it will heal the one who picked it up based on Yumemizuki Mizuki's Elemental Mastery . When Yumemizuki Mizuki triggers healing by picking up a Yumemi Style Special Snack, the amount of healing is increased by 100%. If some time passes without a Snack being picked up, it will explode and release a Munen Shockwave, dealing 1 instance of AoE Anemo DMG to surrounding opponents.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "94.08"
+        },
+        {
+          "name": "Munen Shockwave DMG",
+          "value": "70.56"
+        },
+        {
+          "name": "Snack Pick-Up HP Regeneration",
+          "value": "130.56% Elemental Mastery+315"
+        },
+        {
+          "name": "Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Bright Moon's Restless Voice",
+      "unlock": "1st Ascension Passive",
+      "description": "When Yumemizuki Mizuki triggers Swirl while in her Dreamdrifter state, Dreamdrifter's duration increases by 2.5s. This effect can trigger once every 0.3s for a maximum of 2 times per Dreamdrifter state.",
+      "level": 1
+    },
+    {
+      "name": "Thoughts by Day Bring Dreams by Night",
+      "unlock": "4th Ascension Passive",
+      "description": "While Yumemizuki Mizuki is in the Dreamdrifter state, when other nearby party members hit opponents with Pyro , Hydro , Cryo , or Electro attacks, her Elemental Mastery will increase by 100 for 4s.",
+      "level": 4
+    },
+    {
+      "name": "All Ailments Banished",
+      "unlock": "Utility Passive",
+      "description": "When Yumemizuki Mizuki is in the party , party members have a chance to recover 30% additional HP when using healing foods that do not have reviving properties. The trigger chance for this effect increases with the corresponding character's Friendship Level . (This effect will always trigger if the Traveler is the character consuming healing food.)"
+    }
+  ],
+  "constellations": [
+    {
+      "name": "In Mist-Like Waters",
+      "unlock": "Constellation Lv. 1",
+      "description": "Description Gameplay Notes When Yumemizuki Mizuki is in the Dreamdrifter state, she will continuously apply the \"Twenty-Three Nights' Awaiting\" effect to nearby opponents for 3s every 3.5s. When an opponent is affected by Anemo DMG-triggered Swirl reactions while the aforementioned effect is active, the effect will be canceled and this Swirl instance has its DMG against this opponent increased by 1,100% of Mizuki's Elemental Mastery. The DMG increase provided by this Constellation is as inserted to the Swirl DMG calculation as follows: DMG Swirl = [ 0.6 × Level Multiplier Attacker × ( 1 + % EM Bonus Transformative + % Reaction Bonus Swirl ) + Mizuki C1 Bonus ] × RES Multiplier Target {\\displaystyle {\\begin{aligned}{\\text{DMG}}_{\\text{Swirl}}=&[0.6\\times {\\text{Level Multiplier}}_{\\text{Attacker}}\\\\&\\times (1+\\%{\\text{EM Bonus}}_{\\text{Transformative}}+\\%{\\text{Reaction Bonus}}_{\\text{Swirl}})\\\\&+{\\text{Mizuki C1 Bonus}}]\\times {\\text{RES Multiplier}}_{\\text{Target}}\\end{aligned}}}",
+      "level": 1
+    },
+    {
+      "name": "Your Echo I Meet in Dreams",
+      "unlock": "Constellation Lv. 2",
+      "description": "When Yumemizuki Mizuki enters the Dreamdrifter state, every Elemental Mastery point she has will increase all nearby party members' Pyro , Hydro , Cryo , and Electro DMG Bonuses by 0.04% until the Dreamdrifter state ends.",
+      "level": 2
+    },
+    {
+      "name": "Till Dawn's Moon Ends Night",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Aisa Utamakura Pilgrimage by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Buds Warm Lucid Springs",
+      "unlock": "Constellation Lv. 4",
+      "description": "Picking up a Yumemi Style Special Snack from the Elemental Burst Anraku Secret Spring Therapy will both deal DMG and heal, and will restore 5 Energy to Yumemizuki Mizuki. Energy can be restored this way 4 times per Anraku Secret Spring Therapy duration.",
+      "level": 4
+    },
+    {
+      "name": "As Setting Moon Brings Year's End",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Anraku Secret Spring Therapy by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "The Heart Lingers Long",
+      "unlock": "Constellation Lv. 6",
+      "description": "While Yumemizuki Mizuki is in the Dreamdrifter state, Swirl DMG dealt by nearby party members can Crit, with CRIT Rate fixed at 30%, and CRIT DMG fixed at 100%.",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vayuda Turquoise Sliver",
+        "value": 1
+      },
+      {
+        "name": "Sea Ganoderma",
+        "value": 3
+      },
+      {
+        "name": "Old Handguard",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Talisman of the Enigmatic Land",
+        "value": 2
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 3
+      },
+      {
+        "name": "Sea Ganoderma",
+        "value": 10
+      },
+      {
+        "name": "Old Handguard",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Talisman of the Enigmatic Land",
+        "value": 4
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 6
+      },
+      {
+        "name": "Sea Ganoderma",
+        "value": 20
+      },
+      {
+        "name": "Kageuchi Handguard",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Talisman of the Enigmatic Land",
+        "value": 8
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 3
+      },
+      {
+        "name": "Sea Ganoderma",
+        "value": 30
+      },
+      {
+        "name": "Kageuchi Handguard",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Talisman of the Enigmatic Land",
+        "value": 12
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 6
+      },
+      {
+        "name": "Sea Ganoderma",
+        "value": 45
+      },
+      {
+        "name": "Famed Handguard",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Talisman of the Enigmatic Land",
+        "value": 20
+      },
+      {
+        "name": "Vayuda Turquoise Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Sea Ganoderma",
+        "value": 60
+      },
+      {
+        "name": "Famed Handguard",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

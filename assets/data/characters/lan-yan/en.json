@@ -1,0 +1,291 @@
+{
+  "name": "Lan Yan",
+  "title": "Spring Woven From Jade",
+  "vision": "Anemo",
+  "weapon": "Catalyst",
+  "gender": "Female",
+  "nation": "Liyue",
+  "affiliation": "Chenyu Vale",
+  "rarity": 4,
+  "release_date": "2025-01-21",
+  "birthday": "0000-01-06",
+  "constellation": "Hirundo Lazuli",
+  "description": "A rattan weaver from Chenyu Vale. Clear-minded and well-tempered, she is as lively as a mountain spring.",
+  "skillTalents": [
+    {
+      "name": "Black Pheasant Strides on Water",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Wields her Feathermoon Rings to perform up to 4 attacks, dealing Anemo DMG . Charged Attack Consumes a certain amount of Stamina to throw out a Feathermoon Ring, dealing Anemo DMG . Plunging Attack Gathers the power of Anemo and plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Anemo DMG upon impact with the ground.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "41.44"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "20.41+24.95"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "26.92+26.92"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "64.56"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "37.84 × 3"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "113.63"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "141.93"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Swallow-Wisp Pinion Dance",
+      "unlock": "Elemental Skill",
+      "description": "Summoning forth the Swallow-Wisp Shield, a secret art passed down across generations, Lan Yan dashes forward and, upon making contact with her target, will leap back into the air. The Swallow-Wisp Shield's DMG absorption scales based on her ATK , and has a 250% absorption efficiency against Anemo DMG . While in mid-air due to the effects of her Elemental Skill: Swallow-Wisp Pinion Dance, pressing her Elemental Skill again or pressing Normal Attack will cause Lan Yan to hurl her Feathermoon Rings at an opponent, and they will spin between nearby opponents twice upon hit, dealing Anemo DMG . Holding the Skill will cause it to behave differently. Hold Enter Aiming Mode to adjust the dash direction.",
+      "upgrades": [
+        {
+          "name": "Feathermoon Ring DMG",
+          "value": "96.26"
+        },
+        {
+          "name": "Shield DMG Absorption",
+          "value": "276.48% ATK+1156"
+        },
+        {
+          "name": "Shield Duration",
+          "value": "12.5s"
+        },
+        {
+          "name": "CD",
+          "value": "16s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Lustrous Moonrise",
+      "unlock": "Elemental Burst",
+      "description": "Lan Yan creates a Feathermoon Swallow Array, pulling in nearby opponents and objects and dealing multiple instances of AoE Anemo DMG .",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "241.06 × 3"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Four Sealing Divination Charms",
+      "unlock": "1st Ascension Passive",
+      "description": "When the dash from the Elemental Skill Swallow-Wisp Pinion Dance hits a target, if it interacts with Hydro / Pyro / Cryo / Electro , the Swallow-Wisp Shield will undergo Elemental Absorption , with the converted shield absorbing DMG from the corresponding element with 250% efficiency. Additionally, if this use of Swallow-Wisp Pinion Dance causes the Swallow-Wisp Shield to undergo Elemental Absorption, the Feathermoon Rings that Lan Yan throws at her foes additionally deal Elemental DMG equal to 50% of the original in the corresponding Elemental Type. This DMG is considered Elemental Skill DMG.",
+      "level": 1
+    },
+    {
+      "name": "Skyfeather Evil-Subduing Charm",
+      "unlock": "4th Ascension Passive",
+      "description": "The Elemental Skill Swallow-Wisp Pinion Dance and the Elemental Burst Lustrous Moonrise deal increased DMG equal to 309% and 774% of Lan Yan's Elemental Mastery respectively.",
+      "level": 4
+    },
+    {
+      "name": "Thought and Intent, Like Silken Scent",
+      "unlock": "Utility Passive",
+      "description": "When Lan Yan is in the party, your characters will not startle Crystalflies and certain other animals when getting near them. Check the \"Other\" sub-category of the \"Living Beings / Wildlife \" section in the Archive for creatures this skill works on."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "\"As One Might Stride Betwixt the Clouds\"",
+      "unlock": "Constellation Lv. 1",
+      "description": "Description Gameplay Notes After triggering the Elemental Absorption from the Ascension Talent \"Four Sealing Divination Charms,\" this instance of Lan Yan's Elemental Skill Swallow-Wisp Pinion Dance will produce another Feathermoon Ring when they are thrown at opponents. You must first unlock the Ascension Talent \"Four Sealing Divination Charms.\" This Constellation doubles the number of hits from the Feathermoon Rings that Lan Yan throws. Although the description of Swallow-Wisp Pinion Dance says that Lan Yan hurls her Feathermoon Rings, it seems that she actually only hurls one of them at Constellation Level 0, based on the description and behavior of this Constellation.",
+      "level": 1
+    },
+    {
+      "name": "\"Dance Vestments Billow Like Rainbow Jade\"",
+      "unlock": "Constellation Lv. 2",
+      "description": "While the Swallow-Wisp Shield is active, when your active party member's Normal Attacks deal DMG, 40% of the Shield's DMG absorption will be restored, up to its original maximum absorption. This effect can occur once every 2s.",
+      "level": 2
+    },
+    {
+      "name": "\"On White Wings Pierce Through Cloud and Fog\"",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Swallow-Wisp Pinion Dance by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "\"With Drakefalcon's Blood-Pearls Adorned\"",
+      "unlock": "Constellation Lv. 4",
+      "description": "After Lan Yan uses her Elemental Burst Lustrous Moonrise , the Elemental Mastery of all nearby party members increases by 60 for 12s.",
+      "level": 4
+    },
+    {
+      "name": "\"Having Met You, My Heart is Gladdened\"",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Lustrous Moonrise by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "\"Let Us Away on Sylphic Wing, the Silvered Ornaments to Ring\"",
+      "unlock": "Constellation Lv. 6",
+      "description": "Swallow-Wisp Pinion Dance gains 1 additional charge.",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vayuda Turquoise Sliver",
+        "value": 1
+      },
+      {
+        "name": "Clearwater Jade",
+        "value": 3
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Gold-Inscribed Secret Source Core",
+        "value": 2
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 3
+      },
+      {
+        "name": "Clearwater Jade",
+        "value": 10
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Gold-Inscribed Secret Source Core",
+        "value": 4
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 6
+      },
+      {
+        "name": "Clearwater Jade",
+        "value": 20
+      },
+      {
+        "name": "Shimmering Nectar",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Gold-Inscribed Secret Source Core",
+        "value": 8
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 3
+      },
+      {
+        "name": "Clearwater Jade",
+        "value": 30
+      },
+      {
+        "name": "Shimmering Nectar",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Gold-Inscribed Secret Source Core",
+        "value": 12
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 6
+      },
+      {
+        "name": "Clearwater Jade",
+        "value": 45
+      },
+      {
+        "name": "Energy Nectar",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Gold-Inscribed Secret Source Core",
+        "value": 20
+      },
+      {
+        "name": "Vayuda Turquoise Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Clearwater Jade",
+        "value": 60
+      },
+      {
+        "name": "Energy Nectar",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

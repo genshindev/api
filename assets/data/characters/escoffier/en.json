@@ -1,0 +1,303 @@
+{
+  "name": "Escoffier",
+  "title": "Tasteful Excellence",
+  "vision": "Cryo",
+  "weapon": "Polearm",
+  "gender": "Female",
+  "nation": "Fontaine",
+  "affiliation": "Fontaine",
+  "rarity": 5,
+  "release_date": "2025-05-07",
+  "birthday": "0000-06-08",
+  "constellation": "Dulciaria Structura",
+  "description": "The ex-head chef of Hotel Debord, renowned throughout Fontaine as the Patissiere Supreme and vanguard of precision gastronomy. Has incomparably strict standards when it comes to cooking.",
+  "skillTalents": [
+    {
+      "name": "Kitchen Skills",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 3 consecutive spear strikes. Charged Attack Consumes a certain amount of Stamina to perform an upward thrust. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "51.55"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "47.59"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "33+40.33"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "115.41"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "127.84"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "159.68"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Low-Temperature Cooking",
+      "unlock": "Elemental Skill",
+      "description": "Behold the true meaning of \"cooking\"! Escoffier will demonstrate different cooking techniques when you Tap or Hold this skill, but rest assured, each of them is Fontaine's pride and joy. Tap Activates her All-Spectrum Multi-Use Cooking Mek in its Cold Storage mode and deals AoE Cryo DMG to nearby opponents. Cooking Mek: Cold Storage Mode Follows the current active character and fires Frosty Parfaits at nearby opponents at intervals, dealing Cryo DMG . Arkhe: Ousia At intervals, Escoffier will summon a Surging Blade when activating her Cooking Mek in Cold Storage mode, dealing Ousia-aligned AoE Cryo DMG . Hold Activates her All-Spectrum Multi-Use Cooking Mek's Off-the-Cuff Cookery Mode Off-the-Cuff Cookery Mode Cooking Mek: Off-the-Cuff Cookery Mode Places the Cooking Mek on the field. The Cooking Mek can absorb elemental attacks. When the absorbed elemental energy hits a certain limit, Escoffier can convert the ingredients placed within it into wonderful food. Escoffier needs time to purchase new ingredients, so she can only make a certain number of dishes like this each week. The number of dishes Escoffier can make resets every Monday at 4:00 AM. .",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "50.4"
+        },
+        {
+          "name": "Frosty Parfait DMG",
+          "value": "120"
+        },
+        {
+          "name": "Cold Storage Mode Duration",
+          "value": "20s"
+        },
+        {
+          "name": "Surging Blade DMG",
+          "value": "33.6"
+        },
+        {
+          "name": "Surging Blade CD Interval",
+          "value": "10s"
+        },
+        {
+          "name": "Press CD",
+          "value": "15s"
+        },
+        {
+          "name": "Hold CD",
+          "value": "6s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Scoring Cuts",
+      "unlock": "Elemental Burst",
+      "description": "Displaying her exceptional knife skills, Escoffier deals AoE Cryo DMG and restores HP to all nearby party members based on her ATK",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "592.8"
+        },
+        {
+          "name": "Healing",
+          "value": "172.03% ATK+1079"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Better to Salivate Than Medicate",
+      "unlock": "1st Ascension Passive",
+      "description": "After using the Elemental Burst Scoring Cuts , Escoffier will obtain the Rehab Diet effect for 9s: Restores HP for nearby active characters every 1s based on 138.24% of Escoffier's ATK .",
+      "level": 1
+    },
+    {
+      "name": "Inspiration-Immersed Seasoning",
+      "unlock": "4th Ascension Passive",
+      "description": "When there are 1/2/3/4 Hydro or Cryo characters in the party , Escoffier will decrease the Hydro RES and Cryo RES of any opponents hit by her Elemental Skill, Low-Temperature Cooking , or her Elemental Burst, Scoring Cuts , by 5%/10%/15%/55% for 12s.",
+      "level": 4
+    },
+    {
+      "name": "Constant Off-the-Cuff Cookery",
+      "unlock": "Utility Passive",
+      "description": "When using the Hold form of her Elemental Skill Low-Temperature Cooking , Escoffier will activate her All-Spectrum Multi-Use Cooking Mek in its Off-the-Cuff Cookery mode. Cooking Mek: Off-the-Cuff Cookery Mode Places the Cooking Mek on the field. The Cooking Mek can absorb elemental attacks. When the absorbed elemental energy hits a certain limit, Escoffier can convert the ingredients placed within it into wonderful food. Escoffier needs time to purchase new ingredients, so she can only make a certain number of dishes like this each week. The number of dishes Escoffier can make resets every Monday at 4:00 AM."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Pre-Dinner Dance for Your Taste Buds",
+      "unlock": "Constellation Lv. 1",
+      "description": "When 4 party members are Hydro or Cryo , all nearby party members will have their Cryo DMG CRIT DMG increased by 60% for 15s after Escoffier uses her Elemental Skill Low-Temperature Cooking or Elemental Burst Scoring Cuts . You must first unlock the Ascension Talent \"Inspiration-Immersed Seasoning.\"",
+      "level": 1
+    },
+    {
+      "name": "Fresh, Fragrant Stew Is an Art",
+      "unlock": "Constellation Lv. 2",
+      "description": "When Escoffier activates her Cooking Mek in its Cold Storage Mode Cold Storage Mode Tap Activates her All-Spectrum Multi-Use Cooking Mek in its Cold Storage mode and deals AoE Cryo DMG to nearby opponents. Cooking Mek: Cold Storage Mode Follows the current active character and fires Frosty Parfaits at nearby opponents at intervals, dealing Cryo DMG . , she will gain the \"Freshly-Prepped Delicacy\" effect for 15s. During this time, Escoffier will gain 5 Cold Dish stacks. When nearby active characters apart from Escoffier deal Cryo DMG with a Normal, Charged, or Plunging Attack, or an Elemental Skill or Elemental Burst, they will expend 1 Cold Dish stack to increase their DMG dealt by 240% of Escoffier's ATK . If you hit multiple opponents with a single instance of Cryo DMG , Cold Dish stacks will be consumed based on the number of opponents hit.",
+      "level": 2
+    },
+    {
+      "name": "The Bakery Magic of Caramel Browning",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Low-Temperature Cooking by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Secret Rosemary Recipe",
+      "unlock": "Constellation Lv. 4",
+      "description": "Rehab Diet lasts 6 more seconds. While it is active, you have a chance of healing 100% extra HP and restoring 2 Energy to Escoffier when you trigger healing through Rehab Diet. This chance corresponds to Escoffier's CRIT Rate . You can trigger this effect 7 times during any one Rehab Diet's duration. You must first unlock the Ascension Talent \" Better to Salivate Than Medicate .\"",
+      "level": 4
+    },
+    {
+      "name": "Symphony of a Thousand Sauces",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Scoring Cuts by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Tea Parties Bursting With Color",
+      "unlock": "Constellation Lv. 6",
+      "description": "Description Advanced Properties Cooking Mek: Cold Storage Mode Cold Storage Mode Tap Activates her All-Spectrum Multi-Use Cooking Mek in its Cold Storage mode and deals AoE Cryo DMG to nearby opponents. Cooking Mek: Cold Storage Mode Follows the current active character and fires Frosty Parfaits at nearby opponents at intervals, dealing Cryo DMG . is enhanced: When your party 's active character's Normal, Charged, or Plunging Attacks hit opponents, Cooking Mek: Cold Storage Mode will fire off another Special-Grade Frosty Parfait, dealing 500% of Escoffier's ATK as AoE Cryo DMG . This DMG is considered Elemental Skill DMG. This effect can be triggered once every 0.5s, and this effect can be triggered 6 times within the duration of one Cooking Mek: Cold Storage Mode. Gauge Units Internal Cooldown Poise Damage Stagger Effect Blunt ‍ Tag Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ Type Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ S. L. Stagger Level ‍ ‍ H. F. Horizontal Force ‍ ‍ V. F. Vertical Force ‍ Special-Grade Frosty Parfait 1U Elemental Skill 1.5s 30 Shake 0 0 ✘",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Shivada Jade Sliver",
+        "value": 1
+      },
+      {
+        "name": "Beryl Conch",
+        "value": 3
+      },
+      {
+        "name": "Meshing Gear",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Secret Source Airflow Accumulator",
+        "value": 2
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 3
+      },
+      {
+        "name": "Beryl Conch",
+        "value": 10
+      },
+      {
+        "name": "Meshing Gear",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Secret Source Airflow Accumulator",
+        "value": 4
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 6
+      },
+      {
+        "name": "Beryl Conch",
+        "value": 20
+      },
+      {
+        "name": "Mechanical Spur Gear",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Secret Source Airflow Accumulator",
+        "value": 8
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 3
+      },
+      {
+        "name": "Beryl Conch",
+        "value": 30
+      },
+      {
+        "name": "Mechanical Spur Gear",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Secret Source Airflow Accumulator",
+        "value": 12
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 6
+      },
+      {
+        "name": "Beryl Conch",
+        "value": 45
+      },
+      {
+        "name": "Artificed Dynamic Gear",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Secret Source Airflow Accumulator",
+        "value": 20
+      },
+      {
+        "name": "Shivada Jade Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Beryl Conch",
+        "value": 60
+      },
+      {
+        "name": "Artificed Dynamic Gear",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}
