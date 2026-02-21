@@ -1,0 +1,7 @@
+{
+  "name": "Night of the Sky's Unveiling",
+  "max_rarity": 5,
+  "2-piece_bonus": "Increases Elemental Mastery by 80.",
+  "4-piece_bonus": "When nearby party members trigger Lunar Reactions, if the equipping character is on the field, gain the Gleaming Moon: Intent effect for 4s: Increases CRIT Rate by 15%/30% when the party's Moonsign is Nascent Gleam/Ascendant Gleam. All party members' Lunar Reaction DMG is increased by 10% for each different Gleaming Moon effect that party members have. Effects from Gleaming Moon cannot stack.",
+  "id": "night-of-the-sky-s-unveiling"
+}

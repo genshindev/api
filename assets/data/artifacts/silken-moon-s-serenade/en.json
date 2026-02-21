@@ -1,0 +1,7 @@
+{
+  "name": "Silken Moon's Serenade",
+  "max_rarity": 5,
+  "2-piece_bonus": "Energy Recharge +20%.",
+  "4-piece_bonus": "When dealing Elemental DMG, gain the Gleaming Moon: Devotion effect for 8s: Increases all party members' Elemental Mastery by 60/120 when the party's Moonsign is Nascent Gleam/Ascendant Gleam. The equipping character can trigger this effect while off-field. All party members' Lunar Reaction DMG is increased by 10% for each different Gleaming Moon effect that party members have. Effects from Gleaming Moon cannot stack.",
+  "id": "silken-moon-s-serenade"
+}
