@@ -1,0 +1,11 @@
+{
+  "name": "Foot­print of the Rain­bow",
+  "type": "Polearm",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "DEF",
+  "passiveName": "Pact of Flowing Springs",
+  "passiveDesc": "Using an Elemental Skill increases DEF by 32% for 15s.",
+  "location": "Gacha",
+  "ascensionMaterial": "sacred-lord-delirious"
+}

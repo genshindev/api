@@ -1,0 +1,11 @@
+{
+  "name": "Sun­ny Morn­ing Sleep-In",
+  "type": "Catalyst",
+  "rarity": 5,
+  "baseAttack": 44,
+  "subStat": "Elemental Mastery",
+  "passiveName": "Bathhouses, Hawks, and Narukami",
+  "passiveDesc": "Elemental Mastery increases by 240 for 6s after triggering Swirl. Elemental Mastery increases by 192 for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by 64 for 30s after the wielder's Elemental Burst hits an opponent.",
+  "location": "Gacha",
+  "ascensionMaterial": "narukami"
+}

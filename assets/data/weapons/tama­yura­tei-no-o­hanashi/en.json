@@ -1,0 +1,11 @@
+{
+  "name": "Tama­yura­tei no O­hanashi",
+  "type": "Polearm",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "Energy Recharge",
+  "passiveName": "Busybody's Running Light",
+  "passiveDesc": "Increase ATK by 40% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+  "location": "Gacha",
+  "ascensionMaterial": "oni-mask"
+}

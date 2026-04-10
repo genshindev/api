@@ -1,0 +1,11 @@
+{
+  "name": "Rainbow Serpent's Rain Bow",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "Energy Recharge",
+  "passiveName": "Astral Whispers Beyond the Sacred Throne",
+  "passiveDesc": "ATK is increased by 56% for 8s after the equipping character's attacks hit an opponent while the equipping character is off-field.",
+  "location": "Gacha",
+  "ascensionMaterial": "night-wind-mystic"
+}

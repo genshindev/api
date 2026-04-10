@@ -1,0 +1,11 @@
+{
+  "name": "Dawn­ing Frost",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "CRIT DMG",
+  "passiveName": "Nocturnal Dreams",
+  "passiveDesc": "For 10s after a Charged Attack hits an opponent, Elemental Mastery is increased by 144. For 10s after an Elemental Skill hits an opponent. Elemental Mastery is increased by 96.",
+  "location": "Gacha",
+  "ascensionMaterial": "artful-device"
+}

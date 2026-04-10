@@ -1,0 +1,11 @@
+{
+  "name": "The Daybreak Chronicles",
+  "type": "Bow",
+  "rarity": 5,
+  "baseAttack": 48,
+  "subStat": "CRIT DMG",
+  "passiveName": "Dawning Song of Daybreak",
+  "passiveDesc": "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by 120%. While in combat, this DMG Bonus will decrease by 20% per second until it reaches 0%. When the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by 20% until it reaches 120%. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.Additionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by 40% instead.",
+  "location": "Gacha",
+  "ascensionMaterial": "dandelion-gladiator"
+}

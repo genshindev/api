@@ -1,0 +1,11 @@
+{
+  "name": "Chain Break­er",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "ATK",
+  "passiveName": "Flower—Feather Song",
+  "passiveDesc": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains 9.6% increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains 48 Elemental Mastery.",
+  "location": "Gacha",
+  "ascensionMaterial": "night-wind-mystic"
+}

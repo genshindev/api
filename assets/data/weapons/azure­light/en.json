@@ -1,0 +1,11 @@
+{
+  "name": "Azure­light",
+  "type": "Sword",
+  "rarity": 5,
+  "baseAttack": 48,
+  "subStat": "CRIT Rate",
+  "passiveName": "Whitehill's Bestowal",
+  "passiveDesc": "Within 12s after an Elemental Skill is used, ATK is increased by 48%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 48%, and CRIT DMG will be increased by 80%.",
+  "location": "Gacha",
+  "ascensionMaterial": "night-wind-mystic"
+}

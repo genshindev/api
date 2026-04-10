@@ -1,0 +1,11 @@
+{
+  "name": "As­tral Vul­ture's Crim­son Plum­age",
+  "type": "Bow",
+  "rarity": 5,
+  "baseAttack": 46,
+  "subStat": "CRIT DMG",
+  "passiveName": "The Moonring Sighted",
+  "passiveDesc": "For 12s after triggering a Swirl reaction, ATK increases by 48%. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by 40/96% and Elemental Burst DMG dealt is increased by 20/48%.",
+  "location": "Gacha",
+  "ascensionMaterial": "night-wind-mystic"
+}

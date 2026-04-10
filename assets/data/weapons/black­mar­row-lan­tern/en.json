@@ -1,0 +1,11 @@
+{
+  "name": "Black­mar­row Lan­tern",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 41,
+  "subStat": "Elemental Mastery",
+  "passiveName": "Token of Covenant",
+  "passiveDesc": "Bloom DMG is increased by 96%, and Lunar-Bloom DMG is increased by 24%. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional 24%.",
+  "location": "Gacha",
+  "ascensionMaterial": "artful-device"
+}

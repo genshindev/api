@@ -1,0 +1,11 @@
+{
+  "name": "Mas­ter Key",
+  "type": "Claymore",
+  "rarity": 4,
+  "baseAttack": 41,
+  "subStat": "Energy Recharge",
+  "passiveName": "Fall Into Place",
+  "passiveDesc": "Upon causing an Elemental Reaction, increases Elemental Mastery by 120 for 12s. Moonsign: Ascendant Gleam: Elemental Mastery from this effect is further increased by 120. This effect can be triggered even if the equipping character is off-field.",
+  "location": "Gacha",
+  "ascensionMaterial": "far-north-scions"
+}

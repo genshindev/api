@@ -1,0 +1,11 @@
+{
+  "name": "Flame-Forged In­sight",
+  "type": "Claymore",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "Elemental Mastery",
+  "passiveName": "Mind in Bloom",
+  "passiveDesc": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore 24 Elemental Energy and increase Elemental Mastery by 120 for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.",
+  "location": "Gacha",
+  "ascensionMaterial": "sacred-lord-delirious"
+}

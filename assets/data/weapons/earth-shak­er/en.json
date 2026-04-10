@@ -1,0 +1,11 @@
+{
+  "name": "Earth Shak­er",
+  "type": "Claymore",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "ATK",
+  "passiveName": "Oath of Qhapaq Nan",
+  "passiveDesc": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 32% for 8s. This effect can be triggered even when the triggering party member is not on the field.",
+  "location": "Gacha",
+  "ascensionMaterial": "blazing-sacrificial-heart"
+}

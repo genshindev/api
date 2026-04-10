@@ -1,0 +1,11 @@
+{
+  "name": "Se­quence of Sol­i­tude",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "HP",
+  "passiveName": "Silent Trigger",
+  "passiveDesc": "When an attack hits an opponent, deal AoE DMG equal to 80% of Max HP at the target location. This effect can be triggered once every 15s.",
+  "location": "Gacha",
+  "ascensionMaterial": "ancient-chord"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sym­pho­nist of Scents",
+  "type": "Polearm",
+  "rarity": 5,
+  "baseAttack": 46,
+  "subStat": "CRIT DMG",
+  "passiveName": "Seasoned Symphony",
+  "passiveDesc": "ATK is increased by 24%. When the equipping character is off-field, ATK is increased by an additional 24%. After initiating healing, the equipping character and the character(s) they have healed will obtain the \"Sweet Echoes\" effect, increasing their ATK by 64% for 3s. This effect can be triggered even if the equipping character is off-field.",
+  "location": "Gacha",
+  "ascensionMaterial": "pure-sacred-dewdrop"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Fang of the Moun­tain King",
+  "type": "Claymore",
+  "rarity": 5,
+  "baseAttack": 49,
+  "subStat": "CRIT Rate",
+  "passiveName": "Turquoise Hunt",
+  "passiveDesc": "Gain 1 stack of Canopy's Favor after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s. After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect can be triggered once every 2s and can be triggered even when the triggering party member is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by 20% for 6s. Max 6 stacks. Each stack is counted independently.",
+  "location": "Gacha",
+  "ascensionMaterial": "sacred-lord-delirious"
+}

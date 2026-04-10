@@ -1,0 +1,11 @@
+{
+  "name": "Gest of the Mighty Wolf",
+  "type": "Claymore",
+  "rarity": 5,
+  "baseAttack": 46,
+  "subStat": "CRIT Rate",
+  "passiveName": "Indomitable Chivalry",
+  "passiveDesc": "Increase ATK SPD by 10%. Every time the equipping character's Normal Attack(s) hit opponent(s), when they cast their Elemental Skill, or when they begin their Charged Attack(s), gain 1/2/2 stacks of Four Winds' Hymn respectively: DMG dealt is increased by 15.5%, for 4s. Max 4 stacks. This effect can be triggered once every 0.01s.Additionally, when the team has the \"Hexerei: Secret Rite\" effect, each stack of Four Winds' Hymn will increase the CRIT DMG of the equipping character by 15.5%.",
+  "location": "Gacha",
+  "ascensionMaterial": "boreal-wolf"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Frac­tured Halo",
+  "type": "Polearm",
+  "rarity": 5,
+  "baseAttack": 46,
+  "subStat": "CRIT DMG",
+  "passiveName": "Purifying Crown",
+  "passiveDesc": "After an Elemental Skill or Elemental Burst is used, ATK is increased by 48% for 20s. If the equipping character creates a Shield while this effect is active, they will gain the Electrifying Edict effect for 20s: All nearby party members deal 80% more Lunar-Charged DMG.",
+  "location": "Gacha",
+  "ascensionMaterial": "blazing-sacrificial-heart"
+}

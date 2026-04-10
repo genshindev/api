@@ -1,0 +1,11 @@
+{
+  "name": "Lightbearing Moonshard",
+  "type": "Sword",
+  "rarity": 5,
+  "baseAttack": 44,
+  "subStat": "CRIT DMG",
+  "passiveName": "Legacy of Lang-Gan",
+  "passiveDesc": "Increases DEF by 40%. DMG inflicted by Lunar-Crystallize reactions increases by 128% for 5s after the equipping character uses an Elemental Skill.",
+  "location": "Gacha",
+  "ascensionMaterial": "aerosiderite"
+}
