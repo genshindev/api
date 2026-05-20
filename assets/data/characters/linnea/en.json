@@ -1,0 +1,438 @@
+{
+  "name": "Linnea",
+  "title": "Augur of Wonders",
+  "vision": "Geo",
+  "weapon": "Bow",
+  "gender": "Female",
+  "nation": "Nod-Krai",
+  "affiliation": "Adventurers' Guild",
+  "rarity": 5,
+  "release": "2026-04-08",
+  "constellation": "Alcyon",
+  "birthday": "0000-05-23",
+  "description": "Naturalist and Advisor to the Nod-Krai Branch of the Adventurers' Guild.",
+  "skillTalents": [
+    {
+      "name": "Capture Protocol",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 3 consecutive shots with a bow.\n\nCharged Attack\nPerforms a more precise Aimed Shot with increased DMG.\nWhile aiming, stone crystals will accumulate on the arrowhead. A fully charged crystalline arrow will deal Geo DMG.\n\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "59.0%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "51.2%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "81.6%"
+        },
+        {
+          "name": "Aimed Shot",
+          "value": "43.9%"
+        },
+        {
+          "name": "Fully-Charged Aimed Shot",
+          "value": "124%"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.8%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "114% / 142%"
+        }
+      ],
+      "type": "NORMAL_ATTACK",
+      "attribute-scaling": [
+        {
+          "name": "1-Hit DMG (%)",
+          "value": "59.00 63.80 68.60 75.46 80.26 85.75 93.30 100.84 108.39 116.62 124.85"
+        },
+        {
+          "name": "2-Hit DMG (%)",
+          "value": "51.15 55.32 59.48 65.43 69.59 74.35 80.89 87.43 93.98 101.11 108.25"
+        },
+        {
+          "name": "3-Hit DMG (%)",
+          "value": "81.63 88.28 94.92 104.41 111.06 118.65 129.09 139.53 149.97 161.36 172.75"
+        },
+        {
+          "name": "Aimed Shot (%)",
+          "value": "43.86 47.43 51.00 56.10 59.67 63.75 69.36 74.97 80.58 86.70 92.82"
+        },
+        {
+          "name": "Fully-Charged Aimed Shot (%)",
+          "value": "124.00 133.30 142.60 155.00 164.30 173.60 186.00 198.40 210.80 223.20 235.60"
+        },
+        {
+          "name": "Plunge DMG (%)",
+          "value": "56.83 61.45 66.08 72.69 77.31 82.60 89.87 97.14 104.41 112.34 120.27"
+        },
+        {
+          "name": "Low Plunge DMG (%)",
+          "value": "113.63 122.88 132.13 145.35 154.59 165.17 179.70 194.23 208.77 224.62 240.48"
+        },
+        {
+          "name": "High Plunge DMG (%)",
+          "value": "141.93 153.49 165.04 181.54 193.10 206.30 224.45 242.61 260.76 280.57 300.37"
+        }
+      ]
+    },
+    {
+      "name": "Countermeasure: Lumi's Battle Cry!",
+      "unlock": "Elemental Skill",
+      "description": "Adventure with Lumi! Depending on how you Tap, Lumi attacks in different forms.\n\nTap\nLumi strikes in a Super Power Form, attacking nearby enemies continuously, dealing AoE Geo DMG. If there are Moondrifts nearby, Lumi will also deal AoE Geo DMG to nearby enemies, which will be considered Lunar-Crystallize Reaction DMG.\n\nContinuous Tapping\nTime to show what we're really capable of! After using her Elemental Skill, Linnea will feed Lumi sparkling gemstones when her Elemental Skill or Normal Attack is Tapped repeatedly. A full-bellied Lumi will strike in her Ultimate Power Form, dealing an especially powerful instance of AoE Geo DMG that is considered Lunar-Crystallize Reaction DMG, switching to Standard Power Form.\nAdditionally, tapping the Elemental Skill increases Linnea's interruption resistance. ",
+      "upgrades": [
+        {
+          "name": "Lumi Pound-Pound Pummeler DMG (% DEF)",
+          "value": "96.0%×2"
+        },
+        {
+          "name": "Lumi Heavy Overdrive Hammer DMG (% DEF)",
+          "value": "100%"
+        },
+        {
+          "name": "Lumi Million Ton Crush DMG (% DEF)",
+          "value": "400%"
+        },
+        {
+          "name": "Lumi Duration",
+          "value": "25s"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL",
+      "attribute-scaling": [
+        {
+          "name": "Lumi Pound-Pound Pummeler DMG (% DEF)",
+          "value": "96.0%×2 103.2%×2 110.4%×2 120%×2 127.2%×2 134.4%×2 144%×2 153.6%×2 163.2%×2 172.8%×2 182.4%×2 192%×2 204%×2"
+        },
+        {
+          "name": "Lumi Heavy Overdrive Hammer DMG (% DEF)",
+          "value": "100% 107.5% 115% 125% 132.5% 140% 150% 160% 170% 180% 190% 200% 212.5%"
+        },
+        {
+          "name": "Lumi Million Ton Crush DMG (% DEF)",
+          "value": "400% 430% 460% 500% 530% 560% 600% 640% 680% 720% 760% 800% 850%"
+        },
+        {
+          "name": "Lumi Duration",
+          "value": "25s"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        }
+      ]
+    },
+    {
+      "name": "Memo: Survival Guide in Extreme Conditions",
+      "unlock": "Elemental Burst",
+      "description": "Even master adventurers need proper rest! Linnea summons Lumi to strike in Super Power Form, healing nearby party members. For a short duration, she will continuously heal nearby active party members based on Linnea's DEF.\nIf Lumi is already on the field when Linnea unleashes Elemental Burst, Lumi's active duration will be reset instead and her Strike Form will not change. ",
+      "upgrades": [
+        {
+          "name": "Initial Healing Amount (DEF)",
+          "value": "160%+770"
+        },
+        {
+          "name": "Continuous Healing (DEF)",
+          "value": "32%+154"
+        },
+        {
+          "name": "Healing Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "ELEMENTAL_BURST",
+      "attribute-scaling": [
+        {
+          "name": "Initial Healing Amount (DEF)",
+          "value": "160%+770 172%+847 184%+931 200%+1021 212%+1117 224%+1220 240%+1329 256%+1445 272%+1567 288%+1695 304%+1830 320%+1971"
+        },
+        {
+          "name": "Continuous Healing (DEF)",
+          "value": "32%+154 34.4%+169 36.8%+186 40%+204 42.4%+223 44.8%+244 48%+266 51.2%+289 54.4%+313 57.6%+339 60.8%+366 64%+394"
+        },
+        {
+          "name": "Healing Duration",
+          "value": "12"
+        },
+        {
+          "name": "CD",
+          "value": "15"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ]
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Field Observation Notes",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "When Lumi is present on the field, the Geo RES of opponents near Lumi will decrease by 15%.\n\nMoonsign: Ascendant Gleam: Linnea's Elemental Skill Countermeasure: Lumi's Battle Cry! and Elemental Burst Memo: Survival Guide in Extreme Conditions are enhanced. After summoning Lumi, the Geo RES of opponents near Lumi will be further decreased by 15%.",
+      "level": 1
+    },
+    {
+      "name": "Universal Naturalist Archive",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "Linnea will increase the Elemental Mastery of certain characters in your party according to your current active character. Increase in Elemental Mastery is based on 5% of Linnea's DEF. If your current active character:\n\n- Is a Moonsign character: Increase this character's Elemental Mastery.\n- Is not a Moonsign character: Increase Linnea's own Elemental Mastery.",
+      "level": 4
+    },
+    {
+      "name": "Habitat Survey",
+      "unlock": "Unlocked Automatically",
+      "description": "When a party member triggers a Hydro Crystallize reaction, it will be converted into the Lunar-Crystallize reaction, with every 100 DEF that Linnea has increasing Lunar-Crystallize's Base DMG by 0.7%, up to a maximum of 14%.\n\nAdditionally, when Linnea is in the party, the party's Moonsign will increase by 1 level."
+    },
+    {
+      "name": "Master Adventurer",
+      "unlock": "Unlocked Automatically",
+      "description": "When Linnea is not in combat, the charge time of her Aimed Shot is greatly decreased, and she will shoot an Ultra Convenient Quick Arrow instead. Different effects will occur depending on the targets hit:\n\n- Specific animals: Ultra Convenient Quick Arrow will be transformed into a special \"Net\" that can capture the essence and form of these animals, using them as a medium to manifest the animal's physical form again. The \"Net\" can only be used for a limited number of times each week.\n- Ore veins used in forging: Linnea will dispatch Lumi, who will quickly strike at the ore marked by the Ultra Convenient Quick Arrow, then collect the dislodged ore. If Lumi is not on the field, Linnea will summon her for a short duration to help obtain the ore.\n\n\nThe DMG dealt to opponents by Linnea's Ultra Convenient Quick Arrow is reduced to 20% of her original Charged Arrow. Additionally, after firing a certain number of Ultra Convenient Quick Arrows within a short period of time, Linnea needs to take a temporary break before she can continue using them. "
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Provisional Classification",
+      "unlock": "Constellation Lv. 1",
+      "description": "When unleashing Elemental Skill Countermeasure: Lumi's Battle Cry!, or when triggering Moondrift Harmony, Linnea gains 6 stacks of the Field Catalog effect for 10s. Max 18 stacks. When nearby party members deal Lunar-Crystallize Reaction DMG, consume 1 stack of Field Catalog to increase the DMG dealt. The increase in DMG is equal to 75% of Linnea's DEF.\nAdditionally, when Lumi uses Million Ton Crush in her Ultimate Power Form, Linnea can consume up to 5 stacks of Field Catalog. Each stack will increase the DMG dealt by 150% of Linnea's DEF.",
+      "level": 1
+    },
+    {
+      "name": "Tidings of Joy and Sorrow",
+      "unlock": "Constellation Lv. 2",
+      "description": "Within 8s after triggering Moondrift Harmony, all Hydro and Geo party members have their CRIT DMG increased by 40%. Additionally, when Lumi uses Million Ton Crush in her Ultimate Power Form, the CRIT DMG of that attack increases by an additional 150%.\n\nMoonsign: Ascendant Gleam: When Lumi uses Heavy Overdrive Hammer in her Super Power Form, or when she uses Million Ton Crush in her Ultimate Power Form, an instance of Moondrift Harmony will be triggered. For this instance of Moondrift Harmony, all Hydro and Geo characters in the party will be considered to have applied their Elements in the reaction.",
+      "level": 2
+    },
+    {
+      "name": "Eventful Log Page",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Countermeasure: Lumi's Battle Cry! by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Expert Instinct",
+      "unlock": "Constellation Lv. 4",
+      "description": "Within 5s after Moondrift Harmony is triggered, increase the DEF of Linnea and your current active character by 25% respectively. When Linnea is on field, the DEF-increasing effect can be stacked.",
+      "level": 4
+    },
+    {
+      "name": "Fairyland's Farewell Gift",
+      "unlock": "Constellation Lv. 5",
+      "description": "Elemental Burst Memo: Survival Guide in Extreme Conditions increases by 3 Levels.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Golden Beagle's Dream",
+      "unlock": "Constellation Lv. 6",
+      "description": "The effects of the Constellation, Provisional Classification, are enhanced: When unleashing Elemental Skill Countermeasure: Lumi's Battle Cry!, or when triggering Moondrift Harmony, Linnea will directly gain the maximum number of Field Catalog stacks. When consuming Field Catalog, consume twice the original number of stacks, such that the increase in DMG will be boosted to 150% of the original value.\n\nMoonsign: Ascendant Gleam: Lunar-Crystallize Reaction DMG dealt by nearby party members is elevated by 25%.",
+      "level": 6
+    }
+  ],
+  "vision_key": "GEO",
+  "weapon_type": "BOW",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Prithiva Amethyst Sliver",
+        "value": 1
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 3
+      },
+      {
+        "name": "Tattered Warrant",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Prithiva Amethyst Fragment",
+        "value": 3
+      },
+      {
+        "name": "Plume of the Fallen Watcher",
+        "value": 2
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 10
+      },
+      {
+        "name": "Tattered Warrant",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Prithiva Amethyst Fragment",
+        "value": 6
+      },
+      {
+        "name": "Plume of the Fallen Watcher",
+        "value": 4
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 20
+      },
+      {
+        "name": "Immaculate Warrant",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Prithiva Amethyst Chunk",
+        "value": 3
+      },
+      {
+        "name": "Plume of the Fallen Watcher",
+        "value": 8
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 30
+      },
+      {
+        "name": "Immaculate Warrant",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Prithiva Amethyst Chunk",
+        "value": 6
+      },
+      {
+        "name": "Plume of the Fallen Watcher",
+        "value": 12
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 45
+      },
+      {
+        "name": "Frost-Etched Warrant",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Prithiva Amethyst Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Plume of the Fallen Watcher",
+        "value": 20
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 60
+      },
+      {
+        "name": "Frost-Etched Warrant",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ],
+    "ascension_data": [
+      {
+        "AscensionPhase": "0",
+        "Level": "1/20",
+        "BaseHP": "770.28",
+        "BaseAtk": "11.17",
+        "BaseDef": "70.60",
+        "CRIT RATE": "0%"
+      },
+      {
+        "AscensionPhase": "1",
+        "Level": "20/40",
+        "BaseHP": "2,658.56",
+        "BaseAtk": "38.56",
+        "BaseDef": "243.67",
+        "CRIT RATE": "0%"
+      },
+      {
+        "AscensionPhase": "2",
+        "Level": "40/50",
+        "BaseHP": "4,447.32",
+        "BaseAtk": "64.50",
+        "BaseDef": "407.62",
+        "CRIT RATE": "4.8%"
+      },
+      {
+        "AscensionPhase": "3",
+        "Level": "50/60",
+        "BaseHP": "5,742.38",
+        "BaseAtk": "83.28",
+        "BaseDef": "526.32",
+        "CRIT RATE": "9.6%"
+      },
+      {
+        "AscensionPhase": "4",
+        "Level": "60/70",
+        "BaseHP": "6,887.96",
+        "BaseAtk": "99.90",
+        "BaseDef": "631.31",
+        "CRIT RATE": "9.6%"
+      },
+      {
+        "AscensionPhase": "5",
+        "Level": "70/80",
+        "BaseHP": "8,039.69",
+        "BaseAtk": "116.60",
+        "BaseDef": "736.87",
+        "CRIT RATE": "14.4%"
+      },
+      {
+        "AscensionPhase": "6",
+        "Level": "80/90",
+        "BaseHP": "9,119.13",
+        "BaseAtk": "133.42",
+        "BaseDef": "843.14",
+        "CRIT RATE": "19.2%"
+      }
+    ]
+  }
+}
