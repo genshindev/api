@@ -155,8 +155,7 @@
     {
       "name": "Witch's Eve Rite: Unhealing Thorn",
       "unlock": "Witch's Eve Rite Passive",
-      "description": "After completing Witch's Homework: Of Various Foes, Lohen becomes a Hexerei character. When the party includes at least 2 Hexerei characters, you gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\nWhen the special Elemental Skill Etched Into Bone and Soul hits an opponent or the Elemental Burst Manifest Judgment is unleashed, if Lohen's Will to Win is at 50% or more of its max limit, his Normal Attack and Charged Attack DMG will be increased by 40% for 6s.",
-      "level": 4
+      "description": "After completing Witch's Homework: Of Various Foes, Lohen becomes a Hexerei character. When the party includes at least 2 Hexerei characters, you gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\nWhen the special Elemental Skill Etched Into Bone and Soul hits an opponent or the Elemental Burst Manifest Judgment is unleashed, if Lohen's Will to Win is at 50% or more of its max limit, his Normal Attack and Charged Attack DMG will be increased by 40% for 6s."
     },
     {
       "name": "Nepsis",
@@ -203,5 +202,193 @@
     }
   ],
   "vision_key": "CRYO",
-  "weapon_type": "POLEARM"
+  "weapon_type": "POLEARM",
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "value": 1
+      },
+      {
+        "name": "Winter Icelea",
+        "value": 3
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 3
+      },
+      {
+        "name": "Radiant Antler",
+        "value": 2
+      },
+      {
+        "name": "Winter Icelea",
+        "value": 10
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 6
+      },
+      {
+        "name": "Radiant Antler",
+        "value": 4
+      },
+      {
+        "name": "Winter Icelea",
+        "value": 20
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 3
+      },
+      {
+        "name": "Radiant Antler",
+        "value": 8
+      },
+      {
+        "name": "Winter Icelea",
+        "value": 30
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 6
+      },
+      {
+        "name": "Radiant Antler",
+        "value": 12
+      },
+      {
+        "name": "Winter Icelea",
+        "value": 45
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Radiant Antler",
+        "value": 20
+      },
+      {
+        "name": "Winter Icelea",
+        "value": 60
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ],
+    "ascension_data": [
+      {
+        "AscensionPhase": "0",
+        "Level": "1/20",
+        "BaseHP": "811.49",
+        "BaseAtk": "18.52",
+        "BaseDef": "48.64",
+        "ATK": "0%"
+      },
+      {
+        "AscensionPhase": "1",
+        "Level": "20/40",
+        "BaseHP": "2,690.96",
+        "BaseAtk": "661.41",
+        "BaseDef": "161.30",
+        "ATK": "0%"
+      },
+      {
+        "AscensionPhase": "2",
+        "Level": "40/50",
+        "BaseHP": "4,461.47",
+        "BaseAtk": "101.82",
+        "BaseDef": "267.42",
+        "ATK": "6.0%"
+      },
+      {
+        "AscensionPhase": "3",
+        "Level": "50/60",
+        "BaseHP": "5,706.09",
+        "BaseAtk": "130.23",
+        "BaseDef": "342.02",
+        "ATK": "12.0%"
+      },
+      {
+        "AscensionPhase": "4",
+        "Level": "60/70",
+        "BaseHP": "6,807.12",
+        "BaseAtk": "155.36",
+        "BaseDef": "408.02",
+        "ATK": "16.0%"
+      },
+      {
+        "AscensionPhase": "5",
+        "Level": "70/80",
+        "BaseHP": "7,907.35",
+        "BaseAtk": "180.47",
+        "BaseDef": "473.97",
+        "ATK": "18.0%"
+      },
+      {
+        "AscensionPhase": "6",
+        "Level": "80/90",
+        "BaseHP": "9,008.38",
+        "BaseAtk": "205.60",
+        "BaseDef": "539.97",
+        "ATK": "24.0%"
+      }
+    ]
+  }
 }
