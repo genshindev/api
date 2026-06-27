@@ -1,0 +1,207 @@
+{
+  "name": "Lohen",
+  "title": "Physic of Purity",
+  "vision": "Cryo",
+  "weapon": "Polearm",
+  "nation": "Mondstadt",
+  "affiliation": "Knights of Favonius",
+  "rarity": 5,
+  "constellation": "Lepus Miles",
+  "birthday": "0000-04-03",
+  "description": "Vice Captain of the Knights of Favonius Ranged Company, a knight known for his unorthodox approach and fondness for unconventional tactics.",
+  "skillTalents": [
+    {
+      "name": "Allegoria",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack\nPerforms up to 5 consecutive strikes.\n\nCharged Attack\nConsumes a certain amount of Stamina to perform a forward thrust.\n\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "54.0%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "56.4%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "25.42% X 3"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "75.2%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "36.9%+55.3%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "65.9%×2"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.9%"
+        },
+        {
+          "name": "Low / High Plunge DMG",
+          "value": "128%/160%"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "All Schemes to Know",
+      "unlock": "Elemental Skill",
+      "description": "As he searches for weaknesses, Lohen switches to Masterstroke mode. While in this state:\n - Lohen can actively accumulate Joy, using it to unleash the special Elemental Skill Etched Into Bone and Soul.\n - Nearby party members can accumulate Will to Win for Lohen, increasing the DMG dealt by Etched Into Bone and Soul.\nLohen can unleash Etched Into Bone and Soul up to 3 times while in Masterstroke mode, after which, he will no longer be able to accumulate Joy.\n\n\"Chivalry? Hah, what better way to bait the trap? When an enemy dreams of an honorable victory, they inevitably fail to suspect the 'pleasant surprise' that awaits them.\"",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "81.0%"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "84.7%"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "38.1%×3"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "112.8%"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "55.3%+82.9%"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "98.8%×2"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "10.0"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.9%"
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "value": "128%/160%"
+        },
+        {
+          "name": "Masterstroke",
+          "value": "13.0s"
+        },
+        {
+          "name": "Etched Into Bone and Soul DMG",
+          "value": "60.0%×4"
+        },
+        {
+          "name": "DMG Increase From Will to Win",
+          "value": "0.40%/Point"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Revelation: Ladder of Divine Ascent",
+      "unlock": "Elemental Burst",
+      "description": "Performs a swift series of forward strikes, consuming all Will to Win and dealing Cryo DMG. This DMG will be increased based on the amount of Will to Win consumed. If Lohen is in Masterstroke mode when this is performed, the duration of Masterstroke will be extended by 1.65s.\n\n\"So quick to cave? What a pity, I was just starting to enjoy myself...\"",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "118.8%×6"
+        },
+        {
+          "name": "DMG Increase From Will to Win",
+          "value": "0.40%/Point"
+        },
+        {
+          "name": "CD",
+          "value": "13s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "50"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Moratorium on Questioning",
+      "unlock": "Unlocked at Ascension 1",
+      "description": "When nearby party members accumulate Will to Win for Lohen by dealing DMG while he is in Masterstroke mode, if that DMG is not less than 3,000% of Lohen's Base ATK, it will accumulate an extra 60 Will to Win.",
+      "level": 1
+    },
+    {
+      "name": "Flippant Masterpiece",
+      "unlock": "Unlocked at Ascension 4",
+      "description": "While in Masterstroke mode, for 8s after another nearby party member triggers a Cryo Reaction, that character's ATK is increased by 15%, while Lohen's ATK is increased by 15%.",
+      "level": 4
+    },
+    {
+      "name": "Witch's Eve Rite: Unhealing Thorn",
+      "unlock": "Witch's Eve Rite Passive",
+      "description": "After completing Witch's Homework: Of Various Foes, Lohen becomes a Hexerei character. When the party includes at least 2 Hexerei characters, you gain the Hexerei: Secret Rite effect, which enhances Hexerei characters.\n\nHexerei: Secret Rite\nWhen the special Elemental Skill Etched Into Bone and Soul hits an opponent or the Elemental Burst Manifest Judgment is unleashed, if Lohen's Will to Win is at 50% or more of its max limit, his Normal Attack and Charged Attack DMG will be increased by 40% for 6s.",
+      "level": 4
+    },
+    {
+      "name": "Nepsis",
+      "unlock": "Utility Passive",
+      "description": "Lohen gains \"High Spirits\" for 9s after he unleashes the Elemental Skill Unforeseen Strike: Increases the Skill Level of Unforeseen Strike by 1.\nWhen unleashing an Elemental Skill, if the Level of any other party member's Normal Attack, Elemental Skill, or Elemental Burst is not lower than Lohen's Elemental Skill Level, the duration of this instance of High Spirits will be increased by an additional 6s.\nHigh Spirits can be gained once every 18s."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "O Breezes, That So Oft Bear Sorrowful Lament",
+      "unlock": "Constellation Lv. 1",
+      "description": "Lohen's maximum Will to Win limit is increased to 300% of its original value.\nAdditionally, when other nearby party members deal DMG while Lohen is in Masterstroke mode, they accumulate 500% as much Will to Win for him as they originally would have.",
+      "level": 1
+    },
+    {
+      "name": "\"I Will Guide You and Show You the Path You Should Tread\"",
+      "unlock": "Constellation Lv. 2",
+      "description": "When in Masterstroke mode, after the special Elemental Skill Etched Into Bone and Soul hits an opponent or the Elemental Burst Manifest Judgment is unleashed, Lohen gains \"Evilsbane Blade\" for 4s: The next time Lohen hits an opponent with a Normal or Charged Attack while in Masterstroke mode, he will follow up with an additional strike that deals AoE Cryo DMG equal to 500% of his ATK, and increase the Elemental Mastery of other nearby party members by 200 for 8s. Evilsbane Blade can be triggered once every 4s.",
+      "level": 2
+    },
+    {
+      "name": "Only the Spear That Wounds Can Heal",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Unforeseen Strike by 3.\nMaximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Radiant Love, Laughing Death",
+      "unlock": "Constellation Lv. 4",
+      "description": "When Lohen unleashes the Elemental Burst Manifest Judgment while in Masterstroke mode, his Will to Win will be maxed out, causing this instance of his Elemental Burst to gain the maximum possible DMG increase.\n\nAdditionally, when Lohen switches to Masterstroke mode, the following will occur depending on how much Elemental Energy he has:\n- When Elemental Energy is not full: Lohen recovers 15 Elemental Energy.\n- When Elemental Energy is full: If, during the next 15s, Lohen unleashes the Elemental Burst Manifest Judgment, he will recover 15 Elemental Energy.",
+      "level": 4
+    },
+    {
+      "name": "Never Ask, Nor Trouble You to Know",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Manifest Judgment by 3.\nMaximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "To Drown, to Sink, Unconscious — Supreme Joy",
+      "unlock": "Constellation Lv. 6",
+      "description": "Using the special Elemental Skill Etched Into Bone and Soul and hitting an opponent with it or, while Masterstroke mode is active, unleashing the Elemental Burst Manifest Judgment, will not consume any Will to Win. Instead, Lohen's Joy will be maxed out, and if he hits an opponent the next time he uses the special Elemental Skill Etched Into Bone and Soul, the duration of this instance of Masterstroke will be extended by 1.25s. This effect can be triggered once every 7s.\nAdditionally, the CRIT DMG of all the DMG described above is increased by 175%, and the number of times Lohen can unleash Etched Into Bone and Soul during this instance of Masterstroke is increased by 2.",
+      "level": 6
+    }
+  ],
+  "vision_key": "CRYO",
+  "weapon_type": "POLEARM"
+}
