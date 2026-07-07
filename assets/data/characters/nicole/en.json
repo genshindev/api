@@ -1,0 +1,316 @@
+{
+  "name": "Nicole",
+  "title": "Clamor Within",
+  "vision": "Pyro",
+  "weapon": "Catalyst",
+  "gender": "Female",
+  "nation": null,
+  "affiliation": "Hexenzirkel",
+  "rarity": 5,
+  "release_date": "2026-05-20",
+  "birthday": "0000-09-29",
+  "constellation": "Reliquiarium",
+  "description": "The Silent \"Mage,\" the Voiceless \"Angel.\"",
+  "skillTalents": [
+    {
+      "name": "Allegoria",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Proclaims a decree in the primordial tongue and performs up to 3 attacks that deal Pyro DMG . Charged Attack Consumes a certain amount of Stamina to deal AoE Pyro DMG to opponents in front of her after a short casting time. Plunging Attack Nicole plunges towards the ground from mid-air, damaging all opponents in her path. Also deals AoE Pyro DMG upon impact with the ground.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "35.18"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "29.63"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "46.19"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "112.32"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "113.63"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "141.93"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Revelation: Uncreated Light",
+      "unlock": "Elemental Skill",
+      "description": "Recreates a fleeting glimpse of an age long past, when the angels acted on the authority of the heavens, bestowing the Grace of Kenosis Grace of Kenosis After unleashing the Elemental Skill Revelation: Uncreated Light, Nicole bestows the following effect on all nearby party members: ATK is increased based on Nicole's ATK. After certain conditions are met, the Grace of Kenosis effect will be upgraded to Guidance of Theosis, further increasing ATK. effect on nearby party members. This increases their ATK and deals AoE Pyro DMG , as well as creates a Shield of Blazing Light. The Shield of Blazing Light's DMG Absorption is based on Nicole's ATK, and it will absorb Pyro DMG at 250% effectiveness.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "138.4"
+        },
+        {
+          "name": "Shield DMG Absorption",
+          "value": "221.18% ATK+1387"
+        },
+        {
+          "name": "Shield Duration",
+          "value": "20s"
+        },
+        {
+          "name": "Grace of Kenosis ATK Bonus Ratio (%ATK)",
+          "value": "8.25"
+        },
+        {
+          "name": "Grace of Kenosis Max ATK Bonus",
+          "value": "330"
+        },
+        {
+          "name": "Grace of Kenosis Duration",
+          "value": "20s"
+        },
+        {
+          "name": "CD",
+          "value": "16s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Revelation: Ladder of Divine Ascent",
+      "unlock": "Elemental Burst",
+      "description": "As Nicole weaves the path of anchored fate with golden threads of light, she deals AoE Pyro DMG and switches to Silent Contemplation mode. In this mode, when nearby active party members hit an opponent, an Arcane Projection is summoned to perform a Coordinated Attack against the opponent, dealing AoE Elemental DMG of the character's corresponding Elemental Type. This DMG scales based on the corresponding character's ATK and will be considered as having been dealt by them. This effect can occur once every 3s, and can be triggered up to 4 times each time Nicole switches to Silent Contemplation mode. It is worth noting that Hexerei characters' Arcane Projections appear to differ somehow in appearance from the others...",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "316.8"
+        },
+        {
+          "name": "Arcane Projection DMG (%Corresponding Character's ATK)",
+          "value": "99"
+        },
+        {
+          "name": "Arcane Projection Attack Count",
+          "value": "4"
+        },
+        {
+          "name": "Silent Contemplation Duration",
+          "value": "20s"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Methexis",
+      "unlock": "1st Ascension Passive",
+      "description": "For 20s after unleashing the Elemental Skill Revelation: Uncreated Light , Nicole will continuously \"observe\" the other current active party members. After the observed character has remained on the field for 3s, their Grace of Kenosis Grace of Kenosis After unleashing the Elemental Skill Revelation: Uncreated Light, Nicole bestows the following effect on all nearby party members: ATK is increased based on Nicole's ATK. After certain conditions are met, the Grace of Kenosis effect will be upgraded to Guidance of Theosis, further increasing ATK. is upgraded to Guidance of Theosis Guidance of Theosis Upgrading the Grace of Kenosis effect increases ATK by an additional 300. After unlocking the Ascension Talent \"Methexis\" and meeting any of the following observation conditions, Grace of Kenosis will be upgraded to Guidance of Theosis for the remainder of its duration: Another character under observation remains on the field for longer than 3s; or Another character under observation is a Hexerei character. Additionally, after unlocking the Ascension Talent \"Philokalia,\" when a nearby active party member's Elemental DMG hits an opponent, Nicole's own Grace of Kenosis will be upgraded to Guidance of Theosis for 8s. When characters other than Nicole who have Guidance of Theosis leave the field, their effect will revert to Grace of Kenosis. , increasing their ATK by an additional 300. If the observed character is a Hexerei character, Grace of Kenosis is upgraded to Guidance of Theosis straight away. When characters other than Nicole who have Guidance of Theosis leave the field, their effect reverts to Grace of Kenosis.",
+      "level": 1
+    },
+    {
+      "name": "Philokalia",
+      "unlock": "4th Ascension Passive",
+      "description": "When Elemental DMG from nearby active party members hits an opponent, Nicole's own Grace of Kenosis Grace of Kenosis After unleashing the Elemental Skill Revelation: Uncreated Light, Nicole bestows the following effect on all nearby party members: ATK is increased based on Nicole's ATK. After certain conditions are met, the Grace of Kenosis effect will be upgraded to Guidance of Theosis, further increasing ATK. effect is upgraded to Guidance of Theosis Guidance of Theosis Upgrading the Grace of Kenosis effect increases ATK by an additional 300. After unlocking the Ascension Talent \"Methexis\" and meeting any of the following observation conditions, Grace of Kenosis will be upgraded to Guidance of Theosis for the remainder of its duration: Another character under observation remains on the field for longer than 3s; or Another character under observation is a Hexerei character. Additionally, after unlocking the Ascension Talent \"Philokalia,\" when a nearby active party member's Elemental DMG hits an opponent, Nicole's own Grace of Kenosis will be upgraded to Guidance of Theosis for 8s. When characters other than Nicole who have Guidance of Theosis leave the field, their effect will revert to Grace of Kenosis. for 8s.",
+      "level": 4
+    },
+    {
+      "name": "Light in the Darkness",
+      "unlock": "Witch's Eve Rite Passive",
+      "description": "After completing Witch's Homework : The Role of a Guide...? , Nicole becomes a Hexerei character. When the party includes at least 2 Hexerei characters, you gain the Hexerei: Secret Rite effect, which enhances Hexerei characters. Hexerei: Secret Rite Increases the DMG dealt by Hexerei characters' Arcane Projections by 300% of Nicole's ATK ."
+    },
+    {
+      "name": "Nepsis",
+      "unlock": "Utility Passive",
+      "description": "When you are in Teyvat and not in combat, Nicole's Charged Attack becomes \"Emissarial Guidance\" if you have already obtained the current region 's Treasure Compass . Emissarial Guidance: Calls upon nearby Seelie to show the way, triggering an effect similar to the region's Treasure Compass. This effect has a cooldown time of 5 seconds and does not work in Domains , Trounce Domains , and the Spiral Abyss ."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "\"Do Not Be Afraid, Child Who Is Loved\"",
+      "unlock": "Constellation Lv. 1",
+      "description": "When the current active character of your own in the party hits an opponent, an additional special \"Arcane Projection: Unity\" will be summoned to perform a Coordinated Attack against the opponent, dealing AoE Elemental DMG of the character's corresponding Elemental Type at 600% of their ATK . This DMG will be considered as having been dealt by the corresponding character. This effect can trigger once every 6s.",
+      "level": 1
+    },
+    {
+      "name": "\"I Will Guide You and Show You the Path You Should Tread\"",
+      "unlock": "Constellation Lv. 2",
+      "description": "Enhances the effects of the Elemental Skill Revelation: Uncreated Light : Grace of Kenosis Grace of Kenosis After unleashing the Elemental Skill Revelation: Uncreated Light, Nicole bestows the following effect on all nearby party members: ATK is increased based on Nicole's ATK. After certain conditions are met, the Grace of Kenosis effect will be upgraded to Guidance of Theosis, further increasing ATK. increases ATK by an additional 300 (which does not count toward this effect's ATK Bonus limit), while Guidance of Theosis Guidance of Theosis Upgrading the Grace of Kenosis effect increases ATK by an additional 300. After unlocking the Ascension Talent \"Methexis\" and meeting any of the following observation conditions, Grace of Kenosis will be upgraded to Guidance of Theosis for the remainder of its duration: Another character under observation remains on the field for longer than 3s; or Another character under observation is a Hexerei character. Additionally, after unlocking the Ascension Talent \"Philokalia,\" when a nearby active party member's Elemental DMG hits an opponent, Nicole's own Grace of Kenosis will be upgraded to Guidance of Theosis for 8s. When characters other than Nicole who have Guidance of Theosis leave the field, their effect will revert to Grace of Kenosis. decreases nearby opponents' Elemental RES based on the corresponding character's Elemental Type by 25%. This effect does not stack for the same Element. Additionally, when Nicole unleashes her Elemental Skill Revelation: Uncreated Light, nearby active party members will also gain a Shield of Blazing Light.",
+      "level": 2
+    },
+    {
+      "name": "\"A Lamp by Your Side, A Light to Shine the Way\"",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Revelation: Uncreated Light by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "\"Whether Left or Right, No Matter Which Way You Turn\"",
+      "unlock": "Constellation Lv. 4",
+      "description": "When nearby party members have their Grace of Kenosis Grace of Kenosis After unleashing the Elemental Skill Revelation: Uncreated Light, Nicole bestows the following effect on all nearby party members: ATK is increased based on Nicole's ATK. After certain conditions are met, the Grace of Kenosis effect will be upgraded to Guidance of Theosis, further increasing ATK. upgraded to Guidance of Theosis Guidance of Theosis Upgrading the Grace of Kenosis effect increases ATK by an additional 300. After unlocking the Ascension Talent \"Methexis\" and meeting any of the following observation conditions, Grace of Kenosis will be upgraded to Guidance of Theosis for the remainder of its duration: Another character under observation remains on the field for longer than 3s; or Another character under observation is a Hexerei character. Additionally, after unlocking the Ascension Talent \"Philokalia,\" when a nearby active party member's Elemental DMG hits an opponent, Nicole's own Grace of Kenosis will be upgraded to Guidance of Theosis for 8s. When characters other than Nicole who have Guidance of Theosis leave the field, their effect will revert to Grace of Kenosis. , Nicole also bestows upon them the Pathfinder's Blessing effect for 20s. Each character can gain this effect once every 16s. The Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG of characters with Pathfinder's Blessing is increased by 70% of Nicole's ATK . This effect will be removed once it has taken effect 8 times or when its duration is over. When multiple opponents are hit at once, instances of Pathfinder's Blessing are consumed equal to the number of opponents hit. Each character's Pathfinder's Blessing is counted independently.",
+      "level": 4
+    },
+    {
+      "name": "\"You Will Hear My Voice Beside You\"",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Revelation: Ladder of Divine Ascent by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "\"This Is the Path, Walk It Without Delay\"",
+      "unlock": "Constellation Lv. 6",
+      "description": "When Nicole's Grace of Kenosis Grace of Kenosis After unleashing the Elemental Skill Revelation: Uncreated Light, Nicole bestows the following effect on all nearby party members: ATK is increased based on Nicole's ATK. After certain conditions are met, the Grace of Kenosis effect will be upgraded to Guidance of Theosis, further increasing ATK. is upgraded to Guidance of Theosis Guidance of Theosis Upgrading the Grace of Kenosis effect increases ATK by an additional 300. After unlocking the Ascension Talent \"Methexis\" and meeting any of the following observation conditions, Grace of Kenosis will be upgraded to Guidance of Theosis for the remainder of its duration: Another character under observation remains on the field for longer than 3s; or Another character under observation is a Hexerei character. Additionally, after unlocking the Ascension Talent \"Philokalia,\" when a nearby active party member's Elemental DMG hits an opponent, Nicole's own Grace of Kenosis will be upgraded to Guidance of Theosis for 8s. When characters other than Nicole who have Guidance of Theosis leave the field, their effect will revert to Grace of Kenosis. , all nearby party members' Grace of Kenosis will also be upgraded to Guidance of Theosis. Once upgraded, Guidance of Theosis will no longer revert to Grace of Kenosis. Additionally, DMG dealt by characters with Guidance of Theosis will ignore 40% of opponents' DEF .",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Agnidus Agate Sliver",
+        "value": 1
+      },
+      {
+        "name": "Pine Amber",
+        "value": 3
+      },
+      {
+        "name": "Tattered Warrant",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Remnant of the Dreadwing",
+        "value": 2
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 3
+      },
+      {
+        "name": "Pine Amber",
+        "value": 10
+      },
+      {
+        "name": "Tattered Warrant",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Remnant of the Dreadwing",
+        "value": 4
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 6
+      },
+      {
+        "name": "Pine Amber",
+        "value": 20
+      },
+      {
+        "name": "Immaculate Warrant",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Remnant of the Dreadwing",
+        "value": 8
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 3
+      },
+      {
+        "name": "Pine Amber",
+        "value": 30
+      },
+      {
+        "name": "Immaculate Warrant",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Remnant of the Dreadwing",
+        "value": 12
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 6
+      },
+      {
+        "name": "Pine Amber",
+        "value": 45
+      },
+      {
+        "name": "Frost-Etched Warrant",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Remnant of the Dreadwing",
+        "value": 20
+      },
+      {
+        "name": "Agnidus Agate Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Pine Amber",
+        "value": 60
+      },
+      {
+        "name": "Frost-Etched Warrant",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

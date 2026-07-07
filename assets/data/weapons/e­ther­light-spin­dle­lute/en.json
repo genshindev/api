@@ -1,0 +1,11 @@
+{
+  "name": "E­ther­light Spin­dle­lute",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "Energy Recharge",
+  "passiveName": "Last Singer",
+  "passiveDesc": "For 20s after using an Elemental Skill, the equipping character's Elemental Mastery is increased by 200.",
+  "location": "Gacha",
+  "ascensionMaterial": "far-north-scions"
+}

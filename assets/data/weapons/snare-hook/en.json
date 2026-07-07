@@ -1,0 +1,11 @@
+{
+  "name": "Snare Hook",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 41,
+  "subStat": "Energy Recharge",
+  "passiveName": "Phantom Flash",
+  "passiveDesc": "Upon causing an Elemental Reaction, increases Elemental Mastery by 120 for 12s. Moonsign: Ascendant Gleam: Elemental Mastery from this effect is further increased by 120. This effect can be triggered even if the equipping character is off-field.",
+  "location": "Gacha",
+  "ascensionMaterial": "long-night-flint"
+}

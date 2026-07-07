@@ -1,0 +1,11 @@
+{
+  "name": "Ring of Yax­che",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "HP",
+  "passiveName": "Echoes of the Plentiful Land",
+  "passiveDesc": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 1% for 10s. Normal Attack DMG can be increased this way by a maximum of 32%.",
+  "location": "Gacha",
+  "ascensionMaterial": "sacred-lord-delirious"
+}

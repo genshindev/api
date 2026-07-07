@@ -1,0 +1,11 @@
+{
+  "name": "Moun­tain-Brac­ing Bolt",
+  "type": "Polearm",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "Energy Recharge",
+  "passiveName": "Hope Beyond the Peaks",
+  "passiveDesc": "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 24%. Also, after other nearby party members use Elemental Skills, the equipping character's Elemental Skill DMG will also increase by 24% for 8s.",
+  "location": "Gacha",
+  "ascensionMaterial": "sacred-lord-delirious"
+}

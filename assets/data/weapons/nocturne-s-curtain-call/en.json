@@ -1,0 +1,11 @@
+{
+  "name": "Nocturne's Curtain Call",
+  "type": "Catalyst",
+  "rarity": 5,
+  "baseAttack": 44,
+  "subStat": "CRIT DMG",
+  "passiveName": "Ballad of the Crossroads",
+  "passiveDesc": "Max HP increases by 18%. When triggering Lunar reactions or inflicting Lunar Reaction DMG on opponents, the equipping character will recover 18 Energy, and receive the Bountiful Sea's Sacred Wine effect for 12s: Max HP increases by an additional 22%, CRIT DMG from Lunar Reaction DMG increases by 140%. The Energy recovery effect can be triggered at most once every 18s, and can be triggered even when the equipping character is off-field.",
+  "location": "Gacha",
+  "ascensionMaterial": "far-north-scions"
+}

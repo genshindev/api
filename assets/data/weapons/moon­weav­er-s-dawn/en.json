@@ -1,0 +1,11 @@
+{
+  "name": "Moon­weav­er's Dawn",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "ATK",
+  "passiveName": "Secret Silver's Testament",
+  "passiveDesc": "Increases Elemental Burst DMG by 40%. When the equipping character's Energy Capacity does not exceed 60/40, their Elemental Burst DMG is increased by an additional 32/56%.",
+  "location": "Gacha",
+  "ascensionMaterial": "far-north-scions"
+}

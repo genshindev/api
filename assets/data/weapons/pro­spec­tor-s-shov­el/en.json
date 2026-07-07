@@ -1,0 +1,11 @@
+{
+  "name": "Pro­spec­tor's Shov­el",
+  "type": "Polearm",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "ATK",
+  "passiveName": "Swift and Sure",
+  "passiveDesc": "Electro-Charged DMG is increased by 96%, and Lunar-Charged DMG is increased by 24%. Moonsign: Ascendant Gleam: Lunar-Charged DMG is increased by an additional 24%.",
+  "location": "Gacha",
+  "ascensionMaterial": "long-night-flint"
+}

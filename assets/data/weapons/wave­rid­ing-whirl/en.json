@@ -1,0 +1,11 @@
+{
+  "name": "Wave­rid­ing Whirl",
+  "type": "Catalyst",
+  "rarity": 4,
+  "baseAttack": 41,
+  "subStat": "Energy Recharge",
+  "passiveName": "Fangs Flying To and Fro",
+  "passiveDesc": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by 40%. For every Hydro Elemental character in the party, Max HP is increased by another 24%, and the maximum increase that can be achieved in this way is 48%. Can be triggered once every 15s.",
+  "location": "Gacha",
+  "ascensionMaterial": "blazing-sacrificial-heart"
+}

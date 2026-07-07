@@ -1,0 +1,7 @@
+{
+  "name": "Obsidian Codex",
+  "max_rarity": 5,
+  "2-piece_bonus": "While the equipping character is in Nightsoul's Blessing and is on the field, their DMG dealt is increased by 15%.",
+  "4-piece_bonus": "After the equipping character consumes 1 Nightsoul point while on the field, CRIT Rate increases by 40% for 6s. This effect can trigger once every second.",
+  "id": "obsidian-codex"
+}

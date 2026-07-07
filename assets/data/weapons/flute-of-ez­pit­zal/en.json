@@ -1,0 +1,11 @@
+{
+  "name": "Flute of Ez­pit­zal",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 41,
+  "subStat": "DEF",
+  "passiveName": "Smoke-and-Mirror Mystery",
+  "passiveDesc": "Using an Elemental Skill increases DEF by 32% for 15s.",
+  "location": "Gacha",
+  "ascensionMaterial": "blazing-sacrificial-heart"
+}

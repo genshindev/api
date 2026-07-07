@@ -1,0 +1,300 @@
+{
+  "name": "Aino",
+  "title": "Clinky-Clank Gadgets-A-Gogo",
+  "vision": "Hydro",
+  "weapon": "Claymore",
+  "gender": "Female",
+  "nation": "Nod-Krai",
+  "affiliation": "Clink-Clank Krumkake Craftshop",
+  "rarity": 4,
+  "release_date": "2025-09-10",
+  "birthday": "0000-09-21",
+  "constellation": "Cistellula Mira",
+  "description": "A genius mechanic and inventor from Nod-Krai who loves interesting machines and sweet treats.",
+  "skillTalents": [
+    {
+      "name": "Bish-Bash-Bosh Repair",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 3 consecutive strikes. Charged Attack Drains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, performs a more powerful slash. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "66.5"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "66.19"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "49.22 ×2"
+        },
+        {
+          "name": "Charged Attack Loop DMG",
+          "value": "62.52"
+        },
+        {
+          "name": "Charged Attack Final DMG",
+          "value": "113.09"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "40/s"
+        },
+        {
+          "name": "Max Duration",
+          "value": "5s"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "74.59"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "149.14"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "186.29"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Musecatcher",
+      "unlock": "Elemental Skill",
+      "description": "Aino throws a Musecatcher forward, dealing Hydro DMG and dragging her along behind it. When the dragging stops, Aino deals AoE Hydro DMG to nearby opponents. Holding the Skill will cause it to behave differently. Hold Enter Aiming Mode to adjust the Musecatcher's throwing direction.",
+      "upgrades": [
+        {
+          "name": "Stage 1 DMG",
+          "value": "65.6"
+        },
+        {
+          "name": "Stage 2 DMG",
+          "value": "188.8"
+        },
+        {
+          "name": "CD",
+          "value": "10s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Precision Hydronic Cooler",
+      "unlock": "Elemental Burst",
+      "description": "Aino deploys a custom water -spraying device, the Cool Your Jets Ducky to establish a Focused Hydronic Cooling Zone. While active, the Cool Your Jets Ducky will periodically fire water balls at nearby opponents, dealing Hydro DMG .",
+      "upgrades": [
+        {
+          "name": "Water Ball DMG",
+          "value": "20.11"
+        },
+        {
+          "name": "Duration",
+          "value": "14s"
+        },
+        {
+          "name": "CD",
+          "value": "13.5s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "50"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Modular Efficiency Protocol",
+      "unlock": "1st Ascension Passive",
+      "description": "Aino will be granted the corresponding buff effects based on the party 's Moonsign. Moonsign: Ascendant Gleam : Her Elemental Burst Precision Hydronic Cooler is enhanced: The Cool Your Jets Ducky will fire water balls more frequently, and the water balls will deal AoE Hydro DMG over a larger area of effect.",
+      "level": 1
+    },
+    {
+      "name": "Structured Power Booster",
+      "unlock": "4th Ascension Passive",
+      "description": "Aino's Elemental Burst DMG is increased by 50% of her Elemental Mastery .",
+      "level": 4
+    },
+    {
+      "name": "Force Limit Analysis",
+      "unlock": "Moonsign Benediction Passive",
+      "description": "When Aino is in the party , the party's Moonsign will increase by 1 level."
+    },
+    {
+      "name": "Miniaturized Detection Sensor",
+      "unlock": "Utility Passive",
+      "description": "Displays the location of nearby resources unique to Nod-Krai on the mini-map. Additionally, Aino appears to be able to alter the Cool Your Jets Ducky's appearance in some way..."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "The Theory of Ash—Field Equilibrium",
+      "unlock": "Constellation Lv. 1",
+      "description": "After Aino uses her Elemental Skill Musecatcher or her Elemental Burst Precision Hydronic Cooler , her Elemental Mastery will be increased by 80. The Elemental Mastery of other nearby active party members will be increased by 80 for 15s. The Elemental Mastery-increasing effects of this Constellation do not stack.",
+      "level": 1
+    },
+    {
+      "name": "The Principle of Transference in Gear Differentials",
+      "unlock": "Constellation Lv. 2",
+      "description": "Description Advanced Properties If Aino is off-field while the Focused Hydronic Cooling Zone of her Elemental Burst Precision Hydronic Cooler is active, when your active party member hits a nearby opponent with an attack, the Cool Your Jets Ducky will fire an additional water ball at that opponent, dealing AoE Hydro DMG equal to 25% of Aino's ATK and 100% of her Elemental Mastery . This DMG is considered Elemental Burst DMG. This effect can be triggered once every 5s. Gauge Units Internal Cooldown Poise Damage Stagger Effect Blunt ‍ Tag Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ Type Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ S. L. Stagger Level ‍ ‍ H. F. Horizontal Force ‍ ‍ V. F. Vertical Force ‍ Water Ball 1U No ICD 25 Light 200 0 ✘",
+      "level": 2
+    },
+    {
+      "name": "Cake and the Art of Mechanism Repair",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Precision Hydronic Cooler by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Butter and Cats and the Law of Energy Supply",
+      "unlock": "Constellation Lv. 4",
+      "description": "When the Elemental Skill Musecatcher hits an opponent, it will restore 10 Elemental Energy for Aino. Energy can be restored to her in this manner once every 10s.",
+      "level": 4
+    },
+    {
+      "name": "Perpetual Turbine of Metal and Light",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Musecatcher by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "The Burden of Creative Genius",
+      "unlock": "Constellation Lv. 6",
+      "description": "For the next 15s after using the Elemental Burst Precision Hydronic Cooler , DMG from nearby active characters' Electro-Charged , Bloom , Lunar-Charged , Lunar-Bloom , and Lunar-Crystallize reactions is increased by 15%. Moonsign: Ascendant Gleam : DMG from the aforementioned reactions will be further increased by 20%.",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Varunada Lazurite Sliver",
+        "value": 1
+      },
+      {
+        "name": "Portable Bearing",
+        "value": 3
+      },
+      {
+        "name": "Broken Drive Shaft",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Precision Kuuvahki Stamping Die",
+        "value": 2
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "value": 3
+      },
+      {
+        "name": "Portable Bearing",
+        "value": 10
+      },
+      {
+        "name": "Broken Drive Shaft",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Precision Kuuvahki Stamping Die",
+        "value": 4
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "value": 6
+      },
+      {
+        "name": "Portable Bearing",
+        "value": 20
+      },
+      {
+        "name": "Reinforced Drive Shaft",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Precision Kuuvahki Stamping Die",
+        "value": 8
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "value": 3
+      },
+      {
+        "name": "Portable Bearing",
+        "value": 30
+      },
+      {
+        "name": "Reinforced Drive Shaft",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Precision Kuuvahki Stamping Die",
+        "value": 12
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "value": 6
+      },
+      {
+        "name": "Portable Bearing",
+        "value": 45
+      },
+      {
+        "name": "Precision Drive Shaft",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Precision Kuuvahki Stamping Die",
+        "value": 20
+      },
+      {
+        "name": "Varunada Lazurite Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Portable Bearing",
+        "value": 60
+      },
+      {
+        "name": "Precision Drive Shaft",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

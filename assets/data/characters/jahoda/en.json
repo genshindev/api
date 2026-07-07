@@ -1,0 +1,316 @@
+{
+  "name": "Jahoda",
+  "title": "Windthreading Shadow",
+  "vision": "Anemo",
+  "weapon": "Bow",
+  "gender": "Female",
+  "nation": "Nod-Krai",
+  "affiliation": "Curatorium of Secrets",
+  "rarity": 4,
+  "release_date": "2025-12-03",
+  "birthday": "0000-01-05",
+  "constellation": "Fragum",
+  "description": "The Curatorium of Secrets' extremely reliable, do-it-all super employee (or so she claims).",
+  "skillTalents": [
+    {
+      "name": "Strike While the Arrow's Hot",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 3 consecutive shots with a bow. Charged Attack Performs a more precise Aimed Shot with increased DMG. While aiming, mighty winds will accumulate on the arrowhead. A fully charged wind arrow will deal Anemo DMG . Plunging Attack Fires off a shower of arrows in mid-air before falling and striking the ground, hitting opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "41.67"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "19.23 × 2"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "51.2"
+        },
+        {
+          "name": "Aimed Shot",
+          "value": "43.86"
+        },
+        {
+          "name": "Fully-Charged Aimed Shot",
+          "value": "124"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "113.63"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "141.93"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Savvy Strategy: Splitting the Spoils",
+      "unlock": "Elemental Skill",
+      "description": "Jahoda dashes toward her opponent, entering the Shadow Pursuit state upon contact. While in this state, Jahoda moves continuously and swiftly: If nearby opponents are affected by Pyro , Hydro , Electro , or Cryo , she will quietly convert her Purr-loined Treasure Flask Purr-loined Treasure Flask A small elemental vessel that Jahoda retrieves after casting her Elemental Skill Savvy Strategy: Splitting the Spoils. While Jahoda is in the Shadow Pursuit state, if nearby opponents are affected by Pyro , Hydro , Electro , or Cryo , the Purr-loined Treasure Flask will convert to that element and begin filling up. The order of priority that determines which element will be converted to is: Pyro , Hydro , Electro , then Cryo . After each use of her Elemental Skill, the Purr-loined Treasure Flask can undergo one such conversion. When the Purr-loined Treasure Flask is full, Jahoda immediately drains it, exiting the Shadow Pursuit state and dealing a single instance of Anemo DMG to nearby opponents. Each time the Elemental Skill is cast, Jahoda takes out a brand-new Purr-loined Treasure Flask. Moonsign: Ascendant Gleam : When the Purr-loined Treasure Flask becomes full, Jahoda will not immediately discharge it. Instead, for a short duration, she steadily consumes the stored element inside and periodically fires Fluffy Meowballs at nearby opponents, dealing DMG of the corresponding element stored in the Purr-loined Treasure Flask. to that element, gradually filling it. When the duration ends or the skill is used again, Jahoda drains the Purr-loined Treasure Flask and deals a single instance of Anemo DMG to nearby opponents. When the Purr-loined Treasure Flask is full, Jahoda immediately drains it, exiting the Shadow Pursuit state and dealing a more powerful instance of Anemo DMG . If her dash fails to make contact with an opponent, Jahoda instead drops a Smoke Bomb at her location, dealing a single instance of Anemo DMG to nearby opponents. Moonsign: Ascendant Gleam : When the Purr-loined Treasure Flask becomes full, Jahoda will not immediately discharge it. Instead, for a short duration, she steadily consumes the stored element inside and periodically fires Fluffy Meowballs at nearby opponents, dealing DMG of the corresponding element stored in the Purr-loined Treasure Flask. When a Fluffy Meowball hits an opponent, Jahoda regenerates 2 Elemental Energy . This effect can be triggered once every 3.5s.",
+      "upgrades": [
+        {
+          "name": "Smoke Bomb DMG",
+          "value": "159"
+        },
+        {
+          "name": "Unfilled Treasure Flask DMG",
+          "value": "190.8"
+        },
+        {
+          "name": "Filled Treasure Flask DMG",
+          "value": "212"
+        },
+        {
+          "name": "Treasure Flask Duration",
+          "value": "20s"
+        },
+        {
+          "name": "Meowball DMG",
+          "value": "128"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Hidden Aces: Seven Tools of the Hunter",
+      "unlock": "Elemental Burst",
+      "description": "Time to reveal those pocket aces! Jahoda retrieves 2 Purrsonal Coordinated Assistance Robots Purrsonal Coordinated Assistance Robots One of the gadgets that Jahoda — a former treasure hunter — carries around with her. It is deployed upon using her Elemental Burst Hidden Aces: Seven Tools of the Hunter. Purrsonal Coordinated Assistance Robots continuously restore HP to your active character. If the healed character's HP is above 70%, they also restore HP to the nearby party member with the lowest HP. Moonsign: Ascendant Gleam : If nearby opponents are affected by Pyro , Hydro , Electro , or Cryo , Purrsonal Coordinated Assistance Robots will convert to that element. The order of priority that determines which element will be converted to is: Pyro , Hydro , Electro , then Cryo . After each deployment, a Purrsonal Coordinated Assistance Robot can undergo one such conversion. After converting, the Purrsonal Coordinated Assistance Robot will periodically attack up to 3 nearby opponents, dealing damage of the corresponding element. and deals a single instance of Anemo DMG to nearby opponents.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "207.2"
+        },
+        {
+          "name": "Purrsonal Coordinated Assistance Robot DMG",
+          "value": "17.27"
+        },
+        {
+          "name": "Purrsonal Coordinated Assistance Robot Duration",
+          "value": "12s"
+        },
+        {
+          "name": "Purrsonal Coordinated Assistance Robot Healing",
+          "value": "79.87% ATK+501"
+        },
+        {
+          "name": "Lowest HP Character Additional Healing",
+          "value": "30.72% ATK+193"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Plan to Get Paid",
+      "unlock": "1st Ascension Passive",
+      "description": "When your team has at least one Pyro , Hydro , Electro , or Cryo character, the Purrsonal Coordinated Assistance Robots Purrsonal Coordinated Assistance Robots One of the gadgets that Jahoda — a former treasure hunter — carries around with her. It is deployed upon using her Elemental Burst Hidden Aces: Seven Tools of the Hunter. Purrsonal Coordinated Assistance Robots continuously restore HP to your active character. If the healed character's HP is above 70%, they also restore HP to the nearby party member with the lowest HP. Moonsign: Ascendant Gleam : If nearby opponents are affected by Pyro , Hydro , Electro , or Cryo , Purrsonal Coordinated Assistance Robots will convert to that element. The order of priority that determines which element will be converted to is: Pyro , Hydro , Electro , then Cryo . After each deployment, a Purrsonal Coordinated Assistance Robot can undergo one such conversion. After converting, the Purrsonal Coordinated Assistance Robot will periodically attack up to 3 nearby opponents, dealing damage of the corresponding element. from the Elemental Burst Hidden Aces: Seven Tools of the Hunter will be enhanced based on the number of characters of each corresponding element. Jahoda secretly keeps track of these characters. Among them, the element with the highest number of characters determines the enhancement effect: Pyro : Purrsonal Coordinated Assistance Robots deal 130% of their original DMG. Hydro : Purrsonal Coordinated Assistance Robots heal for 120% of their original healing amount. Electro : The number of Purrsonal Coordinated Assistance Robots increases by one. Cryo : The attack interval of Purrsonal Coordinated Assistance Robots is reduced by 10%. If there's a tie between elements, the order of priority that determines which enhancement takes effect is: Pyro , Hydro , Electro , then Cryo . Only one elemental effect can initially be triggered.",
+      "level": 1
+    },
+    {
+      "name": "Sweet Berry Bounty",
+      "unlock": "4th Ascension Passive",
+      "description": "When a Purrsonal Coordinated Assistance Robot Purrsonal Coordinated Assistance Robots One of the gadgets that Jahoda — a former treasure hunter — carries around with her. It is deployed upon using her Elemental Burst Hidden Aces: Seven Tools of the Hunter. Purrsonal Coordinated Assistance Robots continuously restore HP to your active character. If the healed character's HP is above 70%, they also restore HP to the nearby party member with the lowest HP. Moonsign: Ascendant Gleam : If nearby opponents are affected by Pyro , Hydro , Electro , or Cryo , Purrsonal Coordinated Assistance Robots will convert to that element. The order of priority that determines which element will be converted to is: Pyro , Hydro , Electro , then Cryo . After each deployment, a Purrsonal Coordinated Assistance Robot can undergo one such conversion. After converting, the Purrsonal Coordinated Assistance Robot will periodically attack up to 3 nearby opponents, dealing damage of the corresponding element. from the Elemental Burst Hidden Aces: Seven Tools of the Hunter triggers healing on an active team member, if that character's HP is above 70%, their Elemental Mastery will be increased by 100 for 6s.",
+      "level": 4
+    },
+    {
+      "name": "Rooftop Dash",
+      "unlock": "Moonsign Benediction Passive",
+      "description": "When Jahoda is in the party , the party's Moonsign will increase by 1 level."
+    },
+    {
+      "name": "Backstreet Guile",
+      "unlock": "Utility Passive",
+      "description": "When dispatched on an expedition in Nod-Krai , time consumed is reduced by 25%. Additionally, as the employee of the Curatorium of Secrets , Jahoda seemingly has the ability to obtain intelligence from a variety of sources — intelligence that certain factions in Nasha Town might find extremely interesting."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "One More Flask!",
+      "unlock": "Constellation Lv. 1",
+      "description": "Description Advanced Properties When a Fluffy Meowball fired by the Purr-loined Treasure Flask Purr-loined Treasure Flask A small elemental vessel that Jahoda retrieves after casting her Elemental Skill Savvy Strategy: Splitting the Spoils. While Jahoda is in the Shadow Pursuit state, if nearby opponents are affected by Pyro , Hydro , Electro , or Cryo , the Purr-loined Treasure Flask will convert to that element and begin filling up. The order of priority that determines which element will be converted to is: Pyro , Hydro , Electro , then Cryo . After each use of her Elemental Skill, the Purr-loined Treasure Flask can undergo one such conversion. When the Purr-loined Treasure Flask is full, Jahoda immediately drains it, exiting the Shadow Pursuit state and dealing a single instance of Anemo DMG to nearby opponents. Each time the Elemental Skill is cast, Jahoda takes out a brand-new Purr-loined Treasure Flask. Moonsign: Ascendant Gleam : When the Purr-loined Treasure Flask becomes full, Jahoda will not immediately discharge it. Instead, for a short duration, she steadily consumes the stored element inside and periodically fires Fluffy Meowballs at nearby opponents, dealing DMG of the corresponding element stored in the Purr-loined Treasure Flask. from the Elemental Skill Savvy Strategy: Splitting the Spoils hits an enemy, there is a 50% chance for it to bounce, dealing the corresponding Elemental DMG to nearby opponents. Gauge Units Internal Cooldown Poise Damage Stagger Effect Blunt ‍ Tag Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ Type Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ S. L. Stagger Level ‍ ‍ H. F. Horizontal Force ‍ ‍ V. F. Vertical Force ‍ Bounce 1U Constellation 1 15s/2 Hits 25 Light 200 0 ✘",
+      "level": 1
+    },
+    {
+      "name": "Rogue's Quick Thinking",
+      "unlock": "Constellation Lv. 2",
+      "description": "Moonsign: Ascendant Gleam : In the Ascension Talent \"Plan to Get Paid,\" Jahoda can secretly track, in addition to the element with the highest number of characters, the element with the next highest number of characters among the remaining types. This allows up to two elemental effects to be active at once. You must first unlock the Ascension Talent \"Plan to Get Paid.\"",
+      "level": 2
+    },
+    {
+      "name": "Desperate Gamble",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Hidden Aces: Seven Tools of the Hunter by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Wild Berry Amid the Dust",
+      "unlock": "Constellation Lv. 4",
+      "description": "When a Purrsonal Coordinated Assistance Robot Purrsonal Coordinated Assistance Robots One of the gadgets that Jahoda — a former treasure hunter — carries around with her. It is deployed upon using her Elemental Burst Hidden Aces: Seven Tools of the Hunter. Purrsonal Coordinated Assistance Robots continuously restore HP to your active character. If the healed character's HP is above 70%, they also restore HP to the nearby party member with the lowest HP. Moonsign: Ascendant Gleam : If nearby opponents are affected by Pyro , Hydro , Electro , or Cryo , Purrsonal Coordinated Assistance Robots will convert to that element. The order of priority that determines which element will be converted to is: Pyro , Hydro , Electro , then Cryo . After each deployment, a Purrsonal Coordinated Assistance Robot can undergo one such conversion. After converting, the Purrsonal Coordinated Assistance Robot will periodically attack up to 3 nearby opponents, dealing damage of the corresponding element. from the Elemental Burst Hidden Aces: Seven Tools of the Hunter undergoes an Elemental Conversion, Jahoda will recover 4 Elemental Energy .",
+      "level": 4
+    },
+    {
+      "name": "The Greatest Treasure",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Savvy Strategy: Splitting the Spoils by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "The Littlest Luck",
+      "unlock": "Constellation Lv. 6",
+      "description": "Moonsign: Ascendant Gleam : After the Purr-loined Treasure Flask Purr-loined Treasure Flask A small elemental vessel that Jahoda retrieves after casting her Elemental Skill Savvy Strategy: Splitting the Spoils. While Jahoda is in the Shadow Pursuit state, if nearby opponents are affected by Pyro , Hydro , Electro , or Cryo , the Purr-loined Treasure Flask will convert to that element and begin filling up. The order of priority that determines which element will be converted to is: Pyro , Hydro , Electro , then Cryo . After each use of her Elemental Skill, the Purr-loined Treasure Flask can undergo one such conversion. When the Purr-loined Treasure Flask is full, Jahoda immediately drains it, exiting the Shadow Pursuit state and dealing a single instance of Anemo DMG to nearby opponents. Each time the Elemental Skill is cast, Jahoda takes out a brand-new Purr-loined Treasure Flask. Moonsign: Ascendant Gleam : When the Purr-loined Treasure Flask becomes full, Jahoda will not immediately discharge it. Instead, for a short duration, she steadily consumes the stored element inside and periodically fires Fluffy Meowballs at nearby opponents, dealing DMG of the corresponding element stored in the Purr-loined Treasure Flask. from the Elemental Skill Savvy Strategy: Splitting the Spoils is full, nearby Moonsign characters in your party have their CRIT Rate increased by 5% and CRIT DMG increased by 40% for 20s.",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vayuda Turquoise Sliver",
+        "value": 1
+      },
+      {
+        "name": "Portable Bearing",
+        "value": 3
+      },
+      {
+        "name": "Broken Drive Shaft",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Lightbearing Scale-Feather",
+        "value": 2
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 3
+      },
+      {
+        "name": "Portable Bearing",
+        "value": 10
+      },
+      {
+        "name": "Broken Drive Shaft",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Lightbearing Scale-Feather",
+        "value": 4
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 6
+      },
+      {
+        "name": "Portable Bearing",
+        "value": 20
+      },
+      {
+        "name": "Reinforced Drive Shaft",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Lightbearing Scale-Feather",
+        "value": 8
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 3
+      },
+      {
+        "name": "Portable Bearing",
+        "value": 30
+      },
+      {
+        "name": "Reinforced Drive Shaft",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Lightbearing Scale-Feather",
+        "value": 12
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 6
+      },
+      {
+        "name": "Portable Bearing",
+        "value": 45
+      },
+      {
+        "name": "Precision Drive Shaft",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Lightbearing Scale-Feather",
+        "value": 20
+      },
+      {
+        "name": "Vayuda Turquoise Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Portable Bearing",
+        "value": 60
+      },
+      {
+        "name": "Precision Drive Shaft",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

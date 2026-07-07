@@ -1,0 +1,11 @@
+{
+  "name": "Ca­lam­i­ty of E­shu",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "ATK",
+  "passiveName": "Diffusing Boundary",
+  "passiveDesc": "While characters are protected by a Shield, DMG dealt by Normal and Charged Attacks is increased by 40%, and Normal and Charged Attack CRIT Rate is increased by 16%.",
+  "location": "Gacha",
+  "ascensionMaterial": "sacred-lord-delirious"
+}

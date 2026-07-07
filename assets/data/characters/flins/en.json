@@ -1,0 +1,344 @@
+{
+  "name": "Flins",
+  "title": "Shadowy Lights, Stranger Wights",
+  "vision": "Electro",
+  "weapon": "Polearm",
+  "gender": "Male",
+  "nation": "Nod-Krai",
+  "affiliation": "Lightkeepers",
+  "rarity": 5,
+  "release_date": "2025-09-30",
+  "birthday": "0000-10-31",
+  "constellation": "Laterna Vigilis",
+  "description": "A Lightkeeper of Nod-Krai, guardian of a lighthouse and graveyard on a northern isle. An enigmatic gentleman, cultured and courtly.",
+  "skillTalents": [
+    {
+      "name": "Pocztowy Demonspear",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 5 consecutive spear strikes. Charged Attack Consumes a certain amount of Stamina to perform a forward spear throw. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "44.73"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "45.15"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "55.92"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "32.04×2"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "76.79"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "103.03"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "127.84"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "159.68"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Ancient Rite: Arcane Light",
+      "unlock": "Elemental Skill",
+      "description": "Flins summons forth the ancient power concealed within his lamp and switches to his Manifest Flame form. This form has the following characteristics: Flins's Normal and Charged Attacks deal Electro DMG that cannot be overridden by other Elemental infusions, and he is unable to perform Plunging Attacks. His interruption resistance is increased. His Elemental Skill Ancient Rite: Arcane Light is replaced with the special Elemental Skill Northland Spearstorm. Northland Spearstorm Flins summons a flurry of spears in front, dealing AoE Electro DMG and causing his Elemental Burst Ancient Ritual: Cometh the Night to be replaced with the special Elemental Burst Thunderous Symphony Thunderous Symphony Consume less Elemental Energy to unleash a special Elemental Burst. Flins deals a single instance of AoE Electro DMG . This DMG is considered Lunar-Charged DMG. Moonsign: Ascendant Gleam : If there are thunderclouds nearby, Flins will deal 1 additional instance of AoE Electro DMG . This DMG is considered Lunar-Charged DMG. for the next 6s. The base CD of Northland Spearstorm is 6s and will not be affected by other effects.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "58.25"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "58.8"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "72.83"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "41.73×2"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "100.01"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "114.96"
+        },
+        {
+          "name": "Northland Spearstorm DMG",
+          "value": "178.4"
+        },
+        {
+          "name": "Northland Spearstorm CD",
+          "value": "6s"
+        },
+        {
+          "name": "Manifest Flame Duration",
+          "value": "10s"
+        },
+        {
+          "name": "Skill CD",
+          "value": "16s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Ancient Ritual: Cometh the Night",
+      "unlock": "Elemental Burst",
+      "description": "Flins unleashes the true power of his lamp, dealing AoE Electro DMG and, after a short delay, dealing 2 instances of middle-phase and 1 instance of final-phase AoE Electro DMG , all of which are considered Lunar-Charged DMG. Moonsign: Ascendant Gleam : Flins's Skill is enhanced: If there are thunderclouds nearby, Flins will deal an additional 2 instances of middle-phase Lunar-Charged AoE Electro DMG . After using the special Elemental Skill Northland Spearstorm, Flins's Elemental Burst Ancient Ritual: Cometh the Night will be replaced with the special Elemental Burst Thunderous Symphony for the next 6s. Thunderous Symphony Consume less Elemental Energy to unleash a special Elemental Burst. Flins deals a single instance of AoE Electro DMG that is considered Lunar-Charged DMG. Moonsign: Ascendant Gleam : Flins's Skill is enhanced: If there are thunderclouds nearby, Flins will deal an additional instance of Lunar-Charged AoE Electro DMG .",
+      "upgrades": [
+        {
+          "name": "Initial Skill DMG",
+          "value": "259.84"
+        },
+        {
+          "name": "Middle Phase Lunar-Charged DMG",
+          "value": "16.24"
+        },
+        {
+          "name": "Final Phase Lunar-Charged DMG",
+          "value": "116.93"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        },
+        {
+          "name": "CD",
+          "value": "20s"
+        },
+        {
+          "name": "Thunderous Symphony DMG",
+          "value": "71.46"
+        },
+        {
+          "name": "Thunderous Symphony Additional DMG",
+          "value": "103.94"
+        },
+        {
+          "name": "Thunderous Symphony Energy Cost",
+          "value": "30"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Symphony of Winter",
+      "unlock": "1st Ascension Passive",
+      "description": "Flins will gain a corresponding buff effect based on the party 's Moonsign. Moonsign: Ascendant Gleam : Lunar-Charged reactions triggered by Flins will deal an additional 20% DMG.",
+      "level": 1
+    },
+    {
+      "name": "Whispering Flame",
+      "unlock": "4th Ascension Passive",
+      "description": "Flins's Elemental Mastery is increased by 8% of his ATK . The maximum increase obtainable this way is 160.",
+      "level": 4
+    },
+    {
+      "name": "Old World Secrets",
+      "unlock": "Moonsign Benediction Passive",
+      "description": "When a party member triggers an Electro-Charged reaction, it will be converted into the Lunar-Charged reaction, with every 100 ATK that Flins has increasing Lunar-Charged's Base DMG by 0.7%, up to a maximum of 14%. Additionally, when Flins is in the party, the party's Moonsign will increase by 1 level."
+    },
+    {
+      "name": "A Light in the Dark",
+      "unlock": "Utility Passive",
+      "description": "Displays the location of nearby resources unique to Nod-Krai on the mini-map . Additionally, Flins appears to be able to decipher the whispers of the Wild Hunt ..."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Part the Veil of Snow",
+      "unlock": "Constellation Lv. 1",
+      "description": "The basic cooldown of the special Elemental Skill Northland Spearstorm is reduced to 4s. Additionally, when party members trigger Lunar-Charged reactions, Flins will recover 8 Elemental Energy . This effect can occur once every 5.5s.",
+      "level": 1
+    },
+    {
+      "name": "The Devil's Wall",
+      "unlock": "Constellation Lv. 2",
+      "description": "Description Advanced Properties For the next 6s after using the special Elemental Skill Northland Spearstorm, when Flins's next Normal Attack hits an opponent, it will deal an additional 50% of Flins's ATK as AoE Electro DMG . This DMG is considered Lunar-Charged DMG. Moonsign: Ascendant Gleam : While Flins is on the field, after his Electro attacks hit an opponent, that opponent's Electro RES will be decreased by 25% for 7s. Gauge Units Internal Cooldown Poise Damage Stagger Effect Blunt ‍ Tag Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ Type Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ S. L. Stagger Level ‍ ‍ H. F. Horizontal Force ‍ ‍ V. F. Vertical Force ‍ Extra Lunar-Charged 0U No ICD 50 Light 200 0 ✘",
+      "level": 2
+    },
+    {
+      "name": "Stranger in the Night",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Ancient Ritual: Cometh the Night by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Night on Bald Mountain",
+      "unlock": "Constellation Lv. 4",
+      "description": "Flins's ATK is increased by 20%. Additionally, his Ascension Talent \"Whispering Flame\" is enhanced: Flins's Elemental Mastery is increased by 10% of his ATK. The maximum increase obtainable this way is 220.",
+      "level": 4
+    },
+    {
+      "name": "Exile's Shadow",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Ancient Rite: Arcane Light by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Songs and Dances of Death",
+      "unlock": "Constellation Lv. 6",
+      "description": "The DMG dealt to opponents by Flins's Lunar-Charged reactions is elevated Elevation Special DMG Boost effect. It is calculated independently of other DMG Boost effects. by 35%. Moonsign: Ascendant Gleam : All nearby party members' Lunar-Charged DMG is elevated by 10%.",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "value": 1
+      },
+      {
+        "name": "Frostlamp Flower",
+        "value": 3
+      },
+      {
+        "name": "Broken Drive Shaft",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Precision Kuuvahki Stamping Die",
+        "value": 2
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 3
+      },
+      {
+        "name": "Frostlamp Flower",
+        "value": 10
+      },
+      {
+        "name": "Broken Drive Shaft",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Precision Kuuvahki Stamping Die",
+        "value": 4
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "value": 6
+      },
+      {
+        "name": "Frostlamp Flower",
+        "value": 20
+      },
+      {
+        "name": "Reinforced Drive Shaft",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Precision Kuuvahki Stamping Die",
+        "value": 8
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 3
+      },
+      {
+        "name": "Frostlamp Flower",
+        "value": 30
+      },
+      {
+        "name": "Reinforced Drive Shaft",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Precision Kuuvahki Stamping Die",
+        "value": 12
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "value": 6
+      },
+      {
+        "name": "Frostlamp Flower",
+        "value": 45
+      },
+      {
+        "name": "Precision Drive Shaft",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Precision Kuuvahki Stamping Die",
+        "value": 20
+      },
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Frostlamp Flower",
+        "value": 60
+      },
+      {
+        "name": "Precision Drive Shaft",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

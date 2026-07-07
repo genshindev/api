@@ -1,0 +1,11 @@
+{
+  "name": "Fruit­ful Hook",
+  "type": "Claymore",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "ATK",
+  "passiveName": "The Weight of Falling Branches",
+  "passiveDesc": "Increase Plunging Attack CRIT Rate by 32%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 32% for 10s.",
+  "location": "Gacha",
+  "ascensionMaterial": "night-wind-mystic"
+}

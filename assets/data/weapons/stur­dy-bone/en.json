@@ -1,0 +1,11 @@
+{
+  "name": "Stur­dy Bone",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 44,
+  "subStat": "ATK",
+  "passiveName": "Trapper's Pride",
+  "passiveDesc": "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Sprint or Alternate Sprint, Normal Attack DMG is increased by 32% of ATK. This effect expires after triggering 18 times or 7s.",
+  "location": "Gacha",
+  "ascensionMaterial": "blazing-sacrificial-heart"
+}

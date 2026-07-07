@@ -1,0 +1,11 @@
+{
+  "name": "Cloud­forged",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "Elemental Mastery",
+  "passiveName": "Crag-Chiseled Forge",
+  "passiveDesc": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 80 for 18s. Max 2 stacks.",
+  "location": "Gacha",
+  "ascensionMaterial": "aerosiderite"
+}

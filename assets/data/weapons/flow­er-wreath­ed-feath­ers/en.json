@@ -1,0 +1,11 @@
+{
+  "name": "Flow­er-Wreath­ed Feath­ers",
+  "type": "Bow",
+  "rarity": 4,
+  "baseAttack": 42,
+  "subStat": "ATK",
+  "passiveName": "Inflorescence Unattainable",
+  "passiveDesc": "Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by 12% every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.",
+  "location": "Gacha",
+  "ascensionMaterial": "night-wind-mystic"
+}

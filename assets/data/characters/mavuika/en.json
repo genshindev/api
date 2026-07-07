@@ -1,0 +1,328 @@
+{
+  "name": "Mavuika",
+  "title": "Night-Igniting Flame",
+  "vision": "Pyro",
+  "weapon": "Claymore",
+  "gender": "Female",
+  "nation": "Natlan",
+  "affiliation": "Scions of the Canopy",
+  "rarity": 5,
+  "release_date": "2025-01-01",
+  "birthday": "0000-08-28",
+  "constellation": "Sol Invictus",
+  "description": "The leader of Natlan who inherited the Ancient Name of \"Kiongozi.\" She made a vow to illuminate the future of the nation of war with the Sacred Flame.",
+  "skillTalents": [
+    {
+      "name": "Flames Weave Life",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 4 consecutive claymore strikes. Charged Attack Consumes a certain amount of Stamina to perform an especially powerful Severing Splendor strike toward the front. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "80.03"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "36.48×2"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "33.22×3"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "116.19"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "193.84"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "74.59"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "149.14"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "186.29"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "The Named Moment",
+      "unlock": "Elemental Skill",
+      "description": "Calling upon her authority over \"conflict,\" Mavuika summons the All-Fire Armaments passed down through the line of human Archons, dealing Nightsoul-aligned Pyro DMG After using this, Mavuika's Nightsoul points are restored to max value, and she enters the Nightsoul's Blessing state. All-Fire Armaments Has different forms when Tapped or Held. (‍ Press Text for mouse and keyboard and controller ‍/‍ Tap Text for touch screen ‍) \"Divine Name Unleashed\": The All-Fire Armaments manifest as a Ring of Searing Radiance. The Ring follows the current active character and attacks nearby opponents at intervals, dealing Nightsoul-aligned Pyro DMG . Hold \"Ancient Name Unbound\": The All-Fire Armaments manifest as a Flamestrider. In this state, Mavuika can ride the Flamestrider at high speed, or activate its hidden backup propulsion module to temporarily cross various terrain types and glide in mid-air. Mavuika's Normal , Charged , and Plunging Attacks will also be converted to deal Nightsoul-aligned Pyro DMG which cannot be overridden. When sprinting , she also deals Nightsoul-aligned Pyro DMG to opponents along her path. While in the Nightsoul's Blessing state, Tapping the Elemental Skill can switch the All-Fire Armaments' form. The Armaments will disappear once Mavuika's Nightsoul's Blessing state ends. Nightsoul's Blessing: Mavuika Continuously consumes Nightsoul points according to the All-Fire Armaments' form. Mavuika's Nightsoul's Blessing state ends once her Nightsoul points are exhausted.",
+      "upgrades": [
+        {
+          "name": "Flamestrider Base",
+          "value": "8/s"
+        },
+        {
+          "name": "Charged Attack",
+          "value": "1.2/s"
+        },
+        {
+          "name": "Normal Attack Hit",
+          "value": "0.8"
+        },
+        {
+          "name": "Climbing",
+          "value": "4/s"
+        },
+        {
+          "name": "Over Water",
+          "value": "2.5/s"
+        },
+        {
+          "name": "Flying",
+          "value": "1.5/s"
+        },
+        {
+          "name": "Dash",
+          "value": "8"
+        },
+        {
+          "name": "Sprint",
+          "value": "12/s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Hour of Burning Skies",
+      "unlock": "Elemental Burst",
+      "description": "Let the people's inner voices reach the divine throne in the heavens. Mavuika's Elemental Burst is not reliant on Energy, but instead, on \"Fighting Spirit.\" Fighting Spirit When Mavuika has at least 50% Fighting Spirit, she can consume it all to unleash her Elemental Burst. Mavuika can obtain Fighting Spirit via the following methods: When in combat, Nightsoul points consumed by nearby party members are converted to Fighting Spirit. When nearby party members' Normal Attacks hit opponents, Mavuika gains 1.5 Fighting Spirit. This can trigger once every 0.1s. After using this, Mavuika gains 10 Nightsoul points and enters the Nightsoul's Blessing state. Riding her Flamestrider high in the air, she uses a powerful Sunfell Slice against opponents on the ground, dealing Nightsoul-aligned AoE Pyro DMG and entering the \"Crucible of Death and Life\" state. Crucible of Death and Life During this time, Mavuika's various actions will no longer consume Nightsoul points, and her interruption resistance is increased. Also, the DMG dealt by Sunfell Slice and \" Ancient Name Unbound \"'s Normal and Charged Attacks is increased based on the amount of Fighting Spirit she has when using the Elemental Burst. Crucible of Death and Life will be canceled when Mavuika leaves the field.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "444.8"
+        },
+        {
+          "name": "Crucible of Death and Life Duration",
+          "value": "7s"
+        },
+        {
+          "name": "Sunfell Slice DMG Bonus",
+          "value": "1.6% ATK per Fighting Spirit"
+        },
+        {
+          "name": "Flamestrider Normal Attack DMG Bonus",
+          "value": "0.26% ATK per Fighting Spirit"
+        },
+        {
+          "name": "Flamestrider Charged Attack DMG Bonus",
+          "value": "0.52% ATK per Fighting Spirit"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        },
+        {
+          "name": "Fighting Spirit Limit",
+          "value": "200"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Gift of Flaming Flowers",
+      "unlock": "1st Ascension Passive",
+      "description": "When a nearby party member triggers a Nightsoul Burst , Mavuika's ATK increases by 30% for 10s.",
+      "level": 1
+    },
+    {
+      "name": "\"Kiongozi\"",
+      "unlock": "4th Ascension Passive",
+      "description": "After using her Elemental Burst, Hour of Burning Skies , every point of Fighting Spirit present when it is used increases the DMG that the current active party member deals by 0.2%. The maximum increase obtainable this way is 40%, and this effect lasts 20s, decaying over this duration until it reaches 0.",
+      "level": 4
+    },
+    {
+      "name": "Exhaust Mode",
+      "unlock": "Night Realm's Gift Passive",
+      "description": "After Nightsoul points have been fully depleted, Mavuika will switch to using Phlogiston to maintain the All-Fire Armaments' Flamestrider form. While in an area with Phlogiston Mechanics within Natlan , Nightsoul Transmission : Mavuika can be used. When the current active character is sprinting , climbing , swimming , in movement modes caused by certain Talents , or at a certain height in the air, switching to Mavuika will trigger the following: Mavuika enters the Nightsoul's Blessing state and obtains 50% of her maximum Nightsoul points . Nightsoul Transmission can be triggered once every 10s by your own party ."
+    },
+    {
+      "name": "Night-Shattering Radiance",
+      "unlock": "Utility Passive",
+      "description": "The party's Nightsoul Transmission CD is decreased by 20%."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "The Night-Lord's Explication",
+      "unlock": "Constellation Lv. 1",
+      "description": "Mavuika's maximum Nightsoul points are increased to 120, and she gains Fighting Spirit 25% more efficiently. Additionally, she gains 40% ATK for 8s after gaining Fighting Spirit.",
+      "level": 1
+    },
+    {
+      "name": "The Ashen Price",
+      "unlock": "Constellation Lv. 2",
+      "description": "When in the Nightsoul's Blessing State, Mavuika's Base ATK is increased by 200, and she obtains the following effects based on All-Fire Armaments' form: Ring of Searing Radiance: Nearby opponents' DEF decreased by 20%. Flamestrider: Mavuika's Normal Attacks, Charged Attacks, and her Sunfell Slice from the Elemental Burst Hour of Burning Skies deal 60%, 90%, and 120% of her ATK as increased DMG respectively.",
+      "level": 2
+    },
+    {
+      "name": "The Burning Sun",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Hour of Burning Skies by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "The Leader's Resolve",
+      "unlock": "Constellation Lv. 4",
+      "description": "Enhances the effects of the Ascension Talent \"Kiongozi\": The DMG increase gained after using the Elemental Burst Hour of Burning Skies will not decay over time, and an additional 10% DMG Bonus will be gained. You must first unlock the Ascension Talent \"Kiongozi.\"",
+      "level": 4
+    },
+    {
+      "name": "The Meaning of Truth",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of The Named Moment by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "\"Humanity's Name\" Unfettered",
+      "unlock": "Constellation Lv. 6",
+      "description": "Description Gameplay Notes Advanced Properties The All-Fire Armaments from the Elemental Skill The Named Moment receive all-round improvements: Ring of Searing Radiance: When the Ring's attacks hit opponents, a Flamestrider will crash into the struck opponent, dealing 200% of ATK as Nightsoul-aligned AoE Pyro DMG . Flamestrider: When Mavuika is riding the Flamestrider, she will also summon a Scorching Ring of Searing Radiance to follow her, which will decrease nearby opponents' DEF by 20% and deal 500% of ATK as Nightsoul-aligned AoE Pyro DMG to nearby opponents once every 3s. Mavuika's terrain-crossing abilities will also be further improved. Additionally, when Mavuika is riding her Flamestrider and is not in combat, when her Nightsoul points drop to 5, she will gain 80 Nightsoul points. This effect can trigger once every 15s. This Constellation increases the time limits of climbing, traveling over water, and flying to 2s, 6s, and 6s, respectively. Gauge Units Internal Cooldown Poise Damage Stagger Effect Blunt ‍ Tag Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ Type Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ S. L. Stagger Level ‍ ‍ H. F. Horizontal Force ‍ ‍ V. F. Vertical Force ‍ Flamestrider Crash 0U No ICD 75 Air 5 600 ✔ Scorching Ring of Searing Radiance 0U No ICD 100 Heavy 200 0 ✘",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Agnidus Agate Sliver",
+        "value": 1
+      },
+      {
+        "name": "Withering Purpurbloom",
+        "value": 3
+      },
+      {
+        "name": "Sentry's Wooden Whistle",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Gold-Inscribed Secret Source Core",
+        "value": 2
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 3
+      },
+      {
+        "name": "Withering Purpurbloom",
+        "value": 10
+      },
+      {
+        "name": "Sentry's Wooden Whistle",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Gold-Inscribed Secret Source Core",
+        "value": 4
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "value": 6
+      },
+      {
+        "name": "Withering Purpurbloom",
+        "value": 20
+      },
+      {
+        "name": "Warrior's Metal Whistle",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Gold-Inscribed Secret Source Core",
+        "value": 8
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 3
+      },
+      {
+        "name": "Withering Purpurbloom",
+        "value": 30
+      },
+      {
+        "name": "Warrior's Metal Whistle",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Gold-Inscribed Secret Source Core",
+        "value": 12
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "value": 6
+      },
+      {
+        "name": "Withering Purpurbloom",
+        "value": 45
+      },
+      {
+        "name": "Saurian-Crowned Warrior's Golden Whistle",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Gold-Inscribed Secret Source Core",
+        "value": 20
+      },
+      {
+        "name": "Agnidus Agate Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Withering Purpurbloom",
+        "value": 60
+      },
+      {
+        "name": "Saurian-Crowned Warrior's Golden Whistle",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

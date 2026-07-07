@@ -1,0 +1,11 @@
+{
+  "name": "Surf's Up",
+  "type": "Catalyst",
+  "rarity": 5,
+  "baseAttack": 44,
+  "subStat": "CRIT DMG",
+  "passiveName": "Aqua Remembrance",
+  "passiveDesc": "Max HP increased by 40%. Once every 15s, for the 14s after using an Elemental Skill: Gain 4 Scorching Summer stacks. Each stack increases Normal Attack DMG by 24%. For the duration of the effect, every 1.5s, lose 1 stack after a Normal Attack hits an opponent; once every 1.5s, gain 1 stack after triggering a Vaporize reaction on an opponent. Max 4 Scorching Summer stacks.",
+  "location": "Gacha",
+  "ascensionMaterial": "blazing-sacrificial-heart"
+}

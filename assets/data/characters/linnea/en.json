@@ -1,0 +1,283 @@
+{
+  "name": "Linnea",
+  "title": "Augur of Wonders",
+  "vision": "Geo",
+  "weapon": "Bow",
+  "gender": "Female",
+  "nation": "Nod-Krai",
+  "affiliation": "Adventurers' Guild",
+  "rarity": 5,
+  "release_date": "2026-04-08",
+  "birthday": "0000-05-23",
+  "constellation": "Alcyon",
+  "description": "Naturalist and Advisor to the Nod-Krai Branch of the Adventurers' Guild.",
+  "skillTalents": [
+    {
+      "name": "Capture Protocol",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 3 consecutive shots with a bow. Charged Attack Performs a more precise Aimed Shot with increased DMG. While aiming, stone crystals will accumulate on the arrowhead. A fully charged crystalline arrow will deal Geo DMG . Plunging Attack Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "59"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "51.15"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "81.63"
+        },
+        {
+          "name": "Aimed Shot",
+          "value": "43.86"
+        },
+        {
+          "name": "Fully-Charged Aimed Shot",
+          "value": "124"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "113.63"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "141.93"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Countermeasure: Lumi's Battle Cry!",
+      "unlock": "Elemental Skill",
+      "description": "Adventure with Lumi! Depending on how you Tap, Lumi attacks in different forms. Tap Lumi strikes in a Super Power Form Lumi: Strike Forms Lumi has three different Strike Forms. Super Power Form Lumi will use Pound-Pound Pummeler to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . If there are Moondrifts nearby, Lumi will alternate between Pound-Pound Pummeler and Heavy Overdrive Hammer to continuously attack nearby opponents . Heavy Overdrive Hammer will deal AoE Geo DMG which will be considered Lunar-Crystallize Reaction DMG. Ultimate Power Form Lumi will use the ultimate Million Ton Crush, dealing an especially powerful instance of AoE Geo DMG that is considered Lunar-Crystallize Reaction DMG, switching to Standard Power Form. Standard Power Form It might not be as flashy as the other forms, but it still packs a serious punch. Lumi will use Pound-Pound Pummeler at longer intervals to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . , attacking nearby enemies continuously, dealing AoE Geo DMG . If there are Moondrifts nearby, Lumi will also deal AoE Geo DMG to nearby enemies, which will be considered Lunar-Crystallize Reaction DMG. Continuous Tapping Time to show what we're really capable of! After using her Elemental Skill, Linnea will feed Lumi sparkling gemstones when her Elemental Skill or Normal Attack is Tapped repeatedly. A full-bellied Lumi will strike in her Ultimate Power Form Lumi: Strike Forms Lumi has three different Strike Forms. Super Power Form Lumi will use Pound-Pound Pummeler to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . If there are Moondrifts nearby, Lumi will alternate between Pound-Pound Pummeler and Heavy Overdrive Hammer to continuously attack nearby opponents . Heavy Overdrive Hammer will deal AoE Geo DMG which will be considered Lunar-Crystallize Reaction DMG. Ultimate Power Form Lumi will use the ultimate Million Ton Crush, dealing an especially powerful instance of AoE Geo DMG that is considered Lunar-Crystallize Reaction DMG, switching to Standard Power Form. Standard Power Form It might not be as flashy as the other forms, but it still packs a serious punch. Lumi will use Pound-Pound Pummeler at longer intervals to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . , dealing an especially powerful instance of AoE Geo DMG that is considered Lunar-Crystallize Reaction DMG, switching to Standard Power Form Lumi: Strike Forms Lumi has three different Strike Forms. Super Power Form Lumi will use Pound-Pound Pummeler to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . If there are Moondrifts nearby, Lumi will alternate between Pound-Pound Pummeler and Heavy Overdrive Hammer to continuously attack nearby opponents . Heavy Overdrive Hammer will deal AoE Geo DMG which will be considered Lunar-Crystallize Reaction DMG. Ultimate Power Form Lumi will use the ultimate Million Ton Crush, dealing an especially powerful instance of AoE Geo DMG that is considered Lunar-Crystallize Reaction DMG, switching to Standard Power Form. Standard Power Form It might not be as flashy as the other forms, but it still packs a serious punch. Lumi will use Pound-Pound Pummeler at longer intervals to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . . Additionally, tapping the Elemental Skill increases Linnea's interruption resistance .",
+      "upgrades": [
+        {
+          "name": "Lumi Pound-Pound Pummeler DMG (%DEF)",
+          "value": "96% ×2"
+        },
+        {
+          "name": "Lumi Heavy Overdrive Hammer DMG (%DEF)",
+          "value": "100%"
+        },
+        {
+          "name": "Lumi Million Ton Crush DMG (%DEF)",
+          "value": "400%"
+        },
+        {
+          "name": "Lumi Duration",
+          "value": "25s"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Memo: Survival Guide in Extreme Conditions",
+      "unlock": "Elemental Burst",
+      "description": "Even master adventurers need proper rest! Linnea summons Lumi to strike in Super Power Form Lumi: Strike Forms Lumi has three different Strike Forms. Super Power Form Lumi will use Pound-Pound Pummeler to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . If there are Moondrifts nearby, Lumi will alternate between Pound-Pound Pummeler and Heavy Overdrive Hammer to continuously attack nearby opponents . Heavy Overdrive Hammer will deal AoE Geo DMG which will be considered Lunar-Crystallize Reaction DMG. Ultimate Power Form Lumi will use the ultimate Million Ton Crush, dealing an especially powerful instance of AoE Geo DMG that is considered Lunar-Crystallize Reaction DMG, switching to Standard Power Form. Standard Power Form It might not be as flashy as the other forms, but it still packs a serious punch. Lumi will use Pound-Pound Pummeler at longer intervals to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . , healing nearby party members. For a short duration, she will continuously heal nearby active party members based on Linnea's DEF . If Lumi is already on the field when Linnea unleashes Elemental Burst, Lumi's active duration will be reset instead and her Strike Form will not change.",
+      "upgrades": [],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Field Observation Notes",
+      "unlock": "1st Ascension Passive",
+      "description": "When Lumi is present on the field, the Geo RES of opponents near Lumi will decrease by 15%. Moonsign: Ascendant Gleam : Linnea's Elemental Skill Countermeasure: Lumi's Battle Cry! and Elemental Burst Memo: Survival Guide in Extreme Conditions are enhanced. After summoning Lumi, the Geo RES of opponents near Lumi will be further decreased by 15%.",
+      "level": 1
+    },
+    {
+      "name": "Universal Naturalist Archive",
+      "unlock": "4th Ascension Passive",
+      "description": "Linnea will increase the Elemental Mastery of certain characters in your party according to your current active character. Increase in Elemental Mastery is based on 5% of Linnea's DEF . If your current active character: Is a Moonsign character: Increase this character's Elemental Mastery. Is not a Moonsign character: Increase Linnea's own Elemental Mastery.",
+      "level": 4
+    },
+    {
+      "name": "Habitat Survey",
+      "unlock": "Moonsign Benediction Passive",
+      "description": "When a party member triggers a Hydro Crystallize reaction, it will be converted into the Lunar-Crystallize reaction, with every 100 DEF that Linnea has increasing Lunar-Crystallize's Base DMG by 0.7%, up to a maximum of 14%. Additionally, when Linnea is in the party, the party's Moonsign will increase by 1 level."
+    },
+    {
+      "name": "Master Adventurer",
+      "unlock": "Utility Passive",
+      "description": "When Linnea is not in combat, the charge time of her Aimed Shot is greatly decreased, and she will shoot an Ultra Convenient Quick Arrow instead. Different effects will occur depending on the targets hit: Specific animals: Ultra Convenient Quick Arrow will be transformed into a special \"Net\" that can capture the essence and form of these animals, using them as a medium to manifest the animal's physical form again. The \"Net\" can only be used for a limited number of times each week. Ore veins used in forging : Linnea will dispatch Lumi, who will quickly strike at the ore marked by the Ultra Convenient Quick Arrow, then collect the dislodged ore. If Lumi is not on the field, Linnea will summon her for a short duration to help obtain the ore. The DMG dealt to opponents by Linnea's Ultra Convenient Quick Arrow is reduced to 20% of her original Charged Arrow. Additionally, after firing a certain number of Ultra Convenient Quick Arrows within a short period of time, Linnea needs to take a temporary break before she can continue using them."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Provisional Classification",
+      "unlock": "Constellation Lv. 1",
+      "description": "When unleashing Elemental Skill Countermeasure: Lumi's Battle Cry! , or when triggering Moondrift Harmony , Linnea gains 6 stacks of the Field Catalog effect for 10s. Max 18 stacks. When nearby party members deal Lunar-Crystallize Reaction DMG, consume 1 stack of Field Catalog to increase the DMG dealt. The increase in DMG is equal to 75% of Linnea's DEF . Additionally, when Lumi uses Million Ton Crush in her Ultimate Power Form Lumi: Strike Forms Lumi has three different Strike Forms. Super Power Form Lumi will use Pound-Pound Pummeler to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . If there are Moondrifts nearby, Lumi will alternate between Pound-Pound Pummeler and Heavy Overdrive Hammer to continuously attack nearby opponents . Heavy Overdrive Hammer will deal AoE Geo DMG which will be considered Lunar-Crystallize Reaction DMG. Ultimate Power Form Lumi will use the ultimate Million Ton Crush, dealing an especially powerful instance of AoE Geo DMG that is considered Lunar-Crystallize Reaction DMG, switching to Standard Power Form. Standard Power Form It might not be as flashy as the other forms, but it still packs a serious punch. Lumi will use Pound-Pound Pummeler at longer intervals to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . , Linnea can consume up to 5 stacks of Field Catalog. Each stack will increase the DMG dealt by 150% of Linnea's DEF.",
+      "level": 1
+    },
+    {
+      "name": "Tidings of Joy and Sorrow",
+      "unlock": "Constellation Lv. 2",
+      "description": "Within 8s after triggering Moondrift Harmony, all Hydro and Geo party members have their CRIT DMG increased by 40%. Additionally, when Lumi uses Million Ton Crush in her Ultimate Power Form Lumi: Strike Forms Lumi has three different Strike Forms. Super Power Form Lumi will use Pound-Pound Pummeler to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . If there are Moondrifts nearby, Lumi will alternate between Pound-Pound Pummeler and Heavy Overdrive Hammer to continuously attack nearby opponents . Heavy Overdrive Hammer will deal AoE Geo DMG which will be considered Lunar-Crystallize Reaction DMG. Ultimate Power Form Lumi will use the ultimate Million Ton Crush, dealing an especially powerful instance of AoE Geo DMG that is considered Lunar-Crystallize Reaction DMG, switching to Standard Power Form. Standard Power Form It might not be as flashy as the other forms, but it still packs a serious punch. Lumi will use Pound-Pound Pummeler at longer intervals to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . , the CRIT DMG of that attack increases by an additional 150%. Moonsign: Ascendant Gleam : When Lumi uses Heavy Overdrive Hammer in her Super Power Form Lumi: Strike Forms Lumi has three different Strike Forms. Super Power Form Lumi will use Pound-Pound Pummeler to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . If there are Moondrifts nearby, Lumi will alternate between Pound-Pound Pummeler and Heavy Overdrive Hammer to continuously attack nearby opponents . Heavy Overdrive Hammer will deal AoE Geo DMG which will be considered Lunar-Crystallize Reaction DMG. Ultimate Power Form Lumi will use the ultimate Million Ton Crush, dealing an especially powerful instance of AoE Geo DMG that is considered Lunar-Crystallize Reaction DMG, switching to Standard Power Form. Standard Power Form It might not be as flashy as the other forms, but it still packs a serious punch. Lumi will use Pound-Pound Pummeler at longer intervals to attack nearby opponents continuously. Every attack will deal 2 instances of AoE Geo DMG . , or when she uses Million Ton Crush in her Ultimate Power Form, an instance of Moondrift Harmony will be triggered. For this instance of Moondrift Harmony, all Hydro and Geo characters in the party will be considered to have applied their Elements in the reaction.",
+      "level": 2
+    },
+    {
+      "name": "Eventful Log Page",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Countermeasure: Lumi's Battle Cry! by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Expert Instinct",
+      "unlock": "Constellation Lv. 4",
+      "description": "Within 5s after Moondrift Harmony is triggered, increase the DEF of Linnea and your current active character by 25% respectively. When Linnea is on field, the DEF-increasing effect can be stacked.",
+      "level": 4
+    },
+    {
+      "name": "Fairyland's Farewell Gift",
+      "unlock": "Constellation Lv. 5",
+      "description": "Elemental Burst Memo: Survival Guide in Extreme Conditions increases by 3 Levels. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Golden Beagle's Dream",
+      "unlock": "Constellation Lv. 6",
+      "description": "The effects of the Constellation, Provisional Classification, are enhanced: When unleashing Elemental Skill Countermeasure: Lumi's Battle Cry! , or when triggering Moondrift Harmony, Linnea will directly gain the maximum number of Field Catalog stacks. When consuming Field Catalog, consume twice the original number of stacks, such that the increase in DMG will be boosted to 150% of the original value. Moonsign: Ascendant Gleam : Lunar-Crystallize Reaction DMG dealt by nearby party members is elevated Elevation Special DMG Boost effect. It is calculated independently of other DMG Boost effects. by 25%.",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Prithiva Topaz Sliver",
+        "value": 1
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 3
+      },
+      {
+        "name": "Tattered Warrant",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Plume of the Fallen Watcher",
+        "value": 2
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "value": 3
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 10
+      },
+      {
+        "name": "Tattered Warrant",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Plume of the Fallen Watcher",
+        "value": 4
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "value": 6
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 20
+      },
+      {
+        "name": "Immaculate Warrant",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Plume of the Fallen Watcher",
+        "value": 8
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "value": 3
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 30
+      },
+      {
+        "name": "Immaculate Warrant",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Plume of the Fallen Watcher",
+        "value": 12
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "value": 6
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 45
+      },
+      {
+        "name": "Frost-Etched Warrant",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Plume of the Fallen Watcher",
+        "value": 20
+      },
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 60
+      },
+      {
+        "name": "Frost-Etched Warrant",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

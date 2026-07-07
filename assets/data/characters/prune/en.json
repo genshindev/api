@@ -1,0 +1,296 @@
+{
+  "name": "Prune",
+  "title": "Childlike Dreams Cherished",
+  "vision": "Anemo",
+  "weapon": "Catalyst",
+  "gender": "Female",
+  "nation": "Mondstadt",
+  "affiliation": "Mondstadt City",
+  "rarity": 4,
+  "release_date": "2026-05-20",
+  "birthday": "0000-11-20",
+  "constellation": "Turris Venefica",
+  "description": "A diminutive Witch Hunter who has journeyed all the way from Nod-Krai with the singular purpose of rooting out a witch who, to hear her tell it, has committed every sin imaginable — including bullying little kids!",
+  "skillTalents": [
+    {
+      "name": "Badaboom! Hexbuster Hammer",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 3 attacks by swinging the Banehunter Oathhammer, dealing Anemo DMG . Charged Attack Consumes a certain amount of Stamina and performs an upward hammer swing, dealing Anemo DMG to opponents in front. Plunging Attack Calling upon the power of Anemo, she plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Anemo DMG upon impact with the ground.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "48.62"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "48.28"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "67.98"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "133.52"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "113.63"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "141.93"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Ring-A-Ding-Ding! Hexhunter Chime",
+      "unlock": "Elemental Skill",
+      "description": "Unleash the wind's might to defeat the evil witch and save Descartes! Prune strikes the Witchlure Bell with her Banehunter Oathhammer, dealing Anemo DMG . If Prune triggers Swirl on an opponent using this attack, Ring-A-Ding-Ding! Hexhunter Chime will be changed to Clang Clang! Witch-tribution Comes! for the next 6s. Clang Clang! Witch-tribution Comes! Prune's hammer is now enshrouded by the element involved in the previous Swirl reaction, causing Banehunter Oathhammer Banehunter Oathhammer A witchhunter's trusty companion! Under the right conditions, the Banehunter Oathhammer undergoes Elemental Conversion, turning all its DMG into DMG of the corresponding Elemental Type. Prune can summon the Banehunter Oathhammer that has undergone Elemental Conversion in the following ways: For a certain time after triggering a Swirl Reaction on an opponent with the Elemental Skill Ring-A-Ding-Ding! Hexhunter Chime, Prune can unleash the special Elemental Skill Clang Clang! Witch-tribution Comes!. When using this special Elemental Skill, the Banehunter Oathhammer will be converted to the other Elemental Type involved in the aforementioned Swirl Reaction. After the Ascension Talent \"Verdict and Punishment\" is unlocked, when the Witchlure Bell in Hunter-Seeker mode triggers Swirl on an opponent, it will summon a Banehunter Oathhammer that has undergone the corresponding Elemental Conversion to attack the opponent. to undergo Elemental Conversion . When activated with a Press, Prune will leap up and kick the Banehunter Oathhammer forward, dealing Elemental DMG of the corresponding type to opponents in front of her.",
+      "upgrades": [
+        {
+          "name": "Ring-A-Ding-Ding! Hexhunter Chime DMG",
+          "value": "167.44"
+        },
+        {
+          "name": "Clang Clang! Witch-tribution Comes! DMG",
+          "value": "204.56"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "The Bell Tolls! The Hunt Is On!",
+      "unlock": "Elemental Burst",
+      "description": "Prune gently swings the Witchlure Bell, dealing Anemo DMG to nearby opponents. After this, the Bell will enter the Hunter-Seeker mode. Witchlure Bell: Hunter-Seeker In this mode, the Witchlure Bell will follow the current active character, attacking surrounding opponents at intervals and dealing AoE Anemo DMG . This DMG is considered Elemental Burst DMG.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "96.96"
+        },
+        {
+          "name": "Witchlure Bell DMG",
+          "value": "70.44"
+        },
+        {
+          "name": "Hunter-Seeker Mode Duration",
+          "value": "12s"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Verdict and Punishment",
+      "unlock": "1st Ascension Passive",
+      "description": "During the Elemental Burst The Bell Tolls! The Hunt Is On! , after the Witchlure Bell in Hunter-Seeker mode deals DMG to an opponent, if this DMG triggers Swirl on an opponent, it will also summon a Banehunter Oathhammer Banehunter Oathhammer A witchhunter's trusty companion! Under the right conditions, the Banehunter Oathhammer undergoes Elemental Conversion, turning all its DMG into DMG of the corresponding Elemental Type. Prune can summon the Banehunter Oathhammer that has undergone Elemental Conversion in the following ways: For a certain time after triggering a Swirl Reaction on an opponent with the Elemental Skill Ring-A-Ding-Ding! Hexhunter Chime, Prune can unleash the special Elemental Skill Clang Clang! Witch-tribution Comes!. When using this special Elemental Skill, the Banehunter Oathhammer will be converted to the other Elemental Type involved in the aforementioned Swirl Reaction. After the Ascension Talent \"Verdict and Punishment\" is unlocked, when the Witchlure Bell in Hunter-Seeker mode triggers Swirl on an opponent, it will summon a Banehunter Oathhammer that has undergone the corresponding Elemental Conversion to attack the opponent. that will deal 150% of Prune's ATK as DMG to them, with the DMG Type matching the Elemental Conversion from the Swirl. This DMG is considered Elemental Burst DMG.",
+      "level": 1
+    },
+    {
+      "name": "Tolling Synchronicity",
+      "unlock": "4th Ascension Passive",
+      "description": "After Prune hits an opponent with the Banehunter Oathhammer Banehunter Oathhammer A witchhunter's trusty companion! Under the right conditions, the Banehunter Oathhammer undergoes Elemental Conversion, turning all its DMG into DMG of the corresponding Elemental Type. Prune can summon the Banehunter Oathhammer that has undergone Elemental Conversion in the following ways: For a certain time after triggering a Swirl Reaction on an opponent with the Elemental Skill Ring-A-Ding-Ding! Hexhunter Chime, Prune can unleash the special Elemental Skill Clang Clang! Witch-tribution Comes!. When using this special Elemental Skill, the Banehunter Oathhammer will be converted to the other Elemental Type involved in the aforementioned Swirl Reaction. After the Ascension Talent \"Verdict and Punishment\" is unlocked, when the Witchlure Bell in Hunter-Seeker mode triggers Swirl on an opponent, it will summon a Banehunter Oathhammer that has undergone the corresponding Elemental Conversion to attack the opponent. that has undergone Elemental Conversion , other nearby party members will gain the Tolling Rally effect for 5s: When Normal, Charged, or Plunging Attacks, or Elemental Skills and Bursts deal DMG to opponents, that attack's DMG will be increased based on the portion of Prune's ATK in excess of 2,000 when they become affected by the Tolling Rally effect. Every excess ATK point increases that instance of DMG by 0.025%, up to a total of 50% max.",
+      "level": 4
+    },
+    {
+      "name": "Witchseeker's Vow",
+      "unlock": "Witch's Eve Rite Passive",
+      "description": "After completing Witch's Homework : Of What Is Contested , Prune becomes a Hexerei character. When the party includes at least 2 Hexerei characters, you gain the Hexerei: Secret Rite effect, which enhances Hexerei characters. Hexerei: Secret Rite After a Hexerei character in the party affected by the Tolling Rally effect triggers an Elemental Reaction on an opponent, Prune's ATK is increased by 60% for 5s. If the Elemental Reaction triggered is a Swirl Reaction, the triggering character's ATK will additionally be increased by 30% for 5s."
+    },
+    {
+      "name": "Tinker-Tink, Clank, and Bang!",
+      "unlock": "Utility Passive",
+      "description": "Has a 10% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is the same as the resulting material."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "With a Vow to Rescue, the Journey Begins",
+      "unlock": "Constellation Lv. 1",
+      "description": "After the Banehunter Oathhammer Banehunter Oathhammer A witchhunter's trusty companion! Under the right conditions, the Banehunter Oathhammer undergoes Elemental Conversion, turning all its DMG into DMG of the corresponding Elemental Type. Prune can summon the Banehunter Oathhammer that has undergone Elemental Conversion in the following ways: For a certain time after triggering a Swirl Reaction on an opponent with the Elemental Skill Ring-A-Ding-Ding! Hexhunter Chime, Prune can unleash the special Elemental Skill Clang Clang! Witch-tribution Comes!. When using this special Elemental Skill, the Banehunter Oathhammer will be converted to the other Elemental Type involved in the aforementioned Swirl Reaction. After the Ascension Talent \"Verdict and Punishment\" is unlocked, when the Witchlure Bell in Hunter-Seeker mode triggers Swirl on an opponent, it will summon a Banehunter Oathhammer that has undergone the corresponding Elemental Conversion to attack the opponent. that has undergone Elemental Conversion hits an opponent, Prune will regain 2 Energy . This effect can occur once every 1.8s.",
+      "level": 1
+    },
+    {
+      "name": "Useful for Cleaning Messy Baggage, Elemental Powers Are Indeed",
+      "unlock": "Constellation Lv. 2",
+      "description": "During the Elemental Burst The Bell Tolls! The Hunt Is On! , when the Witchlure Bell is in Hunter-Seeker mode, Prune gains the Hunt the Witch effect: Prune's ATK increases by 10%, and when the Witchlure Bell and the Banehunter Oathhammer Banehunter Oathhammer A witchhunter's trusty companion! Under the right conditions, the Banehunter Oathhammer undergoes Elemental Conversion, turning all its DMG into DMG of the corresponding Elemental Type. Prune can summon the Banehunter Oathhammer that has undergone Elemental Conversion in the following ways: For a certain time after triggering a Swirl Reaction on an opponent with the Elemental Skill Ring-A-Ding-Ding! Hexhunter Chime, Prune can unleash the special Elemental Skill Clang Clang! Witch-tribution Comes!. When using this special Elemental Skill, the Banehunter Oathhammer will be converted to the other Elemental Type involved in the aforementioned Swirl Reaction. After the Ascension Talent \"Verdict and Punishment\" is unlocked, when the Witchlure Bell in Hunter-Seeker mode triggers Swirl on an opponent, it will summon a Banehunter Oathhammer that has undergone the corresponding Elemental Conversion to attack the opponent. that has undergone Elemental Conversion hits an opponent, it further increases her ATK by 5%. Prune's ATK can be increased by up to 40% in this way. The original instance of the above effect will be removed if \"The Bell Tolls! The Hunt Is On!\" is used again during this time.",
+      "level": 2
+    },
+    {
+      "name": "The Caravan Exits the Mountain Pass, the Scenery Once More Changed",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of The Bell Tolls! The Hunt Is On! by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Looking Back Following the Wind, One's Shadow Still Halved",
+      "unlock": "Constellation Lv. 4",
+      "description": "After the Banehunter Oathhammer Banehunter Oathhammer A witchhunter's trusty companion! Under the right conditions, the Banehunter Oathhammer undergoes Elemental Conversion, turning all its DMG into DMG of the corresponding Elemental Type. Prune can summon the Banehunter Oathhammer that has undergone Elemental Conversion in the following ways: For a certain time after triggering a Swirl Reaction on an opponent with the Elemental Skill Ring-A-Ding-Ding! Hexhunter Chime, Prune can unleash the special Elemental Skill Clang Clang! Witch-tribution Comes!. When using this special Elemental Skill, the Banehunter Oathhammer will be converted to the other Elemental Type involved in the aforementioned Swirl Reaction. After the Ascension Talent \"Verdict and Punishment\" is unlocked, when the Witchlure Bell in Hunter-Seeker mode triggers Swirl on an opponent, it will summon a Banehunter Oathhammer that has undergone the corresponding Elemental Conversion to attack the opponent. that has undergone Elemental Conversion hits an opponent, it will ricochet and land on a nearby opponent, dealing 80% ATK as DMG of the corresponding Elemental Type.",
+      "level": 4
+    },
+    {
+      "name": "100 Defeats? No Problem, Tomorrow, We Go Again",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Ring-A-Ding-Ding! Hexhunter Chime by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "And That's the Story! Share It With Your Friends!",
+      "unlock": "Constellation Lv. 6",
+      "description": "The duration of the Witchlure Bell's Hunter-Seeker mode from the Elemental Burst The Bell Tolls! The Hunt Is On! is extended by 4s. Additionally, after party members affected by Tolling Rally trigger any Elemental Reaction, they will cause Prune and the other current active character(s) affected by Tolling Rally to gain 350 ATK for 5s.",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vayuda Turquoise Sliver",
+        "value": 1
+      },
+      {
+        "name": "Winter Icelea",
+        "value": 3
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Radiant Antler",
+        "value": 2
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 3
+      },
+      {
+        "name": "Winter Icelea",
+        "value": 10
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Radiant Antler",
+        "value": 4
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 6
+      },
+      {
+        "name": "Winter Icelea",
+        "value": 20
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Radiant Antler",
+        "value": 8
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 3
+      },
+      {
+        "name": "Winter Icelea",
+        "value": 30
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Radiant Antler",
+        "value": 12
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 6
+      },
+      {
+        "name": "Winter Icelea",
+        "value": 45
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Radiant Antler",
+        "value": 20
+      },
+      {
+        "name": "Vayuda Turquoise Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Winter Icelea",
+        "value": 60
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

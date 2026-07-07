@@ -1,0 +1,304 @@
+{
+  "name": "Ifa",
+  "title": "In the Wake of Wandering Winds",
+  "vision": "Anemo",
+  "weapon": "Catalyst",
+  "gender": "Male",
+  "nation": "Natlan",
+  "affiliation": "Flower-Feather Clan",
+  "rarity": 4,
+  "release_date": "2025-05-07",
+  "birthday": "0000-03-23",
+  "constellation": "Catena Opele",
+  "description": "A vet from the Flower-Feather Clan who cherishes the life he leads alongside all manner of living things — people, animals, you name it.",
+  "skillTalents": [
+    {
+      "name": "Rite of Dispelling Winds",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 3 attacks, dealing Anemo DMG . Charged Attack Consumes a certain amount of Stamina and fires off a shot, dealing AoE Anemo DMG . Plunging Attack Plunges towards the ground from mid-air, damaging all opponents along the path. Deals AoE Anemo DMG upon impact with the ground.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "53.61"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "47.47"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "74.76"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "147.04"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "113.63"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "141.93"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Airborne Disease Prevention",
+      "unlock": "Elemental Skill",
+      "description": "It's time for the real bash bros to step up! Ifa calls Cacucu in as backup. After using this skill, Ifa gains 80 Nightsoul points and enters the Nightsoul's Blessing Nightsoul's Blessing: Ifa Continuously consumes Nightsoul points. This state will end when Ifa runs out of Nightsoul points or if he uses this skill again. His Nightsoul's Blessing state has the following properties: Hovers with Cacucu's help, increasing Ifa's Movement SPD and interruption resistance. In this state, Ifa will continuously consume Nightsoul points to maintain this hovering state. If he sprints or accelerates, he will consume additional points. When he uses Normal Attacks, he will use different kinds of Supporting Fire depending on whether you Tap or Hold. state. In the Nightsoul's Blessing state, Ifa will hover with Cacucu's help. When he uses Normal Attacks in this state, he will use different kinds of Supporting Fire Supporting Fire In the Nightsoul's Blessing State, Ifa's Normal Attacks will turn into Supporting Fire. Tap Fires a Tonicshot. Hold Continuously fires Tonicshots. Tonicshot Deals Nightsoul-aligned Anemo DMG , and will heal all nearby party members based on Ifa's Elemental Mastery upon hitting an opponent. depending on whether you Tap or Hold, firing Tonicshots that are capable of healing all party members. Additionally, Holding the Elemental Skill Airborne Disease Prevention while Ifa is in Nightsoul's Blessing will cause him to use a Nightsoul-aligned Plunging Attack. Letting go of the skill button will interrupt this Plunging Attack to maintain his hover. If Ifa lands due to this Plunging Attack, his Nightsoul's Blessing state will end.",
+      "upgrades": [
+        {
+          "name": "Base",
+          "value": "5.5/s"
+        },
+        {
+          "name": "Dash",
+          "value": "9"
+        },
+        {
+          "name": "Hold Sprint",
+          "value": "10/s"
+        },
+        {
+          "name": "Vertical Ascent",
+          "value": "14/s"
+        },
+        {
+          "name": "Diagonal Ascent (Full)",
+          "value": "17.5/s"
+        },
+        {
+          "name": "Diagonal Ascent (Half)",
+          "value": "7.875/s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Compound Sedation Field",
+      "unlock": "Elemental Burst",
+      "description": "Fires a Therapeutic Sedative at a (temporarily aggressive) opponent. The sedative will explode on impact, creating a restraining wind current that pulls nearby objects and opponents in while dealing Nightsoul-aligned AoE Anemo DMG . When the Therapeutic Sedative hits an opponent affected by Hydro / Pyro / Cryo / Electro , it will apply a Sedation Mark Sedation Mark This effect will explode after a short delay and disappear, dealing AoE DMG aligned with the corresponding element. The Therapeutic Sedative can apply Sedation Marks to a maximum of 4 hit opponents. A single opponent cannot receive Marks of different elements simultaneously. to them.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "508.48"
+        },
+        {
+          "name": "Sedation Mark DMG",
+          "value": "108.96"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Field Medic's Vision",
+      "unlock": "1st Ascension Passive",
+      "description": "When Ifa is in the Nightsoul's Blessing state, every 1 Nightsoul point out of the total in his entire party will grant him 1 Rescue Essentials Rescue Essentials Max 150 points. Each Rescue Essentials point Ifa has will increase the Swirl and Electro-Charged DMG dealt by nearby party members by 1.5%, and their Lunar-Charged DMG dealt by 0.2%. These points will be cleared when his Nightsoul's Blessing state ends. point. Rescue Essentials will increase the Swirl, Electro-Charged, and Lunar-Charged DMG dealt by all nearby party members.",
+      "level": 1
+    },
+    {
+      "name": "Mutual Aid Agreement",
+      "unlock": "4th Ascension Passive",
+      "description": "When nearby party members trigger Nightsoul Bursts , Ifa's Elemental Mastery increases by 80 for 10s.",
+      "level": 4
+    },
+    {
+      "name": "Focused Emergency Rescue",
+      "unlock": "Night Realm's Gift Passive",
+      "description": "After his Nightsoul points are exhausted, Ifa will switch to consuming Phlogiston to maintain his Nightsoul's Blessing . While in an area with Phlogiston Mechanics within Natlan , he can use Nightsoul Transmission : Ifa. When the active character is a certain height in the air, the following will occur when switching to Ifa: Ifa will enter the Nightsoul's Blessing state and gain 32 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own team."
+    },
+    {
+      "name": "Tactical Warm Compress Bandaging",
+      "unlock": "Utility Passive",
+      "description": "While in an area with Phlogiston Mechanics within Natlan , when the current active party member or indwelt saurian has less than 40% HP , Ifa will consume 10 Phlogiston and restore 40% of their HP. This effect can trigger once every 10s, and does not take effect in Domains, Trounce Domains, or the Spiral Abyss."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Vitiferous Elixir's Concoction",
+      "unlock": "Constellation Lv. 1",
+      "description": "When Supporting Fire Supporting Fire In the Nightsoul's Blessing State, Ifa's Normal Attacks will turn into Supporting Fire. Tap Fires a Tonicshot. Hold Continuously fires Tonicshots. Tonicshot Deals Nightsoul-aligned Anemo DMG , and will heal all nearby party members based on Ifa's Elemental Mastery upon hitting an opponent. hits an opponent, it will restore 6 Energy for Ifa. One such Energy restoration can be triggered once every 8s.",
+      "level": 1
+    },
+    {
+      "name": "Guiding Spirit of Ballistic Prayer",
+      "unlock": "Constellation Lv. 2",
+      "description": "When Ifa is in the Nightsoul's Blessing state, every Nightsoul point the party has above a total of 60 will grant Ifa 4 additional Rescue Essentials Rescue Essentials Max 150 points. Each Rescue Essentials point Ifa has will increase the Swirl and Electro-Charged DMG dealt by nearby party members by 1.5%, and their Lunar-Charged DMG dealt by 0.2%. These points will be cleared when his Nightsoul's Blessing state ends. points. Additionally, Ifa's Rescue Essentials limit is increased by 50. You must first unlock the Ascension Talent Field Medic's Vision.",
+      "level": 2
+    },
+    {
+      "name": "Rebuttal in Negotiations With the Night",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Airborne Disease Prevention by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Decayed Vessel's Permutation",
+      "unlock": "Constellation Lv. 4",
+      "description": "The restraining wind current created by the Elemental Burst Compound Sedation Field has its duration extended to 3s. Additionally, Ifa gains 100 Elemental Mastery for 15s after using his Elemental Burst Compound Sedation Field.",
+      "level": 4
+    },
+    {
+      "name": "Vow of Universal Coexistence",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Compound Sedation Field by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Oath on a Feathered Knot",
+      "unlock": "Constellation Lv. 6",
+      "description": "When Ifa uses the Hold version of his Supporting Fire Supporting Fire In the Nightsoul's Blessing State, Ifa's Normal Attacks will turn into Supporting Fire. Tap Fires a Tonicshot. Hold Continuously fires Tonicshots. Tonicshot Deals Nightsoul-aligned Anemo DMG , and will heal all nearby party members based on Ifa's Elemental Mastery upon hitting an opponent. , there is a 50% chance that he will fire an additional Tonicshot that deals 120% of Ifa's ATK as Anemo DMG. This DMG is considered Normal Attack DMG. Additionally, when he is not in combat, Ifa will consume 20% less Nightsoul points and Phlogiston in his Nightsoul's Blessing state.",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Vayuda Turquoise Sliver",
+        "value": 1
+      },
+      {
+        "name": "Saurian Claw Succulent",
+        "value": 3
+      },
+      {
+        "name": "Juvenile Fang",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Sparkless Statue Core",
+        "value": 2
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 3
+      },
+      {
+        "name": "Saurian Claw Succulent",
+        "value": 10
+      },
+      {
+        "name": "Juvenile Fang",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Sparkless Statue Core",
+        "value": 4
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "value": 6
+      },
+      {
+        "name": "Saurian Claw Succulent",
+        "value": 20
+      },
+      {
+        "name": "Seasoned Fang",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Sparkless Statue Core",
+        "value": 8
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 3
+      },
+      {
+        "name": "Saurian Claw Succulent",
+        "value": 30
+      },
+      {
+        "name": "Seasoned Fang",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Sparkless Statue Core",
+        "value": 12
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "value": 6
+      },
+      {
+        "name": "Saurian Claw Succulent",
+        "value": 45
+      },
+      {
+        "name": "Tyrant's Fang",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Sparkless Statue Core",
+        "value": 20
+      },
+      {
+        "name": "Vayuda Turquoise Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Saurian Claw Succulent",
+        "value": 60
+      },
+      {
+        "name": "Tyrant's Fang",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

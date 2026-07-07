@@ -1,0 +1,11 @@
+{
+  "name": "Sacrificer's Staff",
+  "type": "Polearm",
+  "rarity": 4,
+  "baseAttack": 45,
+  "subStat": "CRIT Rate",
+  "passiveName": "Untainted Desire",
+  "passiveDesc": "For 6s after an Elemental Skill hits an opponent, ATK is increased by 16% and Energy Recharge is increased by 12%. Max 3 stacks. This effect can be triggered even when the equipping character is off-field.",
+  "location": "Gacha",
+  "ascensionMaterial": "long-night-flint"
+}

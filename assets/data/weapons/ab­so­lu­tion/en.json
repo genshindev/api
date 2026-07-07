@@ -1,0 +1,11 @@
+{
+  "name": "Ab­so­lu­tion",
+  "type": "Sword",
+  "rarity": 5,
+  "baseAttack": 48,
+  "subStat": "CRIT DMG",
+  "passiveName": "Deathly Pact",
+  "passiveDesc": "CRIT DMG increased by 40%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 32% for 6s. Max 3 stacks.",
+  "location": "Gacha",
+  "ascensionMaterial": "ancient-chord"
+}

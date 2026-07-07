@@ -1,0 +1,11 @@
+{
+  "name": "Se­ren­i­ty's Call",
+  "type": "Sword",
+  "rarity": 4,
+  "baseAttack": 41,
+  "subStat": "Energy Recharge",
+  "passiveName": "Solemn Silence",
+  "passiveDesc": "Upon causing an Elemental Reaction, increases Max HP by 32% for 12s. Moonsign: Ascendant Gleam: Max HP from this effect is further increased by 32%. This effect can be triggered even if the equipping character is off-field.",
+  "location": "Gacha",
+  "ascensionMaterial": "artful-device"
+}

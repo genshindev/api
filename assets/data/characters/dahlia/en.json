@@ -1,0 +1,291 @@
+{
+  "name": "Dahlia",
+  "title": "Ode and Oblation",
+  "vision": "Hydro",
+  "weapon": "Sword",
+  "gender": "Male",
+  "nation": "Mondstadt",
+  "affiliation": "Church of Favonius",
+  "rarity": 4,
+  "release_date": "2025-06-18",
+  "birthday": "0000-05-25",
+  "constellation": "Cantus Choralis",
+  "description": "Deacon of the Church of Favonius and the Anemo Archon's representative in the church.",
+  "skillTalents": [
+    {
+      "name": "Favonius Bladework - Ritual",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 4 rapid strikes. Charged Attack Consumes a certain amount of Stamina to unleash 2 rapid sword strikes. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "43.55"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "40.1"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "23.74+29.02"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "65.66"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "39.88+55.07"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "20"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "127.84"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "159.68"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Immersive Ordinance",
+      "unlock": "Elemental Skill",
+      "description": "Time for a fun little trick! Summons the Sacramental Shower in different ways depending on whether you Tap or Hold it. Tap After a short prayer, summons the Sacramental Shower in front. Hold Engages in continuous prayer, and when done, summons forth a Sacramental Shower in the designated position. Sacramental Shower When opponents or nearby party members touch the Sacramental Shower, different effects will occur depending on the one who touches it: If an opponent touches the Shower, it will explode and deal AoE Hydro DMG to nearby opponents. If a nearby party member touches it, it will bounce the one who touches it high in the air. Only 1 Sacramental Shower summoned by Dahlia himself can be on the field at once.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "232.8"
+        },
+        {
+          "name": "Skill CD",
+          "value": "9s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Radiant Psalter",
+      "unlock": "Elemental Burst",
+      "description": "Appeals to the divine with earnestness and song, dealing AoE Hydro DMG to nearby opponents and granting his party members Favonian Favor, summoning a Shield of Sacred Favor. The Shield of Sacred Favor's DMG absorption is based on Dahlia's Max HP , and it will absorb Hydro DMG with 250% effectiveness. Favonian Favor While this effect is active, 1 Benison stack may be consumed to summon a new Shield of Sacred Favor when an existing Shield is broken via DMG. Dahlia can obtain Benison via the following methods: He will gain 1 Benison stack when his own active party member hits opponents 4 times with Normal Attacks while affected by Favonian Favor. After triggering the effect of his Ascension Talent , \" The Wind's Gentle Grace \" (You must first unlock this Ascension Talent.) Dahlia can gain a maximum of 4 Benison stacks per Favonian Favor duration.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "406.4"
+        },
+        {
+          "name": "Shield of Sacred Favor DMG Absorption",
+          "value": "3.36% Max HP+324"
+        },
+        {
+          "name": "Favonian Favor Duration",
+          "value": "12s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "The Wind's Gentle Grace",
+      "unlock": "1st Ascension Passive",
+      "description": "When characters affected by the Favonian Favor effect of the Elemental Burst Radiant Psalter trigger Frozen reactions on opponents, they will grant Dahlia 2 Benison stacks. This effect can trigger once every 8s.",
+      "level": 1
+    },
+    {
+      "name": "Prayer of Well-Wrought Joy",
+      "unlock": "4th Ascension Passive",
+      "description": "When your active party member is affected by the Favonian Favor effect of the Elemental Burst \" Radiant Psalter ,\" Radiant Psalter Appeals to the divine with earnestness and song, dealing AoE Hydro DMG to nearby opponents and granting his party members Favonian Favor, summoning a Shield of Sacred Favor. The Shield of Sacred Favor's DMG absorption is based on Dahlia's Max HP, and it will absorb Hydro DMG with 250% effectiveness. Favonian Favor While this effect is active, 1 Benison stack may be consumed to summon a new Shield of Sacred Favor when an existing Shield is broken via DMG. Dahlia can obtain Benison via the following methods: He will gain 1 Benison stack when his own active party member hits opponents 4 times with Normal Attacks while affected by Favonian Favor. After triggering the effect of his Passive Talent, \"The Wind's Gentle Grace\" (You must first unlock this Passive Talent.) Dahlia can gain a maximum of 4 Benison stacks per Favonian Favor duration. their ATK SPD will increase based on Dahlia's Max HP : Every 1,000 Max HP will cause an increase of 0.5%, up to a maximum of 20%.",
+      "level": 4
+    },
+    {
+      "name": "Pilgrimage Upon Returning Winds",
+      "unlock": "Utility Passive",
+      "description": "During the day (06:00 - 18:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%. Does not take effect in Domains , Trounce Domains , or the Spiral Abyss . Swift Stride does not stack."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Infallible Procession",
+      "unlock": "Constellation Lv. 1",
+      "description": "Each time Dahlia gains 1 of his Elemental Burst Radiant Psalter 's Benison stacks, he will regain 2.5 Elemental Energy .",
+      "level": 1
+    },
+    {
+      "name": "Revelation of Mercy",
+      "unlock": "Constellation Lv. 2",
+      "description": "After Dahlia consumes his Elemental Burst Radiant Psalter 's Benison stacks to summon a Shield of Sacred Favor, the character protected by said Shield will gain 25% increased Shield Strength for 12s.",
+      "level": 2
+    },
+    {
+      "name": "Windblume Offertory",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Radiant Psalter by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Collect of the Assembly",
+      "unlock": "Constellation Lv. 4",
+      "description": "The Favonian Favor from Dahlia's Elemental Burst Radiant Psalter lasts 3 more seconds.",
+      "level": 4
+    },
+    {
+      "name": "Let It Be Subtly So",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Immersive Ordinance by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "You Shall Go Out With Joy",
+      "unlock": "Constellation Lv. 6",
+      "description": "The current active character affected by the Elemental Burst Radiant Psalter 's Favonian Favor has their ATK SPD increased by 10%. Additionally, when an active character affected by Favonian Favor falls, immediately: Revive them. Restore their HP to 100%. This effect can trigger once every 15 minutes.",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Varunada Lazurite Sliver",
+        "value": 1
+      },
+      {
+        "name": "Calla Lily",
+        "value": 3
+      },
+      {
+        "name": "Firm Arrowhead",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Secret Source Airflow Accumulator",
+        "value": 2
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "value": 3
+      },
+      {
+        "name": "Calla Lily",
+        "value": 10
+      },
+      {
+        "name": "Firm Arrowhead",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Secret Source Airflow Accumulator",
+        "value": 4
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "value": 6
+      },
+      {
+        "name": "Calla Lily",
+        "value": 20
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Secret Source Airflow Accumulator",
+        "value": 8
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "value": 3
+      },
+      {
+        "name": "Calla Lily",
+        "value": 30
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Secret Source Airflow Accumulator",
+        "value": 12
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "value": 6
+      },
+      {
+        "name": "Calla Lily",
+        "value": 45
+      },
+      {
+        "name": "Weathered Arrowhead",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Secret Source Airflow Accumulator",
+        "value": 20
+      },
+      {
+        "name": "Varunada Lazurite Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Calla Lily",
+        "value": 60
+      },
+      {
+        "name": "Weathered Arrowhead",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

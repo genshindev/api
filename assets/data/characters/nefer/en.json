@@ -1,0 +1,332 @@
+{
+  "name": "Nefer",
+  "title": "Secret Beneath the Sands",
+  "vision": "Dendro",
+  "weapon": "Catalyst",
+  "gender": "Female",
+  "nation": "Nod-Krai",
+  "affiliation": "Curatorium of Secrets",
+  "rarity": 5,
+  "release_date": "2025-10-22",
+  "birthday": "0000-05-09",
+  "constellation": "Ludus Latrunculorum",
+  "description": "The remarkably resourceful owner of the Curatorium of Secrets.",
+  "skillTalents": [
+    {
+      "name": "Striking Serpent",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 4 kicks that deal Dendro DMG with the ferocity and grace of a striking serpent. Charged Attack Nefer enters the Slither state, consuming Stamina to move rapidly forward for up to 2.5s. When the skill button is released, the duration ends, or Stamina runs out, Nefer will exit the Slither state and consume a certain amount of additional Stamina to deal Dendro DMG to opponents. When in the Shadow Dance Shadow Dance After using the Elemental Skill Senet Strategy: Dance of a Thousand Nights, Nefer will enter this state. While in the Shadow Dance state, if you have at least 1 Verdant Dew, Nefer's Charged Attacks will be replaced with the special Charged Attack Phantasm Performance. Nefer will exit the Shadow Dance state when she unleashes Transcription missing Phantasm Performance(s) or the state's duration ends. state, additional Stamina consumption is decreased. Additionally, unleashing the Elemental Skill Senet Strategy: Dance of a Thousand Nights or sprinting while Nefer is in the Slither state will not cause her to exit the state. Plunging Attack Calling upon the might of Dendro, Nefer plunges towards the ground from mid-air, damaging all opponents in her path and dealing AoE Dendro DMG upon impact with the ground.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "38.07"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "37.56"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "25.24 × 2"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "60.99"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "130.88"
+        },
+        {
+          "name": "Charged Attack Charging Stamina Drain",
+          "value": "18.15/s"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "50"
+        },
+        {
+          "name": "Shadow Dance Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "56.83"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "113.63"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "141.93"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Senet Strategy: Dance of a Thousand Nights",
+      "unlock": "Elemental Skill",
+      "description": "A dance that dissolved dynasties, as chilling as a winter's night on the great sea of sand, yet lingering with the tenderness of moonlit gauze. Nefer charges forward, dealing AoE Dendro DMG and entering the Shadow Dance Shadow Dance After using the Elemental Skill Senet Strategy: Dance of a Thousand Nights, Nefer will enter this state. While in the Shadow Dance state, if you have at least 1 Verdant Dew, Nefer's Charged Attacks will be replaced with the special Charged Attack Phantasm Performance. Nefer will exit the Shadow Dance state when she unleashes Transcription missing Phantasm Performance(s) or the state's duration ends. state. While in the Shadow Dance state, if you have at least 1 Verdant Dew Verdant Dew When party members trigger Lunar-Bloom reactions, the party will receive such a resource. Your party will receive 1 Verdant Dew every 2.5s for 2.5s after triggering a Lunar-Bloom reaction. Your party can have up to 3 Verdant Dew. If you trigger another Lunar-Bloom reaction during this time, the duration of this effect will be reset. , Nefer's Charged Attacks will be replaced with the special Charged Attack Phantasm Performance Phantasm Performance When in the Shadow Dance state caused by her Elemental Skill Senet Strategy: Dance of a Thousand Nights, if you have at least 1 Verdant Dew, Nefer's Charged Attacks will be replaced with the special Charged Attack Phantasm Performance, which will not consume Stamina. Nefer summons shades of herself to perform Coordinated Attacks against enemies. Nefer and the shades will deal 2 and 3 stages of AoE Dendro DMG respectively. DMG dealt by the shades is considered Lunar-Bloom DMG. 1 Verdant Dew will be consumed the first time shades are summoned after every Phantasm Performance. , which will not consume Stamina . When in the Shadow Dance state, Nefer's resistance to interruption is increased. Two initial charges.",
+      "upgrades": [
+        {
+          "name": "Skill DMG (% ATK + % EM)",
+          "value": "76.38+152.77"
+        },
+        {
+          "name": "Phantasm Performance 1-Hit DMG (Nefer - % ATK + % EM)",
+          "value": "24.64+49.28"
+        },
+        {
+          "name": "Phantasm Performance 2-Hit DMG (Nefer - % ATK + % EM)",
+          "value": "32.03+64.06"
+        },
+        {
+          "name": "Phantasm Performance 1-Hit DMG (Shades - % EM)",
+          "value": "96"
+        },
+        {
+          "name": "Phantasm Performance 2-Hit DMG (Shades - % EM)",
+          "value": "96"
+        },
+        {
+          "name": "Phantasm Performance 3-Hit DMG (Shades - % EM)",
+          "value": "128"
+        },
+        {
+          "name": "Phantasm Performance Charges",
+          "value": "3"
+        },
+        {
+          "name": "Shadow Dance Duration",
+          "value": "9s"
+        },
+        {
+          "name": "CD",
+          "value": "9s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Sacred Vow: True Eye's Phantasm",
+      "unlock": "Elemental Burst",
+      "description": "Grant \"revelation\" to the mysteries of the false through Thoth 's true sight, dealing AoE Dendro DMG to opponents ahead. When unleashed, Nefer will consume all Veils of Falsehood Veil of Falsehood After absorbing Seeds of Deceit via the Ascension Talent A Wager of Moonlight, Nefer gains this effect, thereby increasing the DMG dealt by her Phantasm Performance. Each stack of Veil of Falsehood increases the DMG dealt by Nefer's Phantasm Performance by 8%. The initial maximum number of stacks is 3, with each stack lasting for 9s (each stack's duration is counted independently). to increase the DMG dealt by the current Elemental Burst.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "224.64% ATK+449.28% Elemental Mastery"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "336.96% ATK+673.92% Elemental Mastery"
+        },
+        {
+          "name": "DMG Bonus",
+          "value": "13% Per Veil of Falsehood Stack"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "A Wager of Moonlight",
+      "unlock": "1st Ascension Passive",
+      "description": "Nefer will be granted the corresponding buff effects based on the party 's Moonsign. Moonsign: Ascendant Gleam : When she unleashes her Elemental Skill Senet Strategy: Dance of a Thousand Nights , any Dendro Cores on the field will be converted to Seeds of Deceit, and any Lunar-Bloom reactions triggered by nearby characters in the following 15s that would create Dendro Cores or Bountiful Cores will instead create Seeds of Deceit. Seeds of Deceit cannot trigger Hyperbloom or Burgeon reactions and will not burst. When Nefer unleashes a Charged Attack or Phantasm Performance Phantasm Performance When in the Shadow Dance state caused by her Elemental Skill Senet Strategy: Dance of a Thousand Nights, if you have at least 1 Verdant Dew, Nefer's Charged Attacks will be replaced with the special Charged Attack Phantasm Performance, which will not consume Stamina. Nefer summons shades of herself to perform Coordinated Attacks against enemies. Nefer and the shades will deal 2 and 3 stages of AoE Dendro DMG respectively. DMG dealt by the shades is considered Lunar-Bloom DMG. 1 Verdant Dew will be consumed the first time shades are summoned after every Phantasm Performance. , she can absorb Seeds of Deceit within a certain range, gaining 1 stack of Veil of Falsehood Veil of Falsehood After absorbing Seeds of Deceit via the Ascension Talent A Wager of Moonlight, Nefer gains this effect, thereby increasing the DMG dealt by her Phantasm Performance. Each stack of Veil of Falsehood increases the DMG dealt by Nefer's Phantasm Performance by 8%. The initial maximum number of stacks is 3, with each stack lasting for 9s (each stack's duration is counted independently). for every seed absorbed. When this effect reaches 3 stacks, or when the third stack's duration is refreshed, Nefer's Elemental Mastery will be increased by 100 for 8s.",
+      "level": 1
+    },
+    {
+      "name": "Daughter of the Dust and Sand",
+      "unlock": "4th Ascension Passive",
+      "description": "When Nefer is in the Shadow Dance Shadow Dance After using the Elemental Skill Senet Strategy: Dance of a Thousand Nights, Nefer will enter this state. While in the Shadow Dance state, if you have at least 1 Verdant Dew, Nefer's Charged Attacks will be replaced with the special Charged Attack Phantasm Performance. Nefer will exit the Shadow Dance state when she unleashes 3 Phantasm Performance(s) or the state's duration ends. state, for 5s after a party member triggers a Lunar-Bloom reaction, Nefer's Slither state will provide additional Verdant Dew Verdant Dew When party members trigger Lunar-Bloom reactions, the party will receive such a resource. Your party will receive 1 Verdant Dew every 2.5s for 2.5s after triggering a Lunar-Bloom reaction. Your party can have up to 3 Verdant Dew. If you trigger another Lunar-Bloom reaction during this time, the duration of this effect will be reset. . Every 100 points of Nefer's Elemental Mastery beyond 500 will strengthen this additional provision effect by 10%. The maximum increase that can be achieved this way is 50%.",
+      "level": 4
+    },
+    {
+      "name": "Dusklit Eaves",
+      "unlock": "Moonsign Benediction Passive",
+      "description": "When a party member triggers a Bloom reaction, it will be converted into the Lunar-Bloom reaction, with every point of Elemental Mastery that Nefer has increasing Lunar-Bloom's Base DMG by 0.0175%, up to a maximum of 14%. Additionally, when Nefer is in the party, the party's Moonsign will increase by 1 level."
+    },
+    {
+      "name": "Conspiracy of the Golden Vault",
+      "unlock": "Utility Passive",
+      "description": "Gains 25% more rewards when dispatched on a Nod-Krai Expedition for 20 hours. Additionally, as the head of the Curatorium of Secrets , Nefer seemingly has the ability to obtain intelligence from a variety of sources — intelligence that certain factions in Nasha Town might find extremely interesting..."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "Planning Breeds Success",
+      "unlock": "Constellation Lv. 1",
+      "description": "The Base DMG for Lunar-Bloom reactions caused by Nefer's Phantasm Performance Phantasm Performance When in the Shadow Dance state caused by her Elemental Skill Senet Strategy: Dance of a Thousand Nights, if you have at least 1 Verdant Dew, Nefer's Charged Attacks will be replaced with the special Charged Attack Phantasm Performance, which will not consume Stamina. Nefer summons shades of herself to perform Coordinated Attacks against enemies. Nefer and the shades will deal 2 and 3 stages of AoE Dendro DMG respectively. DMG dealt by the shades is considered Lunar-Bloom DMG. 1 Verdant Dew will be consumed the first time shades are summoned after every Phantasm Performance. is increased by 60% of her Elemental Mastery . This effect is also boosted by Veil of Falsehood Veil of Falsehood After absorbing Seeds of Deceit via the Ascension Talent A Wager of Moonlight, Nefer gains this effect, thereby increasing the DMG dealt by her Phantasm Performance. Each stack of Veil of Falsehood increases the DMG dealt by Nefer's Phantasm Performance by Transcription missing %. The initial maximum number of stacks is Transcription missing , with each stack lasting for Transcription missing s (each stack's duration is counted independently). .",
+      "level": 1
+    },
+    {
+      "name": "Observation Feeds Strategy",
+      "unlock": "Constellation Lv. 2",
+      "description": "Enhances the effects of the Ascension Talent A Wager of Moonlight: Extends Veil of Falsehood Veil of Falsehood After absorbing Seeds of Deceit via the Ascension Talent A Wager of Moonlight, Nefer gains this effect, thereby increasing the DMG dealt by her Phantasm Performance. Each stack of Veil of Falsehood increases the DMG dealt by Nefer's Phantasm Performance by Transcription missing %. The initial maximum number of stacks is Transcription missing , with each stack lasting for Transcription missing s (each stack's duration is counted independently). 's duration by 5s, and increases its stack limit to 5, as well as causing Phantasm Performance Phantasm Performance When in the Shadow Dance state caused by her Elemental Skill Senet Strategy: Dance of a Thousand Nights, if you have at least 1 Verdant Dew, Nefer's Charged Attacks will be replaced with the special Charged Attack Phantasm Performance, which will not consume Stamina. Nefer summons shades of herself to perform Coordinated Attacks against enemies. Nefer and the shades will deal 2 and 3 stages of AoE Dendro DMG respectively. DMG dealt by the shades is considered Lunar-Bloom DMG. 1 Verdant Dew will be consumed the first time shades are summoned after every Phantasm Performance. to deal up to 140% of its original DMG. When Nefer unleashes her Elemental Skill Senet Strategy: Dance of a Thousand Nights , she will instantly gain 2 stacks of Veil of Falsehood. Additionally, when Veil of Falsehood reaches 5 stacks, or when the fifth stack's duration is refreshed, Nefer's Elemental Mastery will be increased by 200 for 8s instead. You must first unlock the Ascension Talent \"A Wager of Moonlight.\"",
+      "level": 2
+    },
+    {
+      "name": "Deceit Cloaks the Truth",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Senet Strategy: Dance of a Thousand Nights by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Delusion Ensnares Reason",
+      "unlock": "Constellation Lv. 4",
+      "description": "When Nefer is on the field and in the Shadow Dance Shadow Dance After using the Elemental Skill Senet Strategy: Dance of a Thousand Nights, Nefer will enter this state. While in the Shadow Dance state, if you have at least 1 Verdant Dew, Nefer's Charged Attacks will be replaced with the special Charged Attack Phantasm Performance. Nefer will exit the Shadow Dance state when she unleashes Transcription missing Phantasm Performance(s) or the state's duration ends. state, you will gain Verdant Dew 25% faster. Additionally, while Nefer is in the Shadow Dance state, nearby opponents will have their Dendro RES decreased by 20%. When Nefer exits the Shadow Dance state or after she strays a certain distance away from the opponents, this effect will be removed after 4.5s.",
+      "level": 4
+    },
+    {
+      "name": "Opportunity Hides in the Margins",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Sacred Vow: True Eye's Phantasm by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "Victory Flows from the Turning of Tides",
+      "unlock": "Constellation Lv. 6",
+      "description": "Description Advanced Properties When Nefer unleashes Phantasm Performance Phantasm Performance When in the Shadow Dance state caused by her Elemental Skill Senet Strategy: Dance of a Thousand Nights, if you have at least 1 Verdant Dew, Nefer's Charged Attacks will be replaced with the special Charged Attack Phantasm Performance, which will not consume Stamina. Nefer summons shades of herself to perform Coordinated Attacks against enemies. Nefer and the shades will deal 2 and 3 stages of AoE Dendro DMG respectively. DMG dealt by the shades is considered Lunar-Bloom DMG. 1 Verdant Dew will be consumed the first time shades are summoned after every Phantasm Performance. , the second stage of DMG dealt by herself will be converted to deal AoE Dendro DMG equal to 85% of her Elemental Mastery . Additionally, when the attacks from Phantasm Performance end, an extra instance of AoE Dendro DMG equal to 120% of Nefer's Elemental Mastery will be dealt. All of the aforementioned DMG is considered Lunar-Bloom DMG dealt by Phantasm Performance. Moonsign: Ascendant Gleam Nefer's Lunar-Bloom DMG is elevated Elevation Special DMG Boost effect. It is calculated independently of other DMG Boost effects. by 15%. Gauge Units Internal Cooldown Poise Damage Stagger Effect Blunt ‍ Tag Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ Type Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ S. L. Stagger Level ‍ ‍ H. F. Horizontal Force ‍ ‍ V. F. Vertical Force ‍ Converted Phantasm Performance 2-Hit DMG (Nefer) 0U No ICD 30 Heavy 240 0 ✘ Extra Lunar-Bloom DMG 0U No ICD 30 Heavy 140 0 ✘",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Nagadus Emerald Sliver",
+        "value": 1
+      },
+      {
+        "name": "Moonfall Silver",
+        "value": 3
+      },
+      {
+        "name": "Tattered Warrant",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Radiant Antler",
+        "value": 2
+      },
+      {
+        "name": "Nagadus Emerald Fragment",
+        "value": 3
+      },
+      {
+        "name": "Moonfall Silver",
+        "value": 10
+      },
+      {
+        "name": "Tattered Warrant",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Radiant Antler",
+        "value": 4
+      },
+      {
+        "name": "Nagadus Emerald Fragment",
+        "value": 6
+      },
+      {
+        "name": "Moonfall Silver",
+        "value": 20
+      },
+      {
+        "name": "Immaculate Warrant",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Radiant Antler",
+        "value": 8
+      },
+      {
+        "name": "Nagadus Emerald Chunk",
+        "value": 3
+      },
+      {
+        "name": "Moonfall Silver",
+        "value": 30
+      },
+      {
+        "name": "Immaculate Warrant",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Radiant Antler",
+        "value": 12
+      },
+      {
+        "name": "Nagadus Emerald Chunk",
+        "value": 6
+      },
+      {
+        "name": "Moonfall Silver",
+        "value": 45
+      },
+      {
+        "name": "Frost-Etched Warrant",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Radiant Antler",
+        "value": 20
+      },
+      {
+        "name": "Nagadus Emerald Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Moonfall Silver",
+        "value": 60
+      },
+      {
+        "name": "Frost-Etched Warrant",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Night­weav­er's Look­ing Glass",
+  "type": "Catalyst",
+  "rarity": 5,
+  "baseAttack": 44,
+  "subStat": "Elemental Mastery",
+  "passiveName": "Millennial Hymn",
+  "passiveDesc": "When the equipping character's Elemental Skill deals Hydro or Dendro DMG, they will gain Prayer of the Far North: Elemental Mastery is increased by 120 for 4.5s. When nearby party members trigger Lunar-Bloom reactions, the equipping character gains New Moon Verse: Elemental Mastery is increased by 120 for 10s. When both Prayer of the Far North and New Moon Verse are in effect, all nearby party members' Bloom DMG is increased by 240%, their Hyperbloom and Burgeon DMG is increased by 160%, and their Lunar-Bloom DMG is increased by 80%. This effect cannot stack. The aforementioned effects can be triggered even if the equipping character is off-field.",
+  "location": "Gacha",
+  "ascensionMaterial": "artful-device"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Peak Pa­trol Song",
+  "type": "Sword",
+  "rarity": 5,
+  "baseAttack": 44,
+  "subStat": "DEF",
+  "passiveName": "Halcyon Years Unending",
+  "passiveDesc": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 16% and gain a 20% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by 16% for every 1,000 DEF the equipping character has, up to a maximum of 51.2%, for 15s.",
+  "location": "Gacha",
+  "ascensionMaterial": "night-wind-mystic"
+}
