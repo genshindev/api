@@ -1,0 +1,344 @@
+{
+  "name": "Lohen",
+  "title": "Sharpened Arrowhead",
+  "vision": "Cryo",
+  "weapon": "Polearm",
+  "gender": "Male",
+  "nation": "Mondstadt",
+  "affiliation": "Knights of Favonius",
+  "rarity": 5,
+  "release_date": "2026-06-09",
+  "birthday": "0000-04-03",
+  "constellation": "Lepus Miles",
+  "description": "Vice Captain of the Knights of Favonius Ranged Company, a knight known for his unorthodox approach and fondness for unconventional tactics.",
+  "skillTalents": [
+    {
+      "name": "Spear of Favonius — Broken Oath",
+      "unlock": "Normal Attack",
+      "description": "Normal Attack Performs up to 5 consecutive strikes. Charged Attack Consumes a certain amount of Stamina to perform a forward thrust. Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "53.99"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "56.44"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "25.42 × 3"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "75.23"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "36.86+55.29"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "65.88 × 2"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "127.84"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "159.68"
+        }
+      ],
+      "type": "NORMAL_ATTACK"
+    },
+    {
+      "name": "Unforeseen Strike",
+      "unlock": "Elemental Skill",
+      "description": "As he searches for weaknesses, Lohen switches to Masterstroke Masterstroke Lohen switches to this mode after he unleashes the Elemental Skill Unforeseen Strike. Masterstroke mode has the following characteristics: DMG dealt by Lohen's Normal Attacks, Charged Attacks, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other infusions. When Lohen hits an opponent with a Normal Attack or Charged Attack, he accumulates Joy that can be used to unleash the special Elemental Skill Etched Into Bone and Soul. Lohen can unleash Etched Into Bone and Soul up to 3 times while in Masterstroke mode, after which, he will no longer be able to accumulate Joy. When nearby party members deal DMG, they also accumulate Will to Win for Lohen that can be used to increase the DMG dealt by Etched Into Bone and Soul. Masterstroke mode ends when Lohen leaves the field. When Masterstroke mode ends, Joy and Will to Win will be reset to zero. mode. While in this state: Lohen can actively accumulate Joy Joy When Lohen hits opponents with a Normal Attack or Charged Attack while in Masterstroke mode, he will accumulate 17 Joy. Up to 100 Joy may be accumulated at any one time. Joy can be accumulated once every 0.1s. Once Joy reaches its max limit, Lohen's Elemental Skill Unforeseen Strike will be replaced with the special Elemental Skill Etched Into Bone and Soul. , using it to unleash the special Elemental Skill Etched Into Bone and Soul Etched Into Bone and Soul A special Elemental Skill that Lohen can use after his Joy reaches the max limit. After hitting an opponent, consumes all Joy and Will to Win to deal Cryo DMG . This DMG increases based on the amount of Will to Win consumed. . Nearby party members can accumulate Will to Win Will to Win A special resource accumulated when other nearby party members deal DMG while Lohen is in Masterstroke mode. Up to 100 Will to Win may be accumulated at any one time. While Masterstroke mode is active, when other nearby party members deal DMG, if that DMG is not less than 1000% of Lohen's Base ATK, he accumulates 20 Will to Win. Otherwise, he accumulates 1 Will to Win. Each character can accumulate Will to Win for Lohen once every 0.1s. for Lohen, increasing the DMG dealt by Etched Into Bone and Soul. Lohen can unleash Etched Into Bone and Soul up to 3 times while in Masterstroke mode, after which, he will no longer be able to accumulate Joy.",
+      "upgrades": [
+        {
+          "name": "1-Hit DMG",
+          "value": "80.99"
+        },
+        {
+          "name": "2-Hit DMG",
+          "value": "84.66"
+        },
+        {
+          "name": "3-Hit DMG",
+          "value": "38.13 × 3"
+        },
+        {
+          "name": "4-Hit DMG",
+          "value": "112.84"
+        },
+        {
+          "name": "5-Hit DMG",
+          "value": "55.29+82.93"
+        },
+        {
+          "name": "Charged Attack DMG",
+          "value": "98.81 × 2"
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "10"
+        },
+        {
+          "name": "Plunge DMG",
+          "value": "63.93"
+        },
+        {
+          "name": "Low Plunge DMG",
+          "value": "127.84"
+        },
+        {
+          "name": "High Plunge DMG",
+          "value": "159.68"
+        },
+        {
+          "name": "Masterstroke",
+          "value": "13s"
+        },
+        {
+          "name": "Etched Into Bone and Soul DMG",
+          "value": "60 × 4"
+        },
+        {
+          "name": "DMG Increase From Will to Win",
+          "value": "0.4/Point"
+        },
+        {
+          "name": "CD",
+          "value": "18s"
+        }
+      ],
+      "type": "ELEMENTAL_SKILL"
+    },
+    {
+      "name": "Manifest Judgment",
+      "unlock": "Elemental Burst",
+      "description": "Performs a swift series of forward strikes, consuming all Will to Win Will to Win A special resource accumulated when other nearby party members deal DMG while Lohen is in Masterstroke mode. Up to 100 Will to Win may be accumulated at any one time. While Masterstroke mode is active, when other nearby party members deal DMG, if that DMG is not less than 1000% of Lohen's Base ATK, he accumulates 1 Will to Win. Otherwise, he accumulates 1 Will to Win. Each character can accumulate Will to Win for Lohen once every 0.1s. and dealing Cryo DMG . This DMG will be increased based on the amount of Will to Win consumed. If Lohen is in Masterstroke Masterstroke Lohen switches to this mode after he unleashes the Elemental Skill Unforeseen Strike. Masterstroke mode has the following characteristics: DMG dealt by Lohen's Normal Attacks, Charged Attacks, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other infusions. When Lohen hits an opponent with a Normal Attack or Charged Attack, he accumulates Joy that can be used to unleash the special Elemental Skill Etched Into Bone and Soul. Lohen can unleash Etched Into Bone and Soul up to 3 times while in Masterstroke mode, after which, he will no longer be able to accumulate Joy. When nearby party members deal DMG, they also accumulate Will to Win for Lohen that can be used to increase the DMG dealt by Etched Into Bone and Soul. Masterstroke mode ends when Lohen leaves the field. When Masterstroke mode ends, Joy and Will to Win will be reset to zero. mode when this is performed, the duration of Masterstroke will be extended by 1.65s.",
+      "upgrades": [
+        {
+          "name": "Skill DMG",
+          "value": "118.8 × 6"
+        },
+        {
+          "name": "DMG Increase From Will to Win",
+          "value": "0.4/Point"
+        },
+        {
+          "name": "CD",
+          "value": "15s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "ELEMENTAL_BURST"
+    }
+  ],
+  "passiveTalents": [
+    {
+      "name": "Moratorium on Questioning",
+      "unlock": "1st Ascension Passive",
+      "description": "When nearby party members accumulate Will to Win Will to Win A special resource accumulated when other nearby party members deal DMG while Lohen is in Masterstroke mode. Up to 100 Will to Win may be accumulated at any one time. While Masterstroke mode is active, when other nearby party members deal DMG, if that DMG is not less than 1000% of Lohen's Base ATK, he accumulates 1 Will to Win. Otherwise, he accumulates 1 Will to Win. Each character can accumulate Will to Win for Lohen once every 0.1s. for Lohen by dealing DMG while he is in Masterstroke Masterstroke Lohen switches to this mode after he unleashes the Elemental Skill Unforeseen Strike. Masterstroke mode has the following characteristics: DMG dealt by Lohen's Normal Attacks, Charged Attacks, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other infusions. When Lohen hits an opponent with a Normal Attack or Charged Attack, he accumulates Joy that can be used to unleash the special Elemental Skill Etched Into Bone and Soul. Lohen can unleash Etched Into Bone and Soul up to 3 times while in Masterstroke mode, after which, he will no longer be able to accumulate Joy. When nearby party members deal DMG, they also accumulate Will to Win for Lohen that can be used to increase the DMG dealt by Etched Into Bone and Soul. Masterstroke mode ends when Lohen leaves the field. When Masterstroke mode ends, Joy and Will to Win will be reset to zero. mode, if that DMG is not less than 3,000% of Lohen's Base ATK , it will accumulate an extra 60 Will to Win.",
+      "level": 1
+    },
+    {
+      "name": "Flippant Masterpiece",
+      "unlock": "4th Ascension Passive",
+      "description": "While in Masterstroke Masterstroke Lohen switches to this mode after he unleashes the Elemental Skill Unforeseen Strike. Masterstroke mode has the following characteristics: DMG dealt by Lohen's Normal Attacks, Charged Attacks, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other infusions. When Lohen hits an opponent with a Normal Attack or Charged Attack, he accumulates Joy that can be used to unleash the special Elemental Skill Etched Into Bone and Soul. Lohen can unleash Etched Into Bone and Soul up to 3 times while in Masterstroke mode, after which, he will no longer be able to accumulate Joy. When nearby party members deal DMG, they also accumulate Will to Win for Lohen that can be used to increase the DMG dealt by Etched Into Bone and Soul. Masterstroke mode ends when Lohen leaves the field. When Masterstroke mode ends, Joy and Will to Win will be reset to zero. mode, for 8s after another nearby party member triggers a Cryo Reaction , that character's ATK is increased by 15%, while Lohen's ATK is increased by 15%.",
+      "level": 4
+    },
+    {
+      "name": "Unhealing Thorn",
+      "unlock": "Witch's Eve Rite Passive",
+      "description": "After completing Witch's Homework: Of Various Foes , Lohen becomes a Hexerei character. When the party includes at least 2 Hexerei characters, you gain the Hexerei: Secret Rite effect, which enhances Hexerei characters. Hexerei: Secret Rite When the special Elemental Skill Etched Into Bone and Soul Etched Into Bone and Soul A special Elemental Skill that Lohen can use after his Joy reaches the max limit. After hitting an opponent, consumes all Joy and Will to Win to deal Cryo DMG . This DMG increases based on the amount of Will to Win consumed. hits an opponent or the Elemental Burst Manifest Judgment is unleashed, if Lohen's Will to Win Will to Win A special resource accumulated when other nearby party members deal DMG while Lohen is in Masterstroke mode. Up to 100 Will to Win may be accumulated at any one time. While Masterstroke mode is active, when other nearby party members deal DMG, if that DMG is not less than 1000% of Lohen's Base ATK, he accumulates 1 Will to Win. Otherwise, he accumulates 1 Will to Win. Each character can accumulate Will to Win for Lohen once every 0.1s. is at 50% or more of its max limit, his Normal Attack and Charged Attack DMG will be increased by 40% for 6s."
+    },
+    {
+      "name": "When the Mood Strikes",
+      "unlock": "Utility Passive",
+      "description": "Lohen gains \"High Spirits\" for 9s after he unleashes the Elemental Skill Unforeseen Strike : Increases the Skill Level of Unforeseen Strike by 1. When unleashing an Elemental Skill, if the Level of any other party member's Normal Attack, Elemental Skill, or Elemental Burst is not lower than Lohen's Elemental Skill Level, the duration of this instance of High Spirits will be increased by an additional 6s. High Spirits can be gained once every 18s."
+    }
+  ],
+  "constellations": [
+    {
+      "name": "O Breezes, That So Oft Bear Sorrowful Lament",
+      "unlock": "Constellation Lv. 1",
+      "description": "Lohen's maximum Will to Win Will to Win A special resource accumulated when other nearby party members deal DMG while Lohen is in Masterstroke mode. Up to 100 Will to Win may be accumulated at any one time. While Masterstroke mode is active, when other nearby party members deal DMG, if that DMG is not less than 1000% of Lohen's Base ATK, he accumulates 20 Will to Win. Otherwise, he accumulates 1 Will to Win. Each character can accumulate Will to Win for Lohen once every 0.1s. limit is increased to 300% of its original value. Additionally, when other nearby party members deal DMG while Lohen is in Unforeseen Strike Masterstroke Lohen switches to this mode after he unleashes the Elemental Skill Unforeseen Strike. Masterstroke mode has the following characteristics: · DMG dealt by Lohen's Normal Attacks, Charged Attacks, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other infusions. · When Lohen hits an opponent with a Normal Attack or Charged Attack, he accumulates Joy that can be used to unleash the special Elemental Skill Etched Into Bone and Soul. Lohen can unleash Etched Into Bone and Soul up to 3 times while in Unforeseen Strike mode, after which, he will no longer be able to accumulate Joy. · When nearby party members deal DMG, they also accumulate Will to Win for Lohen that can be used to increase the DMG dealt by Etched Into Bone and Soul. · Masterstroke mode ends when Lohen leaves the field. When Masterstroke mode ends, Joy and Will to Win will be reset to zero. mode, they accumulate 500% as much Will to Win for him as they originally would have.",
+      "level": 1
+    },
+    {
+      "name": "In Flight, I Strike Whatever Flies",
+      "unlock": "Constellation Lv. 2",
+      "description": "Description Advanced Properties When in Masterstroke Masterstroke Lohen switches to this mode after he unleashes the Elemental Skill Unforeseen Strike. Masterstroke mode has the following characteristics: DMG dealt by Lohen's Normal Attacks, Charged Attacks, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other infusions. When Lohen hits an opponent with a Normal Attack or Charged Attack, he accumulates Joy that can be used to unleash the special Elemental Skill Etched Into Bone and Soul. Lohen can unleash Etched Into Bone and Soul up to 3 times while in Masterstroke mode, after which, he will no longer be able to accumulate Joy. When nearby party members deal DMG, they also accumulate Will to Win for Lohen that can be used to increase the DMG dealt by Etched Into Bone and Soul. Masterstroke mode ends when Lohen leaves the field. When Masterstroke mode ends, Joy and Will to Win will be reset to zero. mode, after the special Elemental Skill Etched Into Bone and Soul Etched Into Bone and Soul A special Elemental Skill that Lohen can use after his Joy reaches the max limit. After hitting an opponent, consumes all Joy and Will to Win to deal Cryo DMG . This DMG increases based on the amount of Will to Win consumed. hits an opponent or the Elemental Burst Manifest Judgment is unleashed, Lohen gains \"Evilsbane Blade\" for 4s: The next time Lohen hits an opponent with a Normal or Charged Attack while in Masterstroke mode, he will follow up with an additional strike that deals AoE Cryo DMG equal to 500% of his ATK , and increase the Elemental Mastery of other nearby party members by 200 for 8s. Evilsbane Blade can be triggered once every 4s. Gauge Units Internal Cooldown Poise Damage Stagger Effect Blunt ‍ Tag Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ Type Attacks with the same ICD Tag and the same ICD Type will share ICD. ‍ ‍ S. L. Stagger Level ‍ ‍ H. F. Horizontal Force ‍ ‍ V. F. Vertical Force ‍ Additional Strike 1U No ICD 30 Heavy 200 0 ✘",
+      "level": 2
+    },
+    {
+      "name": "Only the Spear That Wounds Can Heal",
+      "unlock": "Constellation Lv. 3",
+      "description": "Increases the Level of Unforeseen Strike by 3. Maximum upgrade level is 15.",
+      "level": 3
+    },
+    {
+      "name": "Radiant Love, Laughing Death",
+      "unlock": "Constellation Lv. 4",
+      "description": "When Lohen unleashes the Elemental Burst Manifest Judgment while in Masterstroke Masterstroke Lohen switches to this mode after he unleashes the Elemental Skill Unforeseen Strike. Masterstroke mode has the following characteristics: DMG dealt by Lohen's Normal Attacks, Charged Attacks, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other infusions. When Lohen hits an opponent with a Normal Attack or Charged Attack, he accumulates Joy that can be used to unleash the special Elemental Skill Etched Into Bone and Soul. Lohen can unleash Etched Into Bone and Soul up to 3 times while in Masterstroke mode, after which, he will no longer be able to accumulate Joy. When nearby party members deal DMG, they also accumulate Will to Win for Lohen that can be used to increase the DMG dealt by Etched Into Bone and Soul. Masterstroke mode ends when Lohen leaves the field. When Masterstroke mode ends, Joy and Will to Win will be reset to zero. mode, his Will to Win Will to Win A special resource accumulated when other nearby party members deal DMG while Lohen is in Masterstroke mode. Up to 100 Will to Win may be accumulated at any one time. While Masterstroke mode is active, when other nearby party members deal DMG, if that DMG is not less than 1000% of Lohen's Base ATK, he accumulates 1 Will to Win. Otherwise, he accumulates 1 Will to Win. Each character can accumulate Will to Win for Lohen once every 0.1s. will be maxed out, causing this instance of his Elemental Burst to gain the maximum possible DMG increase. Additionally, when Lohen switches to Masterstroke mode, the following will occur depending on how much Elemental Energy he has: When Elemental Energy is not full: Lohen recovers 15 Elemental Energy. When Elemental Energy is full: If, during the next 15s, Lohen unleashes the Elemental Burst Manifest Judgment, he will recover 15 Elemental Energy.",
+      "level": 4
+    },
+    {
+      "name": "Never Ask, Nor Trouble You to Know",
+      "unlock": "Constellation Lv. 5",
+      "description": "Increases the Level of Manifest Judgment by 3. Maximum upgrade level is 15.",
+      "level": 5
+    },
+    {
+      "name": "To Drown, to Sink, Unconscious — Supreme Joy",
+      "unlock": "Constellation Lv. 6",
+      "description": "Using the special Elemental Skill Etched Into Bone and Soul Etched Into Bone and Soul A special Elemental Skill that Lohen can use after his Joy reaches the max limit. After hitting an opponent, consumes all Joy and Will to Win to deal Cryo DMG . This DMG increases based on the amount of Will to Win consumed. and hitting an opponent with it or, while Masterstroke Masterstroke Lohen switches to this mode after he unleashes the Elemental Skill Unforeseen Strike. Masterstroke mode has the following characteristics: DMG dealt by Lohen's Normal Attacks, Charged Attacks, and Plunging Attacks are converted to Cryo DMG that cannot be overridden by other infusions. When Lohen hits an opponent with a Normal Attack or Charged Attack, he accumulates Joy that can be used to unleash the special Elemental Skill Etched Into Bone and Soul. Lohen can unleash Etched Into Bone and Soul up to 3 times while in Masterstroke mode, after which, he will no longer be able to accumulate Joy. When nearby party members deal DMG, they also accumulate Will to Win for Lohen that can be used to increase the DMG dealt by Etched Into Bone and Soul. Masterstroke mode ends when Lohen leaves the field. When Masterstroke mode ends, Joy and Will to Win will be reset to zero. mode is active, unleashing the Elemental Burst Manifest Judgment , will not consume any Will to Win Will to Win A special resource accumulated when other nearby party members deal DMG while Lohen is in Masterstroke mode. Up to 100 Will to Win may be accumulated at any one time. While Masterstroke mode is active, when other nearby party members deal DMG, if that DMG is not less than 1000% of Lohen's Base ATK, he accumulates 1 Will to Win. Otherwise, he accumulates 1 Will to Win. Each character can accumulate Will to Win for Lohen once every 0.1s. . Instead, Lohen's Joy Joy When Lohen hits opponents with a Normal Attack or Charged Attack while in Masterstroke mode, he will accumulate 17 Joy. Up to 100 Joy may be accumulated at any one time. Joy can be accumulated once every 0.1s. Once Joy reaches its max limit, Lohen's Elemental Skill Unforeseen Strike will be replaced with the special Elemental Skill Etched Into Bone and Soul. will be maxed out, and if he hits an opponent the next time he uses the special Elemental Skill Etched Into Bone and Soul, the duration of this instance of Masterstroke will be extended by 1.25s. This effect can be triggered once every 7s. Additionally, the CRIT DMG of all the DMG described above is increased by 175%, and the number of times Lohen can unleash Etched Into Bone and Soul during this instance of Masterstroke is increased by 2.",
+      "level": 6
+    }
+  ],
+  "ascension_materials": {
+    "level_20": [
+      {
+        "name": "Shivada Jade Sliver",
+        "value": 1
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 3
+      },
+      {
+        "name": "Firm Arrowhead",
+        "value": 3
+      },
+      {
+        "name": "Mora",
+        "value": 20000
+      }
+    ],
+    "level_40": [
+      {
+        "name": "Prismatic Severed Tail",
+        "value": 2
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 3
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 10
+      },
+      {
+        "name": "Firm Arrowhead",
+        "value": 15
+      },
+      {
+        "name": "Mora",
+        "value": 40000
+      }
+    ],
+    "level_50": [
+      {
+        "name": "Prismatic Severed Tail",
+        "value": 4
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "value": 6
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 20
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 60000
+      }
+    ],
+    "level_60": [
+      {
+        "name": "Prismatic Severed Tail",
+        "value": 8
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 3
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 30
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "value": 18
+      },
+      {
+        "name": "Mora",
+        "value": 80000
+      }
+    ],
+    "level_70": [
+      {
+        "name": "Prismatic Severed Tail",
+        "value": 12
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "value": 6
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 45
+      },
+      {
+        "name": "Weathered Arrowhead",
+        "value": 12
+      },
+      {
+        "name": "Mora",
+        "value": 100000
+      }
+    ],
+    "level_80": [
+      {
+        "name": "Prismatic Severed Tail",
+        "value": 20
+      },
+      {
+        "name": "Shivada Jade Gemstone",
+        "value": 6
+      },
+      {
+        "name": "Etherwing Moth",
+        "value": 60
+      },
+      {
+        "name": "Weathered Arrowhead",
+        "value": 24
+      },
+      {
+        "name": "Mora",
+        "value": 120000
+      }
+    ]
+  }
+}
